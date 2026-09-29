@@ -1,0 +1,109 @@
+{
+  "id": "3V7rvtSrt6gfngLeTGwr69",
+  "message_id": "f565b7b5-ad23-4864-8844-16ae2cdee760",
+  "answer": "根据搜索结果，硅基流动SiliconFlow在2026年是一个以高性价比著称的大模型API云服务平台，特别适合编程相关用途。平台提供超过200种模型，包括多种主流开源模型，并通过统一的API接口供开发者调用。关于每月费用和编程计划，搜索结果提供了以下关键信息：\n\n1. 硅基流动被多个来源评为2026年最便宜的LLM API提供商之一，其核心优势在于行业领先的性能价格比。平台提供按量付费的Serverless模式，也提供预留GPU和弹性GPU等选项，以满足不同成本控制需求。对于编程用途，平台支持多种前沿编码模型，如GLM-5.1、MiniMax-M2.5和Kimi-K2.5等，这些模型在编码任务中表现强劲，且价格具有竞争力。\n\n\n\n2. 在免费使用方面，硅基流动提供免费档，根据2026年8月的信息，免费档有16个模型可用，包括Qwen3-8B、DeepSeek-R1-Distill-Qwen-7B和DeepSeek-OCR等，这些模型完全免费，无需积分或信用卡即可使用，适合预算有限的开发者入门或测试编程工作流。此外，平台还提供新用户注册后的免费额度，但具体数额未在搜索结果中明确说明，建议直接访问官网查看最新活动。\n\n\n\n3. 关于具体价格，搜索结果中提到了部分模型的定价示例，例如腾讯混元Hy4-preview模型的输入价格为每百万tokens 6元人民币，输出价格为每百万tokens 18元人民币，上下文长度达1024K，尺寸为770B参数，但这是该特定模型的价格，并非所有模型的统一价格，不同模型价格差异较大，从极低到中等不等，具体需根据所选模型和用量计算，平台提供透明的按量计费方式，无隐藏费用，用户可以在模型中心页面查看每个模型的详细定价信息，包括输入输出价格、上下文窗口等参数，以便精确估算每月成本，对于编程场景，通常需要大量输入tokens（如代码上下文）和中等输出tokens（如生成代码片段），因此选择价格较低的模型可以显著降低每月费用，例如免费模型或低价模型如DeepSeek系列，可以满足日常编程辅助需求，而更强大的模型如GLM-5.1或Kimi-K2.5则适合复杂任务，但成本相应更高，用户可以根据项目需求灵活切换模型，在Plan模式使用便宜模型规划，在Act模式使用更强模型执行，以优化成本，这是硅基流动与Cline等编程工具集成时推荐的做法，具体来说，在Cline中配置硅基流动API时，可以设置不同的模型用于不同模式，例如使用更便宜的规划模型和更强的执行模型，从而在保证效果的同时控制每月开销，此外，硅基流动还支持上下文缓存功能，对于重复性高的编程任务，可以进一步降低费用，因为缓存部分不再重复计费，但具体缓存计费规则需参考官方文档，总体而言，硅基流动的每月费用完全取决于用户的实际用量和所选模型，对于轻度编程使用，免费模型或低价模型可能完全覆盖需求，每月成本接近零，对于中度使用，选择中等价位模型如DeepSeek V3.2，每月费用可能在几美元到几十美元之间，具体取决于tokens消耗量，对于重度使用或企业级应用，使用预留GPU实例可以锁定更低单价，但需要前期承诺，适合用量稳定且较大的场景，以最大化节省成本，建议用户先利用免费模型和免费额度进行测试，评估实际tokens消耗，再根据需求选择合适的付费模型和计费方式，同时关注平台不定期推出的优惠活动，如两周年回馈活动等，可能提供额外折扣或赠金，进一步降低每月成本，最后，硅基流动的API兼容OpenAI格式，只需修改base_url即可从现有OpenAI代码无缝切换，无需重写代码，这大大降低了迁移成本，也方便在多个模型间切换，以找到性价比最高的编程方案，综上所述，硅基流动在2026年提供了从完全免费到高性价比付费的多种选择，非常适合编程用途，每月费用灵活可控，关键在于根据自身使用模式选择合适的模型和计费策略，建议直接访问硅基流动官网的模型中心和价格页面，获取最新最准确的模型列表和定价信息，以便做出最优决策。",
+  "query_analysis": {
+    "queries": [
+      "SiliconFlow 每月模型 API 便宜 编程计划",
+      "SiliconFlow monthly model API cheap programming plan",
+      "2026 硅基流动 SiliconFlow 每月 模型 API 便宜 编程 plan"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://www.siliconflow.cn/models",
+      "title": "模型中心｜硅基流动SiliconFlow 大模型云服务",
+      "snippet": "硅基流动SiliconFlow 模型中心,提供一百余种开源大模型API,支持按量付费、开箱即用,助力企业与开发者高效接入AI 能力。 模型价格文档生态合作关于你要的AI 模型,这里都有1 ..."
+    },
+    {
+      "link": "https://www.siliconflow.com/articles/the-cheapest-llm-api-provider",
+      "title": "The Best Cheapest LLM API Providers of 2026",
+      "snippet": "Flow SiliconFlow is one of the cheapest LLM API providers and an all-in-one AI cloud platform, providing fast, scalable, and exceptionally cost-efficient AI ..."
+    },
+    {
+      "link": "https://siliconflow.cn/models?type=text",
+      "title": "硅基流动SiliconFlow 大模型云服务",
+      "snippet": "硅基流动SiliconFlow 模型中心,提供一百余种开源大模型API,支持按量付费、开箱即用,助力企业与开发者高效接入AI 能力。 产品模型价格文档生态合作关于你要的AI 模型,这里 ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2070201402815778875",
+      "title": "硅基流动：一个API Key 薅一群免费模型的羊毛",
+      "snippet": "Aug 10, 2026 - 注册@硅基流动，申请一个API Key，填写一个URL，就可以使用十多个免费的模型。 昨天（2026年8月9日）看到的结果：L0 免费档，有16 个模型可用，包括 ..."
+    },
+    {
+      "link": "https://checkthat.ai/brands/siliconflow",
+      "title": "SiliconFlow: Details, Reviews, Pricing, & Features",
+      "snippet": "SiliconFlow is a Model-as-a-Service platform providing unified API access to 200+ AI models across language, image, video, and audio."
+    },
+    {
+      "link": "https://www.siliconflow.com/blog/how-to-use-cline-with-siliconflow-apis-to-build-your-rojects",
+      "title": "How to use Cline with SiliconFlow APIs to Build Your rojects",
+      "snippet": "This allows you to use a cheaper planning model and a stronger coding model for execution. only \"talks using at cost-effective pricing."
+    },
+    {
+      "link": "https://www.siliconflow.cn/",
+      "title": "硅基流动SiliconFlow - 大模型API 与AI 云服务平台",
+      "snippet": "硅基流动SiliconFlow 提供多品类AI 模型API、预留实例、企业级MaaS 平台、大模型服务网关与AI 算力运营服务，助力开发者和企业高效构建AI 应用。"
+    },
+    {
+      "link": "https://therouter.ai/providers/siliconflow/",
+      "title": "SiliconFlow's catalog of 200+ models - TheRouter.ai",
+      "snippet": "SiliconFlow's OpenAI-compatible API offers 200+ optimized models — DeepSeek R1, DeepSeek V3, Qwen3, and more. SiliconFlow integration is rolling out on ..."
+    },
+    {
+      "link": "https://www.siliconflow.com/",
+      "title": "SiliconFlow – AI Infrastructure for LLMs & Multimodal Models",
+      "snippet": "Lightning-fast AI platform for developers. Deploy, fine-tune, and run 200+ optimized LLMs and multimodal models with simple APIs - SiliconFlow."
+    },
+    {
+      "link": "https://www.siliconflow.com/zh/articles/the-cheapest-llm-api-provider",
+      "title": "终极指南– 2026年最便宜的优秀LLM API 提供商",
+      "snippet": "优势 · 训练成本比同类模型低94%，支持极具竞争力的API 定价 · 在编码和推理任务中表现出强劲的性能，媲美高端替代方案 · 提供开源权重模型，可用于自行托管并进一步降低成本 ..."
+    },
+    {
+      "link": "https://www.siliconflow.com/zh-tw/",
+      "title": "SiliconFlow – AI 基礎設施，用於LLM 和多模態模型",
+      "snippet": "閃電般快速的人工智能平台，專為開發者設計。使用簡單的API部署、微調和運行200 多個優化的LLMs 和多模態模型- SiliconFlow。"
+    },
+    {
+      "link": "https://www.siliconflow.cn/news/rtlosvhg5hy6p112rlrigoo7",
+      "title": "硅基流动MaaS 平台上线两周年回馈",
+      "snippet": "May 29, 2026 - 适用产品范围：仅限硅基流动大模型云服务（Serverless API）产生的消费。 注：专属/预留实例、批量推理、弹性GPU 服务产生的消费不计入本次活动核算基数。"
+    },
+    {
+      "link": "https://www.siliconflow.com/zh-tw/articles/the-cheapest-llm-api-provider",
+      "title": "終極指南– 2026 年最便宜的首選LLM API 提供商",
+      "snippet": "我們針對2026 年最佳且最具成本效益的LLM API 提供商的終極指南。 收取每百萬tokens $0.20 到$2.90 不等的費用。 全球領先的訪問和部署開源AI 模型的平台,提供超過500,000 ..."
+    },
+    {
+      "link": "https://github.com/mnfst/awesome-free-llm-apis",
+      "title": "mnfst/awesome-free-llm-apis",
+      "snippet": "Free mode, enabled by default, no credit card required. $10/month in API credits, and free-mode prompts may be used to train Mistral models unless you opt out."
+    },
+    {
+      "link": "https://developer.cloud.tencent.com/article/2626756",
+      "title": "2026 大模型API 免费额度汇总 - 腾讯云开发者社区",
+      "snippet": "2026年主流AI平台免费API额度汇总：腾讯云混元模型100万Tokens/年，百度千帆每模型100万Tokens/3个月，阿里云百炼100万Tokens永久有效，火山引擎每日200万Tokens。"
+    },
+    {
+      "link": "https://www.siliconflow.cn/pricing",
+      "title": "大模型API 价格方案",
+      "snippet": "灵活透明的大模型API 定价方案,支持按量计费与企业定制,满足各类AI 开发与部署需求。 PRICING ・ ¥ 6.00 ¥ 18.00 ¥ 0.30 ・ 6.50 ¥ 27.00 ¥ 1.30 Kimi-K2.6 (Pro)"
+    },
+    {
+      "link": "https://www.siliconflow.com/pricing",
+      "title": "Pricing Plans - SiliconFlow | Transparent Pay-as-You-Go",
+      "snippet": "Transparent AI model pricing with pay-as-you-go rates. Start free, no hidden fees. Compare costs for LLM inference, fine-tuning, and custom deployments."
+    },
+    {
+      "link": "https://www.reddit.com/r/opencode/comments/1vzruku/best_budget_ai_subscription_api_tokens_for_coding/",
+      "title": "Best budget AI subscription / API tokens for coding tools ...",
+      "snippet": "Hi everyone,I'm a student on a tight budget looking for the best way to invest in AI subscriptions or API tokens. Since I'm not currently working, my ..."
+    },
+    {
+      "link": "https://docs.siliconflow.com/en/userguide/quickstart",
+      "title": "Quick Start - SiliconFlow",
+      "snippet": "Visit the Models page to check the details of currently available models, including model pricing, maximum usage limits for users, and more."
+    }
+  ]
+}

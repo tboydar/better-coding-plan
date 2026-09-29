@@ -1,0 +1,247 @@
+{
+  "id": "eBBECfvzWkkSUFfjjKP2g3",
+  "message_id": "9b193607-a947-476b-8b68-06690de41a17",
+  "answer": "根据搜索结果，关于2026年01.AI（零一万物）的Yi系列模型在编程订阅方面的价格信息，搜索结果中并没有直接提供01.AI官方推出的Yi编程订阅套餐的具体价格。不过，我们可以从多个角度来梳理相关信息。\n\n首先，关于01.AI的Yi系列模型本身，搜索结果中有一些背景信息。01.AI是一家中国人工智能初创公司，由著名计算机科学家李开复创立，其Yi系列模型包括Yi-34B、Yi-Large、Yi-Coder、Yi-Lightning等多个版本。其中，Yi-Coder是专门针对代码生成和编辑等任务设计的小规模代码语言模型系列，有1.5B和9B两种参数规模，支持52种主流编程语言，最大上下文长度可达128K tokens。Yi-Lightning在2024年10月发布，在Chatbot Arena排行榜上位列第6名，其推理成本为每百万tokens约14美分，相比之下OpenAI的较小模型GPT o1-mini为每百万tokens约26美分，显示出一定的成本优势。\n\n\n\n关于订阅价格，搜索结果中提到了其他一些AI编程订阅服务，但并非01.AI的Yi系列。例如，智谱的GLM Coding Plan在国内版有Lite、Pro、Max三档，2026年调价后月费分别为49元、149元、469元；阿里云百炼的Coding Plan整合了千问、GLM、Kimi、MiniMax等模型，采用固定月费模式；火山方舟的Coding Plan Lite档为40元每月，限时优惠价9.9元起，Pro档为200元每月，常见活动价49.9元；这些信息可以帮助了解2026年国内AI编程订阅市场的大致价格水平，但无法直接对应到01.AI的Yi订阅方案。\n\n\n\n\n\n另外，搜索结果中提到Yi系列模型对个人使用、学术用途和商业用途均免费，这指的是模型本身的开源许可，而非订阅服务的价格。也就是说，用户可以免费下载和使用Yi模型，但如果需要通过云服务或API进行大规模调用，可能仍需支付相应的推理费用，例如Yi-Lightning的推理成本为每百万tokens约14美分。\n\n\n\n\n\n综合来看，搜索结果中缺乏关于01.AI Yi编程订阅套餐具体价格的直接信息。如果您想了解2026年01.AI是否推出了官方的Yi编程订阅服务及其价格，建议直接访问01.AI的官方网站或相关开发者文档，以获取最准确和最新的信息。同时，可以参考上述其他平台的编程订阅价格作为市场参考，以便在预算范围内做出合适的选择。",
+  "query_analysis": {
+    "queries": [
+      "Bai Chuan 01.AI Yi coding subscription price",
+      "2026 Yiyun Share Bai Chuan 01.AI Yi coding subscription price",
+      "2026 Yiyun Share subscription price",
+      "2026 亿分享 订阅价格",
+      "2026 亿分享 百川 01.AI Yi coding 订阅价格",
+      "百川 01.AI Yi coding 订阅价格"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://presenc.ai/research/01-ai-yi-model-lineage-2026",
+      "title": "01.AI Yi Model Lineage 2026",
+      "snippet": "01.AI Yi release history 2024-2026: Yi-34B, Yi-Large, Yi-Coder (Sep 2024), Yi-Lightning (Oct 2024) — 6th on Chatbot Arena at $0.14/M tokens."
+    },
+    {
+      "link": "https://www.marktechpost.com/2024/09/05/yi-coder-released-by-01-ai-a-powerful-small-scale-code-llm-series-delivering-exceptional-performance-in-code-generation-editing-and-long-context-comprehension/",
+      "title": "Yi-Coder Released by 01.AI: A Powerful Small-Scale Code ...",
+      "snippet": "Yi-Coder Released by 01.AI: A Powerful Small-Scale Code LLM Series, Delivering Exceptional Performance in Code Generation, Editing, ..."
+    },
+    {
+      "link": "https://x.com/01AI_Yi?lang=en",
+      "title": "Yi-01.AI (@01AI_Yi) / X",
+      "snippet": "Yi-Large, it's $3 for input and $3 for output. Also available on fireworks for the same price. Link to thier pricing page platform.01.ai/docs#models-an… @ ..."
+    },
+    {
+      "link": "https://m.36kr.com/p/3767538055463681",
+      "title": "智谱让微信支付宝躺赢了 - 36氪",
+      "snippet": "智谱的GLMCodingPlan是国内最早推出的AI编码订阅服务之一。官方文档显示，国内版共有Lite、Pro、Max三档，2026年调价后月费分别为49元、149元、469 ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/vibecoding/comments/1otvdhc/what_is_the_most_cost_effective_high_quality_ai/",
+      "title": "What is the most cost effective high quality AI subscription ...",
+      "snippet": "the coding plan really cheap, starts from $3/months. Updated best AI coding subscription under $20 after DeepSeek price hike."
+    },
+    {
+      "link": "https://dataphoenix.info/01-ais-yi-coder-delivers-state-of-the-art-coding-performance-in-a-small-open-source-package/",
+      "title": "01.AI's Yi-Coder delivers state-of-the-art coding ...",
+      "snippet": "Yi-Coder comes in 1.5B and 9B sizes, each with base and instruction-tuned versions. Yi-Coder 9B resulted from taking another 01.AI model, Yi-9B, ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2039774524376404404",
+      "title": "2026年5月主流AI Coding Plan平台全面对比：能力",
+      "snippet": "当前AI编程订阅主要分为两类模式，适配个人开发者不同使用习惯：. Coding Plan：按请求次数计费，Token无上限，每月几十元即可获得上万次请求，适合高 ..."
+    },
+    {
+      "link": "https://huggingface.co/01-ai/Yi-Coder-1.5B-Chat",
+      "title": "01-ai/Yi-Coder-1.5B-Chat",
+      "snippet": "Yi-Coder is a series of open-source code language models that delivers state-of-the-art coding performance with fewer than 10 billion parameters ..."
+    },
+    {
+      "link": "https://www.maginative.com/article/chinese-ai-startup-01-ai-reaches-unicorn-status-with-open-source-model-yi-34b/",
+      "title": "Chinese AI Startup 01.AI Reaches Unicorn Status with ...",
+      "snippet": "Chinese artificial intelligence startup 01.AI is making waves this week with the release of its open-source large language model, Yi-34B."
+    },
+    {
+      "link": "https://kilo.ai/articles/best-ai-subscription-for-coding",
+      "title": "Which AI Subscription Is Best for Coding in 2026?",
+      "snippet": "If you search for the best AI subscription for coding, you'll find a list of monthly plans: ChatGPT Plus/Pro, Claude Pro/Max, GitHub Copilot, ..."
+    },
+    {
+      "link": "https://en.wikipedia.org/wiki/01.AI",
+      "title": "01.AI",
+      "snippet": "The cost for inference at Yi-Lightning is 14 cents per million tokens, compared with 26 cents for OpenAI's smaller model GPT o1-mini. Baichuan – Chinese ..."
+    },
+    {
+      "link": "https://medium.com/aimonks/how-open-source-yi-coder-9b-chat-beats-larger-code-models-aa638558c777",
+      "title": "How Open Source Yi-Coder-9B-Chat Beats Larger Code ...",
+      "snippet": "Yi-Coder-9B-Chat developed by '01. AI', a company, specializing in the development of the AI technologies. This platform assesses learners' ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/vibecoding/comments/1slum7k/best_ai_coding_stack_for_2040month_in_2026/",
+      "title": "Best AI coding stack for $20–40/month in 2026? Hitting ...",
+      "snippet": "I'm trying to find a sustainable AI coding workflow on a $20–40/month budget. I'm not looking for hype. I want something I can actually use ..."
+    },
+    {
+      "link": "https://x.com/01AI_Yi/status/1831531354183340130",
+      "title": "Yi-Coder is open-sourced! The 'Small but Mighty' LLM ...",
+      "snippet": "Yi-Coder is open-sourced! The 'Small but Mighty' LLM offers SOTA coding performance under 10B parameters. Excel in code editing, completion, ..."
+    },
+    {
+      "link": "https://github.com/01-ai/yi",
+      "title": "GitHub - 01-ai/Yi: A series of large language models ...",
+      "snippet": "Yi series models are free for personal usage, academic purposes, and commercial use."
+    },
+    {
+      "link": "https://www.dealmoon.com/post/3203834",
+      "title": "双非码农2026年的AI订阅一个月多少？164刀 - Dealmoon",
+      "snippet": "两个非码农背景的家庭2026年在AI订阅上会花多少钱？164刀，以下是细分。 1️⃣ChatGPT - 20刀/月。 2️⃣Gemini Pro - 20刀/月。 之所以两个都订阅主要是因为之前我和 ..."
+    },
+    {
+      "link": "https://www.01.ai/",
+      "title": "01.AI - Make AI work",
+      "snippet": "01.AI helps enterprises make AI transformation a measurable operating result through Top-down strategy, delivery, secure deployment, and enterprise Agents."
+    },
+    {
+      "link": "https://arxiv.org/html/2403.04652v1",
+      "title": "Yi: Open Foundation Models by 01.AI",
+      "snippet": "The Yi model family is based on 6B and 34B pretrained language models, then we extend them to chat models, 200K long context models, depth- ..."
+    },
+    {
+      "link": "https://post.smzdm.com/p/arz2x95w/",
+      "title": "2026上半年AI工具订阅价格大比拼，主流平台谁更划算？选 ...",
+      "snippet": "2026上半年AI工具订阅价格大比拼，主流平台谁更划算？选对不踩坑 ; Lite, 40元/月, 9.9元/月, 1200次, 约1.8万次 ; Pro, 200元/月, 49.9元/月, 6000次, 约9 ..."
+    },
+    {
+      "link": "https://www.facebook.com/PrincetonU/posts/princeton-professor-yiyun-li-has-won-the-2026-pulitzer-prize-for-memoir-for-her-/1459653282871820/",
+      "title": "Princeton's Yiyun Li wins Pulitzer Prize for memoir",
+      "snippet": "Princeton professor Yiyun Li has won the 2026 Pulitzer Prize for memoir for her 2025 book, \"Things in Nature Merely Grow\":"
+    },
+    {
+      "link": "https://www.princeton.edu/news/2026/05/05/princetons-yiyun-li-wins-pulitzer-prize-memoir",
+      "title": "Princeton's Yiyun Li wins Pulitzer Prize for memoir",
+      "snippet": "Princeton professor Yiyun Li has won the 2026 Pulitzer Prize for memoir for her 2025 book, “Things in Nature Merely Grow.”"
+    },
+    {
+      "link": "https://www.pulitzer.org/winners/yiyun-li",
+      "title": "Yiyun Li",
+      "snippet": "The 2026 Pulitzer Prize Winner in Memoir or Autobiography. Fifteen thousand dollars ($15,000). Grow, by Yiyun Li"
+    },
+    {
+      "link": "https://www.towntopics.com/2026/05/13/princeton-professor-yiyun-li-wins-pulitzer-prize-for-memoir/",
+      "title": "Princeton Professor Yiyun Li Wins Pulitzer Prize for Memoir",
+      "snippet": "Princeton University Professor Yiyun Li has won the 2026 Pulitzer Prize for Memoir or Autobiography for her memoir Things in Nature Merely Grow."
+    },
+    {
+      "link": "https://events.uiowa.edu/event/37801",
+      "title": "Literary Legends Featuring Pulitzer Prize Winner Yiyun Li ...",
+      "snippet": "Yiyun Li won the 2026 Pulitzer Prize for her resonant memoir, Things in Nature Merely Grow, Registration link to come."
+    },
+    {
+      "link": "https://huggingface.co/01-ai",
+      "title": "01-ai",
+      "snippet": "An upgraded version of the Yi models (2023/11), with stronger performance in coding, math, reasoning, and instruction-following. Yi-1.5 includes a collection of ..."
+    },
+    {
+      "link": "https://britishart.yale.edu/exhibitions-programs/windham-campbell-prize-ceremony-and-lecture-why-i-write-award-winning-author",
+      "title": "Windham-Campbell Prize Ceremony and Lecture: \"Why I ...",
+      "snippet": "Yiyun Li Space is limited Wednesday, September 16, 2026, 5–6:30 pm ET Lecture Hall Free admission Pulitzer. Livestream information coming soon."
+    },
+    {
+      "link": "https://asia.nd.edu/events/2026/10/06/asian-american-distinguished-speaker-series-with-yiyun-li/",
+      "title": "Asian American Distinguished Speaker Series: A ...",
+      "snippet": "Tue Oct 6, 2026, 5:30 pm. Chinese-born American author Yiyun Li will discuss her. The event is free and open to the public."
+    },
+    {
+      "link": "https://time.com/collection/100-most-influential-people/2026/yiyun-li/",
+      "title": "Yiyun Li Is on the 2026 TIME100 List",
+      "snippet": "Find out why Yiyun Li is one of the 100 most influential people of 2026."
+    },
+    {
+      "link": "https://www.cambridgema.gov/news/detail?path=%2Fsitecore%2Fcontent%2Fhome%2Fdepartments%2Fcambridgepubliclibrary%2Fnewsandannouncements%2F2026%2F05%2Fyiyunli",
+      "title": "Cambridge Public Library to Welcome Pulitzer Prize ...",
+      "snippet": "On Wednesday, May 20, from 6-7:30 p.m., the Cambridge Public Library will host Yiyun Li for a reading of her Pulitzer Prize-winning memoir, ..."
+    },
+    {
+      "link": "https://almcorp.com/zh-CN/blog/youtube-premium-price-increase-2026/",
+      "title": "YouTube Premium 2026 年价格上涨：新价格、套餐及变化",
+      "snippet": "Premium 订阅用户超过125 亿. YouTube 的年度个人订阅计划售价为159.99 美元。如果按新的月费15.99 美元计算,12 个月的总费用为191.88 美元。 至每月15. ..."
+    },
+    {
+      "link": "https://finance.sina.com.cn/tech/roll/2026-01-23/doc-inhihsrv4933071.shtml",
+      "title": "离谱！Evernote订阅涨价1391%杀熟太狠：稍不注意就花出 ...",
+      "snippet": "BornCity报道称，有公司发现，其年度订阅到期后自动续订的费用出现了惊人的1391%涨幅，原本包含6名用户的公司仅需1199.94欧元（约9811元人民币），在续订 ..."
+    },
+    {
+      "link": "https://unwire.hk/2026/09/01/opentherank-price-compare/shop_guide/",
+      "title": "全球格價網有齊全球訂閱月費YouTube, Steam, Netflix ...",
+      "snippet": "Premium 在不同地區價差最多可達1,885%, 斯坦月費2.88 美元(約港幣HK$22.5),最貴瑞士月費則達28.34 美元(約港幣HK$221.1),兩者差幅達884%。"
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2078237140564047593",
+      "title": "2026年9月30日起調漲訂閱費用",
+      "snippet": "「引得市」將於2026年9月30日起調漲訂閱費用新朋友老朋友請把握漲前價格，即時訂閱延長！ 【 個人月繳】彈性無負擔原價： NT$ 100 / ¥ 20 新價： NT$ ..."
+    },
+    {
+      "link": "https://www.ithome.com.tw/news/173497",
+      "title": "網飛財報出爐，全球付費訂閱用戶達3.25億",
+      "snippet": "在此次的財報中，網飛強調該收購是一筆以內容為核心的投資，而且為了加速進展，將全面改為現金交易，價格同樣是每股27.75美元，公司也為此保留現金以儘快 ..."
+    },
+    {
+      "link": "https://technews.tw/2026/03/27/netflix-raises-subscription-prices-across-all-plans-in-us/",
+      "title": "強化原創內容Netflix 再調漲美國訂閱方案價格",
+      "snippet": "新增額外成員的加購價格也同步上調，每增加一名額外成員收費7.99美元（含廣告）或9.99美元（不含廣告）。 Netflix上次調漲美國訂閱價格是在2025年1月， ..."
+    },
+    {
+      "link": "https://m.c114.com.cn/w51-1254640.html",
+      "title": "谷歌CEO：Google One 订阅人数已突破1 亿人",
+      "snippet": "Google One 是谷歌推出的一种订阅方案，可为用户提供更多存储空间（供Google 云端硬盘、Gmail 和Google 相册共用），最低的100 GB 版本每月是1.99 美元（ ..."
+    },
+    {
+      "link": "https://www.lingyiwanwu.com/",
+      "title": "01.AI 零一万物- 大模型赋能千行百业",
+      "snippet": "咨询牵引，少走弯路. 与一号位共绘AI 顶层蓝图，明确路线图、技术栈、产品矩阵与交付里程碑，让AI 从一开始对准经营目标和ROI。"
+    },
+    {
+      "link": "https://blog.csdn.net/weixin_44162814/article/details/158658021",
+      "title": "2026年国内主流AI Coding Plan套餐全对比｜开发者避坑指南",
+      "snippet": "注：价格单位均为“元/月”，首月优惠仅针对新用户，已订阅用户价格不变；额度均为各平台入门档（Lite/Starter）核心数据，Pro及以上档位为入门档5倍左右， ..."
+    },
+    {
+      "link": "https://news.qq.com/rain/a/20260422A0485K00",
+      "title": "AI coding plan 选购指南：日耗10 亿Token 工程师的7家横评",
+      "snippet": "日用10亿+ Token 的工程师，一文了解七家Coding Plan 的定价、额度、坑和选型建议。覆盖国内版和海外版，如果你想购买某个codingplan，或者你是小白想 ..."
+    },
+    {
+      "link": "https://www.cnblogs.com/ouyangkai/p/20018953",
+      "title": "国产AI编程套餐比对-2026年5月12日- 少年。",
+      "snippet": "国产AI Code Plan 套餐比对报告 · ：入门价最低（¥19）、支持多模型（Claude/GPT 等）、综合实力均衡 · ：唯一无时间窗口限制、TTS 免费、Agent 能力优秀、 ..."
+    },
+    {
+      "link": "https://www.aliyun.com/benefit/scene/tokenplan",
+      "title": "阿里云百炼Token Plan",
+      "snippet": "Token Plan 是面向开发者和企业的AI 大模型订阅服务, 年付Lite版本 ¥39.00/1个月… 订阅 Standard版本 ¥139.00/1个月月Credits 45,000 Harness 12 项立即订阅Pro版本 ¥499. ..."
+    },
+    {
+      "link": "https://platform.qianwenai.com/pricing/token-plan",
+      "title": "Token Plan - AI 编程订阅与全模态大模型服务",
+      "snippet": "千问AI平台Token Plan 专为AI 编程打造，提供多档位团队席位订阅。单一API Key 即可调用全模态大模型能力，深度兼容主流Coding 与Agent 工具。承诺数据不用于模型训练 ..."
+    },
+    {
+      "link": "https://www.alibabacloud.com/help/zh/model-studio/coding-plan",
+      "title": "Coding Plan - 大模型服务平台百炼- 阿里云",
+      "snippet": "Coding Plan 整合了千问、GLM、Kimi、MiniMax 等模型，并兼容主流AI 编程工具。通过固定月费模式订阅，成本可控，可有效防范欠费风险。 套餐详情. 说明."
+    },
+    {
+      "link": "https://apifox.com/apiskills/coding-plan/",
+      "title": "国内AI 编程套餐Coding Plan 对比，该选哪一家？",
+      "snippet": "定价分别为¥49/月、¥149/月、¥469/月,连续包季可享9 折。 年付价) ¥468 专属Kimi Code 额度"
+    },
+    {
+      "link": "https://mycodeplan.com/",
+      "title": "词元优选: AI 编程订阅方案对比— 7大平台20+方案",
+      "snippet": "对比火山方舟、腾讯混元、MiniMax、阿里云百炼、Kimi、讯飞星火、智谱GLM等7大平台的AI编程订阅方案，共收录22+个套餐。按价格、模型、用量、多模态等维度筛选， ..."
+    },
+    {
+      "link": "https://codepick.dev/zh/compare/coding-plan-comparison-2026/",
+      "title": "5 大国产AI 编程订阅横评：2026 年8 月选型指南 - CodePick",
+      "snippet": "火山方舟Coding Plan ; Lite, ¥40/月, 限时¥9.9 起, 最多约1,200 次请求 ; Pro, ¥200/月, 常见活动价¥49.9, Lite 的5 倍，最多约6,000 次请求 ..."
+    }
+  ]
+}

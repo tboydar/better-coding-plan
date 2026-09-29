@@ -1,0 +1,129 @@
+{
+  "id": "RWCxbFR6TwKFZzBTsQR8Ug",
+  "message_id": "c9e04ee3-c854-4a24-8f3a-e8a4a86a1223",
+  "answer": "検索結果によると、2026年の日本におけるAIコーディングプランの中で、Sakana AIの料金体系は比較的リーズナブルな選択肢の一つとして評価できます。以下に詳細をまとめます。\n\nまず、Sakana AIの主力製品であるSakana Fuguには、月額サブスクリプションプランが用意されています。検索結果[1]と[22]によると、Standardプランが月額20ドル、Proプランが月額100ドル、Maxプランが月額200ドルという3段階の料金設定です。Standardプランは軽量な日常利用や小規模な実験向けで、Proプランは定期的なコーディングや研究・分析向け、Maxプランは長時間の重いワークロードを扱うパワーユーザー向けとされています。この20ドルからの開始価格は、他の主要なAIコーディングサービスと比較しても競争力があります。例えば、検索結果[20]ではOpenAIの20ドルプランやClaude Codeの20ドルプランが言及されており、Sakana AIのStandardプランはこれらと同等の価格帯に位置しています。\n\nさらに、Sakana AIにはSakana Namazuという日本語特化のLLMもあり、こちらは月額料金なしの完全従量課金制です。検索結果[1]によると、入力トークンが100万トークンあたり0.95ドル、出力トークンが4.00ドル、キャッシュ入力が0.15ドルという価格設定で、Web検索ツールは1000回の呼び出しあたり7ドル、コード実行は1時間あたり0.12ドルと、ツール利用も別途課金されます。この従量課金モデルは、利用量が少ないユーザーにとっては非常に経済的です。\n\n一方で、Sakana AIのFugu Ultraモデルの従量課金価格は、検索結果[1]によると入力トークンが100万トークンあたり5ドル、出力トークンが30ドル、キャッシュ入力が0.50ドルとなっています。コンテキストが272Kを超える場合は入力が10ドル、出力が45ドル、キャッシュ入力が1.00ドルに上がります。この価格は、検索結果[4]で言及されている「最も安いSakana AIモデルは100万入力トークンあたり5ドルから」という情報と一致しています。\n\nただし、注意すべき点もあります。検索結果[1]では、サブスクリプションプランはSakana AI APIプラットフォーム専用であり、Sakana Chatにはサブスクリプションプランがなく、契約してもSakana Chatの利用制限は変更されないと明記されています。また、検索結果[3]では、月額200ドルのMaxプランについて、Claude Codeの月額20ドルと比較して高額だという意見も見られます。\n\n他のAIコーディングプランとの比較では、検索結果[8]が2026年のAIコーディングサブスクリプションについて詳しく分析しています。この記事では、単一ベンダーに依存するプランは価格変更や利用制限のリスクがあると指摘し、複数のモデルを柔軟に利用できる透明性の高いバランス型のサービスを推奨しています。また、検索結果[23]では、国際的な価格設定として月額6ドルから60百万クレジット、Standardプランが16ドルで200百万クレジットという例も紹介されており、市場にはさらに安価な選択肢も存在します。\n\n総合的に見ると、Sakana AIの月額20ドルからのStandardプランは、日本発のマルチエージェントAIという独自の技術的特徴を持ちながら、主要競合と同等の価格帯で利用できる点で、リーズナブルな選択肢と言えます。特に、検索結果[2]や[17]で指摘されているように、Sakana FuguはGPT-5.5を上回るコーディング性能を持つと評価されており、価格対性能比は良好です。ただし、利用頻度や必要な機能に応じて、従量課金のSakana Namazuや他のサービスの方が経済的な場合もあるため、自身の使用パターンを考慮して選択することが重要です。",
+  "query_analysis": {
+    "queries": [
+      "月額 Sakana AI リーズナブル code",
+      "2026 日本 AI coding plan 安い",
+      "2026 Japan AI coding plan cheap monthly Sakana AI reasonable code"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://console.sakana.ai/pricing",
+      "title": "Pricing",
+      "snippet": "Sakana Namazu is a Japanese-specialized LLM … code execution. There are no monthly fees or subscription plans. Code execution $0.12 per hour (session retained)"
+    },
+    {
+      "link": "https://hyzenpro.com/blog/sakana-fugu-review-japan-multi-agent-ai-2026/",
+      "title": "Sakana Fugu Review: Japan's Multi-Agent AI Beats GPT-5.5",
+      "snippet": "Sakana Fugu is Japan's multi-agent AI that outperforms GPT-5.5 on coding & reasoning. One OpenAI-compatible API, plans from $20/mo."
+    },
+    {
+      "link": "https://news.ycombinator.com/item?id=48624782",
+      "title": "Sakana Fugu | Hacker News",
+      "snippet": "you pay $200/month to Sakana … $20/month: Claude Code $10/month: selling AI B2B applications to Japanese businesses."
+    },
+    {
+      "link": "https://www.requesty.ai/models/sakana",
+      "title": "Sakana AI Models: API Pricing, Benchmarks & Specs",
+      "snippet": "The cheapest Sakana AI model starts at $5.00 per million input tokens. See the pricing column in the table below for full per-model rates. Does Requesty add ..."
+    },
+    {
+      "link": "https://www.itmedia.co.jp/aiplus/article/2505/30/1250530130/",
+      "title": "自身のコードを書き換え“成長するAI”――Sakana AI、新たな ...",
+      "snippet": "Sakana AIは5月30日、自身のコードを書き換えて性能を高めるコーディング向けAIエージェント「ダーウィン・ゲーデル・マシン」（DGM）を発表した。"
+    },
+    {
+      "link": "https://sakana.ai/",
+      "title": "Sakana AI — Building Frontier AI in Japan",
+      "snippet": "About Sakana AI. About Sakana AI. Blog · Corporate Info · Contact Us · Sakana Chat. Building Frontier AI in Japan. Tokyo, Japan © 2026 Sakana AI 株式会社."
+    },
+    {
+      "link": "https://llmgateway.io/blog/best-ai-coding-plans",
+      "title": "11 Best AI Coding Plans in 2026 (Compared)",
+      "snippet": "11 Best AI Coding Plans in 2026 (Compared) · 1. DevPass · 2. Claude Code (Anthropic Max) · 3. Cursor · 4. GitHub Copilot · 5. OpenAI Codex (ChatGPT ..."
+    },
+    {
+      "link": "https://kilo.ai/articles/best-ai-subscription-for-coding",
+      "title": "Which AI Subscription Is Best for Coding in 2026?",
+      "snippet": "If you search for the best AI subscription for coding, you'll find a list of monthly plans: ChatGPT Plus/Pro, Claude Pro/Max, GitHub Copilot, ..."
+    },
+    {
+      "link": "https://sakana.ai/blog/",
+      "title": "Sakana AI Blog",
+      "snippet": "Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの ..."
+    },
+    {
+      "link": "https://ai-kenkyujo.com/news/sakana-ai/",
+      "title": "【2026】サカナ AIとは？開発した最新技術と仕組み・日本語の ...",
+      "snippet": "サカナAIはAI技術を誰でも利用できるように、AIモデルをオープンソース化しており、世界中の開発者がアクセスできるようになっています。 オープンソースとは、 ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2010838863350874441",
+      "title": "2026 年国内AI Coding Plan 怎么选？5 大平台横评帮你省钱",
+      "snippet": "最近半年，国内各大AI 平台纷纷推出了Coding Plan 编程订阅套餐。只要按月付费，就能在Claude Code、Cursor、Cline 等主流编程工具里直接用国产大模型 ..."
+    },
+    {
+      "link": "https://x.com/AIBizNavigator/status/2021846272790118554",
+      "title": "Claude Codeをやめずに、運用コストだけ落とす。",
+      "snippet": "2026年2月11-12日にGLM Coding Planは約30%値上げされた。 それでも資料時点の月額換算はLite約9ドル、Pro約27ドル、 ..."
+    },
+    {
+      "link": "https://github.com/SakanaAI",
+      "title": "Sakana AI",
+      "snippet": "Sakana AI. On a quest to create a new kind of foundation model based on nature-inspired intelligence."
+    },
+    {
+      "link": "https://coursiv.io/blog/sakana-ai-fugu",
+      "title": "Sakana AI Fugu Review: Fugu Ultra vs Claude Fable 5",
+      "snippet": "Sakana AI Fugu review: compare Fugu Ultra vs Claude Fable 5 on benchmarks, pricing, API access, governance limits, and practical use cases."
+    },
+    {
+      "link": "https://x.com/MetaHeroes_100/article/2070061896108253581",
+      "title": "Sakana AIとは？日本発ユニコーンAIの特徴・使い方・ ...",
+      "snippet": "料金は1実行100クレジット（1クレジット98円）の従量課金から、月額15万円のProプランなどが用意されています（2026年6月時点。料金は変更される場合が ..."
+    },
+    {
+      "link": "https://note.com/legal_iguana6508/n/nd43aa26e7d41",
+      "title": "Claude Sonnet 4に匹敵するGLM-4.5が$15でほぼ使い放題 ...",
+      "snippet": "サイトの価格ページから、$3 または $15 のプランを選択しチャージした中から支払います。 GLM Coding Planページ：https://z.ai/subscribe. APIキーの ..."
+    },
+    {
+      "link": "https://www.facebook.com/vaibhavsisintyofficial/posts/japanese-lab-sakana-just-launched-fuguinstead-of-one-giant-model-it-runs-a-team-/1469033415240777/",
+      "title": "Japanese lab Sakana just launched Fugu. Instead of one giant ...",
+      "snippet": "Instead of one giant model, it runs a team of AIs and picks the best one for each part of your task. Starts at $20 a month and beat Opus, Gemini ..."
+    },
+    {
+      "link": "https://sakana.ai/marlin-release/",
+      "title": "初の商用プロダクト「Sakana Marlin」を提供開始",
+      "snippet": "セルフサーブで即日ご利用いただけ、月額無料のPay per useから、Pro・Team・Enterpriseまでのプランをご用意しています。料金・購入方法の詳細は ..."
+    },
+    {
+      "link": "https://www.businessinsider.jp/article/2605-how-much-did-major-generative-ai-service-fees-become-in-may-2026/",
+      "title": "生成AI、利用料はいくらになった？ 2026年5月の主要8 ...",
+      "snippet": "その変化をお伝えすべく、日本で個人利用できる主要な生成AIサービス8つを対象に、最新の料金プランを毎月レポートする。 ※USD表示は1ドル＝160円換算。"
+    },
+    {
+      "link": "https://www.reddit.com/r/vibecoding/comments/1slum7k/best_ai_coding_stack_for_2040month_in_2026/",
+      "title": "Best AI coding stack for $20–40/month in 2026? Hitting ...",
+      "snippet": "When it comes to coding/work I use the Open ai 20$ plan, Claude Code 20$ and Deepseek V4 via API.For planning I always brainstorm in a free ..."
+    },
+    {
+      "link": "https://japan.zdnet.com/article/35242603/",
+      "title": "2026年にAIコストが急騰するこれだけの理由--開発者と ...",
+      "snippet": "「ChatGPT Pro」が月額200ドル、「Gemini Ultra」が月額250ドルといった価格設定は、従来の月額20ドル前後のプランと比較して極めて高額だ。 推論フェーズ ..."
+    },
+    {
+      "link": "https://sakana.ai/fugu/",
+      "title": "Sakana Fugu — Multi-Agent System as a Model",
+      "snippet": "The subscription plan has three monthly tiers: Standard Plan ($20/month) Pro Plan ($100/month) provides. Max Plan ($200/month)"
+    },
+    {
+      "link": "https://canopywave.com/blog/best-ai-coding-plans-2026-pricing-limits-use-cases",
+      "title": "Best AI Coding Plans in 2026: Pricing & Limits Compared",
+      "snippet": "Official international pricing currently starts at $6 per month for 60 million credits. Higher tiers include Standard at $16 for 200 million ..."
+    }
+  ]
+}

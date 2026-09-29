@@ -1,0 +1,119 @@
+{
+  "id": "UMDQaXzERTE78mbhGAtFAn",
+  "message_id": "5551152c-4422-4889-8a64-3840ba38f146",
+  "answer": "根据搜索结果，关于Sourcegraph Cody、Tabby以及免费使用的情况，可以整理出以下信息。\n\n。\n\n\n\n首先，关于Sourcegraph Cody的现状，多个来源一致指出，Cody已经不再提供免费或独立的个人版本了。。根据2026年的多篇评测文章，Sourcegraph在2025年年中停止了Cody Free和Cody Pro的新用户注册，并于2025年7月23日完全终止了免费层级的服务了。。具体来说，2025年6月25日停止了新用户注册，2025年7月23日Cody Free被彻底关闭了。。从那时起，Cody仅作为Sourcegraph Enterprise的一部分捆绑销售，不再有独立的免费或付费个人版本了。。。有第三方评测网站报道，Sourcegraph Enterprise的价格大约为每位用户每月59美元，按年合同计费，但这一数字未能从官方定价页面直接确认，因为该页面在调研期间返回了访问错误了。。因此，如果你在2026年寻找Cody的免费版本，答案是它已经不存在了，Cody现在完全面向企业客户了。。\n\n\n\n关于Cody本身的功能，它是一款AI编码助手，利用Sourcegraph的代码搜索和图谱技术，在编辑器中提供聊天、自动补全、代理式聊天以及代码生成命令等功能了。。它的核心优势在于能够理解整个代码库，而不仅仅是当前打开的文件，这对于大型代码库的导航和理解特别有帮助了。。Cody支持VS Code和大多数JetBrains IDE，并允许企业管理员控制底层的大语言模型，包括Claude和GPT系列模型，同时提供审计日志、SOC 2合规以及不基于你的代码训练模型的保证等了。。不过，需要指出的是，Sourcegraph的核心代码仓库自2024年8月起已完全转为私有，不再开源，仅有一个过时的社区快照保留了旧版Apache许可证的代码了。。因此，如果你特别看重开源属性，Cody已经不再符合这一要求了。。\n\n\n\n接下来看Tabby，它是一款开源的、可自托管的AI编码助手，在搜索结果中被多次提及了。。Tabby的设计重点在于隐私和合规，特别适合对数据隔离要求严格的行业了。。它支持自托管部署，意味着你的代码可以完全留在自己的基础设施上，不会发送给第三方供应商了。。Tabby支持VS Code、JetBrains、Vim和Emacs等编辑器，并提供代码库索引、答案引擎以及微调支持等功能了。。它的许可证是Apache 2.0，完全开源了。。在2026年的开源AI编码助手排名中，Tabby被列为最佳隐私保护选项，适合安全敏感型团队了。。不过，自托管方案通常需要NVIDIA GPU，显存建议8到16GB以上，并且需要有人负责维护基础设施和更新模型了。。对于初创公司或小团队，如果希望完全掌控数据和成本，Tabby是一个值得考虑的选择，但需要评估自身的DevOps能力和硬件资源了。。\n\n\n\n关于免费AI编码助手的整体情况，2026年确实存在多个免费选项了。。GitHub Copilot现在提供免费层级，每月有一定量的补全和聊天消息额度了。。Cursor和Windsurf也提供免费计划了。。更重要的是，开源工具如Continue、Cline和Aider完全免费，并且可以连接任何你选择的模型，包括免费的LLM API或本地模型了。。例如，你可以安装Continue或Cline，然后指向Gemini、Groq或OpenRouter上的免费模型，就能获得补全和代理式编辑功能，唯一的限制是底层API的速率限制了。。或者，你可以通过Ollama在本地运行模型，将Continue或Cline连接到本地模型，这样没有任何使用上限，数据也完全留在你的机器上，是最私密的免费方案了。。对于大多数想要免费替代Copilot的开发者，Continue.dev被推荐为最佳选择，因为它开源、支持VS Code和JetBrains，并且不锁定于单一供应商了。。如果你需要自主代理来编辑文件，Cline则是最强的免费开源选项了。。Aider则适合喜欢终端工作流的开发者，它直接在本地git仓库中编辑代码，自动创建git提交，并支持所有主流LLM了。。这些开源工具都没有内置的使用上限，你只需自己提供模型，因此可以实现真正无限制的免费AI编码体验了。。不过需要注意的是，免费云助手的免费层级通常有额度限制，而开源工具配合免费API或本地模型则没有月度上限，但受限于模型本身的速率限制或硬件性能了。。另外，隐私性取决于你选择的模型，而不是编辑器本身了。。云助手会将代码发送给提供商，而开源工具配合本地模型则能完全保持数据在本地了。。因此，如果你追求免费且私密的方案，开源工具加本地模型是最佳路径了。。\n\n\n\n综合来看，如果你在2026年寻找Sourcegraph Cody的免费版本，答案是否定的，Cody已完全转向企业市场了。。如果你需要开源且可自托管的AI编码助手，Tabby是一个专注于隐私和合规的可靠选择，但需要自行承担基础设施成本了。。如果你只是想要免费的AI编码体验，那么Continue、Cline或Aider配合免费API或本地模型，是比Cody更实际且更灵活的替代方案了。。这些工具不仅免费，还提供了与Cody类似的代码库理解和编辑能力，同时避免了供应商锁定和订阅费用了。。因此，根据你的具体需求——无论是企业级代码库理解、隐私合规，还是零成本使用——你都可以在2026年的生态中找到合适的工具了。。",
+  "query_analysis": {
+    "queries": [
+      "Sourcegraph open source coding assistant free 2026",
+      "Sourcegraph Cody Tabby free 2026",
+      "Sourcegraph open source coding assistant Cody Tabby free 2026"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://bito.ai/ai-tools/sourcegraph-alternatives/",
+      "title": "10 best Sourcegraph Cody alternatives for engineering ...",
+      "snippet": "Sourcegraph is a code search platform with Cody as the AI assistant on top. Open source assistant Full model and data control Free. Open source projects free."
+    },
+    {
+      "link": "https://www.respan.ai/market-map/compare/aider-vs-sourcegraph-cody",
+      "title": "Aider vs Sourcegraph Cody (2026)",
+      "snippet": "9 Mar 2026 — Cody is Sourcegraph's AI coding assistant that understands your entire codebase. It uses Sourcegraph's code graph to provide context-aware code ...Read more"
+    },
+    {
+      "link": "http://zencoder.ai/blog/cody-ai-alternatives",
+      "title": "9 Best Sourcegraph Cody AI Alternatives to Consider in 2026",
+      "snippet": "Feb 3, 2026 - Explore the best Sourcegraph Cody AI alternatives to help you code faster with smarter assistants that understand your projects & boost your ..."
+    },
+    {
+      "link": "https://www.secondtalent.com/resources/open-source-ai-coding-assistants/",
+      "title": "Top 7 Open-Source AI Coding Assistants in 2026",
+      "snippet": "1 Sept 2026 — The best open-source AI coding assistants in 2026 include Continue, Tabby, Cody, Aider, Cursor (OSS components), CodeGeeX, and FauxPilot— ..."
+    },
+    {
+      "link": "https://daily.dev/blog/best-free-ai-coding-tools-no-credit-card-required/",
+      "title": "The best free AI coding tools in 2026 (no credit card required)",
+      "snippet": "5 Aug 2026 — As of mid-2026, Sourcegraph shut down Cody Free and Cody Pro on July 23, 2025 . New users can't sign up for Cody Free anymore."
+    },
+    {
+      "link": "https://aitools.flocci.in/alternatives/sourcegraph-cody",
+      "title": "9 Free Sourcegraph Cody Alternatives (2026) - Flocci AI Tools",
+      "snippet": "Sourcegraph Cody itself is free tier + paid. 9 alternatives listed here are free or freemium: GitHub Copilot, Amazon Q Developer, Tabnine, Supermaven, Void. ..."
+    },
+    {
+      "link": "https://blog.buildbetter.ai/best-sourcegraph-cody-alternatives-in-2026-for-engineering-teams/",
+      "title": "Best Sourcegraph Cody Alternatives in 2026 (Compared)",
+      "snippet": "5 Jun 2026 — Cody is now bundled into Sourcegraph Enterprise Starter and Enterprise tiers, with no free or standalone option as of 2026. As of May 2026, ..."
+    },
+    {
+      "link": "https://www.promptquorum.com/power-local-llm/sourcegraph-cody-review",
+      "title": "Cody Review 2026: Enterprise-Only Since the Amp Spin-Off",
+      "snippet": "Sep 5, 2026 - Sourcegraph Cody stopped free/individual signups in mid-2025 and is now enterprise-only, reportedly around $59/user/month."
+    },
+    {
+      "link": "https://klymentiev.com/blog/free-ai-coding-assistant",
+      "title": "Free AI Coding Assistants in 2026: 8 Compared",
+      "snippet": "30 Jun 2026 — The best free AI coding assistants in 2026: Copilot free, Cursor, Windsurf, Continue, Cline, Aider and more. the open-source tools Continue,"
+    },
+    {
+      "link": "https://www.buildfastwithai.com/ai-tools/sourcegraph-cody",
+      "title": "Sourcegraph Cody Review 2026",
+      "snippet": "The free plan on sourcegraph.com provides basic Cody access for individual developers. Free tier with meaningful access for evaluation"
+    },
+    {
+      "link": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-vs",
+      "title": "Cody for Visual Studio - AI Coding Assistant",
+      "snippet": "Nov 25, 2025 - Sourcegraph's AI code assistant goes beyond individual dev productivity, helping you achieve consistency and quality at scale with AI."
+    },
+    {
+      "link": "https://www.linkedin.com/posts/beyang-liu_the-most-powerful-accurate-ai-coding-assistant-activity-7259419321569878016-xuEX",
+      "title": "Sourcegraph Cody | SourceForge Podcast, ep. #23 | Beyang Liu",
+      "snippet": "1 year ago - Had a great time on the SourceForge Podcast discussing the evolution of Sourcegraph and our AI-powered coding assistant, Cody."
+    },
+    {
+      "link": "https://www.localalternative.io/compare/continue-vs-tabby-vs-cody",
+      "title": "Continue vs Tabby vs Cody: Best Local Code Assistant? (2026)",
+      "snippet": "Tabby and Cody are designed for team deployment. Tabby has built-in multi-user support and analytics. Cody's Sourcegraph backend provides enterprise code search ..."
+    },
+    {
+      "link": "https://sourcegraph.com/docs/cody",
+      "title": "Cody - Sourcegraph docs",
+      "snippet": "Cody is an AI coding assistant that uses all the latest LLMs and your development context to help you understand, write, and fix code faster.Read more"
+    },
+    {
+      "link": "https://sourcegraph.com/blog/best-ai-coding-tools",
+      "title": "The Best AI Coding Tools in 2026 (Ranked & Compared)",
+      "snippet": "21 Jul 2026 — Open-source options like Aider and Codex suit teams. There's no permanent free tier now: a 14-day trial and a free program for qualified open- ..."
+    },
+    {
+      "link": "https://github.com/sourcegraph/awesome-code-ai",
+      "title": "sourcegraph/awesome-code-ai: A list of AI coding tools ( ...",
+      "snippet": "23 Feb 2026 — A list of AI coding tools (assistants, completions, refactoring, etc.) This repository is now archived. Refact.ai - Open Source coding helper ..."
+    },
+    {
+      "link": "https://sourcegraph.com/blog/agentic-coding",
+      "title": "Agentic Coding in 2026: A Practical Guide for Big Code",
+      "snippet": "21 May 2026 — Sourcegraph's CodeScaleBench work focuses on measuring how agents perform on large-codebase and multi-repo tasks, where retrieval quality ...Read more"
+    },
+    {
+      "link": "https://home.mlops.community/public/videos/building-cody-an-open-source-ai-coding-assistant",
+      "title": "Building Cody, an Open Source AI Coding Assistant - Video",
+      "snippet": "Cody empowers developers to query and comprehend code within codebases through the integration of robust language model capabilities."
+    },
+    {
+      "link": "https://sourcegraph.com/blog/cody-is-generally-available",
+      "title": "Sourcegraph Cody is generally available",
+      "snippet": "14 Dec 2023 — Cody Free is identical to Cody Pro but has rate limits on use. Cody Pro will be free through the holidays until February 2024, after which it ..."
+    },
+    {
+      "link": "https://sourcegraph.com/pricing",
+      "title": "Pricing",
+      "snippet": "Starting at $16K Minimum annual contract. Includes credits for AI features; scales with team size Contact sales. Is there a free trial?"
+    },
+    {
+      "link": "https://www.augmentcode.com/tools/sourcegraph-cody-vs-continue-enterprise-comparison",
+      "title": "Sourcegraph Cody vs Continue: Enterprise AI Coding ...",
+      "snippet": "Feb 8, 2026 - Cody is now enterprise-only following the discontinuation of Free and Pro plans in July 2025. Enterprise pricing is available through custom ..."
+    }
+  ]
+}

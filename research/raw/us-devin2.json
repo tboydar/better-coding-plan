@@ -1,0 +1,140 @@
+{
+  "id": "Nd4eEo4uAi3Mxv4PCkf875",
+  "message_id": "c9426e9f-060a-4168-82f2-b8de0ad41dd4",
+  "answer": "根据搜索结果，Cognition公司旗下的AI软件工程师产品Devin在2026年的定价方案已经形成了较为清晰的体系。整体来看，Devin的定价模式从早期的单一高价企业级入口，逐步演变为面向不同规模用户的多层次订阅制，并辅以基于消耗量的计费单位ACU（Agent Compute Unit，代理计算单元）来核算实际使用成本。\n\n。\n\n\n\n首先，从公开的定价页面和多个评测来源来看，Devin在2026年主要提供四个公开的自助服务订阅层级，外加一个需要联系销售的企业版方案。这四个层级分别是：免费版（Free）定价为0美元，专业版（Pro）定价为每月20美元，高级版（Max）定价为每月200美元，以及团队版（Teams）定价为每月80美元的基础费用，再加上每个完整开发者席位每月40美元的费用。此外，企业版（Enterprise）没有公开标价，需要与Cognition的销售团队联系，以协商定制合同的方式购买，其计费方式是基于约定的ACU单价进行的。\n\n\n\n\n\n具体来说，免费版（Free）在2026年7月的一次调整后，其定位发生了显著变化。它现在主要是一个名为Devin Desktop的桌面编辑器下载版本，为用户提供无限的Tab补全（即代码自动补全）和无限的内联编辑功能，但仅限使用较慢模式的捆绑免费模型（如SWE 1.7）。然而，所有需要消耗云端算力的功能，例如云端代理（cloud agents）、DeepWiki、Ask Devin以及Devin API等，都变成了仅限付费用户使用的功能。因此，免费版实际上不再提供运行自主代理的能力，它更多是作为获取用户和分发产品的工具，而非试用完整产品的途径。这意味着，如果你想真正体验Devin作为自主AI工程师的核心能力，最低的入门价格就是每月20美元的专业版（Pro）计划。\n\n\n\n\n\n专业版（Pro）计划每月收费20美元，是面向个人开发者的实际入门选择。它包含了免费版的所有功能，并大幅提升了使用配额，特别是解锁了对前沿模型的访问权限，这些模型包括来自OpenAI、Claude（Anthropic）、Gemini（Google）以及SpaceXAI等提供商的模型，同时也包括领先的开源模型。专业版还允许用户访问云端代理（即Devin Cloud），这是运行自主代理任务的核心功能。在配额用尽后，用户可以选择以API定价购买额外的使用量，这意味着实际账单可能会超出每月20美元的固定费用，具体取决于任务对计算资源的消耗程度。\n\n\n\n\n\n高级版（Max）计划每月收费200美元，其定位并非一个功能不同的产品，而是专业版（Pro）的一个高配额版本，可以看作是预先购买更多的使用余量，以避免频繁触发超额费用。它提供了显著更高的使用配额，适合那些每天长时间运行代理、且依赖高消耗模型的用户。值得注意的是，在2026年7月的调整中，Max版的并发会话数上限从之前的无限制调整为最多10个，这与专业版（Pro）的上限保持一致了。\n\n。\n\n团队版（Teams）计划则面向小型团队，其定价结构为每月80美元的基础费用，用于覆盖共享基础设施和团队管理功能，再加上每个完整开发者席位每月40美元的费用，每个完整席位都包含与专业版（Pro）相当的配额以及Devin Desktop的访问权限。团队版还允许添加不限数量的弹性席位（即免费席位，无Devin Desktop访问权限），这些席位可以共享团队整体的按需积分（on-demand credits），并且所有成员的积分是共享的，没有个人余额的概念，同时支持无限并发会话。团队版还提供集中化账单、管理员仪表盘（含分析功能）以及优先支持等服务，适合需要统一管理和协作的小型团队。\n\n。\n\n企业版（Enterprise）则没有公开价格，需要联系销售获取报价，它针对大型组织提供了最高优先级的支持、专属客户成功经理、SAML/OIDC单点登录（SSO）、集中式企业管理控制、以及专属部署选项等高级功能，其计费完全基于ACU（代理计算单元）的合同约定费率进行。\n\n。\n\n\n\n\n\n关于计费单位ACU，这是理解Devin实际成本的关键。根据Cognition的官方文档，ACU被定义为完成一项任务所需的代理工作量，其消耗量会随着推理使用量和所选模型的不同而扩展。早期曾有一个粗略的估算规则，即1个ACU大约相当于Devin进行15分钟的活跃自主工作，但这一规则在后续的文档中已不再出现，说明其计算方式可能变得更加复杂和动态。在自助服务计划中，用户的消耗量由计划内包含的配额（quota）加上按需购买的积分（on-demand credits）组成，Cognition明确指出，这些按需积分的美元价值与传统的ACU相同，这意味着超额使用的成本与ACU的单价直接挂钩。对于企业客户而言，他们会在订单合同中约定一个固定的ACU单价，这是唯一一个存在明确硬性单价的场景，而自助服务计划则通过配额加积分的方式，将实际成本的计算变得更加灵活和隐蔽。\n\n。\n\n\n\n\n\n从历史演变来看，Devin的定价经历了多次调整，这有助于理解当前的价格体系。在2024年12月正式全面上市（GA）时，其早期访问定位是企业级入口，采用基于ACU的计费方式，门槛较高。到了2025年4月，Devin 2.0版本将入门价格大幅下调至每月20美元，并正式确立了ACU作为计量单位，同时推出了按需付费的Core层级（约每ACU 2.25美元）和团队计划（约每月500美元，包含ACU配额和API访问权限）。2025年7月，Cognition收购了AI集成开发环境（IDE）Windsurf，该公司拥有约8200万美元的年度经常性收入（ARR）和超过350家企业客户，这为Devin的定价体系增添了新的产品维度。到了2026年6月，公开定价被重组为清晰的订阅层级，即免费版、专业版、高级版和团队版，并引入了配额加按需积分的模式，取代了之前自助服务中可见的ACU费率表，而企业版则继续沿用ACU合同制。2026年7月21日，Cognition进行了一次包装调整，但所有价格数字均未变动，只是将计划对比表拆分为Devin Desktop（桌面端功能）和Devin Cloud（云端功能）两个板块，并相应调整了免费版的定位和部分功能权益，例如将捆绑的免费模型从SWE 1.6升级为SWE 1.7，以及将Max版的并发会话上限从无限制调整为最多10个。\n\n。\n\n\n\n\n\n\n\n综合来看，Devin在2026年的定价策略可以概括为几个核心要点：第一，Devin销售的是代理计算能力，而非简单的席位，ACU作为衡量代理工作量的单位，是决定实际账单的核心价值指标，即使订阅层级中包含了配额，但超出配额后的按需积分价格也与ACU的美元价值挂钩；第二，公开的价格表只是一个起点或地板，免费版0美元、专业版20美元、高级版200美元、团队版80美元加每席位40美元，这些价格设定了基础访问权限，但实际消费超过配额的部分将直接推高账单，因此预算规划需要将计算消耗考虑在内；第三，配额加积分的模式是一种刻意的对冲策略，通过将使用量捆绑进每个层级，可以缓解纯按使用量计费模式可能带来的账单冲击风险，让用户对成本有更稳定的预期；第四，企业版仍然保持封闭的销售模式，大客户需要与销售团队协商确定ACU的合同单价，这是唯一一个存在公开硬性单价的场景；第五，Windsurf（现已更名为Devin Desktop）已被整合进价格体系中，并成为免费层级的产品，其无限的Tab补全功能之所以免费，是因为其服务成本较低，而云端代理、DeepWiki和Devin API等消耗计算资源的功能则全部转为付费功能，这使得免费版成为获取用户和分发产品的工具，而非试用完整自主代理功能的途径。\n\n。\n\n\n\n\n\n\n\n此外，一些第三方评测和来源提供了略有不同的定价信息，例如有来源提到过一个名为Starter的层级，每月30美元，包含约50个ACU，超额费率为每个ACU约0.60美元，还有来源提到过Core计划，每月约20美元，按需ACU价格为每个2.25美元，以及团队计划每月约500美元，包含250个ACU，每个约2.00美元，这些信息可能反映了不同时期或不同渠道的定价细节，但官方当前的自助服务定价体系以免费版、专业版、高级版和团队版为主，企业版则需联系销售获取定制报价，因此，在参考这些第三方数据时，应以官方最新公布的信息为准，因为Cognition会定期调整价格和计划内容，任何具体数字都应视为特定时间点的快照，而非永久有效的承诺。同时，也有评测指出，Devin的实际成本因任务复杂度而异，一个快速且范围明确的错误修复可能只消耗不到一个ACU，而一个涉及大规模代码迁移或在不稳定测试环境中反复尝试的任务，则可能消耗数个ACU，因此，评估Devin是否物有所值，需要结合自身任务类型和使用频率，进行实际的成本效益分析，而不能仅仅依赖标价来做出判断。",
+  "query_analysis": {
+    "queries": [
+      "认知德文2026计划定价",
+      "Cognition Devin 2026 plans pricing",
+      "Cognition Devin 2026 plans",
+      "Cognition Devin 2026 pricing"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://www.usagepricing.com/blueprint/cognition",
+      "title": "Cognition (Devin) Pricing - UsagePricing",
+      "snippet": "Cognition's Devin AI software engineer pricing: Free, Pro $20/mo, Max $200/mo, Teams $80/mo + $40/seat, plus enterprise ACU billing. Updated 2026."
+    },
+    {
+      "link": "https://www.usecarly.com/blog/devin-pricing/",
+      "title": "Devin Pricing 2026: Plans, ACU Costs, and Whether It's ...",
+      "snippet": "Devin&#39;s 2026 pricing runs from $20 to $500/month across Core, Team, and Enterprise, billed in ACUs. Pay-as-you-go, ~$2.25 per extra ACU. ..."
+    },
+    {
+      "link": "https://agentstant.com/tools/devin/",
+      "title": "Devin AI Review 2026 — World's First AI Software Engineer",
+      "snippet": "In 2026, Cognition AI has evolved Devin into a collaborative engineering platform rather than a fully autonomous black box. The current Devin experience allows ..."
+    },
+    {
+      "link": "https://getcreatr.com/windsurf-pricing-2026",
+      "title": "Windsurf (Devin Desktop) Pricing 2026 - Creatr",
+      "snippet": "has four public price points as of August 2026: Free at $0, Pro at $20 per month, Max at $200 per month, and Teams at $80 per month plus $40 ..."
+    },
+    {
+      "link": "https://easyclaw.com/blog/knowledge/devin-ai-review",
+      "title": "Devin AI Review 2026: Honest Assessment After Real- ...",
+      "snippet": "An honest Devin AI review for 2026 based on real-world testing. We break down ACU pricing, what tasks it handles well, where it fails, and whether it\\"
+    },
+    {
+      "link": "https://devin.ai/pricing",
+      "title": "Plans and Pricing",
+      "snippet": "INDIVIDUAL PLANS Free $0. ProPOPULAR $20per month ・ 2026 Access to cloud agents (Devin Cloud) MaxNEW $200per month Select plan ・ $80 channel for support"
+    },
+    {
+      "link": "https://valueaddvc.com/blog/how-does-cognition-make-money-devin-pricing-windsurf-enterprise-and-the-492m-arr-breakdown",
+      "title": "$47B Valuation — How Cognition (Devin) Makes Money",
+      "snippet": "$900 million in annualized revenue — up from $492 million in May — is what Cognition's Devin and Windsurf now generate as of September 2026."
+    },
+    {
+      "link": "https://www.spanish.hk/post/2026-%E9%A6%99%E6%B8%AF%E5%AD%B8%E5%BE%B7%E6%96%87%E7%B5%82%E6%A5%B5%E6%8C%87%E5%8D%97%EF%BC%9A7%E5%A4%A7%E5%BE%B7%E6%96%87%E8%AA%B2%E7%A8%8B%E3%80%81%E7%A7%81%E8%A3%9C%E3%80%81%E8%80%83%E8%A9%A6%E5%85%A8%E6%94%BB%E7%95%A5",
+      "title": "2026 香港學德文終極指南：7大德文課程、私補、考試全攻略",
+      "snippet": "Mar 24, 2026 - German Cultural Association 的小班教學收費約在HK$150-200 之間，以其極高師生比例來說，性價比極高。 4. 我完全零基礎，應該點開始學德文 ..."
+    },
+    {
+      "link": "https://www.did.de/en/partner/2026-dates-prices",
+      "title": "2026 Dates & Prices",
+      "snippet": "Aug 15, 2025 - We are pleased to announce our 2026 prices for adult German courses – and there's great news: No increase in fees! Both course tuition and ..."
+    },
+    {
+      "link": "https://www.idlen.io/blog/devin-ai-engineer-review-limits-2026/",
+      "title": "Devin, the AI Engineer: Review, Testing & Limitations in 2026",
+      "snippet": "Devin's Pricing Plan Price Includes Team $500/month per seat. Heavy (40+ tasks) 40 $12.50 Yes—cheaper than developer time Moderate"
+    },
+    {
+      "link": "https://omidsaffari.com/blog/devin-pricing",
+      "title": "Devin Pricing (2026): $20 Is the Entry, Not the Budget",
+      "snippet": "Devin pricing starts at $0. Pro costs $20 a month, Pro is the sensible solo default at $20 per month, while Teams is a governance purchase with ..."
+    },
+    {
+      "link": "https://rationalgo.ai/resources/app-builder/devin-ai-pricing-vs-rationalgo-500-vs-free-credits",
+      "title": "Devin AI Pricing vs RationalGo in 2026: After the 96% ...",
+      "snippet": "Devin now starts at $20 per month for an individual tier, with the original $500 plan repositioned tier offering 250 Agent Compute Units per month. a $20/month ..."
+    },
+    {
+      "link": "https://cognition.com/",
+      "title": "Cognition",
+      "snippet": "Cognition operates Devin, the first autonomous software engineer. Devin plans, writes, tests, and ships production code inside your existing workflows."
+    },
+    {
+      "link": "https://pensero.ai/blog/devin-pricing",
+      "title": "Discover Devin's Pricing and Plans for 2026",
+      "snippet": "Devin's Core plan starts at $20 with pay-as-you-go ACU billing at $2.25 per ACU. The Team plan is $500 per month and includes 250 ACUs at $2.00 ..."
+    },
+    {
+      "link": "https://www.hellotoby.com/zh-hk/c/%E5%BE%B7%E6%96%87%E7%8F%AD",
+      "title": "【德文班費用】德文班價錢攻略2026 - Hello Toby",
+      "snippet": "Toby 上的德文班收費為（每小時）. $200 - $400. 在香港平均HKD350/小時. $200$350$400."
+    },
+    {
+      "link": "https://deutschpipapo.com/%E5%BE%B7%E6%96%87%E6%AA%A2%E5%AE%9A/",
+      "title": "2026 德文檢定攻略：常見德文檢定等級對照與德文系準備資源",
+      "snippet": "May 5, 2026 - 主流檢定的重點比較・ 是由德國歌德學院主辦的國際德語檢定,分為A1～C2 ・ 考試費用採均一價,不依等級調整,對預算有限的考生來說相對友善。"
+    },
+    {
+      "link": "https://cognition.com/blog/new-self-serve-plans-for-devin",
+      "title": "New self-serve plans for Devin",
+      "snippet": "Free — Free · Pro — $20/month, with included quota · Max — $200/month, with a larger included quota · Teams — Usage based, with a minimum spend of ..."
+    },
+    {
+      "link": "https://www.threads.com/@lerndeutschmitlukas/post/DaNRzQSEvW3/%E5%BE%B7%E6%96%87%E6%AA%A2%E5%AE%9A%E8%A6%81%E8%AA%BF%E6%BC%B2%E8%B2%BB%E7%94%A8%E5%9B%89/",
+      "title": "德文檢定要調漲費用囉",
+      "snippet": "3 months ago - OCR 第1階段：2026年10月起第2階段：2028年1月起點此查看最新費用資訊成人考試Goethe-Zertifikat A1 (Start Deutsch 1) Goethe-Zertifikat C2 外部 ..."
+    },
+    {
+      "link": "https://www.french.hk/post/%E9%A6%99%E6%B8%AF%E5%AD%B8%E5%BE%B7%E6%96%87%E9%82%8A%E9%96%93%E5%A5%BD%EF%BC%9F2026%E5%B9%B47%E5%A4%A7%E5%BE%B7%E6%96%87%E8%AA%B2%E7%A8%8B%E3%80%81%E5%AD%B8%E6%A0%A1%E5%8F%8A%E8%80%83%E8%A9%A6%E4%B8%AD%E5%BF%83%E6%8E%A8%E4%BB%8B",
+      "title": "香港學德文邊間好？2026年7大德文課程、學校及考試中心推介",
+      "snippet": "Mar 21, 2026 - 想在香港學德文？本文詳細比較香港學習德文的最佳地點，從歌德學院到大學課程、兒童班及考試中心，助你按預算、地點及目標找到心儀課程。"
+    },
+    {
+      "link": "https://tw.amazingtalker.com/blog/zh-tw/zh-ger/25573/",
+      "title": "2026德文檢定留學準備全攻略- 聽說讀寫準備、補習班費用",
+      "snippet": "Jan 2, 2022 - 2026德文檢定留學準備全攻略– 聽說讀寫準備、補習班費用、考試資源分享 · 同場加映：學德文：A1- A2德國檢定最常用1000字（第一部1〜200字） · 【西班牙文 ..."
+    },
+    {
+      "link": "https://www.layer3labs.io/guides/devin-ai-explained",
+      "title": "Devin AI Explained: Pricing, Benchmarks, and When It ...",
+      "snippet": "The Free plan gives a light quota for working with agents plus unlimited inline edits and tab completions. Pro runs $20 a month and adds cloud ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2058845004559290689",
+      "title": "2026德国双元制申请流程解析",
+      "snippet": "Jul 10, 2026 - 本文基于2025—2026年德国官方最新标准，逐项拆解从职业定位到签证获批的申请流程，同时梳理正规机构的评判维度和申请过程中常见的高风险节点，为计划赴德 ..."
+    },
+    {
+      "link": "https://easyclaw.com/blog/knowledge/devin-pricing/",
+      "title": "Devin Pricing in 2026: Every Plan, Real Costs, and Whether It",
+      "snippet": "At $20/month with ~150 included ACUs, Pro is designed for individual developers doing moderate autonomous coding tasks. Cost model — solo developer: 6 bug fixes ..."
+    },
+    {
+      "link": "https://www.goethe.de/ins/hon/cn/spr/unt/for/deu.html",
+      "title": "在德教師培訓",
+      "snippet": "透過在德培訓機會,教師不但可以增進德文能力及德國文化的知識,更可認識最新的德語教學法、課程設計、AI/ 電子媒體應用,以至幼兒外語教育"
+    },
+    {
+      "link": "https://www.news.cn/20260618/fa6247edfdbc4edfa5d9c481b7e4807e/c.html",
+      "title": "走笔天下丨近观德国工商界对华认知之变",
+      "snippet": "Jun 18, 2026 - 【原标题】近观德国工商界对华认知之变. 文/本报记者李函林. 盛夏将至的柏林，阳光渐渐炽烈，围绕德国对华关系议题的讨论也持续升温。"
+    }
+  ]
+}

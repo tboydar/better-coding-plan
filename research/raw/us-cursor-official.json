@@ -1,0 +1,132 @@
+{
+  "id": "BKioo2vE7EdYAuG9yemdBH",
+  "message_id": "10a33416-89ec-43da-bbd1-dc3e99b6c35d",
+  "answer": "Cursorの2026年の料金プランについて、公式情報と検索結果に基づいて詳しく説明します。 まず、Cursorには無料のHobbyプランから始まり、個人向けのPro、Pro+、Ultra、そしてチーム向けのTeams、企業向けのEnterpriseまで、複数のプランが用意されています。 各プランの月額料金は、Hobbyが無料、Proが20ドル、Pro+が60ドル、Ultraが200ドル、Teams Standardがユーザー1人あたり月額40ドル、Teams Premiumがユーザー1人あたり月額120ドルとなっています。 年払いにすると約20パーセント割引になり、Proは月額16ドル、Teams Standardはユーザー1人あたり月額32ドルになります。 また、インド限定のStartプランもあり、月額649ルピー（税込み）で提供されています。\n\n\n\n料金体系の大きな特徴は、2025年半ばから導入されたクレジットベースの課金モデルです。 以前はリクエスト数に基づく単純なシステムでしたが、現在は各有料プランに月額料金にほぼ相当するクレジットプールが含まれています。 例えば、Proプランは20ドルのクレジット、Pro+は約60ドル、Ultraは約400ドル分のAPI利用枠が含まれます。 つまり、Ultraは200ドルの月額料金で400ドル分の利用ができるため、ヘビーユーザーにとっては非常にお得な設計です。 このクレジットは、Cursor独自モデル（Grok 4.x、Composer 2.5、Autoなど）と、Claude、GPT、Geminiといった他社製モデルの2つのプールに分かれて管理されます。 含まれる利用枠を使い切った後は、オンデマンド課金として標準APIレートで追加利用が可能です。 そのため、実際の月額コストは、基本料金に加えて、フロンティアモデルをどれだけ多用するかによって変動します。\n\n\n\n各プランの詳細を見ていきましょう。 まずHobbyプランは無料で、クレジットカード不要、Tab補完（オートコンプリート）とエージェントリクエストに制限がありますが、CursorのフルIDE体験を試すことができます。 新規登録時には7日間のProトライアルも付いてきますが、その後は月あたりのプレミアムモデルリクエスト数が限られた状態になります。 公式には具体的な制限値は公開されていませんが、2025年5月時点では月500リクエストという情報もあります。 日常的な開発作業には不十分で、あくまで評価用と考えるべきです。\n\n\n\nProプランは月額20ドルで、Cursorで最も人気のあるプランです",
+  "query_analysis": {
+    "queries": [
+      "Cursor Pro+ plan monthly credits",
+      "Cursor Pro plan monthly credits",
+      "Cursor Ultra plan monthly credits",
+      "Cursor Hobby plan monthly credits",
+      "Cursor pricing plans billing",
+      "Cursor 2026 pricing plans"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://www.eesel.ai/blog/cursor-pricing",
+      "title": "Cursor pricing 2026: Hobby, Pro, and Business plans ...",
+      "snippet": "Cursor still starts free with the Hobby plan, then runs Pro at $20/mo, Pro+ at $60/mo, Ultra at $200/mo, and Teams at $40/user/mo, with ..."
+    },
+    {
+      "link": "https://laracopilot.com/blog/cursor-pricing-2026",
+      "title": "Cursor Pricing 2026: Essential Plans, Costs and Is It Worth",
+      "snippet": "Cursor pricing in 2026 runs from a free Hobby plan up through Pro at $20 per month, Pro Plus at $60, and Ultra at $200, with Teams at $40 per ..."
+    },
+    {
+      "link": "https://www.jetadmin.io/blog/cursor-pricing-explained-plans-credit-system-and-real-costs-in-2026/",
+      "title": "Cursor pricing explained: plans, credit system, and real ...",
+      "snippet": "Each paid cursor plan includes a monthly credit pool roughly equal to the subscription price. ... The Ultra plan costs $200/month and offers 20x ..."
+    },
+    {
+      "link": "https://www.superblocks.com/blog/cursor-enterprise",
+      "title": "Cursor AI Pricing: Complete Breakdown and Is It Worth It?",
+      "snippet": "Cursor AI has four plans: free Hobby; Individual ($20 Pro, $60 Pro+, $200 Ultra); $40/user/month for Teams; and custom Enterprise. Annual billing saves roughly ..."
+    },
+    {
+      "link": "https://forum.cursor.com/t/pro-ultra-vs-overage-credits/148264",
+      "title": "Pro+ / Ultra vs. Overage Credits - Discussions",
+      "snippet": "Ultra gives you $400+ for $200. If you spend or plan to spend more than $200 per month on Cursor, it's worth it."
+    },
+    {
+      "link": "https://www.nocode.mba/articles/cursor-pricing",
+      "title": "Cursor Pricing 2026: Free, Individual, Teams & Enterprise",
+      "snippet": "Cursor has a free Hobby plan, Individual plans starting at $20/month, Teams seats starting at $40 per user/month, and custom Enterprise pricing."
+    },
+    {
+      "link": "https://felloai.com/cursor-pricing/",
+      "title": "Cursor Pricing 2026: Plans, Free Tier, and Real Costs",
+      "snippet": "Ultra at $200/month is the heavy-hitter plan. It bundles 20× Pro's credit pool, which translates to roughly $400 in API-rate usage, plus ..."
+    },
+    {
+      "link": "https://medium.com/realworld-ai-use-cases/cursor-ultra-vs-claude-code-max-do-you-need-both-or-is-one-enough-f07a7fb73996",
+      "title": "Cursor Ultra vs Claude Code Max: do you need both, or is ...",
+      "snippet": "For the ultra plan you get $400 worth of AI usage. Again this is confusing because you don't get charged more than $200. If you are using Cursor ..."
+    },
+    {
+      "link": "https://cursor.com/help/account-and-billing/pricing",
+      "title": "Pricing and plans | Cursor Docs",
+      "snippet": "What plans are available? ; Start (India only), ₹649/mo, tax inclusive ; Pro, $20/mo ; Pro+, $60/mo ; Ultra, $200/mo."
+    },
+    {
+      "link": "https://www.opslyft.com/blog/cursor-pricing-2026",
+      "title": "Cursor Pricing 2026: Plans, Credits & How to Choose",
+      "snippet": "Ultra ($200/month). Ultra gives 20x the usage of Pro plus priority access to new features. At this price it is infrastructure spend rather ..."
+    },
+    {
+      "link": "https://www.verdent.ai/guides/cursor-free-trial-free-plan",
+      "title": "Cursor Free Trial & Free Plan: What's Included",
+      "snippet": "The Hobby plan is free forever with no credit card, providing limited Tab completions and limited premium model requests per month. The Pro ..."
+    },
+    {
+      "link": "https://flexprice.io/blog/cursor-pricing-guide",
+      "title": "The Complete Guide to Cursor Pricing in 2026 [+ How ...",
+      "snippet": "$200 on Ultra, Ultra buys $400. Ultra earns its $200 once your monthly usage clears about $210, /mo $15 of monthly credits. Core $20/mo $20 of ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/cursor/comments/1o5t3gf/question_about_cursors_ultra_plan_200month_and/",
+      "title": "Question about Cursor's “Ultra Plan” ($200/month) and ...",
+      "snippet": "So, the plan says Ultra includes $400 worth of API usage, even though the plan itself costs $200/month. That's how I've understood it since I ..."
+    },
+    {
+      "link": "https://cursor.com/pricing",
+      "title": "Cursor · Pricing",
+      "snippet": "Free Includes: ✓ No credit card required ✓ Limited Agent requests ✓ Access to Composer. Ultra for agent power users. Self-serve plans support all major credit ..."
+    },
+    {
+      "link": "https://cursor.com/docs/models-and-pricing",
+      "title": "Models & Pricing | Cursor Docs",
+      "snippet": "Ultra $200/mo Included. It costs ₹649 per month, tax inclusive, billed monthly in INR with UPI, credit card, or debit card."
+    },
+    {
+      "link": "https://www.reddit.com/r/cursor/comments/1oudv7c/which_cursor_plan_is_actually_worth_it_and_doesnt/",
+      "title": "Which Cursor plan is actually worth it and doesn't hit limits ...",
+      "snippet": "I’ve been using Cursor a lot lately and I’m starting to hit the daily limits or queue delays pretty often — especially when working on big projects. ..."
+    },
+    {
+      "link": "https://forum.cursor.com/t/what-is-the-credit-limit-for-free-plan/152631",
+      "title": "What is the credit limit for free plan? - Help",
+      "snippet": "There are no publicly stated limits for the Hobby plan at the moment. Last May they stated 500 free requests/month, usage on the Dashboard"
+    },
+    {
+      "link": "https://www.vantage.sh/blog/cursor-pricing-explained",
+      "title": "Cursor Pricing Explained 2026 - Vantage.sh",
+      "snippet": "Both classes have a similar pricing structure: a monthly subscription fee that includes a pool of usage credits, denominated in dollars, for AI ..."
+    },
+    {
+      "link": "https://cursor.com/help/grok-bot/plans",
+      "title": "Plans and billing | Cursor Docs",
+      "snippet": "The trial is a usage credit, so a large or long-running agent task can use most or all of it at once. This is expected, and used trial credit is not restored ..."
+    },
+    {
+      "link": "https://cursor.com/blog/teams-pricing-june-2026",
+      "title": "Improvements to Teams Pricing",
+      "snippet": "$32 per seat per month for annual plans; $40 per seat per month for monthly plans. Premium: 5x the usage of Standard. $96 per seat per month ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/cursor/comments/1m4k9t5/did_i_use_up_all_my_cursor_pro_credits_for_the/",
+      "title": "Did I use up all my Cursor Pro credits for the month?",
+      "snippet": "Please see the attached image. Have I run out of my monthly usage"
+    },
+    {
+      "link": "https://cursor.com/help/account-and-billing/billing",
+      "title": "Billing and payments | Cursor Docs",
+      "snippet": "How does my billing cycle work? Your cycle starts on the date you subscribe. · When does included usage reset? Included usage resets with your billing cycle."
+    },
+    {
+      "link": "https://www.finout.io/blog/what-happened-to-cursor-pricing-2026-guide-5-cost-cutting-tips",
+      "title": "What Happened to Cursor Pricing? 2026 Guide & 5 Cost ...",
+      "snippet": "Annual billing saves approximately 20% across paid individual plans and Teams seats. The Standard Teams seat drops from $40/month to $32/month, and the Premium ..."
+    }
+  ]
+}

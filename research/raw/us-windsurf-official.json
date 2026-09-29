@@ -1,0 +1,89 @@
+{
+  "id": "WPELgph6n577uNH5gjgwqP",
+  "message_id": "01d70b75-9326-436b-a6e8-fca856ac50aa",
+  "answer": "Windsurfの2026年の料金プランについて、Proプランの価格、月間クレジット、公式情報をまとめてご説明します。\n\nまず、Windsurfは2026年3月に料金体系を大きく変更しました。従来の月間クレジットプール方式から、日次および週次のクォータ（利用枠）方式へ移行しています。この変更により、ユーザーは月単位で一括してクレジットを使い切るのではなく、日次や週次のサイクルで利用量がリセットされる仕組みになりました。\n\nProプランについて、公式の料金は月額20ドル（約2,900円）です。この価格は2026年3月の改定で、従来の15ドルから値上げされました。月間クレジットについては、改定前は500クレジットが含まれていましたが、新体系では日次および週次のクォータ方式に変わっています。具体的には、Proプランでは標準的な日次・週次クォータが設定されており、タブ補完（オートコンプリート）は全プランで無制限です。\n\n公式情報として、Windsurfの公式ブログおよびX（旧Twitter）投稿で、新料金体系が確認されています。2026年7月時点の公式サイト（windsurf.com/pricing）によると、Proプランは月額20ドル、Maxプランは月額200ドル、Teamsプランはユーザーあたり月額40ドル、Enterpriseプランはカスタム価格となっています。Freeプランは無料で、限定的な日次・週次クォータが提供されます。\n\n\n\nProプランの主な特徴として、標準的な日次・週次クォータ、Windsurf独自のSWEモデルへのアクセス、クラウドセッション（バックグラウンド作業用）が含まれます。また、タブ補完は無制限で、クレジットを消費しません。Proプランは、ソロ開発者やフリーランサーに最適とされており、1日4〜6時間コーディングするユーザーが、独自モデルを中心に使い、フロンティアモデル（Claude、GPT、Geminiなど）を選択的に利用する場合に持続可能とされています。\n\n\n\nなお、検索結果によっては、Proプランの価格が15ドルと記載されているものもありますが、これは2026年3月の改定前の情報、または改定直後の一時的な情報です。公式の最新情報（2026年7月時点）では、Proプランは月額20ドルに統一されています。また、Teamsプランはユーザーあたり月額40ドルで、Proの機能に加えて、集中管理請求、管理者向け分析、優先サポートが含まれますが、SSO（シングルサインオン）やSCIM（システム・フォー・クロスドメイン・アイデンティティ管理）はEnterpriseプランのみで提供されます。\n\n\n\nクレジットの消費方法について、Windsurfではモデルによって異なります：独自モデル（SWE-1、SWE-1 Lite）はプロンプトあたりの定額クレジット消費、または0クレジット（無料）の場合があります。一方、サードパーティモデル（Claude、GPT、Geminiなど）はトークン基準の課金で、モデルプロバイダーのAPI価格に20%のマージンを加えた形でクレジットに換算されます。例えば、Claude Sonnetは入力100万トークンあたり3.60ドル、出力100万トークンあたり18ドルに相当します。このため、同じプロンプト数でも、選択するモデルによってクレジット消費量が大きく異なります。\n\n\n\n追加クレジットの購入について、Proプランでは250クレジットあたり10ドルで購入可能です（改定前の情報ですが、新体系でも同様の追加購入オプションが提供されています）。Teamsプランでは、追加クレジットはチーム全体で共有されるプールとして、1000クレジットあたり120ドルで購入できます（公式のプラン・アンド・ユーセージ情報による）。また、自動補充機能があり、Proでは10ドル単位、Teams/Enterpriseでは40ドル単位で自動的にクレジットが補充され、月間予算上限を設定できます。\n\n\n\n\n\nまとめますと、Windsurfの2026年のProプランは、公式には月額20ドルで、日次・週次クォータ方式を採用しており、タブ補完は無制限、独自モデルへのアクセス、クラウドセッションが含まれます。月間クレジットという概念は、2026年3月の改定で廃止され、日次・週次の利用枠に置き換わりましたが、改定前は500クレジットが含まれていました。追加クレジットは、Proでは250クレジットあたり10ドルで購入可能です。価格やクォータの詳細は、公式サイト（windsurf.com/pricing）で最新情報を確認することをお勧めします。",
+  "query_analysis": {
+    "queries": [
+      "Windsurf official pricing 2026",
+      "Windsurf 2026 pricing plans",
+      "Windsurf Pro Power USD monthly credits"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://www.cloudzero.com/blog/windsurf-pricing/",
+      "title": "Windsurf Pricing In 2026: Plans, Quotas, And More",
+      "snippet": "Windsurf pricing changed in March 2026. Credits are gone, quotas are in. Pro costs $20/month, Max costs $200/month, Teams is $40/user/month, and ..."
+    },
+    {
+      "link": "https://www.jetadmin.io/blog/windsurf-pricing-guide-complete-cost-breakdown-and-plan-comparison-july-2026/",
+      "title": "Windsurf Pricing Guide: Complete Cost Breakdown and ...",
+      "snippet": "Windsurf AI offers four pricing plans as of July 2026: Free, Pro, Teams, and Enterprise. Free $0/month 25 credits/month. Pro $20/month 500 ..."
+    },
+    {
+      "link": "https://modelence.com/compare/windsurf-pricing",
+      "title": "Windsurf Pricing Guide: How It Compares to Modelence",
+      "snippet": "On March 19, 2026, Windsurf replaced monthly credits with daily and weekly usage quotas. At launch, Pro rose from $15 to $20/month, Teams from ..."
+    },
+    {
+      "link": "https://uibakery.io/blog/windsurf-vs-cursor-pricing",
+      "title": "Windsurf vs Cursor Pricing (2026): Plans, Costs, and Key ...",
+      "snippet": "Windsurf offers a free plan with limited prompt credits and a Pro plan starting at $15 per month. Team plans cost $30 per user per month, while ..."
+    },
+    {
+      "link": "https://flexprice.io/blog/windsurf-ai-pricing-breakdown",
+      "title": "Detailed Windsurf AI Pricing Analysis and Plan Comparison",
+      "snippet": "Windsurf AI uses a monthly plan + credits system. 1 credit = $0.04. Pro ($15) → 500 credits/month (~$20 value), Windsurf offers four monthly ..."
+    },
+    {
+      "link": "https://www.layer3labs.io/guides/windsurf-pricing",
+      "title": "Windsurf Pricing (2026): Plans, Quotas & Team Cost",
+      "snippet": "As of July 2026, plans range from Free to Pro at $20 per month, Max at $200 per month, Teams at $40 per user per month, and custom-priced ..."
+    },
+    {
+      "link": "https://www.verdent.ai/guides/windsurf-pricing-2026",
+      "title": "Windsurf Pricing 2026: Plans, Quotas & What Changed",
+      "snippet": "The new quota-based pricing ($20/$40/$200) is confirmed via Windsurf's official blog announcement and their X post. All numbers in this article ..."
+    },
+    {
+      "link": "https://checkthat.ai/brands/windsurf/pricing",
+      "title": "Windsurf Pricing 2026: Plans, Credits & Real Costs",
+      "snippet": "Overview: At $15/month with 500 credits, Pro is Windsurf's individual developer tier. A 2-week trial with 100 credits is available without ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/windsurf/comments/1rxii0o/introducing_our_new_windsurf_pricing_plans/",
+      "title": "Introducing our new Windsurf pricing plans",
+      "snippet": "The new plans replace credits with industry-standard daily and weekly quotas. 500 credits/mo (Pro plan) for $15. Windsurf was quite good with ..."
+    },
+    {
+      "link": "https://devin.ai/blog/windsurf-pricing-plans",
+      "title": "Introducing our new Windsurf pricing plans",
+      "snippet": "The plans will go into effect on Thursday, March 19th, 2026. Free Pro Teams Max (NEW) $0 / mo $20 / mo $40 / seat / mo $200 / mo Everything in Free, plus: ..."
+    },
+    {
+      "link": "https://www.linkedin.com/posts/samgregorydigital_windsurf-just-changed-the-game-with-credits-activity-7320700833535344640-EV9j",
+      "title": "Windsurf just changed the game with credits. While tbh I've ...",
+      "snippet": "The Pro plan stays at $15/month for 500 prompt credits, with all the features you love. Or, grab 250 credits for just $10 – and unused credits ..."
+    },
+    {
+      "link": "https://coworker.ai/blog/windsurf-pricing",
+      "title": "Windsurf Pricing in 2026: What It Costs",
+      "snippet": "Free is $0, Pro is $20/month, Max is $200/month, and Teams has an $80/month minimum with full seats at $40/month each. Enterprise is priced on ..."
+    },
+    {
+      "link": "https://www.nocode.mba/articles/windsurf-pricing",
+      "title": "Windsurf Pricing 2026: Plans, Quotas & Real Costs ...",
+      "snippet": "Five plans: Free ($0, limited daily quota), Pro ($20/month, standard quotas), Max ($200/month, highest quotas), Teams ($40/user/month, ..."
+    },
+    {
+      "link": "https://docs.devin.ai/desktop/accounts/usage",
+      "title": "Plans and Usage",
+      "snippet": "Additional credits are purchased within and treated as a pool amongst all members of the team at a rate of $120 for 1000 pooled credits."
+    },
+    {
+      "link": "https://www.reddit.com/r/windsurf/comments/1s1es3f/windsurf_is_simply_destroying_its_reputation_with/",
+      "title": "Windsurf is simply destroying its reputation with these ...",
+      "snippet": "Since the update, costs have exploded. Yesterday alone, I spent $80 for just 5 to 10 small prompts, things that used to cost a fraction of that."
+    }
+  ]
+}

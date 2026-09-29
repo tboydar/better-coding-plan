@@ -1,0 +1,136 @@
+{
+  "id": "9PcnLiBbKt8VPdtTEYQrX3",
+  "message_id": "232cd8ca-4d23-4077-9098-d244f1d94ddf",
+  "answer": "Sourcegraph Amp 在2026年的定价和方案体系经历了多次调整，目前的核心情况如下。\n\n首先需要明确的是，Amp 已经从 Sourcegraph 中独立出来，成为一家名为 Amp Frontier Corporation 的独立公司，这一分拆发生在2025年12月2日。因此，你现在看到的 Amp 定价和方案，是由这家独立公司运营的，而不是 Sourcegraph 本身。\n\n关于免费方案，Amp 曾经在2025年10月推出过一个由广告和训练数据支持的免费层级，但这一模式在2026年中期已经被暂停。Sourcegraph 表示不打算恢复这个免费层级。不过，一些在暂停前已经存在的账户可能仍然保留着每日免费信用额度的赠予，但这个额度对于不活跃用户和旧客户端正在缩减，所以你应该把它当作一个额外的奖励，而不是一个可靠的方案。新的用户不应该指望这个免费额度。\n\n目前 Amp 的主要付费方式是 Amp Smart，这是一种按使用量计费的模式，没有订阅费用。它的定价基于模型列表价格，对个人和团队没有加价，并且会提供一些起始信用额度，让你在付费前先衡量自己的使用量。小任务可能只需要几美分，而涉及子代理和 Oracle 调用的长时间重构任务，费用可能达到几美元。Amp Smart 不训练你的代码，这是它当前所有层级都适用的政策。\n\n除了按量计费的 Smart 模式，Amp 在2026年7月还推出了订阅制的测试方案。根据当时的公告，有两个层级：一个是每月20美元的方案，包含750小时的小型 Orb 使用时间和20美元的代理使用额度，仅支持低和中等执行模式；另一个是每月200美元的 Gigawatt 方案，包含1000小时的大型 Orb 使用时间和200美元的使用额度，支持所有执行模式。超出这些额度后，使用量会链接到 ChatGPT 订阅或付费信用额度，同时按量计费的 API 价格仍然可用。需要注意的是，这些订阅方案的具体细节可能会随着时间变化，而且有用户反映，仅仅一天的使用就可能花费40美元，所以实际成本可能相当高。\n\n关于 Orb，这是 Amp 对临时远程虚拟机的称呼。Orb 允许你在远程机器上运行编码代理，通过网页、手机或命令行进行控制。你可以分享应用预览，与队友协作。在2026年7月的更新中，Amp 引入了四种执行模式，分别是低、中、高和超高，以及三种执行器放置选项：本地、Orb 或指定的命名运行器机器。这意味着一个入站的 HTTP 请求可以在云虚拟机、开发者自己的笔记本电脑或任何指定的机器上启动计算。\n\n关于信用额度和成本控制，Amp 的自主调度功能没有文档化的唤醒频率上限，这意味着你的订阅额度是唯一可见的硬性上限。因此，如果你使用自调度代理，必须谨慎设置预算，并监控消耗速率，而不仅仅是余额。Amp 还引入了 OIDC 工作负载身份，用短期、范围受限的令牌取代了注入的静态密钥，用于 Orb 调用其他服务，这增强了安全性。\n\n关于企业方案，有第三方评论网站报告 Sourcegraph Enterprise 的价格大约是每个用户每月59美元，按年合同计算，但这个价格是针对 Cody 的，而不是 Amp。Amp 的企业版可能有所不同，你需要直接联系 Amp Frontier Corporation 获取准确的报价。另外，有信息显示，Sourcegraph 的云交易中，10到50人的团队通常协商的价格范围是每个用户每月60到90美元，但这同样可能不直接适用于 Amp。\n\n最后，关于替代方案，由于 Amp Free 已暂停，如果你需要零成本的代理，可以考虑 FreeBuff，这是一个由文本广告资助的免费代理。其他选项包括 OpenCode，它允许你自带 API 密钥或使用廉价模型自托管，以及 Claude Code、Codex CLI 和 GitHub Copilot 等供应商锁定的工具。\n\n总结来说，Amp 在2026年的定价核心是按量计费的 Smart 模式，辅以测试中的订阅方案，免费层级已暂停。Orb 是它的远程执行环境，而 Megawatt 是其中一个订阅层级的名称。如果你考虑使用，务必先监控一周的使用量，以了解你的实际工作负载成本，并注意自主代理可能带来的预算风险。",
+  "query_analysis": {
+    "queries": [
+      "Sourcegraph Amp 2026 plans",
+      "Sourcegraph Amp 2026 Agent Orb Megawatt month",
+      "Sourcegraph Amp 2026 pricing",
+      "Sourcegraph Amp 2026 credits",
+      "Sourcegraph Amp 2026 plans pricing credits"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://ampcode.com/",
+      "title": "Amp: Coding agent and dev environment built for the frontier",
+      "snippet": "Amp is a coding agent and development environment built for the frontier. You can build anything in Amp, in orbs. Amp September 25, 2026 Less Noise. September ..."
+    },
+    {
+      "link": "https://www.promptquorum.com/power-local-llm/sourcegraph-cody-review",
+      "title": "Cody Review 2026: Enterprise-Only Since the Amp Spin-Off",
+      "snippet": "Sourcegraph Cody stopped free/individual signups in mid-2025 and is now enterprise-only, reportedly around $59/user/month. Sourcegraph's Amp ..."
+    },
+    {
+      "link": "https://medium.com/@focusfaithfirst/sourcegraph-amp-a-practical-guide-for-leaders-who-care-about-speed-safety-and-control-65681f0cf2c6",
+      "title": "Sourcegraph AMP: a practical guide for leaders who care ...",
+      "snippet": "AMP is Sourcegraph's agentic coding tool that can plan, execute multi-step tasks, edit code across your repo(s), run commands/tests, and iterate"
+    },
+    {
+      "link": "https://www.bitdoze.com/amp-code-free-ai-coding-agent/",
+      "title": "Amp Code Free Is Paused: What It Was and What to Use ...",
+      "snippet": "In March 2026 it dropped the ads too and switched to a daily free-credit grant. By mid-2026 the free tier was paused outright, with Sourcegraph ..."
+    },
+    {
+      "link": "https://www.linkedin.com/posts/jonathan-raney-1a07756b_amp-ai-coding-activity-7355693581140938752-yq8z",
+      "title": "Amp: Building new features, free credits, and best models",
+      "snippet": "While everyone else is either rolling back functionality or changing pricing commitments, our team here at Amp (Sourcegraph) is building new"
+    },
+    {
+      "link": "https://www.digitalapplied.com/blog/amp-event-driven-orbs-self-scheduling-agents-2026",
+      "title": "Amp Turned Agents Into Always-On Services This Week",
+      "snippet": "Amp's subscription beta (July 18): Megawatt at $20/month — 750 hours of small orbs, $20 of included agent usage, low and medium modes only"
+    },
+    {
+      "link": "https://x.com/AmpCode",
+      "title": "Amp (@AmpCode) / X",
+      "snippet": "Amp is the coding agent and development environment that runs anywhere and everywhere. or in orbs. up to 40% faster. We rebuilt Amp last month to make this ..."
+    },
+    {
+      "link": "https://sourcegraph.com/blog/why-sourcegraph-and-amp-are-becoming-independent-companies",
+      "title": "Why Sourcegraph and Amp are becoming independent ...",
+      "snippet": "Sourcegraph and Amp are becoming two separate companies, pushing the frontier of software development in code search and coding agents, ..."
+    },
+    {
+      "link": "https://www.g2.com/products/amp-code-amp/reviews",
+      "title": "Amp Reviews 2026: Details, Pricing, & Features",
+      "snippet": "Sourcegraph's AI code assistant goes beyond individual dev productivity ... Pricing provided by Amp. Enterprise. $59.00. 1 User Per Year. View More ..."
+    },
+    {
+      "link": "https://tessl.io/blog/sourcegraph-spins-out-ai-coding-agent-amp-as-a-standalone-company",
+      "title": "Sourcegraph spins out AI coding agent Amp as a ...",
+      "snippet": "Sourcegraph has announced that it's spinning out Amp, its AI coding agent product, into an independent company."
+    },
+    {
+      "link": "https://isaacflath.com/writing/inside-amp-code-how-sourcegraph-is-building-ai-powered-development",
+      "title": "Inside Amp Code How Sourcegraph Is Building AI ...",
+      "snippet": "Amp builds community. It offers free credits to students in our upcoming AI coding course and supports OSS creators. · Amp supports open-source ..."
+    },
+    {
+      "link": "https://skywork.ai/skypage/en/ultimate-guide-amp-ai-coding/2044314087912464384",
+      "title": "The Ultimate Guide to Amp (Sourcegraph)",
+      "snippet": "Amp is designed for autonomous reasoning, comprehensive code editing, and complex task execution across entire codebases. It will present an ..."
+    },
+    {
+      "link": "https://sourcegraph.com/pricing",
+      "title": "Pricing",
+      "snippet": "Starting at $16K Minimum annual contract. Includes credits for AI features; scales with team size. Works with Claude Code, Cursor, Codex, Amp, and more ..."
+    },
+    {
+      "link": "https://sourcegraph.com/blog/agentic-coding",
+      "title": "Agentic Coding in 2026: A Practical Guide for Big Code",
+      "snippet": "Sourcegraph's CodeScaleBench work focuses on measuring how agents perform on large-codebase and multi-repo tasks, where retrieval quality ..."
+    },
+    {
+      "link": "https://www.vendr.com/marketplace/sourcegraph",
+      "title": "Sourcegraph Software Pricing & Plans 2026: See Your Cost",
+      "snippet": "Based on Sourcegraph Cloud transactions in Vendr's database, teams with 10–50 users often negotiate pricing in the range of $60–$90 per user per month for ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/AmpCode/rising/",
+      "title": "r/AmpCode",
+      "snippet": "I've been subscriber, and I've got some gift subscriptions (free month of Amp Megawatt) to share! Here are a few: 01: https://ampcode.com/code/AMP-GIFT- ..."
+    },
+    {
+      "link": "https://ampcode.com/news/free-agent",
+      "title": "Free Agent - Amp Code",
+      "snippet": "Amp is now free to use when you bring your own compute and model subscriptions/keys. No monthly plan is required anymore to use your ChatGPT ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/sourcegraph/comments/1mxhyo7/any_plans_of_launching_a_subscription_plan_for_amp/",
+      "title": "Any plans of launching a subscription plan for amp?",
+      "snippet": "I really like AMP. It is fast, it self-corrects itself and I feel it holds context for a longer time than other similar agents. However, as a solo developer, ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/cursor/comments/1kpin6e/tried_amp_sourcegraphs_new_ai_coding_agent_heres/",
+      "title": "Tried Amp, Sourcegraph's new AI coding agent",
+      "snippet": "just one simple day of use of AMP cost me $40. using AMP every day would cost me more than $10K a year"
+    },
+    {
+      "link": "https://medium.com/@brendan.bohan/hunting-for-my-next-agent-my-top-five-favorite-features-of-sourcegraph-amp-32b571f53f6f",
+      "title": "My Top Five Favorite Features of SourceGraph Amp",
+      "snippet": "Hunting for My Next Agent: My Top Five Favorite Features of SourceGraph Amp I, as many other people have, am trying my hand at agents."
+    },
+    {
+      "link": "https://tessl.io/blog/amp-s-new-business-model-ad-supported-ai-coding",
+      "title": "Amp's new business model? Ad-supported AI coding",
+      "snippet": "Amp is testing whether an ad-supported, data-sharing business model can work in software development."
+    },
+    {
+      "link": "https://sourcegraph.com/",
+      "title": "Sourcegraph: Code Understanding, Oversight and Evolution",
+      "snippet": "Give humans and agents complete context to understand, oversee, and evolve the world's largest, most complex codebases."
+    },
+    {
+      "link": "https://ai.engineer/orgs/sourcegraph-amp",
+      "title": "Sourcegraph/Amp: Code Search and Coding Agents",
+      "snippet": "Amp's Orbs run coding agents on remote machines controlled through the web, phone or CLI. Developers can share application previews, collaborate with teammates,"
+    },
+    {
+      "link": "https://sourcegraph.com/changelog",
+      "title": "Changelog",
+      "snippet": "Visit Enterprise Portal to learn more about this feature's credits usage, or see the documentation. Read more. Aug 17, 2026. August 17th updates. See what ..."
+    }
+  ]
+}

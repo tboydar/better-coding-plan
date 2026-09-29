@@ -1,0 +1,113 @@
+{
+  "id": "fpGgmXeVbrpXbs9SpPU46R",
+  "message_id": "5e718472-2146-4a83-9b42-61c10c99e7a0",
+  "answer": "根據搜尋結果，2026年台灣的AI程式開發訂閱方案價格資訊較為分散，且多數方案並非以新台幣直接計價，而是以美元計價。以下整理出與台灣使用者相關的資訊，並說明各方案的價格與特性。\n\n\n\n首先，關於Google的AI訂閱方案，搜尋結果提到Google AI Pro在台灣的月費為新台幣650元，這個方案可以與最多六人共享，平均每人每月約新台幣110元，並包含YouTube Premium Lite以及5TB的雲端儲存空間，同時提供Deep Research、NotebookLM以及100萬字的長上下文功能。這個方案也提供較高的代理模型使用額度，可用於Google的代理開發平台Antigravity。需要注意的是，這個方案在公開預覽階段沒有零保留的隱私保證，程式碼可能被用於訓練或由人工審查，因此不建議用於處理機密工作。\n\n\n\n\n\n其次，關於其他AI程式開發訂閱方案，搜尋結果中提到的方案多以美元計價，例如MiniMax Token Plan每月20美元起，Xiaomi MiMo Token Plan每月6美元起，GLM Coding Plan則有Lite每月18美元、Pro每月80美元、Max每月168美元等不同等級，這些價格換算成新台幣會隨匯率波動，且這些方案主要針對開發者工具與API使用，並非直接以新台幣標價。此外，GitHub Copilot已改為用量計費模式，費用變得不確定，而Claude的訂閱方案則與聊天和程式開發共用額度，但搜尋結果中未提供台灣地區的具體新台幣價格。\n\n\n\n\n\n\n\n值得注意的是，搜尋結果中並未提供一個完整的、以新台幣計價的台灣AI程式開發訂閱方案比較表，多數國際服務的價格仍以美元為基準，台灣使用者需自行換算或參考各服務的台灣官網公告。若以Google AI Pro為例，新台幣650元的月費在台灣市場中屬於相對明確的價格，而其他方案則需依賴美元價格與即時匯率進行估算，建議在訂閱前直接查閱各服務的最新官方定價，因為AI產業價格變動快速，搜尋結果中的數字可能已經過時。",
+  "query_analysis": {
+    "queries": [
+      "台灣 訂閱方案 比較 月費",
+      "2026 Taiwan AI coding plan pricing NTD"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://www.cw.com.tw/article/5140534",
+      "title": "2026 Netflix價格、共享方案、怎麼用最划算？最新規則與常見 ...",
+      "snippet": "在台灣,Netflix 目前提供三種主要訂閱方案,採月費制收費,會依註冊日期每月自動扣款,且可隨時升降方案或取消訂閱。 基本方案每月290 元"
+    },
+    {
+      "link": "https://wellstsai.com/en/post/ai-subscription-shakeout-2026-claude/",
+      "title": "Best AI Subscription 2026 Is Claude, Not ChatGPT or Gemini",
+      "snippet": "Jul 10, 2026 - Google AI Pro is TWD 650/month in Taiwan, one subscription can be ... Claude subscription plans and pricing - Anthropic · Use Claude Code ..."
+    },
+    {
+      "link": "https://benic360.com/cheapest-way-to-get-netflix-subscription/",
+      "title": "Netflix 最便宜月費省錢方案購買教學，最低不到140元(土耳其)",
+      "snippet": "台灣Netflix 標準方案(Standard)：NT$380/月. 目前全世界Netflix 最便宜可訂閱的方案是在「土耳其」，因此不論你身在任何國家，只要透過 ..."
+    },
+    {
+      "link": "https://www.onion-net.com.tw/news_detail/netflix-price",
+      "title": "Netflix 方案多少錢？最新費用比較、畫質與同時觀看人數一次 ...",
+      "snippet": "以高級方案來說，官方月費是NT$ 460，而在Flixseek 上訂閱的話，月費約美金6.99 元(折合新台幣約NT$227 元)。使用洋蔥網通的專屬優惠碼，還能再享有95 折 ..."
+    },
+    {
+      "link": "https://canopywave.com/blog/best-ai-coding-plans-2026-pricing-limits-use-cases",
+      "title": "Best AI Coding Plans in 2026: Pricing & Limits Compared",
+      "snippet": "Jul 17, 2026 - AI Coding Plans at a Glance ; MiniMax Token Plan, $20/month, Monthly token allowance ; Xiaomi MiMo Token Plan, $6/month, Monthly credits ; GLM ..."
+    },
+    {
+      "link": "https://today.line.me/tw/v3/article/BEWkajn",
+      "title": "與好友共享Netflix！方案費用最低每人百元有找、信用卡優惠 ...",
+      "snippet": "Netflix 最新的訂閱方案，分為基本（720p）、標準（1080p）及高級（4K）三種畫質，月費依序為每月290 元、每月380 元及每月460 元。新增成員的部分，除了 ..."
+    },
+    {
+      "link": "https://www.cardu.com.tw/epoint/detail.php?33410",
+      "title": "2026Netflix收費懶人包》一篇搞懂最新方案、刷卡優惠",
+      "snippet": "Netflix方案簡介(非同住者) · 基本方案：每月月費為新台幣290元。 · 標準方案：每月月費為新台幣380元，可新增額外成員1人，須每月多付100元台幣。。 · 高級 ..."
+    },
+    {
+      "link": "https://kilo.ai/articles/best-ai-subscription-for-coding",
+      "title": "Which AI Subscription Is Best for Coding in 2026?",
+      "snippet": "Jun 26, 2026 - If you search for the best AI subscription for coding, you'll find a list of monthly plans: ChatGPT Plus/Pro, Claude Pro/Max, GitHub Copilot, ..."
+    },
+    {
+      "link": "https://help.netflix.com/zh-tw/node/41049",
+      "title": "收費和付款",
+      "snippet": "檢視您的方案及月費. 您可以在付款記錄頁面看到過去的收費細項。視您的居住地而定，可能還會看到內含的所有適用稅金。 您可以比較方案與價格，並隨時更換方案。 了解您 ..."
+    },
+    {
+      "link": "https://www.morphllm.com/ai-coding-costs",
+      "title": "AI Coding Costs (2026): Claude vs Codex vs Gemini ... - Morph",
+      "snippet": "AI coding costs about $13 per developer per active day and $150 to $250 per developer per month on Claude Code, per Anthropic's own enterprise figures, ..."
+    },
+    {
+      "link": "https://getdx.com/blog/ai-coding-assistant-pricing/",
+      "title": "AI coding assistant pricing and ROI guide (2026)",
+      "snippet": "Jun 12, 2026 - Promotional credits are currently masking the true cost: Business plans receive an extra $30/user/mo and Enterprise plans an extra $70/user/mo ..."
+    },
+    {
+      "link": "https://www.money101.com.tw/blog/netflix-%E8%A9%A6%E7%94%A8-%E6%96%B9%E6%A1%88-%E8%B2%BB%E7%94%A8-%E7%95%AB%E8%B3%AA-%E8%A8%BB%E5%86%8A",
+      "title": "2026 Netflix 方案有哪些？每月費用多少？家庭 ...",
+      "snippet": "Netflix 方案有哪些？ ; Netflix 方案價格 ; 方案, 基本方案, 標準方案 ; 月費, 290 元, 380 元 ; 適合族群, 單人使用, 情侶/小家庭 ; 最高畫質, 720p, 1080p ..."
+    },
+    {
+      "link": "https://dcb.oppay.tw/digitalservices/netflixsubscribe",
+      "title": "Netflix 大哥付隨帳收| 台灣大哥大",
+      "snippet": "透過台哥大旗下隨帳收訂閱Netflix，電信用戶獨享年訂優惠，標準方案每月只要350 元，高級方案每月420 元，免綁信用卡、隨電信帳單代收，長期追劇最超值的選擇。 透過隨帳收 ..."
+    },
+    {
+      "link": "https://netflix.taiwanmobile.com/",
+      "title": "台灣大哥大Netflix官方網站",
+      "snippet": "辦12個月方案,輕鬆綁定帳號・ 登記享首月月租8% mo幣回饋! 影音多享年訂案首月狂享12% mo幣回饋! 訂閱方案帳・ 訂閱哪些Netflix方案?"
+    },
+    {
+      "link": "https://tokencost.app/blog/ai-coding-model-pricing-2026",
+      "title": "AI Coding Model Pricing 2026: A 17x Output-Cost Spread",
+      "snippet": "Jul 24, 2026 - Dedicated coding models cost $0.80 to $14 per million output in July 2026. Qwen3 Coder Next, KAT-Coder, GLM-5.2, Kimi K2.7, GPT-5.3 Codex ..."
+    },
+    {
+      "link": "https://codingplan.org/en",
+      "title": "AI Coding Plan Comparison 2026 - Claude, GLM, MiniMax ...",
+      "snippet": "5 days ago - What is the latest GLM Coding Plan pricing? GLM Coding Plan charges Lite $18/mo ($12.6/mo yearly), Pro $80/mo ($56/mo yearly), Max $168/mo ($ ..."
+    },
+    {
+      "link": "https://www.threads.com/@chusister_elf/post/DCOofI-hHN4",
+      "title": "Netflix你會不會太扯…最新訂閱價格◆基本：每月270元→ ...",
+      "snippet": "Netflix你會不會太扯…最新訂閱價格◇基本：每月270元→290元◇標準：每月330元→380元（1080P/同時2裝置） ..."
+    },
+    {
+      "link": "https://www.meta-intelligence.tech/en/insight-ai-subsidies-taiwan",
+      "title": "Taiwan AI Subsidies 2026 | MI - 超智諮詢",
+      "snippet": "Feb 6, 2026 - In FY 2023 (ROC 112), the AI Action Plan 2.0 had an allocated budget of NT$13.114 billion and actual expenditures of NT$13.048 billion — an ..."
+    },
+    {
+      "link": "https://jia.je/kb/en/software/coding_plan.html",
+      "title": "AI Coding Plan - Jiegec's Knowledge Base",
+      "snippet": "Professional Plan: 1 RMB/100 Credits per month, minimum purchase 50K Credits (500 RMB/month); available model library (varies slightly by region, Guangzhou more ..."
+    },
+    {
+      "link": "https://taiwan.acclime.com/news/digital-transformation-policies-for-international-businesses-2026/",
+      "title": "Taiwan's 2026 Digital Transformation Policies for ...",
+      "snippet": "Aug 3, 2026 - The AI Basic Act sets a compliance timeline for AI systems while the Ten AI Initiatives Promotion Plan opens up new investment channels."
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "id": "edmsoWAoH8A5Z4cjkAUg45",
+  "message_id": "fbcb2b23-d111-4270-acbf-52ae85da0307",
+  "answer": "根据搜索结果，2026年MiniMax的编码计划（Coding Plan）已经演变为Token Plan，其价格、配额和模型覆盖情况如下。\n\n首先需要说明的是，MiniMax在2026年将原有的Coding Plan升级为Token Plan，这是一个重要的变化。Token Plan不仅覆盖编码用途，还扩展到多模态功能，包括文本、图像、语音和音乐等，所有使用共享同一个配额池。这意味着，如果你同时使用编码代理和多模态功能，消耗会更快，这一点在多个来源中都有提及，例如有用户警告说，不要为编码代理购买新的20美元“17亿Token”计划，因为这是一个巨大的计费陷阱，原因就在于多模态和编码共享配额会导致额度更快耗尽。\n\n\n\n关于价格，Token Plan目前提供三个国际订阅档次：Plus每月22美元，Max每月55美元，Ultra每月132美元，按年付费有折扣，例如Plus按年约合每月18.3美元，Max约合每月45.8美元，Ultra约合每月110美元，这些价格在多个官方文档和第三方评测中都有记录，例如有来源列出Plus 22美元、Max 55美元、Ultra 132美元，也有来源提到Plus 20美元、Max 50美元、Ultra 130美元，价格略有差异可能是因为促销或地区定价不同，但主流价格区间是20至22美元起步，最高档在130至132美元左右，另外还有中国区定价，例如Plus每月49元人民币，Max每月119元人民币，Ultra每月490元人民币按年付费，这些价格在中文来源中有详细列出，同时也有首月优惠活动，例如首次购买可享80%折扣，只需2美元即可获得，或者中国区Starter版每月29元人民币，首月9.9元人民币，这些促销信息在多个来源中都有出现，但需要注意促销活动可能随时变化，建议以官方页面为准\n\n\n\n关于配额，Token Plan的配额采用5小时滚动窗口和每周窗口两种机制，而不是简单的月度总量，这是理解配额的关键，例如Plus档在5小时窗口内大约有4500次提示请求，Max档大约有15000次，Ultra档大约有45000次，这些数字在多个来源中都有提及，例如有来源提到Plus档4500次每5小时，Max档15000次，Ultra档45000次，也有来源提到Plus档约1200至1600次API请求等效，但具体数字可能因模型和用量而不同，因为不同模型消耗配额的速度不同，高级模型消耗更快，例如M3或M2.7的消耗系数可能高于基础模型，所以提示次数不是固定值，而是根据模型类型和输入输出token数动态计算，另外配额不会结转到下个计费周期，未使用的配额会过期，这一点在官方文档中有明确说明，同时当配额用尽后，你可以选择购买额外的Credits积分，或者升级订阅，或者切换到按量付费模式，或者等待窗口重置，这些选项在官方文档中都有详细描述\n\n\n\n关于模型覆盖，Token Plan支持MiniMax全系列模型，包括最新的M3、M2.7、M2.5、M2.1等编码和代理模型，以及图像、语音、音乐等多模态模型，但有一小部分特殊模型不在支持范围内，例如MiniMax H3、语音设计、快速语音克隆等，这些在官方文档中有明确列出，另外需要注意，在2026年2月时，Coding Plan（即Token Plan前身）可能由M2.1驱动，而不是最新的M2.5，但到了2026年3月M2.7发布后，Token Plan用户自动获得更高推理速度，且价格不变，这一点在官方公告中有提及，所以当前Token Plan用户应该可以使用M2.7和M3等最新模型，但具体可用模型列表建议查看官方文档，因为模型覆盖可能随计划调整而变化\n\n\n\n关于M2系列模型本身，MiniMax-M2是一个专为编码和代理工作流设计的模型，采用MoE混合专家架构，总参数约229.9B，但每个token只激活约9.8B参数，这种设计使得它在保持高性能的同时，推理成本更低，速度更快，M2.1是M2的改进版，优化了多语言编程能力，响应更简洁，token消耗更少，M2.5则被称为“全球首个为Agent场景原生设计的生产级模型”，在编码、工具使用、搜索和办公任务上达到SOTA水平，例如在SWE-Bench上得分80.2%，M2.7是2026年3月发布的旗舰级自进化Agent模型，采用MoE架构，总参数230B，激活参数10B，支持200K超长上下文，在真实软件工程任务中表现出色，包括端到端项目交付、日志分析找bug、代码安全、机器学习任务等，在GDPval-AA上ELO得分1495，是开源模型中最高的，这些模型信息在多个来源中都有详细描述，例如有来源介绍M2.7的自进化能力，有来源分析M2.5的定价优势，有来源对比M2和M2.1的改进，所以如果你关心具体模型性能，这些信息可以作为参考\n\n\n\n关于编码计划的实际使用体验，有几个关键点需要注意，第一，配额机制是滚动窗口制，不是简单的月度总量，所以一个代理在夜间运行重构任务时，可能会在每个步骤重新发送仓库上下文，导致一个提示触发多次模型调用，从而快速耗尽5小时窗口的配额，这一点在第三方评测中有详细分析，第二，不同订阅计划对代理数量有限制，例如Plus档适合3至4个代理，Max档适合4至5个代理，Ultra档适合6至7个代理，这些数字在官方文档中有提及，第三，如果你使用编码代理，建议优化上下文管理，例如只发送git diff的变更行而不是整个文件，或者设置最大上下文token数，这样可以大幅减少token消耗，有案例显示，通过只发送变更上下文，平均每次审查调用的输入token从约14000降至约800，减少了94%，这些优化技巧在第三方技术博客中有详细说明，第四，关于计费陷阱，有用户强烈警告说，不要为编码代理购买20美元的“17亿Token”计划，因为多模态和编码共享配额，且代理工作流会重复发送上下文，导致实际可用量远低于宣传数字，所以如果你主要用途是编码代理，建议仔细评估配额消耗速度，或者考虑按量付费模式，按量付费的价格在官方文档中有列出，例如M2.7的输入价格约0.3美元每百万token，输出价格约1.2美元每百万token，M3的输入价格也是0.3美元每百万token，输出1.2美元每百万token，但具体价格可能随模型和日期调整，例如有公告提到2026年7月22日起API-vlm价格调整为每次调用0.01美元，所以建议查看最新官方定价\n\n\n\n总结来说，2026年MiniMax的编码计划已经整合为Token Plan，价格从每月22美元（Plus档）起步，最高132美元（Ultra档），配额采用5小时滚动窗口制，覆盖M2系列（包括M2.1、M2.5、M2.7）和M3等最新模型，以及多模态功能，但多模态和编码共享配额，且代理工作流消耗快，所以实际可用量需要仔细评估，如果你主要用途是编码代理，建议关注配额消耗优化技巧，或者考虑按量付费模式，同时注意促销活动和价格调整可能随时发生，建议以官方最新信息为准",
+  "query_analysis": {
+    "queries": [
+      "2026 MiniMax coding plan 价格",
+      "2026 MiniMax M2 model coding",
+      "2026 MiniMax M2 模型 编码",
+      "2026 MiniMax coding plan price",
+      "2026 MiniMax coding plan quota",
+      "2026 MiniMax coding plan 配額"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://platform.minimax.io/subscribe/token-plan",
+      "title": "Token Plan - MiniMax API Platform",
+      "snippet": "Plus -$44 $264 $220 Per year, $648 $550 Per year, billed annually Purchase ~5.1B tokens / month of M3 usage. Ultra -$240 $1,560 $1,320 Per year. Starting ..."
+    },
+    {
+      "link": "https://www.minimax.io/models/text/m27",
+      "title": "MiniMax M2.7 - Model Self-Improvement, Driving ...",
+      "snippet": "MiniMax M2.7 Large Language Model, with enhanced capabilities for building complex Agents. Delivers industry-leading coding and reasoning abilities"
+    },
+    {
+      "link": "https://www.minimax.io/",
+      "title": "MiniMax",
+      "snippet": "Coding Mode keeps your code tools handy. The coding harness built for MiniMax models. Agents autonomously plan, execute, and deliver the final output."
+    },
+    {
+      "link": "https://www.verdent.ai/guides/minimax-m2-5-pricing",
+      "title": "MiniMax M2.5: Pricing Breakdown",
+      "snippet": "MiniMax M2.5 starts at $0.15/M — we cut our team's bill from $247 to $20/month. Coding Plan vs pay-as-you-go breakdown."
+    },
+    {
+      "link": "https://www.minimax.io/news/minimax-m27-en",
+      "title": "MiniMax M2.7: Early Echoes of Self-Evolution",
+      "snippet": "M2.7 is our metric analysis, code fixes, merge requests, and smoke tests, identifying and configuring subtle yet key changes. Coding Plan: ..."
+    },
+    {
+      "link": "https://platform.minimax.io/docs/token-plan/intro",
+      "title": "Token Plan Overview - Models - MiniMax API Docs",
+      "snippet": "​. Usage Quota ; Price, $22 /month, $55 /month ; Best for, Personal projects and prototyping, Daily coding with agents and multimodal work ; Quota windows, 5-hour ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2015468530938693485",
+      "title": "程序员的Coding Plan 完整指南（2026年8月16日持续更新）",
+      "snippet": "中国7 大Coding Plan 完整对比指南（火山/ 阿里/ 腾讯/ 百度/ Kimi / 智谱/minimax），并分别列出每个平台的模型、价格、额度、特点。这基本就是目前国内AI Coding ..."
+    },
+    {
+      "link": "https://www.minimax.cn/news/minimax-m21",
+      "title": "MiniMax M2.1: 大幅提升多语言编程，为真实世界复杂任务而生",
+      "snippet": "相比M2, MiniMax-M2.1 的模型回复以及思维链更加简洁, 在实际编程与交互体验中, 响应速度显著提升, Token 消耗明显下降, 在AI Coding与Agent驱动的连续 ..."
+    },
+    {
+      "link": "https://www.augmentcode.com/learn/ai-coding-plans-2026-billing-models",
+      "title": "AI coding plan pricing is the wrong number to compare",
+      "snippet": "2026 covers five AI coding subscriptions: MiniMax, Entry prices run from $6 to $20 per month. MiniMax Token Plan ($20/month): features ..."
+    },
+    {
+      "link": "https://platform.minimax.io/docs/guides/pricing-paygo",
+      "title": "Pay as You Go - Models - MiniMax API Docs",
+      "snippet": "Effective July 22, 2026, the API-vlm price will be adjusted to $0.01 per call. API endpoints and model capabilities remain unchanged — no code changes required."
+    },
+    {
+      "link": "https://arxiv.org/html/2605.26494v2",
+      "title": "The MiniMax-M2 Series: Mini Activations Unleashing Max ...",
+      "snippet": "MiniMax-M2 series, M2 contains 229.9B total parameters with only 9.8B activated per token. tailored for agentic coding, collaborative"
+    },
+    {
+      "link": "https://www.reddit.com/r/MiniMax_AI/comments/1ttirg0/can_someone_explain_how_the_new_token_plan_quota/",
+      "title": "Can someone explain how the new Token Plan Quota ...",
+      "snippet": "DO NOT buy MiniMax's new $20 \"1.7 Billion Token\" plan for coding agents. It's a massive billing trap. 112 upvotes · ..."
+    },
+    {
+      "link": "https://github.com/xiaotiewinner/coding-plan",
+      "title": "2026年6月国内外AI编程工具与Coding Plan订阅方案全景对比",
+      "snippet": "2026年6月国内外AI编程工具与Coding Plan订阅方案全景对比，涵盖MiniMax、Kimi、GLM、Claude、ChatGPT等主流平台的额度、价格、模型性能及性价比分析 ..."
+    },
+    {
+      "link": "https://www.minimax.cn/news/minimax-m2",
+      "title": "MiniMax M2 & Agent，大巧若拙",
+      "snippet": "MiniMax M2,专为Agent 和代码而生, 编程、使用工具、逻辑能力、知识等等. MiniMax-M2模型权重已开源, 可以本地部署使用。"
+    },
+    {
+      "link": "https://canopywave.com/blog/best-ai-coding-plans-2026-pricing-limits-use-cases",
+      "title": "Best AI Coding Plans in 2026: Pricing & Limits Compared",
+      "snippet": "The MiniMax Token Plan combines coding access with the broader MiniMax model family. The official plan currently starts at $20 per month, with ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1vwzq63/minimax_is_increasing_token_and_token_plan_costs/",
+      "title": "Minimax is increasing token and token plan costs by 60%",
+      "snippet": "Minimax is increasing their rates and token plan costs by ~60%-65% on the 25th. Minimax will adjust Token Plan prices on August 25, 2026. ..."
+    },
+    {
+      "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
+      "title": "MiniMaxAI/MiniMax-M2.5",
+      "snippet": "M2.5 is SOTA in coding, agentic tool use and search, office work, boasting scores of 80.2% reaching SOTA levels."
+    },
+    {
+      "link": "https://codingplan.org/en/plans/minimax",
+      "title": "MiniMax Token Plan Guide 2026 - M3 from $22/mo, 3 Tiers ...",
+      "snippet": "MiniMax Token Plan international pricing: Plus $22, Max $55, Ultra $132 per month (~1.7B/5.1B/12.5B tokens)."
+    },
+    {
+      "link": "https://www.163.com/dy/article/KORQUAEJ05445SO5.html",
+      "title": "2026 国内Coding Plan 全解析：8 大厂套餐横评，性价比之王 ...",
+      "snippet": "MiniMax Coding Plan(极速无周限) 价格:29元/月(首月9.9元);无Pro档额度:600–30,000次/5小时;无周限额(唯一) 模型:M2.5、M2.5-Highspeed(极速版)、M"
+    },
+    {
+      "link": "https://github.com/MiniMax-AI/MiniMax-M2",
+      "title": "MiniMax-M2, a model built for Max coding & agentic ...",
+      "snippet": "Today, we release and open source MiniMax-M2, a Mini model built for Max coding & agentic workflows. MiniMax-M2 redefines efficiency for agents."
+    },
+    {
+      "link": "https://www.reddit.com/r/opencodeCLI/comments/1rau5jh/what_is_the_performance_of_minimax_coding_plans/?tl=ja",
+      "title": "MiniMax Coding Plan って、エージェント型コーディングだと ...",
+      "snippet": "Z.AI GLM Coding Max から乗り換えるために、MiniMax Coding Plan を買おうか検討中なんだ。GLM-5 はすごいモデルなんだけど、Z.AI ..."
+    },
+    {
+      "link": "https://codingplan.org/en",
+      "title": "AI Coding Plan Comparison 2026 - Claude, GLM, MiniMax ...",
+      "snippet": "Coding Plan charges Lite $18/mo ($12.6/mo yearly), Pro $80/mo ($56/mo yearly), Max $168/mo ($117.6/mo yearly)."
+    },
+    {
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1slkjqp/updated_minimax_m27_still_doesnt_allow_coding_a/",
+      "title": "Updated Minimax m2.7 still doesn't allow coding a product. But before the ...",
+      "snippet": ""
+    },
+    {
+      "link": "https://github.com/slkiser/opencode-quota/issues/32",
+      "title": "[feature]: Add MiniMax Coding Plan quota provider · Issue ...",
+      "snippet": "The plugin currently supports quota for all major AI coding providers except MiniMax. MiniMax Coding Plan users have rolling 5-hour interval and ..."
+    },
+    {
+      "link": "https://platform.minimax.cn/subscribe/token-plan",
+      "title": "Token Plan - MiniMax API 平台 - 概览",
+      "snippet": "ICIAL MiniMax Code … 立省¥98 ¥588 ¥490 每年, ¥1,490 ¥1,190 每年, 立省¥938 ¥5,628 ¥4,690 每年,"
+    },
+    {
+      "link": "https://aihub.caict.ac.cn/models/MiniMaxAI/MiniMax-M2.7",
+      "title": "MiniMax-M2.7 - text-generation模型 - 鲸智社区",
+      "snippet": "MiniMax-M2.7 是MiniMaxAI 于2026 年3 月推出的旗舰级自进化Agent 大语言模型，采用MoE 混合专家架构（230B 总参数/ 10B 激活参数），支持200K 超长 ..."
+    },
+    {
+      "link": "https://github.com/MiniMax-AI/MiniMax-Coding-Plan-MCP",
+      "title": "MiniMax-AI/MiniMax-Coding-Plan-MCP: Specialized ...",
+      "snippet": "Specialized MiniMax Model Context Protocol (MCP) server designed for coding-plan users, featuring AI-powered search and vision analysis APIs ..."
+    },
+    {
+      "link": "https://skywork.ai/skypage/en/minimax-pricing-cost-guide/2061788447644766208",
+      "title": "MiniMax Pricing & Cost: The Complete 2026 Guide",
+      "snippet": "a $20/month coding subscription, credits packages start at $5. Plus $20 / month Personal projects & prototyping. Max $50 / month Daily coding ..."
+    },
+    {
+      "link": "https://www.facebook.com/groups/vibecodinglife/posts/2119530015302191/",
+      "title": "Free MiniMax M3 and M2.7 models for coding and multimodal tasks until ...",
+      "snippet": ""
+    },
+    {
+      "link": "https://platform.minimax.io/docs/token-plan/faq",
+      "title": "FAQs - MiniMax API Docs",
+      "snippet": "Unified quota pool: Model usage covered by Token Plan shares the same included Token Plan quota instead of separate quotas by capability. Clearer usage ..."
+    },
+    {
+      "link": "https://blog.csdn.net/weixin_44162814/article/details/158658021",
+      "title": "2026年国内主流AI Coding Plan套餐全对比｜开发者避坑指南",
+      "snippet": "MiniMax采用此计量方式・ 等效于1200-1600次API请求 ・ 价格单位均为“元/月”,首月优惠. MiniMax Starter,额度足够,价格低廉。 总结:2026年Coding Plan ・ ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2005591305183567895",
+      "title": "MiniMax M2.5：为智能体时代而生的高效编程旗舰",
+      "snippet": "2026年2月12日,MiniMax正式上线最新旗舰编程模型MiniMax M2.5。这款被官方定义为“全球首个为Agent场景原生设计的生产级模型”,迅速在AI编程领域"
+    },
+    {
+      "link": "https://minimax-ai.chat/guide/minimax-code/",
+      "title": "MiniMax Code: Free Download, Token Plans and BYOK Setup",
+      "snippet": "MiniMax Code is a free download for macOS and Windows. Where to get it, what each Token Plan includes, how BYOK works, and fixes for the ..."
+    },
+    {
+      "link": "https://www.facebook.com/groups/1577315533418837/posts/1676916480125408/",
+      "title": "Best plan pricing for minimax 2.7?",
+      "snippet": "Minimax 2.7 gotta be best value for prompts. 4500 every 5 hr for $20 or 1500 for $10. Anyone else got good plan pricing? Opencode go?"
+    },
+    {
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1r27w2d/approximate_release_of_minimax_m25_for_coding/",
+      "title": "Approximate release of MiniMax M2.5 for coding",
+      "snippet": ""
+    },
+    {
+      "link": "https://my.oschina.net/u/9760751/blog/19749151",
+      "title": "全网最全Coding Plan 平台测评：14 个平台的价格、额度与 ...",
+      "snippet": "已核验的真实价格（2026-08-26） ; 企业Token Plan Enterprise M · ¥4,999/月起（原价¥8,332）；约20.8 亿积分/月, 企业月费订阅 ; 企业Token Plan ..."
+    },
+    {
+      "link": "https://www.cnblogs.com/gyc567/p/19184660",
+      "title": "免费使用编程神器MiniMax M2：新手详细入门指南- gyc567",
+      "snippet": "国产模型MiniMax M2近期火爆海外，编程能力直逼Claude Opus 4.1，而且目前完全免费！本文将手把手教你如何从零开始使用这个强大的AI编程助手。 什么是 ..."
+    },
+    {
+      "link": "https://serenitiesai.com/articles/top-coding-plans-vibe-coding-2026",
+      "title": "Top 6 Coding Plans for Vibe Coding 2026",
+      "snippet": "The coding plan landscape in 2026 splits into three tiers: Budget tier ($9–$30/mo): MiniMax Starter offer excellent value. Professional tier ($ ..."
+    },
+    {
+      "link": "https://kilo.ai/models/by/minimax",
+      "title": "MiniMax Coding Models on Kilo Code (2026)",
+      "snippet": "MiniMax Pricing on Kilo Code ; MiniMax: MiniMax M2.7, $0.300, $1.20, 205K, — ; MiniMax: MiniMax M3, $0.300, $1.20, 1049K, — ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rwvn6h/minimaxm27_announced/",
+      "title": "r/LocalLLaMA - MiniMax-M2.7 Announced!",
+      "snippet": "We believe DO NOT buy MiniMax's new $20 \"1.7 Billion Token\" plan for coding agents. It's a massive billing trap. New AI video model called ..."
+    },
+    {
+      "link": "https://post.smzdm.com/p/amor0ppz/",
+      "title": "告别Token焦虑！2026国内Coding Plan终极盘点",
+      "snippet": "MiniMax-M2.1 ・ 扣价¥19.9/月,每月12,000 次请求。 MiniMax - Coding Plan ・ 基础版¥29/月。 🔗 官方直达:MiniMax Coding Plan"
+    },
+    {
+      "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.1",
+      "title": "MiniMaxAI/MiniMax-M2.1",
+      "snippet": "We have optimized the model specifically for robustness in coding, tool use, instruction following, and long-horizon planning. From automating ..."
+    },
+    {
+      "link": "https://platform.minimax.io/docs/guides/pricing-token-plan",
+      "title": "Token Plan - Models - MiniMax API Docs",
+      "snippet": "Price, $22 /month, $55 /month, $132 /month ; Best for, Personal projects and prototyping, Daily coding with agents and multimodal work, Heavy Agent workflows and ..."
+    },
+    {
+      "link": "https://pub.towardsai.net/minimax-m2-7-built-itself-heres-how-to-use-it-like-a-pro-27529761d9a7",
+      "title": "MiniMax M2.7 Built Itself! Here's How to Use It Like a Pro",
+      "snippet": "Claude Code charges you $20+/month. OpenCode lets you route to any model — including M2.7 — through its API, M2.7 is a text-first coding model."
+    },
+    {
+      "link": "https://www.cnblogs.com/junbaor/p/19670554",
+      "title": "2026 年国内AI Coding Plan 怎么选？5 大平台横评帮你省钱",
+      "snippet": "入门体验的话，MiniMax Starter 只要¥29/月，是目前最便宜的月付方案。如果想更低成本试水，火山引擎和阿里云百炼都有首月特惠，最低¥7.9 就能用一个月。"
+    },
+    {
+      "link": "https://www.minimax.cn/models/text",
+      "title": "MiniMax M2.5 - 编程与Agent SOTA，专为Agent Universe 而生",
+      "snippet": "MiniMax M2.5 大语言模型，专为高吞吐、低延迟的生产环境设计。以极具竞争力的成本提供业界领先的编程与推理能力。"
+    },
+    {
+      "link": "https://x.com/RookieRicardoR/status/2004759567071412652",
+      "title": "耳朵on X: \"继GLM 编码套餐活动之后，Minimax 也推了新年 ...",
+      "snippet": "继GLM 编码套餐活动之后，Minimax 也推了新年活动。 MiniMax Coding Plan 首次购买立享80% 折扣——只需2 美元即可获得，并可参加2026 年超级抽奖活动， ..."
+    },
+    {
+      "link": "https://thomas-wiegold.com/blog/minimax-m-2-7-review-is-it-worth-the-hype/",
+      "title": "MiniMax M2.7 Review: Is It Worth the Hype?",
+      "snippet": "MiniMax M2.7 landed on March 18, 2026, and the pitch is bold: frontier-adjacent coding performance at a fraction of the cost."
+    },
+    {
+      "link": "https://github.com/yacuo/ai-coding-plan/blob/main/vendors/minimax-coding-plan.md",
+      "title": "MiniMax Coding Plan 多少钱：Plus、Max、Ultra 价格",
+      "snippet": "MiniMax Coding Plan 价格表：Plus、Max、Ultra 每月多少钱 ; Plus, -, ¥49/月, ¥49/月, ¥490/年，约¥41/月 ; Max, -, ¥119/月, ¥119/月, ¥1,190/年，约¥99/ ..."
+    },
+    {
+      "link": "https://github.com/MiniMax-AI/MiniMax-M2.1",
+      "title": "Meet MiniMax-M2.1",
+      "snippet": "We have optimized the model specifically for robustness in coding, tool use, instruction following, and long-horizon planning."
+    }
+  ]
+}

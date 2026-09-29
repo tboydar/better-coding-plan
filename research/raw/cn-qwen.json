@@ -1,0 +1,186 @@
+{
+  "id": "79P7LyE7nkvgQ5G6jnSrmZ",
+  "message_id": "f1086f9f-1cb6-41dd-8dfd-3bd1474c677b",
+  "answer": "根据搜索结果，2026年阿里云百炼平台的Qwen Coding Plan（现已升级为百炼Token Plan）价格信息如下。\n\n\n\n首先需要说明的是，Coding Plan是阿里云面向AI编程场景推出的订阅制API套餐，采用固定月费模式，整合了通义千问（Qwen）、Kimi、GLM、MiniMax等多款大模型，兼容Cursor、Qwen Code、Cline、Claude Code等主流AI编程工具，适合个人开发者日常编码使用，仅限交互式编码场景，严禁后端自动化调用.\n\n\n\n关于具体价格，搜索结果中存在多个版本，主要是因为产品经历了多次调整和优惠活动，需要分阶段来看.\n\n\n\n在早期阶段，Coding Plan分为Lite基础版和Pro高级版两档.Lite基础版原价每月40元，新用户首月优惠价7.9元，次月起续费可享5折即20元每月，第三个月恢复原价40元每月.Lite版提供每月最多18000次请求额度.Pro高级版原价每月200元，新用户首月优惠价39.9元，次月起续费5折即100元每月，第三个月恢复原价200元每月.Pro版提供每月90000次请求额度，每5小时约6000次请求，每周约45000次请求.\n\n\n\n但根据2026年3月到4月的信息，Lite基础版已全面停售，4月停止续费，目前仅开放Pro高级版新购.Pro版月费为200元（以官网实时价格为准），新用户首月可享39.9元限时特惠，次月起按200元每月续费.支付方式支持支付宝和微信，无需代理即可使用.\n\n\n\n另外，搜索结果还提到，Coding Plan现已升级为百炼Token Plan，Token Plan个人版提供三档套餐，分别是Lite版本39元每月，Standard版本139元每月，Pro版本499元每月，对应的月度Credits分别为11500、45000、180000，并新增12项Harness权益，超量调用可享88折.Token Plan以Credits统一计量，支持文本、多模态模型及模型内置工具，Standard与Pro套餐附赠Harness工具，适合需要团队协作、多模态图文视频处理、部署智能体自动化任务，或企业业务系统对接及合规审计需求的用户.\n\n\n\n综合来看，如果你只是个人开发者，日常用AI写代码，追求固定低成本，选择Coding Plan的Pro版（200元每月，首月39.9元）性价比很高，单位调用成本远低于普通按量计费模式.如果你需要团队协作或生产级API集成，则更推荐选择Token Plan团队版或按量加节省计划.\n\n\n\n需要注意的是，以上价格和套餐内容可能随时间调整，建议购买前访问阿里云百炼官网或阿里云权益中心查看最新信息，并领取可能的优惠券，例如学生无门槛优惠券、个人和企业AI加速季优惠券、百炼先用后返优惠券等，先领券再购买可在活动价格基础上额外获得减免.",
+  "query_analysis": {
+    "queries": [
+      "百炼 编程 agent 价格",
+      "阿里 通义千问 Qwen coding plan 价格",
+      "Qwen coding plan 价格",
+      "2026 阿里 通义千问 Qwen coding plan 价格",
+      "2026 Alibaba Tongyi Qianwen Qwen coding plan price"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2061515864340444437",
+      "title": "阿里云百炼Coding Plan详细介绍：是什么、收费价格",
+      "snippet": "阿里云百炼Coding Plan … 通义千问(Qwen)、 价格为698.00/席/月,实际购买价格只要668元"
+    },
+    {
+      "link": "https://codepick.dev/zh/guides/bailian-coding-plan/",
+      "title": "百炼Coding Plan 完整攻略：定价、额度、客户端配置 - CodePick",
+      "snippet": "百炼Coding Plan 是阿里云推出的AI 编程专属API 套餐，月付¥200（以官网实时价格为准），提供保底额度+ 多款模型，适合想用千问/Qwen 系列模型的国内开发 ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2030267412000551746",
+      "title": "2026年阿里云百炼Coding Plan 简介及使用注意事项完整总结",
+      "snippet": "阿里云百炼Coding Plan ・ 官方原价:¥200/月新用户首购优惠:¥39.9/月(首月),次月起续费5折(¥100/月),第三个月恢复原价月度请求额度:90,000 ・ 原价:¥40/ ..."
+    },
+    {
+      "link": "https://xueqiu.com/9216592857/376560484",
+      "title": "千问刚刚推出了coding plan",
+      "snippet": "1）名称：Qwen Coding Plan，开通入口为阿里云百炼平台； · 2）定位：AI 编码订阅套餐，固定月费，加月度请求额度； · 3）支持模型：Qwen3.5-Plus、Qwen3- ..."
+    },
+    {
+      "link": "https://wallstreetcn.com/articles/3766202",
+      "title": "阿里云推出低价AI编程套餐，集成四大顶级开源模型",
+      "snippet": "定价方面，轻量版首月售价7.9元，次月起40元；专业版首月39.9元，次月起200元。 · 此外，基于Qwen3.5-35B-A3B的托管模型Qwen3.5-Flash已在阿里云百炼上线， ..."
+    },
+    {
+      "link": "https://codingplan.org/plans/aliyun",
+      "title": "阿里云百炼Token Plan",
+      "snippet": "阿里云Coding Plan（现已升级为百炼Token Plan）多少钱？个人版¥39 / ¥139 / ¥499 三档对比，月度Credits 11500 / 45000 / 180000，新增12 项Harness ..."
+    },
+    {
+      "link": "https://help.aliyun.com/zh/model-studio/model-pricing",
+      "title": "模型调用价格 - 阿里云文档",
+      "snippet": "百炼部分模型实行阶梯计费。单价取决于单次请求的输入Token 总量。该请求的所有Token 均按对应阶梯的单价结算。 计费区间中 ..."
+    },
+    {
+      "link": "https://techjacksolutions.com/ai-tools/qwen/qwen-pricing/",
+      "title": "Is Qwen Free? Pricing, Models & API Tiers Explained",
+      "snippet": "Qwen pricing spans three tiers: free on your own hardware, a free hosted tier on Groq, and a paid API starting at $0.15 per million input tokens. Coding Plan ..."
+    },
+    {
+      "link": "https://www.aliyun.com/benefit/client/memberc",
+      "title": "阿里云权益中心_助力开发者",
+      "snippet": "支持Qwen 3.8-Max 等多模态旗舰模型. 立即订阅. 百炼. 接入百炼CLI，轻松拥有全套AI 生产力. 一键接入. Token Plan 套餐上新，支持Qwen3.8-Max. 为专业coding 场景打造， ..."
+    },
+    {
+      "link": "https://help.aliyun.com/zh/model-studio/coding-plan",
+      "title": "Coding Plan概述 - 阿里云文档",
+      "snippet": "Coding Plan 整合了千问、GLM、Kimi、 AI 编程工具。 周45,000 次请求每月90,000 … 阅Pro 套餐可享首月¥39.90(官网目录价¥200/月),后续按¥200/月续费"
+    },
+    {
+      "link": "https://www.aliyun.com/benefit/scene/tokenplan",
+      "title": "阿里云百炼Token Plan",
+      "snippet": "编程与智能体工具・ 年付Lite版本 ¥39.00/1个月. Standard版本 ¥139.00/1个月月Credits 45,000 Harness 12 项立即订阅Pro版本 ¥499.00/1个月月Credits 180,000 超额调用88 ..."
+    },
+    {
+      "link": "https://www.alibabacloud.com/help/en/model-studio/coding-plan",
+      "title": "Alibaba Cloud Model Studio:Coding plan overview",
+      "snippet": "2026 Coding Plan gives you access to models including Qwen, Price $ 50/month Quota Up to 6,000 requests per 5 hours Up to 45,000 requests per week"
+    },
+    {
+      "link": "https://www.aliyun.com/benefit/client/index",
+      "title": "云聚AI 长效权益",
+      "snippet": "在编程、办公与生产・ 编程全能包・ 快速部署你的个性化AI Agent 不用写代码,分钟级部署7*24 小时在线的AI Agent。 Lite 套餐含11,500 Credits / 月"
+    },
+    {
+      "link": "https://developer.aliyun.com/article/1748654",
+      "title": "阿里云百炼Coding Plan详细介绍：是什么、收费价格",
+      "snippet": "新用户可享首月200元限时特惠，采用固定月费模式，整合通义千问、Kimi、GLM等多款大模型，兼容Cursor、Qwen Code等数十款主流AI编程工具。产品采用5小时 ..."
+    },
+    {
+      "link": "https://www.alibabacloud.com/help/zh/model-studio/coding-plan",
+      "title": "Coding Plan - 大模型服务平台百炼- 阿里云",
+      "snippet": "价格 $ 50/月用量限制每5 小时6,000 次请求每周45,000 次请求每月90,000 次请求"
+    },
+    {
+      "link": "https://platform.qianwenai.com/pricing/token-plan",
+      "title": "Token Plan - AI 编程订阅与全模态大模型服务",
+      "snippet": "千问AI平台Token Plan 专为AI 编程打造，提供多档位团队席位订阅。单一API Key 即可调用全模态大模型能力，深度兼容主流Coding 与Agent 工具。承诺数据不用于模型训练 ..."
+    },
+    {
+      "link": "https://www.aliyun.com/benefit/ai/aistar",
+      "title": "智启AI ，邀新有礼",
+      "snippet": "Qoder CN 个人版订阅. 面向真实软件开发的智能编程平台. ¥59.00/1个月 ; 万镜一刻-会员计划基础版. 万镜生辉·一刻成片. ¥39.00/1个月起 ; 万小智AI建站（轻量版/包年）. 一键 ..."
+    },
+    {
+      "link": "https://bailian.console.aliyun.com/",
+      "title": "大模型服务平台百炼控制台",
+      "snippet": "百炼控制台是阿里云大模型服务平台，提供AI模型训练、部署、推理一站式服务，支持多种大模型框架，助力企业快速构建AI应用。"
+    },
+    {
+      "link": "https://devpass.llmgateway.io/compare/alibaba-qwen-coding",
+      "title": "DevPass vs Alibaba Qwen Coding Plan Compared (2026)",
+      "snippet": "$29 partner models Lite / Pro tiers. Pricing and limits as of June 2, 2026 — always confirm current details on each provider's site Yes … around Qwen3-Coder."
+    },
+    {
+      "link": "https://github.com/tmeif39/aliyun-bailian-pricing",
+      "title": "tmeif39/aliyun-bailian-pricing: 阿里云百炼双11优惠怎么买 ...",
+      "snippet": "选Coding Plan 的情况：你主要用AI 写代码，每天要跑Claude Code、Cursor 之类的工具，用的是单人账号，月消耗量集中在编码交互。200元/月（9折后180元），90,000次请求， ..."
+    },
+    {
+      "link": "https://x.com/Alibaba_Qwen/status/2024136381308805564?lang=en",
+      "title": "Qwen Coding Plan is now live on Alibaba Cloud Model ...",
+      "snippet": "Fixed monthly subscription: from ~$10/mo (Lite) or ~$50/mo (Pro) • 📦 Up to 90K requests/month for AI-powered coding. Get 50% OFF on Lite & Pro ..."
+    },
+    {
+      "link": "https://www.eesel.ai/blog/qwen-pricing",
+      "title": "Qwen pricing in 2026: every model, what you actually pay, ...",
+      "snippet": "Qwen-Turbo ($0.05/1M input) is one of the cheapest capable text APIs alive. Qwen-Plus ($0.40/1M) is the value sweet spot for most production ..."
+    },
+    {
+      "link": "https://hk.finance.yahoo.com/news/%E9%98%BF%E9%87%8C%E6%8E%A8-qwen-coding-plan-%E6%96%B0%E7%94%A8%E6%88%B6%E6%9C%88%E8%B2%BB%E6%9C%80%E4%BD%8E7-071821332.html",
+      "title": "阿里推Qwen Coding Plan 新用戶月費最低7.9元人民幣",
+      "snippet": "其中新用戶基礎套餐首月價格為7.9元人民幣(下同)，較原價每月40元節省逾80%。 Pro 服務計劃提供每月最多9萬次請求額度，基礎套餐每月最多為1.8萬次。同時 ..."
+    },
+    {
+      "link": "https://www.ithome.com/0/922/792.htm",
+      "title": "阿里云Coding Plan 上新：支持千问3.5、GLM-4.7",
+      "snippet": "其中，Lite 基础套餐可享受每月最多18000 次请求，新用户购买首月7.9 元；Pro 高级套餐可享受每月90000 次请求，可完成数千次复杂任务，新用户首月39.9 元 ..."
+    },
+    {
+      "link": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+      "title": "Token Plan（个人版）-大模型服务平台百炼(Model Studio)",
+      "snippet": "Token Plan 个人版是面向个人开发者的AI 大模型订阅服务，以Credits 统一计量，支持文本、多模态模型及模型内置工具，Standard 与Pro 套餐附赠Harness ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2010486807704409374",
+      "title": "2026最新！阿里云百炼Coding Plan详解：收费标准+ 套餐 ...",
+      "snippet": "版本首月7.9元,Pro版本首月优惠价格39.9元,领券:aly.wiki … 基础套餐( 续费20元(5折) 第三个月起40元/月 Pro 高级套餐(首月¥ 39.9) 首月3 续费100元(5折)"
+    },
+    {
+      "link": "https://codingplan.org/",
+      "title": "Coding Plan 对比2026：ChatGPT/Claude/GLM/Kimi 横评",
+      "snippet": "智谱GLM Coding Plan 连续包月¥118 起 · 5h 12,000 · 每周60,000 积分 · 更快生成速度与高峰保障 · 精选MCP 工具."
+    },
+    {
+      "link": "https://juejin.cn/post/7611349961309028371",
+      "title": "阿里云百炼Coding Plan：Qwen、Kimi、GLM一键打包",
+      "snippet": "顶级模型全家桶：Qwen3.5、Kimi M2.5、GLM-5、MiniMax M2.5 齐聚 · 价格香到离谱：首月仅需7.9 元 · 丝滑兼容：一键对接Claude Code & Cursor · 限时活动与 ..."
+    },
+    {
+      "link": "https://www.qianwenai.com/benefits/tokenplan",
+      "title": "Token Plan 模型订阅计划",
+      "snippet": "Token Plan 全面升级. AI 生产力大幅扩容. 个人版新增12 项Harness 权益，加量不加价，超量尊享88 折，“模型+ Agent 工具”一次配齐AI 生产力，千问、Qoder、QwenCode等 ..."
+    },
+    {
+      "link": "https://www.ithome.com/0/922/731.htm",
+      "title": "新客首月7.9 元：阿里云推出Qwen Coding Plan",
+      "snippet": "根据官方说明，新用户首月订阅价格为7.9 元，老用户可使用优惠券享受半价续费。该服务提供每月9 万次请求额度，支持调用Qwen3.5-Plus、Qwen3-Max 等 ..."
+    },
+    {
+      "link": "https://en.wikipedia.org/wiki/Qwen",
+      "title": "Qwen",
+      "snippet": "Qwen (also known as Tongyi Qianwen, is a family of predominantly open weights large and small language models. LM) developed by Alibaba Cloud. LLM released by ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/Qwen_AI/comments/1sl01h3/the_alibaba_coding_plan_lite_can_no_longer_be/",
+      "title": "The Alibaba Coding Plan Lite can no longer be renewed or ...",
+      "snippet": "Due to a product strategy adjustment, Coding Plan Lite will no longer be available for renewal or upgrade effective April 13, 2026. Important ..."
+    },
+    {
+      "link": "https://help.aliyun.com/en/model-studio/token-plan-personal-overview",
+      "title": "Token Plan (Personal Edition)-Alibaba Cloud Model Studio ...",
+      "snippet": "Token Plan Personal Edition is an AI large model subscription service for individual developers. It uses Credits as a unified billing unit ..."
+    },
+    {
+      "link": "https://www.alibabacloud.com/en/solutions/generative-ai/qwen?_p_lc=1",
+      "title": "Qwen",
+      "snippet": "The latest Qwen3 models adopt hybrid thinking modes (\"Thinking\" and \"Non-Thinking\") that allow you to flexibly control reasoning performance, speed, and costs."
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "CSBYsxhdZbQbaFZ2dJFgGi",
+  "message_id": "78fc76ca-5281-4868-a119-ec4a8b7493ac",
+  "answer": "2026年のClaude Pro、Max、Teamプランの価格、利用制限、比較について、検索結果に基づいて詳しく説明します。\n\nまず、価格についてです。Claude Proは月額20ドル、年払いの場合は200ドル upfrontで、実質月額約17ドルになります。Maxプランは2種類あり、Max 5xが月額100ドル、Max 20xが月額200ドルです。Teamプランは1席あたり月額30ドル（年払いで25ドル）ですが、最低5席からの契約となるため、実質的な最低費用は月額125ドル（年払い）または150ドル（月払い）になります。Enterpriseプランはカスタム価格です。\n\n\n\n次に、利用制限についてです。Proプランの利用制限は、5時間のローリングウィンドウで約40〜45メッセージとされています。Max 5xはProの5倍、つまり約225メッセージ、Max 20xは20倍、つまり約900メッセージが5時間ごとに利用可能です。これらの制限は5時間ごとにリセットされ、日次ではなくローリング方式です。また、週間制限も存在し、Max 5xはProの約3.5倍の週間利用量とユーザー計算で報告されています。Maxプランは優先アクセス、新機能への早期アクセス、より高い出力制限も含みますが、モデル自体はProと同じです。重要な点として、Claude Codeとチャットは同じ利用プールを共有するため、コーディングセッションがチャットの利用枠を消費することがあります。\n\n\n\n7日間の利用バンドルについてですが、検索結果には明確な7日間のバンドル情報は見当たりませんでした。ただし、Maxプランの週間制限が存在し、アカウントに割り当てられた固定時間にリセットされることが記載されています。また、Maxサブスクライバーが共有できるゲストパスがあり、受け取った場合、7日間のProレベルの無料アクセスが得られますが、クレジットカードの登録が必要で、期間終了後は自動的に月額20ドルのProサブスクリプションに移行します。\n\n\n\n\n\nプラン比較の観点では、Proは日常的なプロフェッショナル利用向け、Max 5xはヘビーユーザー向け、Max 20xはフルタイムの開発者やエージェント実行向けとされています。Teamは3人以上が毎日Claudeを利用し、共有プロジェクトが必要な場合に適していますが、2人以下のヘビーユーザーにはMaxの個別プランの方がコスト効率が良いとされています。また、Maxプランは月額のみで年払いはなく、ProとTeamのみ年払いが可能です。\n\n\n\n利用制限に達した場合のアップグレード判断について、14日間のログを取り、サブスクリプション制限で作業が止まった回数と、Fableクレジット消費量を記録することが推奨されています。Proで制限警告がまれで、クレジット消費が少ない場合はProを維持し、月額80ドル以上の損失が発生する場合にMax 5xへの移行を検討します。Max 5xからMax 20xへの移行も同様の証拠に基づいて判断すべきです。\n\n\n\n最後に、価格設定の注意点として、モバイルでの価格はウェブと異なる場合があり、税金が別途かかることがあります。また、年払いのProは200ドルの一括払いであり、月額17ドルを12回支払うわけではない点に注意が必要です。Maxプランの価格はドル表示ですが、フランスなどではユーロ表示で、Proが月額18ユーロ、Max 5xが約85ユーロ、Max 20xが約170ユーロとされていますが、これは単純な為替換算ではなく現地価格設定です。\n\n以上が、2026年のClaude Pro、Max、Teamプランの価格、利用制限、比較に関する詳細です。7日間のバンドル情報は検索結果に明確な記載がなかったため、ゲストパスに関する情報のみを提供しました。",
+  "query_analysis": {
+    "queries": [
+      "2026 Claude Pro Max plan price",
+      "Claude Pro Max plan 7d usage bundle",
+      "Claude Pro Max plan comparison",
+      "Claude Pro Max plan 5h weekly limit"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://tokenkarma.app/blog/claude-plans-which-fits-2026/",
+      "title": "Claude Pro vs Max vs Team 2026: Which Plan Fits You",
+      "snippet": "13 Jul 2026 — Claude Pro vs Max vs Team in 2026: Which Plan Actually Fits Your Usage ... price is $125 per month annual or $150 per month billed monthly, not ...Read more"
+    },
+    {
+      "link": "https://www.wearetandem.ai/en/blog/tools/claude-max-pro-pricing-plans",
+      "title": "Claude pricing 2026: Pro, Max, Enterprise, which plan - Tandem",
+      "snippet": "24 Aug 2026 — Claude Pro is listed at 18 euros a month in August 2026, or 180 euros paid yearly. Max comes in two tiers, 5x and 20x the Pro plan, ...Read more"
+    },
+    {
+      "link": "https://intuitionlabs.ai/articles/claude-max-plan-pricing-usage-limits",
+      "title": "Claude Max Plan: $100 vs $200 Pricing & Usage Limits",
+      "snippet": "Feb 3, 2026 - Claude Max costs $100 (5x Pro) or $200/mo (20x Pro). Compare usage limits, features, and whether the upgrade from Pro is worth it in 2026."
+    },
+    {
+      "link": "https://crazyrouter.com/en/blog/claude-max-plan-complete-guide-2026",
+      "title": "Claude Max Plan Complete Guide 2026: Is It Worth the ...",
+      "snippet": "8 Apr 2026 — Claude Max Pricing in 2026# · Claude Max (5×): $100/month — 5× more usage than Pro · Claude Max (20×): $200/month — 20× more usage than Pro.Read more"
+    },
+    {
+      "link": "https://www.truefoundry.com/blog/claude-code-limits-explained",
+      "title": "Claude Code Rate Limits & Usage Quotas Explained (2026)",
+      "snippet": "Jul 21, 2026 - Claude Code enforces usage through two overlapping limits — a 5-hour rolling window plus a weekly cap on active compute hours. Pro, Max, and ..."
+    },
+    {
+      "link": "https://www.braingrid.ai/blog/claude-pro-vs-team-vs-max",
+      "title": "Claude Pro vs Team vs Max: Which Plan Do You Actually ...",
+      "snippet": "Jun 11, 2026 - Claude Pro vs Team vs Max compared with current prices: Pro $20, Max $100 to $200, Team seats from $20. standard seat $25/seat/mo ($20 annually ..."
+    },
+    {
+      "link": "https://www.gamsgo.com/blog/claude-discount",
+      "title": "Every Way to Save on Claude AI in 2026",
+      "snippet": "5 days ago — But here's the thing: Claude Pro costs $20/month, and Claude Max goes up to $100/month. For heavy users or small teams, that adds up fast. Many ...Read more"
+    },
+    {
+      "link": "https://benchlm.ai/blog/posts/claude-pro-vs-max",
+      "title": "Claude Pro vs Max: Which Plan Is Worth It?",
+      "snippet": "Aug 6, 2026 - At USD web list prices, Claude Pro costs $20 monthly or $200 paid annually. Max costs $100 or $200 monthly. Use interruptions and Fable credit ..."
+    },
+    {
+      "link": "https://www.morphllm.com/claude-code-usage-limits",
+      "title": "Claude Pro Usage Limits, 5-Hour Caps, Weekly Limits - Morph",
+      "snippet": "Aug 21, 2026 - Claude Pro limits provide at least five times the usage per session of the free service, and Pro adds Claude Code, which the free plan lacks ..."
+    },
+    {
+      "link": "https://maxtechera.dev/en/blog/claude-pro-vs-max-plan-2026",
+      "title": "Claude Pro vs Max 2026: Is the $100 Plan Worth It?",
+      "snippet": "Claude Max ($100/mo) adds full Opus 4.5 access, 5x higher usage limits, and priority during peak hours. In short: Pro is enough for casual use; Max is for ...Read more"
+    },
+    {
+      "link": "https://inventivehq.com/blog/claude-code-pricing-explained",
+      "title": "Pro, Max, Team, API, and What Claude Code Really Costs",
+      "snippet": "30 May 2026 — $0 for Free, $20/month for Pro ($17/month if billed annually at $200 up front), $100/month for Max 5x, and $200/month for Max 20x. Team seats ...Read more"
+    },
+    {
+      "link": "https://www.lorka.ai/knowledge-hub/claude-pro-vs-max",
+      "title": "Claude Pro vs Max: Features, Pricing & Limits 2026",
+      "snippet": "Apr 22, 2026 - Max offers 5x to 20x higher usage than Pro. Core features are the same; however, Max only adds usage limits. Max lacks new models, API access, ..."
+    },
+    {
+      "link": "https://claude.com/pricing",
+      "title": "Plans & Pricing | Claude by Anthropic",
+      "snippet": "Free. Try Claude. $0. Free for everyone ; Pro. For everyday work. $17. Per month with annual subscription discount ($200 billed up front). $20 if billed monthly.Read more"
+    },
+    {
+      "link": "https://jugaldb.substack.com/p/i-use-the-200-claude-max-plan-heres",
+      "title": "I Use the $200 Claude Max Plan. Here's How I Actually Get ...",
+      "snippet": "3 months ago - I have the $200 Claude Max plan, and I got access to it through open-source work. And I consistently get more than $1000 of use every week."
+    },
+    {
+      "link": "https://opentherank.com/ai-pricing/claude/",
+      "title": "Claude Price by Country 2026 | Where is Claude cheapest",
+      "snippet": "Claude Pricing Changes · Lowest GH₵380.00/mo → GH₵254.99/mo ↓ Drop -32.9% · Highest GH₵4,750.00/mo → GH₵3,190.00/mo ↓ Drop -32.8%.Read more"
+    },
+    {
+      "link": "https://support.claude.com/en/articles/11049741-what-is-the-max-plan",
+      "title": "What is the Max plan? | Claude Help Center",
+      "snippet": "7 days ago — Max 5x: $100 per month. Max 20x: $200 per month. Note: These prices are for web subscriptions only. Mobile pricing may vary ...Read more"
+    },
+    {
+      "link": "https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/plan",
+      "title": "PLAN中文(繁體)翻譯：劍橋詞典",
+      "snippet": "PLAN翻譯：決定, 計劃，方案, （金融投資）方案，規劃, 圖畫, 平面圖，示意圖, 計劃, 計劃，規劃;精心安排, 計劃，打算, 設計, 設計，規劃。了解更多。"
+    },
+    {
+      "link": "https://plan-international.org/",
+      "title": "Plan International",
+      "snippet": "Plan International stands with girls to tear down barriers, save lives and build a world where equality for girls leads to progress for all."
+    },
+    {
+      "link": "https://www.pland.gov.hk/",
+      "title": "Planning Department",
+      "snippet": "Planning at a Glance. New Development/Growth Areas · Planning Studies · Planning Enforcement and Prosecution.Read more"
+    },
+    {
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1w465ko/weekly_limit_on_pro_vs_max/",
+      "title": "Weekly Limit on Pro vs Max : r/ClaudeAI",
+      "snippet": "4 weeks ago - The actual weekly limit increase is more modest, with users calculating the Max 5x plan gives you roughly 3.5 times the weekly usage of Pro."
+    },
+    {
+      "link": "https://www.bayarea.gov.hk/en/outline/plan.html",
+      "title": "Outline Development Plan",
+      "snippet": "Seven Areas of Development · Developing an international innovation and technology hub · Expediting infrastructural connectivity · Building a globally competitive ...Read more"
+    },
+    {
+      "link": "https://www.plan.org.hk/en/home/",
+      "title": "Plan International Hong Kong",
+      "snippet": "Plan International works in over 80 countries to advance children&#39;s rights and equality for girls. 電話:(852) 3405 5305"
+    },
+    {
+      "link": "https://www.ozp.tpb.gov.hk/",
+      "title": "Town Planning Board Statutory Planning Portal 3",
+      "snippet": "This website contains digital information of the prevailing statutory plans prepared by the Town Planning Board or the Secretary for Development, applications ...Read more"
+    },
+    {
+      "link": "https://www.hk5yplan.gov.hk/",
+      "title": "The First Five-Year Plan for Economic and Social ...",
+      "snippet": "By formulating the Five-Year Plan, we shall shed light on our directions of development, optimise resource allocation, enhance social expectation certainty, and ...Read more"
+    },
+    {
+      "link": "https://www.halhigdon.com/training/marathon-training/",
+      "title": "Marathon Training for All Skill Levels",
+      "snippet": "From Novice to Advanced, Hal offers more than a dozen different training programs for every skill level and pace. Novice 1 and Intermediate 1 marathon plans."
+    },
+    {
+      "link": "https://digital-strategy.ec.europa.eu/en/library/eu-action-plan-cybersecurity-and-artificial-intelligence",
+      "title": "EU Action Plan on Cybersecurity and Artificial Intelligence",
+      "snippet": "The European Commission has presented an Action Plan on Cybersecurity and Artificial Intelligence to support the safe and responsible use of AI ..."
+    },
+    {
+      "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "title": "The choices we make about AI now are critical | Bill Gates",
+      "snippet": "The turbulent AI era is here. The choices we make now are critical. We need a plan to ensure that the good outweighs the bad. Bill profile ..."
+    },
+    {
+      "link": "https://employment-social-affairs.ec.europa.eu/policies-and-activities/european-pillar-social-rights-building-fairer-and-more-inclusive-european-union/european-pillar-social-rights-action-plan_en",
+      "title": "European Pillar of Social Rights Action Plan",
+      "snippet": "It provides a roadmap for creating quality jobs, improving skills and lifelong learning and reducing poverty and social exclusion across Europe."
+    },
+    {
+      "link": "https://www.cigna.com/healthspring-medicare-supplement-plans",
+      "title": "Cigna Medicare Plans",
+      "snippet": "No information is available for this page. ·"
+    }
+  ]
+}

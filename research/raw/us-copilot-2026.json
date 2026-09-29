@@ -1,0 +1,217 @@
+{
+  "id": "YxABeyDBjxtChfZtkyMVHC",
+  "message_id": "31e3181a-9b65-497b-91b7-89c4e1fad554",
+  "answer": "2026年のGitHub CopilotのPro+とMaxプランの価格、AIクレジットの月間割り当て、含まれるモデル、そしてコストパフォーマンスについて詳しく説明します。\n\nまず価格についてですが、2026年6月1日からGitHub Copilotは使用量ベースの課金制度に移行しました。Pro+は月額39米ドル、Maxは月額100米ドルです。Pro+は個人向けの上位プランで、Maxはさらにその上に位置する最高位の個人向けプランです。これらの価格は2025年から変わっていませんが、同じ金額で購入できる使用量が変更されています。\n\n次にAIクレジットの月間割り当てについてです。Pro+には月間の基本クレジットとして3,900クレジットが含まれ、さらにフレックス割り当てとして3,100クレジットが追加され、合計で月間7,000クレジットとなります。これは金額に換算すると約70米ドル分に相当します。一方、Maxには基本クレジットとして10,000クレジットが含まれ、フレックス割り当てとして10,000クレジットが追加され、合計で月間20,000クレジットとなります。これは金額に換算すると約200米ドル分に相当します。つまり、MaxはPro+と比較して約2.9倍の使用量が得られる計算になります。なお、Proプランは月額10米ドルで、基本クレジット1,000にフレックス500を加えた合計1,500クレジット（約15米ドル相当）が含まれます。\n\n\n\n含まれるモデルについてですが、Pro+はプレミアムモデルへのアクセスが含まれますが、Maxはプレミアムモデルへの優先アクセスが提供されます。具体的なモデル名は検索結果には明記されていませんが、Pro+は標準モデルに加えて限定的なプレミアムモデルが利用でき、Maxはより高度なモデルへの優先的なアクセスが可能です。GitHub Copilotのモデル選択は、プランによって利用できるモデルの範囲が異なり、Maxは最新かつ高性能なモデルを優先的に利用できる設計となっています\n\nコストパフォーマンスについて考えると、まずPro+は月額39米ドルで7,000クレジットが得られ、1クレジットあたりの単価は約0.0056米ドルとなります。一方、Maxは月額100米ドルで20,000クレジットが得られ、1クレジットあたりの単価は約0.005米ドルとなります。つまり、Maxの方が1クレジットあたりの単価がわずかに安く、大量に使用するユーザーにとってはお得です。さらに、Maxは購入金額100米ドルに対して200米ドル分のクレジットが付与されるため、実質的な割引率が高くなっています\n\nただし、注意すべき点があります。AIクレジットはチャットやエージェントモード、コードレビュー、Copilot CLIなどの使用で消費されますが、インラインのコード補完や次の編集提案はすべての有料プランで無制限かつ無料です。つまり、コード補完を主に使用する開発者にとっては、Proプランでも十分な場合があります\n\nまた、クレジットを使い切った場合には、追加でクレジットを購入して作業を継続できますが、超過分は1クレジットあたり0.01米ドルで課金されます\n\n競合製品との比較では、Copilot Pro+は月額39米ドルで、CursorのPro+が月額60米ドルであるのに対し、より安価です。また、チーム向けのCopilot Businessは月額19米ドルで、Cursor Businessの月額40米ドルと比較して約半分の価格です\n\n総合的に見ると、Maxプランは月額100米ドルと高額ですが、大量にAIを使用するパワーユーザーにとっては、クレジットの単価が最も安く、プレミアムモデルへの優先アクセスも得られるため、コストパフォーマンスに優れています。一方、Pro+は中程度の使用量でプレミアムモデルを利用したいユーザーに適しており、Proは軽度のチャットやエージェント使用に適しています\n\n最後に、無料プランについても触れておきます:Copilot Freeは個人開発者向けに無料で提供され、限定的なチャットとエージェントの使用が可能です。また、学生はCopilot Studentとして無料で高度な機能にアクセスでき、認定された教師や人気のあるオープンソースプロジェクトのメンテナーはCopilot Proを無料で利用できます\n\nこのように、2026年のGitHub CopilotのPro+とMaxプランは、価格、AIクレジットの割り当て、含まれるモデル、コストパフォーマンスのいずれにおいても、使用量に応じて適切なプランを選択することが重要です",
+  "query_analysis": {
+    "queries": [
+      "GitHub Copilot Pro+ Max 每月 AI 积分",
+      "2026 GitHub Copilot Pro+ Max pricing",
+      "2026 GitHub Copilot Pro+ Max 价格",
+      "GitHub Copilot Pro+ Max value for money",
+      "GitHub Copilot Pro+ Max AI credits allowance monthly",
+      "GitHub Copilot Pro+ Max included models"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://docs.github.com/en/copilot/get-started/plans",
+      "title": "Plans for GitHub Copilot",
+      "snippet": "GitHub AI Credits allowance by plan ; Copilot Pro, $10 USD, 1,000 ; Copilot Pro+, $39 USD, 3,900 ; Copilot Max, $100 USD, 10,000 ..."
+    },
+    {
+      "link": "https://technews.tw/2026/04/28/github-copilot-is-moving-to-usage-based-billing/",
+      "title": "GitHub Copilot 方案按量計費、改採AI Credits，新措施6/1 起 ...",
+      "snippet": "Apr 28, 2026 - Copilot Pro：每月收費10 美元，包含每月價值10 美元的AI Credits。 Copilot Pro+：每月收費39 美元，包含每月價值39 美元的AI Credits。 年繳制Pro 或 ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/GithubCopilot/comments/1szaou9/am_i_understanding_this_new_pricing_correctly/",
+      "title": "Am I understanding this new pricing correctly?",
+      "snippet": "5 months ago - My understanding is copilot pro users will get 1000 AI credits per a month and pro+ users will get 3000 per month starting in June.\n\nBased on the rates ..."
+    },
+    {
+      "link": "https://docs.github.com/zh/billing/concepts/product-billing/github-copilot-licenses",
+      "title": "GitHub Copilot许可证",
+      "snippet": "Copilot Pro+: $39 USD 每个日历月。 Copilot Max: $100 USD 每个日历月。 $19 USD 每个用户每月(按月计费)。 包含每月定额的代码补全次数,以及限量的聊天与智能体使用次 ..."
+    },
+    {
+      "link": "https://www.developersdigest.tech/blog/copilot-pro-plus-premium-requests-explained-2026",
+      "title": "Copilot Pro+ Premium Requests Explained in 2026",
+      "snippet": "Apr 18, 2026 - New Copilot Max tier launched at $100/month with $200 in monthly credits; Pro and Pro+ launch allowances landed at $15 and $70, higher than the ..."
+    },
+    {
+      "link": "https://valueaddvc.com/blog/github-copilot-pricing-2026-every-plan-compared",
+      "title": "GitHub Copilot Pricing 2026: $10 to $100/Month, 5 Plans",
+      "snippet": "Jul 25, 2026 - GitHub Copilot pricing in 2026 spans six tiers total: Free ($0), Pro ($10/month), Pro+ ($39/month), Max ($100/month) for individuals, plus ..."
+    },
+    {
+      "link": "https://www.nocode.mba/articles/github-copilot-pricing",
+      "title": "GitHub Copilot Pricing 2026: Free, Pro & Business Plans",
+      "snippet": "Sep 21, 2026 - GitHub Copilot offers four plans: Free ($0), Pro ($10/month), Pro+ ($39/month), and Max ($100/month). Teams pay $19/user/month for Business or ..."
+    },
+    {
+      "link": "https://github.com/orgs/community/discussions/183408",
+      "title": "Copilot Pro vs Pro+ (2026): exact feature differences ...",
+      "snippet": "Copilot Pro comes with 300 premium requests per month, while Copilot Pro+ includes 1,500 premium requests per month. Pro+ is clearly aimed at heavier usage and ..."
+    },
+    {
+      "link": "https://docs.github.com/copilot/reference/copilot-billing/models-and-pricing",
+      "title": "Models and pricing for GitHub Copilot",
+      "snippet": "How model pricing works · Individual plans (Copilot Free, Copilot Pro, Copilot Pro+, and Copilot Max) include GitHub AI Credits allowances that vary by plan."
+    },
+    {
+      "link": "https://finance.sina.com.cn/stock/t/2026-06-02/doc-inhzysxv1756413.shtml",
+      "title": "GitHub Copilot开始按量扣费，AI编程的低价包月时代变了",
+      "snippet": "Jun 2, 2026 - GitHub官方文档显示,10美元/月的Copilot Pro套餐包含1,000点基础额度… 相当于15美元额度;39美元/月的Pro+为7,000点;100美元/月的Copilot Max为20,000点。"
+    },
+    {
+      "link": "https://www.facebook.com/will.fans/posts/%E7%8F%BE%E5%9C%A8-github-copilot-%E6%9C%80%E5%88%92%E7%AE%97%E7%9A%84%E6%96%B9%E6%A1%88%E6%87%89%E8%A9%B2%E6%98%AF%E6%AF%8F%E6%9C%88-100-%E7%BE%8E%E5%85%83%E7%9A%84-max-%E6%96%B9%E6%A1%88%E4%BA%86%E6%AF%94-pro-%E9%82%84%E5%A4%9A%E5%87%BA-29x-%E5%80%8D%E7%94%A8%E9%87%8F%E4%B9%9F%E7%AE%97%E6%98%AF%E6%9C%89%E4%B8%80%E4%B8%81%E9%BB%9E%E8%A3%9C%E8%B2%BC%E5%95%A6-%E6%88%91%E8%AA%8D%E7%82%BA-git/1445991184221633/",
+      "title": "現在GitHub Copilot 最划算的方案應該是每月$100 美元的 ...",
+      "snippet": "3 months ago - 現在GitHub Copilot 最划算的方案應該是每月$100 美元的Max 方案了，比Pro+ 還多出2.9x 倍用量，也算是有一丁點補貼啦！ · Inco AI 發表Splash，一款專為 ..."
+    },
+    {
+      "link": "https://www.hbomax.com/",
+      "title": "HBO Max | Stream Series and Movies",
+      "snippet": "Choose an HBO Max plan or bundle to start streaming. Limited-Time Offer Starting at $6.58/mo Plans visit the HBO Max Help Center. Plan availability varies by ..."
+    },
+    {
+      "link": "https://tech-insider.org/au/github-copilot-usage-based-billing-2026/",
+      "title": "GitHub Copilot Pricing [2026]: From $0 to $39/mo - Tech Insider",
+      "snippet": "Jun 11, 2026 - GitHub Copilot pricing in 2026: Free tier, Pro at $10/mo, Pro+ at $39/mo, plus new usage-based billing. See every plan and which one wins ..."
+    },
+    {
+      "link": "https://x.com/tegmark?lang=en",
+      "title": "Max Tegmark",
+      "snippet": "Announcing the 2026 TIME100 AI, the world's most influential people in artificial intelligence time.com/collection/tim..."
+    },
+    {
+      "link": "https://mxb.dev/",
+      "title": "Max Böck",
+      "snippet": "Max Böck is a professional front-end developer based in Vienna, Austria."
+    },
+    {
+      "link": "https://ch.linkedin.com/in/maxbuckley",
+      "title": "Max Buckley – Founding something new - LinkedIn",
+      "snippet": "Exploring founding my own startup. specializing in machine learning and large language models (LLMs)."
+    },
+    {
+      "link": "https://maxbarry.com/",
+      "title": "Max Barry | he writes things",
+      "snippet": "Max Barry is the author of seven novels and the creator of the popular online game NationStates. He also once found a sock full of pennies."
+    },
+    {
+      "link": "https://techjacksolutions.com/ai-tools/github-copilot/github-copilot-pricing/",
+      "title": "GitHub Copilot Pricing: Definitive Guide 2026",
+      "snippet": "Explore GitHub Copilot pricing across Free, Pro, and Enterprise tiers to find the most cost-effective coding plan for your software stack in 2026."
+    },
+    {
+      "link": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html",
+      "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
+      "snippet": "The FAA administrator said the Max 10 will be delayed until the agency can assess a software issue on the aircraft."
+    },
+    {
+      "link": "https://www.facebook.com/will.fans/posts/github-copilot-%E6%9E%9C%E7%84%B6%E9%82%84%E6%98%AF%E6%8E%A8%E5%87%BA%E4%BA%86-max-%E6%96%B9%E6%A1%88%E8%80%8C%E4%B8%94%E8%B2%B7-100-%E9%80%81-100%E7%A6%8F%E5%88%A9%E9%82%84%E6%98%AF%E6%9C%89%E7%9A%84%E5%95%A6-github-%E7%82%BA%E4%BA%86%E5%9B%A0%E6%87%89%E9%96%8B%E7%99%BC%E8%80%85%E5%B0%8D%E6%96%BC%E4%BD%BF%E7%94%A8%E9%87%8F%E9%99%90%E5%88%B6%E7%9A%84%E7%96%91%E6%85%AEgithub/1426642299489855/",
+      "title": "GitHub Copilot 果然還是推出了Max 方案，而且買$100 送 ...",
+      "snippet": "4 months ago - GitHub Copilot 果然還是推出了Max 方案，而且買 $100 送$100，福利還是有的啦！ GitHub 為了因應開發者對於「使用量限制」的疑慮，GitHub 調整了計費 ..."
+    },
+    {
+      "link": "https://www.facebook.com/groups/developerkaki/posts/2803424080003487/",
+      "title": "Is GitHub Copilot Pro worth the cost?",
+      "snippet": "5 months ago - Hi,\n\nAnyone ever used Github Copilot Pro+ at 39 USD/month? Do you think it is worth it compared to Claude Pro at 20 USD/month? Obviously the price for ..."
+    },
+    {
+      "link": "https://github.com/features/copilot/plans",
+      "title": "GitHub Copilot · Plans & pricing",
+      "snippet": "Pricing plans ; Max. For sustained, high-volume tasks · 100 ; Pro+. For complex tasks · 39 ; Pro. For medium agent tasks · 10 ; Free. For lightweight chats."
+    },
+    {
+      "link": "https://www.facebook.com/MAXMusic/",
+      "title": "MAX (@MAXMusic) - Facebook",
+      "snippet": "MAX. 923888 followers · 6750 talking about this. linktr.ee/MAXMusicOfficial."
+    },
+    {
+      "link": "https://www.opslyft.com/blog/github-copilot-pricing",
+      "title": "GitHub Copilot Pricing 2026: Plans, Credits, and Costs",
+      "snippet": "Aug 22, 2026 - Pro ($10) fits most individual developers who want unlimited autocomplete plus some agent use. Pro+ ($39) adds headroom and premium models for ..."
+    },
+    {
+      "link": "https://pro-bikegear.com/?srsltid=AU7gw4WmCJRSdkYOGA4oLVq_z3sEzSLC0aKfk60hRUqPfDYiiZwdkbhs",
+      "title": "PRO",
+      "snippet": "Find your fit! Find your perfect saddle or cockpit in just a few steps. PRO Saddle Selector."
+    },
+    {
+      "link": "https://github.com/orgs/community/discussions/197089",
+      "title": "GitHub Copilot plans are now on usage-based billing [FAQ] ...",
+      "snippet": "Hello GitHub Community,\n\nImportant\n\nEffective June 16, 2026: We're reopening sign-ups for GitHub Copilot Student, Pro, Pro+, and Max plans gradually ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/LifeProTips/",
+      "title": "r/LifeProTips",
+      "snippet": "Check whether the page actually credits the image. This is especially useful when researching old photos because the same image can get reposted hundreds of ..."
+    },
+    {
+      "link": "https://www.threads.com/@little_gauss/post/DYTMYuCk-oH/github-copilot-%E6%9B%B4%E6%96%B0%E4%BA%86%E5%80%8B%E4%BA%BA%E6%96%B9%E6%A1%88%E9%99%A4%E4%BA%86%E6%97%A2%E6%9C%89%E7%9A%84-pro-%E8%88%87-pro-%E7%8F%BE%E5%9C%A8%E5%A4%9A%E4%BA%86-flex-%E9%85%8D%E9%A1%8D%E5%88%B6%E5%BA%A6%E5%8F%A6%E5%A4%96%E9%82%84%E6%96%B0%E5%A2%9E%E4%BA%86%E4%B8%80%E5%80%8B-max-%E6%96%B9%E6%A1%88%E5%AE%9A%E4%BD%8D%E5%9C%A8%E6%9B%B4%E9%AB%98%E7%94%A8%E9%87%8F%E9%96%8B%E7%99%BC%E9%AB%94%E9%A9%97%E6%9B%B4%E5%AE%8C/",
+      "title": "GitHub Copilot 更新了個人方案，除了既有的Pro 與Pro+ ...",
+      "snippet": "4 months ago - GitHub Copilot 更新了個人方案，除了既有的Pro 與Pro+ 現在多了Flex 配額制度，另外還新增了一個Max 方案，定位在更高用量、開發體驗更完整的選項。"
+    },
+    {
+      "link": "https://pro.europeana.eu/",
+      "title": "Europeana PRO: Empowering digital change for the cultural ...",
+      "snippet": "Europeana empowers the cultural heritage sector in its digital transformation. We develop expertise, tools and policies to embrace digital change and encourage ..."
+    },
+    {
+      "link": "https://support.google.com/pixelphone/thread/436253091/rattle-noise-in-google-pixel-10-pro?hl=en-GB",
+      "title": "Rattle noise in Google Pixel 10 Pro",
+      "snippet": "23 May 2026 — Hi, I purchased a new Google Pixel 10 Pro and one month later I am noticing some rattle noise from camera. When I move it upward or backward I hear ..."
+    },
+    {
+      "link": "http://tt.tennis-warehouse.com/index.php?forums/general-pro-player-discussion.13/",
+      "title": "General Pro Player Discussion",
+      "snippet": "General Pro Player Discussion. Talk about anything Pro.. Except Match Results! Pro Match Results. Place your *Spoiler* threads here!"
+    },
+    {
+      "link": "https://www.seriouseats.com/ninja-crispi-air-fryer-review-8779529",
+      "title": "Ninja Crispi Pro Air Fryer Review",
+      "snippet": "27 Mar 2026 — The Ninja Crispi Pro 6-in-1 Glass Air Fryer heats up rapidly and cooks foods to crispy, crunchy perfection. We loved the glass basket, ..."
+    },
+    {
+      "link": "https://apps.apple.com/us/app/ukg-pro/id6445849909",
+      "title": "UKG Pro - App Store - Apple",
+      "snippet": "3 Aug 2025 — As an employee, you'll be able to: • View and update personal HR and pay information • View your organization chart • Calculate take-home pay ..."
+    },
+    {
+      "link": "https://docs.github.com/zh/copilot/get-started/plans",
+      "title": "GitHub Copilot计划- GitHub 文档",
+      "snippet": "免费计划包括Copilot Free 和Copilot Student。 付费计划，包括Copilot Pro、Copilot Pro+和Copilot Max。 通过这些计划，你将获得对以下特性和功能的访问 ..."
+    },
+    {
+      "link": "https://www.finout.io/blog/github-copilot-pricing-plans-hidden-costs-and-5-ways-to-control-them",
+      "title": "GitHub Copilot Pricing Plans, Hidden Costs, and 5 Ways to ...",
+      "snippet": "Aug 2, 2026 - Individual users pay $0 for Free, $10 for Pro, $39 for Pro+, or $100 for Max per month. Organizations pay $19 per user per month for ..."
+    },
+    {
+      "link": "https://github.com/orgs/community/discussions/192963",
+      "title": "Announcement & FAQ: Changes to GitHub Copilot ...",
+      "snippet": "Announcement: Changes to GitHub Copilot Individual Plans\n\nImportant\n\nJune 1, 2026: Usage-based billing for GitHub Copilot is now live for all users and ..."
+    },
+    {
+      "link": "https://docs.github.com/zh/copilot/concepts/billing-and-usage/individuals/billing",
+      "title": "个人基于使用情况的计费",
+      "snippet": "Copilot 使用量以AI credits 为单位。 所有Copilot 计划均包含AI credits 的月度配额。 如果用尽计划中包含的所有信用额度，可以购买更多额度并继续工作。"
+    },
+    {
+      "link": "https://www.reddit.com/r/GithubCopilot/comments/1twfdes/github_copilot_dropped_a_max_plan_is_it_even/?tl=zh-hans",
+      "title": "GitHub Copilot推出了最高计划，值得吗🤔 : r/GithubCopilot",
+      "snippet": "3 months ago - 在像Opus或GPT 5.5这样优秀的模型上,200美元的AI积分应该能让你有30-40分钟的推理时间,每个月总共5-15次提示。 每月投资大约2000-3000美元就足够了。 你 ..."
+    },
+    {
+      "link": "https://docs.github.com/zh/copilot/reference/copilot-billing/request-based-billing-legacy/what-changed-with-billing",
+      "title": "Copilot 计费（旧版）有哪些变化",
+      "snippet": "升级至按月付费套餐，并获得年度套餐剩余价值的按比例计算的信用额度。 例如，如果你使用的是Copilot Pro 年度计划，则可以升级到每月Copilot Pro+ 计划。 如果我保留年度 ..."
+    },
+    {
+      "link": "https://www.ithome.com.tw/news/175387",
+      "title": "GitHub Copilot將於6月改採用量計費制，依Token消耗量收費",
+      "snippet": "Apr 29, 2026 - 新制以Token消耗量為計算基準，依各模型已公告的API費率扣抵Credits，付費方案月費維持不變，但用量超出內含AI Credits後，須依各模型公告費率額外付費。"
+    }
+  ]
+}

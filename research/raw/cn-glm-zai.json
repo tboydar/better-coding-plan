@@ -1,0 +1,130 @@
+{
+  "id": "NUsdg9v9sDSA9bygXkGPkd",
+  "message_id": "84225d00-53fd-4b43-a2f9-4656f3bc0bea",
+  "answer": "根据搜索结果，2026年智谱GLM Coding Plan的价格和每月Token额度经历了多次调整，目前采用积分制计费方式，具体信息如下。\n\n首先关于价格，GLM Coding Plan在2026年经历了两次重要调整.第一次是在2026年2月12日，智谱发布了新一代旗舰模型GLM-5，同时调整了套餐价格，取消了首购优惠，保留按季按年订阅优惠，整体涨幅自30%起，已订阅用户价格保持不变.当时三档套餐的连续包月原价分别为Lite 49元，Pro 149元，Max 469元.\n\n第二次调整发生在2026年7月31日前后，智谱再次大幅上调价格，最受欢迎的Pro档连续包月原价从149元调整至538元，Lite从49元涨到118元，Max从469元涨到1078元.按连续包月原价计算，三档涨幅分别约为141%，261%和130%.到了2026年8月，新套餐价格进一步明确为Lite 118元，Pro 538元，Max 1078元每月.\n\n关于每月Token额度，新版套餐不再直接以Token数量计费，而是改为积分制，三档套餐同时设置每5小时和每周两道积分上限，Lite为2000积分和1万积分，Pro为1.2万积分和6万积分，Max为2.8万积分和14万积分.5小时额度采用动态恢复机制，每周额度则从下单之日起每7天刷新.\n\n积分并不等同于固定数量的Token，以GLM-5.2为例，输入Token，缓存输入Token和输出Token的抵扣系数分别为6.9，1.7和24，联网搜索，网页读取和开源仓库读取等工具调用也会按文档列出的系数计入积分消耗.此外还存在高峰期规则，工作日14时至18时为高峰期，其余时段调用模型只按基础积分消耗的50%抵扣，也就是说高峰期实际可用次数仅为非高峰期的约三分之一.\n\n在调整之前，旧版套餐曾以较低价格提供较高额度，例如Lite套餐曾低至20元每月，每5小时约120次prompts，相当于Claude Pro的3倍，Pro套餐约100元每月，每5小时约600次prompts.但涨价后，用户普遍反映价格优势减弱，有开发者社区用户直接以恐怖故事形容这轮涨价，并质疑Pro月费涨到538元后为何不直接选择GPT或Claude，Max进入千元价位后价格优势所剩无几.\n\n不过也有用户认为，GLM仍有人民币支付，国内网络访问和采购便利等优势，对无法稳定购买海外模型的个人，以及需要考虑采购渠道和数据合规的机构来说，价格并不是唯一标准.\n\n总体而言，2026年智谱GLM Coding Plan的价格经历了从低到高的显著上涨，计费方式也从简单的Token额度改为更复杂的积分制，实际每月可用Token量取决于模型版本，缓存命中率，使用时段和工具调用频率等多种因素，官方给出的Token用量建立在较高缓存命中率之上，实际使用智能体时长输出，反复读取上下文和频繁调用工具都可能加快积分消耗，因此用户更希望看到不同编程场景下的实测数据，而不只是理论Token上限.",
+  "query_analysis": {
+    "queries": [
+      "2026智谱GLM编码计划价格",
+      "2026 智谱 GLM coding plan 价格",
+      "2026智谱GLM编码计划每月token额度",
+      "2026 智谱 GLM coding plan 每月 token 额度"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2006431542428315931",
+      "title": "已知国内LLM Coding Plan 订阅套餐整理",
+      "snippet": "智谱(GLM) - GLM Coding Plan 官网网址: 套餐价格: ¥49/月(连续包季享9折) 主要特点: 国内最早推出Coding Plan的服务商,支持20+编程工具。 2026-04-14 11:45・北京"
+    },
+    {
+      "link": "https://m.36kr.com/p/3767538055463681",
+      "title": "智谱让微信支付宝躺赢了 - 36氪",
+      "snippet": "A 智谱的GLMCodingPlan是国内最早推出的AI编码订阅服务之一。 2026年调价后月费分别为49元、149元、469元。"
+    },
+    {
+      "link": "https://blog.csdn.net/weixin_44162814/article/details/158658021",
+      "title": "2026年国内主流AI Coding Plan套餐全对比｜开发者避坑指南",
+      "snippet": "2026 国内AI 编程套餐（Coding Plan）全量横评：选型指南与避坑手册. 平台入门价格首月特惠核心亮点推荐人群智谱GLM¥49/月客户端支持最广（20+款），附 ..."
+    },
+    {
+      "link": "https://baike.baidu.com/item/GLM%20Coding%20Plan/67265860",
+      "title": "GLM Coding Plan_百度百科",
+      "snippet": "2026年2月12日，智谱发布新一代旗舰模型GLM-5，并在海外版上线，同时发布了关于GLM Coding Plan价格调整的通知。 3. 由于市场需求较大，GLM Coding Plan上线后即售罄。 5."
+    },
+    {
+      "link": "https://post.smzdm.com/p/amor0ppz/",
+      "title": "告别Token焦虑！2026国内Coding Plan终极盘点",
+      "snippet": "入手门槛：当前折扣价¥19.9/月，每月12,000 次请求。文档写得非常 ... 官方直达：智谱GLM Coding Plan. https://www.bigmodel.cn/glm-coding ..."
+    },
+    {
+      "link": "https://finance.sina.com.cn/stock/t/2026-07-31/doc-iniksxpi1210399.shtml",
+      "title": "谱GLM Coding Plan不用抢了，最多涨价两倍，价格向海外看齐",
+      "snippet": "智谱近日更新GLM Coding Plan国内版套餐，Pro、Lite、Max连续包月原价分别从149元、49元、469元涨至538元、118元、1078元，涨幅约141%、261%、130%。"
+    },
+    {
+      "link": "https://github.com/tmyiezsr/GLM-Coding",
+      "title": "智谱AI GLM Coding Plan优惠码和2026年最新编程套餐活动 ...",
+      "snippet": "智谱AI GLM Coding Plan 套餐活动 ; Lite 套餐, 20元/月起, 每5小时约120次prompts (相当于Claude Pro的3倍) ; Pro 套餐, 约100元/月, 每5小时约600次prompts (相当于Claude ..."
+    },
+    {
+      "link": "https://docs.bigmodel.cn/cn/coding-plan/overview",
+      "title": "套餐概览- 智谱AI开放文档",
+      "snippet": "GLM Coding Plan 是专为AI 编码打造的订阅套餐，仅需少量投入，即可覆盖需求理解 ... 您可在财务-费用明细 查询具体消耗的不同价格类型的Token 数/ 工具调用次数。"
+    },
+    {
+      "link": "https://docs.bigmodel.cn/cn/update/promotion",
+      "title": "上新活动- 智谱AI开放文档",
+      "snippet": "活动一：GLM Coding Plan 编码畅享计划. 为庆祝GLM Coding Plan ... 额度上限： 每位用户每月最多可成功邀请10 位新用户，每月累计最高可获得2 亿Tokens 的免费额度。"
+    },
+    {
+      "link": "https://zcode.z.ai/cn/docs/configuration",
+      "title": "连接模型与套餐 - ZCode - Z.ai",
+      "snippet": "连接GLM 模型与Coding Plan ,每天提供800 万token 的GLM 系列模型体验额度,适合先在真实项目里试用ZCode Agent,再决定是否升级到GLM Coding 编程套餐… 每周额度,详情见 ..."
+    },
+    {
+      "link": "https://cloud.tencent.com/developer/article/2654022",
+      "title": "OpenClaw这样买Token最划算：一文看懂各大平台Coding Plan",
+      "snippet": "智谱GLM Coding Plan 存在独家规则：高峰期（UTC+8 14:00～18:00）使用GLM-5时，实际可用次数仅为非高峰期的1/3。其他平台目前没有这个规则，选购时需格外 ..."
+    },
+    {
+      "link": "https://news.qq.com/rain/a/20260422A0485K00",
+      "title": "AI coding plan 选购指南：日耗10 亿Token 工程师的7家横评",
+      "snippet": "预算¥30~50/月. MiniMax Starter ¥29，全场最低价，支持Claude Code和Cursor，600请求/5小时够轻度使用和尝鲜。 · 预算¥100~200/月. 我会选智谱GLM Pro ¥ ..."
+    },
+    {
+      "link": "https://docs.bigmodel.cn/cn/coding-plan/notice/usage-revision",
+      "title": "老用户权益说明",
+      "snippet": "为提升额度计算的透明度和可预期性，GLM Coding Plan 套餐焕新上线，新版套餐采用以Token 消耗为基础的积分制。新版套餐的具体档位、价格、积分额度及 ..."
+    },
+    {
+      "link": "https://hk.finance.yahoo.com/news/%E6%99%BA%E8%AD%9C-02513-ai-%E7%B7%A8%E7%A8%8B%E5%A5%97%E9%A4%90-glm-000832934.html",
+      "title": "智譜(02513) AI 編程套餐GLM Coding Plan 推出即罕見售罄",
+      "snippet": "2026年2月12日. GLM-5 編程與Agent ・ 僅用一周時間登頂・ 級目標價1,250元 AASTOCKS • 3個月前2513.HK 版權© 2026 Yahoo。"
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2075392954261320429",
+      "title": "2026年8月24日AI Coding Plan 与API 平台对比：智谱GLM-5.3",
+      "snippet": "智谱新套餐已全面支持GLM-5.3，国内Lite、Pro、Max 分别为118 元、538 元和1078 元。 DeepSeek 自8 月17 日启用峰谷计费，V4 Flash、V4 Pro 在不同时段 ..."
+    },
+    {
+      "link": "https://bigmodel.cn/glm-coding",
+      "title": "智谱AI",
+      "snippet": "智谱大模型开放平台-新一代国产自主通用AI大模型开放平台，是国内大模型排名前列的大模型网站，研发了多款LLM模型，多模态视觉模型产品，致力于将AI产品技术与行业场景 ..."
+    },
+    {
+      "link": "https://cloud.tencent.com/developer/article/2718987",
+      "title": "智谱GLM Coding Plan改版：Pro档涨幅超150%！老用户Max ...",
+      "snippet": "二、老用户权益到底怎么算?我帮你理清楚 · ✓ 当前套餐完全不受影响,用到到期为止 · ✓ 到期前可以按V2价格订阅新版套餐(¥49/¥149/¥469起) · ⚠️ 8月中旬会 ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2078426727945082553",
+      "title": "一文搞懂Coding Plan / Token Plan / Agent Plan：2026 年AI ...",
+      "snippet": "按Token / Credits 消耗计费，每月给你一个额度池，多模态模型也按Token 折算。 适合：既要写代码、又要用多模态/通用Agent 的场景；是Coding Plan 的官方 ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2070660804568003938",
+      "title": "2026年8月10日Coding Plan平台全面对比｜智谱新套餐涨价",
+      "snippet": "同时覆盖GLM-5.2. Token 额度偏多,无5 小时限制, 时每月用量上限超100 亿token。 连续包月$10,按美元Credits 计费,灵活性高。 使用时无需科学上网。"
+    },
+    {
+      "link": "https://www.oschina.net/news/373193",
+      "title": "智谱更新GLM Coding Plan 订阅套餐",
+      "snippet": "该计划支持Cline、RooCode、KiloCode等十余款编码工具，每月最低仅需二十元即可畅享体验。MaxPlan只需两倍价格即可获得四倍Pro使用量，大幅提升了用户的 ..."
+    },
+    {
+      "link": "https://bigmodel.cn/pricing",
+      "title": "智谱丨BigModel 平台",
+      "snippet": "智谱大模型开放平台-新一代国产自主通用AI大模型开放平台，是国内大模型排名前列的大模型网站，研发了多款LLM模型，多模态视觉模型产品，致力于将AI产品技术与行业场景 ..."
+    },
+    {
+      "link": "https://finance.sina.com.cn/tech/digi/2026-02-12/doc-inhmpkak3104017.shtml",
+      "title": "智谱对GLM Coding Plan 套餐价格进行结构性调整",
+      "snippet": "调整内容如下：取消首购优惠，保留按季按年订阅优惠；套餐价格进行结构性调整，整体涨幅自30% 起；已订阅用户价格保持不变。生效时间：2026 年2 月12 日。"
+    },
+    {
+      "link": "https://my.oschina.net/u/9760751/blog/19749151",
+      "title": "全网最全Coding Plan 平台测评：14 个平台的价格、额度与 ...",
+      "snippet": "想要国内平台、固定月费和清晰窗口：优先比较Kimi Code、GLM Coding Plan、MiniMax Token Plan。 ... 每用户每月$19，并提供更高的Agent 请求额度。"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "ZZQwyh5UWCzo5M74HTNNh5",
+  "message_id": "aea29cba-c579-4f81-ba53-5c38ac7e171d",
+  "answer": "基于搜索结果，2026年印度市场最便宜的AI编程订阅方案是Cursor推出的印度专属计划“Cursor Start”，价格为每月649印度卢比（约合7美元）。这一价格远低于Cursor标准Pro订阅的每月20美元，是专门为印度开发者市场设计的。\n\n。\n\nCursor Start计划的具体内容包括：访问Cursor自家的Composer 2.5模型和Grok 4.5模型，使用额度高于免费层级；支持云代理（cloud agents）、iOS应用、插件、Model Context Protocol支持、hooks和技能（skills）。该计划以印度卢比计价，支持信用卡、借记卡以及印度统一支付接口（UPI）付款，并且价格已含税。需要注意的是，这个计划不包含来自OpenAI或Anthropic等第三方提供商的尖端前沿模型，也不包含Bugbot、Auto Mode、Automations以及Cursor SDK等高级功能。\n\n关于DeepSeek在印度的定价，搜索结果中没有直接提到DeepSeek在印度有类似Cursor这样的本地化订阅计划。不过，DeepSeek的API定价本身以低成本著称，其API价格按每百万token计算，并且有非高峰时段半价的政策。例如，有资料提到DeepSeek的模型运行成本远低于GPT-5.4 Mini和Gemini 3.5 Flash等竞品，例如Sarvam声称其105B模型运行成本为每百万混合token约0.80美元，而DeepSeek的定价结构也以低价为特点。但如果你问的是“最便宜的Cursor或DeepSeek印度订阅”，那么目前明确针对印度市场且价格最低的付费订阅就是Cursor Start的649卢比每月。\n\n。\n\n\n\n从更广的视角看，Cursor推出印度专属低价计划并非孤例。OpenAI和Anthropic在过去一年中也推出了印度专属计划，全球AI公司都在争夺印度这个全球增长最快的AI市场之一。印度拥有超过2700万开发者，仅次于美国，2026年一年就有超过200万新开发者加入，这使得印度成为Cursor的第三大市场，也是其重度用户最集中的地区。Cursor表示，如果这个印度模式成功，未来可能将本地化定价扩展到其他市场，但短期内该计划仅限印度用户，并且Cursor会通过多重检查（包括防止通过VPN访问）来确保只有印度境内的个人用户能享受此价格。\n\n。\n\n\n\n总结来说，如果你在印度并且寻找最便宜的AI编程订阅，Cursor Start的每月649卢比是目前搜索结果中最明确、最便宜的选项，尤其适合需要比免费层级更多AI辅助编码能力、但又不想支付20美元Pro全价的开发者。至于DeepSeek，它更多是以API按量付费的形式使用，而非提供印度本地化的固定月费订阅计划，因此两者在订阅模式上并不完全可比。如果你追求极致低价且愿意自己管理API调用，DeepSeek的API可能更省钱，但如果你想要一个简单、固定月费、且专门为印度优化的编程工具订阅，Cursor Start是当前最突出的选择。",
+  "query_analysis": {
+    "queries": [
+      "Cursor deepseek India cheapest subscription",
+      "2026 भारत एआई कोडिंग योजना मूल्य INR रुपये सदस्यता सबसे सस्ती कर्सर डीपसीक भारत",
+      "2026 India AI coding plan subscription cost",
+      "2026 India AI coding plan price INR rupees subscription cheapest Cursor deepseek India"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX ...",
+      "snippet": "Cursor Start, a ₹649-a-month (about $7) subscription built specifically for India — and priced well below Cursor's standard $20-a-month Pro ..."
+    },
+    {
+      "link": "https://www.linkedin.com/posts/haimantika-mitra_india-has-the-highest-developer-population-activity-7487913735387463680-xJwM",
+      "title": "Cursor Launches India-Only Subscription Tier for ₹649/Month",
+      "snippet": "Cursor launched an India-only subscription tier priced at ₹649/month with UPI support … 105B model runs at $0.80 per million blended tokens, ..."
+    },
+    {
+      "link": "https://forum.cursor.com/t/i-asked-deepseek-r1-about-cursors-pricing-model/44962",
+      "title": "I asked DeepSeek-R1 about Cursor's pricing model",
+      "snippet": "Cursor charges $20/month for 500 queries → $12.50 markup over raw Sonnet costs (167% markup). Equivalent $20 Subscription with DeepSeek-R1: $20 ..."
+    },
+    {
+      "link": "https://forum.cursor.com/t/getting-charged-for-deepseek-r1/56644",
+      "title": "Getting charged for Deepseek r1 - Feedback",
+      "snippet": "Cursor has chosen to use a Deepseek R1 provider that is 5.5x as expensive as Deepseek's own most expensive pricing (cache miss during peak cost ..."
+    },
+    {
+      "link": "https://thenextweb.com/news/cursor-start-india-pricing-own-models-spacex",
+      "title": "Cursor cut its India price to $7, and its own AI models are why",
+      "snippet": "The startup launched Cursor Start on Monday, a ₹649 plan sold only in India, TechCrunch reported. It sits well below the $20 Pro subscription."
+    },
+    {
+      "link": "https://cursor-alternatives.com/blog/ai-coding-tools-pricing/",
+      "title": "AI Coding Tools Pricing Comparison 2026: Every Plan ...",
+      "snippet": "Complete AI coding tools pricing comparison for 2026. Every plan for Cursor, Windsurf, GitHub Copilot, Cline, Claude Code, Aider, ..."
+    },
+    {
+      "link": "https://www.cloudzero.com/blog/cursor-ai-pricing/",
+      "title": "Cursor AI Pricing In 2026: Every Plan, Credit System, And ...",
+      "snippet": "And speaking of plans priced for reality: the India Start plan at ₹649/month, priced in rupees with UPI and tax included, is the most ..."
+    },
+    {
+      "link": "https://blog.margrop.net/en/post/coding-plan-market-2026/",
+      "title": "Can You Still Buy a Coding Plan? A July 2026 Reality Check ...",
+      "snippet": "Short answer: as of July 20, 2026, most mainstream AI coding plans are still purchasable. The pricing page loads, but checkout is disabled. new ..."
+    },
+    {
+      "link": "https://www.lowcode.agency/blog/cursor-ai-vs-deepseek",
+      "title": "Cursor AI vs DeepSeek: 2026 Full Comparison | LOW/CODE",
+      "snippet": "For individual developers on Cursor's subscription, the platform handles model selection and cost. Cursor's pricing at $20/month includes ..."
+    },
+    {
+      "link": "https://www.developersdigest.tech/blog/ai-coding-tools-pricing-2026",
+      "title": "AI Coding Tools Pricing Comparison 2026 - Developers Digest",
+      "snippet": "The $20 Pro plan remains the best single-tool value in AI coding. ... The Pro plan costs $20/mo (raised from $15 in May 2026). A new Max ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/cursor/comments/1uswr38/i_have_4_ai_subscriptions_heres_the_pros_and_cons/",
+      "title": "I have 4 AI subscriptions, here's the pros and cons of each ...",
+      "snippet": "plans for the following: 20$ Cursor, 20$ CC, 20$ Codex, and 10$ Opencode. Cursor: - Really good. Usage is only monthly, so you'll never get ..."
+    },
+    {
+      "link": "https://hub.tcno.co/ai/subscriptions-compared-2026/",
+      "title": "AI subscription plans compared (Gemini, Cursor, Codex ...",
+      "snippet": "$5 for your first month, and $10 thereafter for access to top-of-the “sideline” GLM-5.2, DeepSeek, Kimi and more. While they're not Opus-level, ..."
+    },
+    {
+      "link": "https://api-docs.deepseek.com/quick_start/pricing",
+      "title": "Models & Pricing | DeepSeek API Docs",
+      "snippet": "The prices listed below are in units of per 1M tokens. Off-peak rates are half of the peak rates. Product prices may vary and DeepSeek reserves the right to ..."
+    },
+    {
+      "link": "https://kilo.ai/articles/best-ai-subscription-for-coding",
+      "title": "Which AI Subscription Is Best for Coding in 2026?",
+      "snippet": "Fixed-fee AI coding subscriptions. The launch plan is the MiniMax Token Plan Plus at $20/month, with more coming. up to 40% extra on monthly ..."
+    },
+    {
+      "link": "https://canopywave.com/blog/best-ai-coding-plans-2026-pricing-limits-use-cases",
+      "title": "Best AI Coding Plans in 2026: Pricing & Limits Compared",
+      "snippet": "Prices and plan details were checked on July 17, 2026; Plan $20/month Monthly. Plan $6/month Monthly credits. Five-hour and weekly prompt quotas"
+    },
+    {
+      "link": "https://www.morphllm.com/ai-coding-costs",
+      "title": "AI Coding Costs (2026): Claude vs Codex vs Gemini ... - Morph",
+      "snippet": "AI coding costs about $13 per developer per active day and $150 to $250 per developer per month on Claude Code, heavy automation reaches $500 to $2,000/ ..."
+    },
+    {
+      "link": "https://llmgateway.io/blog/best-ai-coding-plans",
+      "title": "11 Best AI Coding Plans in 2026 (Compared)",
+      "snippet": "pricing — $29, $79, or $179 a month. The top tier is expensive at roughly $100–$200/mo for one vendor's models Pricing: Claude Pro around $20/ ..."
+    },
+    {
+      "link": "https://www.linkedin.com/posts/abhishek-veeramalla_big-news-for-ai-enthusiasts-in-india-activity-7487859948962504704-3Mvh",
+      "title": "Cursor Launches India-Specific AI Coding Plan for ₹649/ ...",
+      "snippet": "✓ ₹649/month (tax inclusive) with billing in rupees and UPI support, built specifically for India. ✓ Simply describe what you want to build, ..."
+    },
+    {
+      "link": "https://amnic.com/blogs/cursor-pricing",
+      "title": "Cursor Pricing 2026: Plans, Credits & Real Costs",
+      "snippet": "The $20 plan is one of the best deals in AI coding, right up until your credits run out mid-month and pay-as-you-go rates take over. This ..."
+    },
+    {
+      "link": "https://www.atlascloud.ai/blog/tips/coding-plan-best-ai-coding-subscription-under-20",
+      "title": "The Best AI Coding Subscription Under $20 in 2026",
+      "snippet": "The $10 to $20/month range has become the most contested bracket in developer tooling. GitHub Copilot, Cursor, and a growing list of ..."
+    },
+    {
+      "link": "https://codingplan.org/en",
+      "title": "AI Coding Plan Comparison 2026 - Claude, GLM, MiniMax ...",
+      "snippet": "Claude Code $20/mo. Available GLM Coding Plan $18/mo ・ $10/mo, 32 Models ・ 32 models (up from 24) $12/5h · $30/week · $60/month OpenAI. Plans ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/AI_India/comments/1sv8ttf/choosing_ai_subscription/",
+      "title": "Choosing AI subscription : r/AI_India",
+      "snippet": "chat, thinking, PDFs/CSVs, and model comparison, to 60 dollars a month. Budget between 20 dollars to 60 dollars a month … which AI tool ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/cursor/comments/1uttd7q/best_coding_setup_for_pricetoperformance_in_q3/",
+      "title": "Best coding setup for price-to-performance in Q3 2026?",
+      "snippet": "I’m comparing:\n\n* $100 Codex with GPT-5.6 Sol High\n\n* $100 Claude Code with Opus 4.8\n\n* $60 Cursor with Grok 4.5\n\nWhich one gets the most real work ..."
+    }
+  ]
+}

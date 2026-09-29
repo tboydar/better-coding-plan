@@ -1,0 +1,129 @@
+{
+  "id": "6pXzpyRC7xRgsnFNiVGWEr",
+  "message_id": "f760e3fe-49ce-45b7-8609-1c6c728752f3",
+  "answer": "Aiderは2026年時点でも完全に無料のオープンソースツールであり、そのライセンスはApache 2.0です。PyPI上ではaider-chatという名前で配布されており、アカウント登録やサブスクリプション料金は一切発生しません。ツール自体の利用に費用はかからず、ユーザーが支払うのは接続するLLMプロバイダーへのAPI利用料金のみです。つまり、Aiderは無料で利用できる一方で、実際のコストは選択するモデルと使用量に大きく依存します。\n\n具体的な費用感としては、軽い使用量の場合、月に約10ファイル程度の処理で10ドルから30ドル程度のAPI費用がかかることがあります。一方、ヘビーユーザーでプレミアムモデルを多用する場合、月に200ドル以上に達することもありますが、平均的なヘビー使用では約60ドルから80ドル程度が目安となります。例えば、Claude Sonnetを利用した場合、軽度から中程度の使用で1日あたり約5ドルから15ドル、Opusを使用した場合は1日あたり約15ドルから40ドルがAPI費用として発生します。また、Ollamaなどを通じてローカルモデルを利用する場合は、実質的に費用をほぼゼロに抑えることも可能です。\n\n\n\nAiderのコスト構造は、従量課金制である点が大きな特徴です。固定の月額シート料金が発生するCursorやGitHub Copilotなどとは異なり、Aiderは使用したトークン分だけを支払う仕組みです。そのため、多くのユーザーにとっては、月20ドルの固定費を支払うプロプライエタリなツールよりも経済的になる場合がありますが、逆に、高頻度でプレミアムモデルを使う場合は、月200ドルを超えることもあり得ます。この点で、Aiderは「ツール自体は無料だが、モデル利用料金は別途かかる」というモデルを採用しており、コストはユーザーの利用パターンに応じて柔軟に変動します。\n\n\n\nさらに、Aiderはモデル非依存の設計を採用しており、OpenAI、Anthropic、Google、DeepSeekなど50以上のLLMプロバイダーに対応しています。また、OllamaやOpenAI互換のエンドポイントを通じてローカルモデルも利用可能です。この柔軟性により、ユーザーはタスクに応じてモデルを自由に切り替えることができ、特定のベンダーに縛られることがありません。Aiderのリポジトリマップ機能はコードベース全体の構造を把握して文脈を提供し、自動リント・テストループはコード生成後にエラーを検出して自動修正する機能を備えています。また、gitとの統合が非常に深く、編集のたびに自動でコミットメッセージ付きのコミットが作成され、「(aider)」というコミッタータグで追跡できるため、監査が容易です。\n\n\n\nAiderの利用に際しては、ツール自体の費用はゼロですが、API利用料金に加えて、GPUやインフラの運用コストを考慮する必要があります。特に、セルフホスト環境でローカルモデルを利用する場合、NVIDIA GPUで8GBから16GB以上のVRAMが必要となることが一般的です。また、DevOps担当者がインフラの維持管理やモデル更新を行う必要があるため、その人的コストも考慮すべきです。それでも、Aiderはオープンソースであるため、コードの透明性が高く、監査が可能であり、ベンダーロックインのリスクもありません。\n\nこのような特性から、Aiderは特にターミナル環境で作業するシニアエンジニアや、gitを中心としたワークフローを重視する開発者に適しています。一方で、GUI環境を好むユーザーや、セットアップの手間を避けたい場合は、CursorやNxCodeなどの代替ツールの方が使いやすい場合もありますが、Aiderはその柔軟性とコスト効率の高さから、2026年においても依然として有力な選択肢であり続けています。",
+  "query_analysis": {
+    "queries": [
+      "Aider free open source 2026",
+      "Aider pricing 2026",
+      "Aider 2026 pricing and open source"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://www.secondtalent.com/resources/open-source-ai-coding-assistants/",
+      "title": "Top 7 Open-Source AI Coding Assistants in 2026",
+      "snippet": "TL;DR: The best open-source AI coding assistants in 2026 include Continue, Tabby, Cody, Aider, Cursor (OSS components), CodeGeeX, and FauxPilot— ..."
+    },
+    {
+      "link": "https://www.tembo.io/blog/aider-alternatives",
+      "title": "Best Aider Alternatives in 2026: 8 AI Coding CLIs Compared",
+      "snippet": "The best Aider alternatives in 2026: Claude Code, Codex, Continue, Cline, and more. Honest pricing and capability comparison for AI ..."
+    },
+    {
+      "link": "https://codemyspec.com/blog/aider-review-2026",
+      "title": "Aider 2026: Polyglot Leaderboard, Pricing & Review",
+      "snippet": "Aider in 2026: Polyglot leaderboard standing, pricing (~$60/mo vs $200 Claude Code), 50+ model support, and the best git integration in its ..."
+    },
+    {
+      "link": "https://www.nxcode.io/resources/news/aider-complete-tutorial-guide-install-setup-2026",
+      "title": "Aider Tutorial 2026: Complete Setup Guide for the Open…",
+      "snippet": "Aider is the open-source AI pair programmer that lives in your terminal. Free, git-native, works with Claude/DeepSeek/GPT."
+    },
+    {
+      "link": "https://pristren.com/blog/aider-ai-coding-guide/",
+      "title": "Aider AI Coding Guide: Open Source Terminal Assistant ...",
+      "snippet": "Aider is a free, open source (MIT) AI coding assistant that runs in your terminal. It integrates with git to automatically commit every change ..."
+    },
+    {
+      "link": "https://www.morphllm.com/comparisons/aider-vs-claude-code",
+      "title": "Aider vs Claude Code (2026): $0 With Any LLM vs ... - Morph",
+      "snippet": "Is Aider free to use? Yes. Aider is open-source under the Apache 2.0 license. You pay only API costs to your chosen LLM provider. With local models via ..."
+    },
+    {
+      "link": "https://www.augmentcode.com/tools/sourcegraph-cody-vs-aider",
+      "title": "Sourcegraph Cody vs Aider (2026): Enterprise Platform or ...",
+      "snippet": "Aider operates on a fundamentally different model where the tool itself is free and open-source, but users incur costs through API usage with ..."
+    },
+    {
+      "link": "https://www.aichatdaily.com/tools/aider",
+      "title": "Is Aider Still Worth Using in 2026? Free CLI, BYO Key",
+      "snippet": "The tool is completely free. Aider is open source under the Apache 2.0 licence, distributed on PyPI as aider-chat, with no account, no ..."
+    },
+    {
+      "link": "https://replit.com/discover/aider-alternative",
+      "title": "Best Aider alternatives: AI code assistants for devs in 2026",
+      "snippet": "As open-source software, Aider itself is free, with users paying only API costs to their chosen LLM provider. Still, a terminal is not where ..."
+    },
+    {
+      "link": "https://aiagentslist.com/agents/aider",
+      "title": "Aider Review 2026 | Software Engineering Tool",
+      "snippet": "Aider is an open-source AI tool that acts as your coding partner. It lives in your terminal or IDE, helping you write, edit, and manage code for new or ..."
+    },
+    {
+      "link": "https://www.buildthisnow.com/blog/tools/extensions/claude-code-vs-aider",
+      "title": "Claude Code vs Aider in 2026",
+      "snippet": "Aider is free, and on a local model through Ollama it can cost literally nothing. On a hosted model you pay only the tokens you use, often a few ..."
+    },
+    {
+      "link": "https://mstone.ai/tools-wizard/aider-features-pricing/",
+      "title": "What Is Aider? Key Features & Pricing",
+      "snippet": "Aider itself is open source. There is no standard Aider seat price shown on Aider. Your cost depends on the model or API provider you connect to ..."
+    },
+    {
+      "link": "https://codemyspec.com/blog/free-open-source-ai-coding-tools-2026",
+      "title": "Best Free and Open-Source AI Coding Tools in 2026",
+      "snippet": "Aider has gone dormant (no substantial release since August 2025). On the bright side, Cline added Claude Sonnet 5 support plus a hosted ..."
+    },
+    {
+      "link": "https://www.goodvibecode.com/tools/aider",
+      "title": "Aider Review 2026: Features, Pricing & Alternatives",
+      "snippet": "Aider is an open-source AI pair programming tool that works directly in your terminal. Created by Paul Gauthier, it connects to LLMs like Claude, GPT-4o, and ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/ChatGPTCoding/comments/1e0e7up/aider_is_the_peak_of_llm_coding_assistants_right/",
+      "title": "Aider is the peak of LLM coding assistants right now",
+      "snippet": "Aider is free, can hookup to whatever model you want, has a *really* good terminal interface that makes it easy to do the usual file inclusions/ ..."
+    },
+    {
+      "link": "https://aider.chat/",
+      "title": "Aider - AI Pair Programming in Your Terminal",
+      "snippet": "AI pair programming in your terminal. Aider lets you pair program with LLMs to start a new project or build on your existing codebase."
+    },
+    {
+      "link": "https://catdoes.com/blog/aider-vs-cursor",
+      "title": "Aider vs Cursor (2026): Pricing & Features",
+      "snippet": "Aider has no subscription fee but hosted models still cost money; paid individual plans starting at $20 per month. Free Hobby plan; Pro starts ..."
+    },
+    {
+      "link": "https://ampm-aiops.com/en/guides/aider-scene-2026/",
+      "title": "Aider Pricing 2026: Free Tool, US$0 to US$200+ Model Bills",
+      "snippet": "aider itself is free, runs from nothing to US$200+ a month: Typical monthly cost Light, roughly 10 files a month US$10-30 Heavy, on premium ..."
+    },
+    {
+      "link": "https://www.morphllm.com/ai-coding-assistant-open-source",
+      "title": "Open Source AI Coding Assistants (2026) - Morph",
+      "snippet": "OpenCode leads at 172k stars (MIT). Aider is 45.9k (Apache-2.0), Cline 63.0k, Gemini CLI 105k, Codex 90k. Every one runs local models via Ollama."
+    },
+    {
+      "link": "https://cursor-alternatives.com/blog/ai-coding-tools-pricing/",
+      "title": "AI Coding Tools Pricing Comparison 2026: Every Plan ...",
+      "snippet": "Terminal-first developer or DevOps: Aider (free) or Claude Code Pro ($20/month). Aider for git-native workflows; Claude Code for highest ..."
+    },
+    {
+      "link": "https://www.developersdigest.tech/blog/aider-vs-claude-code-2026-update",
+      "title": "Aider vs Claude Code in 2026: Git-First Open Source vs ...",
+      "snippet": "Current plan pricing: Pro is $20/month ($17/month billed annually) and Max comes in 5x ($100/month) and 20x ($200/month) tiers, with Claude Code"
+    },
+    {
+      "link": "https://www.morphllm.com/comparisons/morph-vs-aider-diff",
+      "title": "Aider Uses 4.2x Fewer Tokens Than Claude Code (2026)",
+      "snippet": "Aider costs $60/mo at heavy use. A heavy coding month costs $60-80, compared to $200+ for Claude Code at the same intensity."
+    },
+    {
+      "link": "https://www.nxcode.io/resources/news/aider-vs-opencode-ai-coding-cli-2026",
+      "title": "Aider vs OpenCode: Best Open-Source AI Coding CLI in ...",
+      "snippet": "Both are free and model-agnostic: Neither tool charges a subscription; you pay LLM providers directly, and both support 75+ providers including ..."
+    }
+  ]
+}

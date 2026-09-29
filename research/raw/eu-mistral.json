@@ -1,0 +1,101 @@
+{
+  "id": "RePHW9tDdcVLhXt3e7BB2W",
+  "message_id": "0ecd6f47-71d0-4d26-8904-4c1a4f548342",
+  "answer": "2026年のMistral Le Chat ProとTeamプランの価格、EUヨーロッパでの料金、14.99ユーロのコーディングプラン、そしてクレジットについて、検索結果に基づいて詳しく説明します。\n\nまず、Le Chat Proの価格は、月額14.99ドルまたはヨーロッパでは14.99ユーロです。これはChatGPT PlusやClaude Proの月額20ドルより約25パーセント安く、競争力のある価格設定となっています。Proプランには、Mistral Large 3への優先アクセス、Flash Answers（Cerebrasチップによる高速応答モードで毎秒約1000語を処理）、拡張されたコンテキスト、そしてコード実行機能が含まれます。また、2026年には、すべてのVibe（旧Le Chat）プランに月額APIクレジットがバンドルされるようになりました。具体的には、Proプランには月額30ドル分のAPIクレジットが含まれ、Freeプランには10ドル、Teamプランには50ドルが含まれます。ただし、このAPIクレジットはチャットの利用制限とは別に扱われ、クレジットを使い切った後のAPI利用は従量課金となります。Teamプランは、ユーザーあたり月額24.99ドル（またはユーロ）で、共有ワークスペース、管理者コントロール、小規模チーム向けのコラボレーション機能を提供します。Enterpriseプランはカスタム価格で、オンプレミスまたはプライベートクラウド展開、EUデータレジデンシー、SSO、専用サポートが含まれます。学生向けには、Proプランが月額5.99ドル（またはユーロ）で提供され、割引価格で利用可能です。さらに、一部の情報源では、Proプランが月額6.99ドルまで割引される場合があるとされていますが、標準価格は14.99ドルです。コーディングに関しては、Vibe for Code（旧Le Chatのコード機能）が、ターミナルでのVibe CLI、VS Code、JetBrainsプラグインとして提供され、Proサブスクリプションに含まれています。つまり、Proプランはチャット、画像生成、ディープリサーチ、そして終日コーディングを一つの価格でカバーします。ただし、注意点として、Le Chat ProサブスクリプションにはAPIアクセスが含まれないという情報もありますが、2026年の変更により、すべてのVibeプランに月額APIクレジットがバンドルされるようになりました。したがって、Proプランには月額30ドル分のAPIクレジットが含まれ、それを超えるAPI利用は別途課金されます。EUヨーロッパでのデータレジデンシーは、Mistralの大きな強みであり、GDPR準拠のデータ処理とEUインフラでの実行オプションが提供されます。これは、規制産業やデータ主権要件のある企業にとって特に重要です。Mistral AIは、2025年9月のシリーズCで約11.7億ユーロ（約140億ドル）の評価を受け、欧州で最も価値のあるAIスタートアップとなっていますが、OpenAIの約5000億ドルやAnthropicの約1830億ドルには及びません。まとめると、2026年のMistral Le Chat Proは月額14.99ユーロで、コーディング機能、APIクレジット30ドル分、そしてEUデータレジデンシーが含まれ、Teamプランはユーザーあたり月額24.99ユーロで、チーム向けの機能を提供します。価格は競争力があり、特に欧州のプライバシー重視のユーザーや企業にとって魅力的な選択肢となっています。",
+  "query_analysis": {
+    "queries": [
+      "Mistral Le Chat Pro Team 2026 coding plan credits",
+      "2026 Mistral Le Chat Pro Team pricing Europe",
+      "Mistral Le Chat Pro Team 2026 14.99 euros",
+      "2026 Mistral Le Chat Pro Team coding plan credits",
+      "2026 Mistral Le Chat Pro Team pricing EU Europe"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://valueaddvc.com/blog/mistral-le-chat-the-european-ai-model-competing-with-openai-and-anthropic",
+      "title": "Mistral Le Chat: $14.99/mo vs $20 ChatGPT Plus",
+      "snippet": "How much does Mistral Le Chat cost in 2026? Le Chat has a free tier, a Pro plan at $14.99 per month (€14.99 in Europe), a Team plan around ..."
+    },
+    {
+      "link": "https://www.cloudzero.com/blog/mistral-api-pricing/",
+      "title": "Mistral API Pricing In 2026: Models, Le Chat Plans, And ...",
+      "snippet": "Team ($24.99/user/month). A Le Chat Pro subscription does not include API access, and API credits don't apply to Le Chat. It includes Mistral ..."
+    },
+    {
+      "link": "https://felloai.com/mistral-ai-pricing/",
+      "title": "Mistral AI Pricing 2026: Vibe (Le Chat) Plans & API Costs",
+      "snippet": "Vibe (formerly Le Chat) is free or $14.99/mo Pro, bundles monthly API credits: $10 Free, $30 Pro, $50 Team ・ all-day coding under one price. ..."
+    },
+    {
+      "link": "https://techjacksolutions.com/ai-tools/mistral/mistral-pricing/",
+      "title": "Mistral Pricing & Le Chat Plans: Complete Guide (2026)",
+      "snippet": "What Is Mistral Pricing? · Le Chat Free: $0/Month · Le Chat Pro: $14.99/Month · Le Chat Team: $24.99/User/Month · Le Chat Enterprise: Custom Pricing · API Pricing by ..."
+    },
+    {
+      "link": "https://www.grizzlypeaksoftware.com/articles/p/mistral-ai-pricing-in-2026-pro-costs-free-tier-limits-and-api-rates-lx4o2n2v",
+      "title": "Mistral AI Pricing in 2026: Pro Costs, Free Tier Limits, and ...",
+      "snippet": "Le Chat Pro does not include API credits. The consumer subscription and the developer API are billed independently. Paying $14.99/month for ..."
+    },
+    {
+      "link": "https://aicomparison.ai/chatgpt-vs-mistral/",
+      "title": "ChatGPT vs Mistral AI: Performance, Pricing ...",
+      "snippet": "What Is Mistral AI's Pricing Structure? Mistral AI offers 3 pricing tiers: Free (Le Chat basic), Le Chat Pro at $14.99/month, and Team at $24.99 ..."
+    },
+    {
+      "link": "https://mistral.ai/pricing/",
+      "title": "Pricing - Mistral",
+      "snippet": "$15 /mo in API credits. Mistral's Free plan provides limited access to Vibe, including our latest models, chat, search, creation, and Vibe for code for agentic ..."
+    },
+    {
+      "link": "https://www.datacamp.com/blog/mistral-le-chat",
+      "title": "Mistral Le Chat: Europe's Answer to ChatGPT",
+      "snippet": "The Pro plan for Le Chat starts at just $14.99 per month, with discounts that can lower the price to as little as $6.99 per month. There's even ..."
+    },
+    {
+      "link": "https://docs.mistral.ai/admin/billing-usage/subscriptions",
+      "title": "Subscriptions | Mistral Docs",
+      "snippet": "Each Mistral plan includes monthly usage that is shared across Studio, the API, and Vibe Code. Usage consumes this monthly allowance first."
+    },
+    {
+      "link": "https://www.teamazing.com/blog/mistral-le-chat-enterprise-review/",
+      "title": "Mistral Le Chat Review 2026: Pricing Plans & Enterprise Test",
+      "snippet": "Free, Pro $14.99, Team $24.99/user, $10/mo API credits. Expanded limits, all-day CLI/IDE coding, more images, $30/mo API credits, chat + email ..."
+    },
+    {
+      "link": "https://techjacksolutions.com/ai-tools/mistral/how-to-use-mistral/",
+      "title": "How to Use Mistral & Le Chat: Practitioner's Guide 2026",
+      "snippet": "This guide walks through every step from account creation to building custom agents. Pro and Team tiers unlock access to Mistral Large 3 … ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/MistralAI/comments/1s37gj7/le_chat_pro_api_quota/",
+      "title": "Le Chat Pro API quota : r/MistralAI",
+      "snippet": "I am struggling to identify what API quota is included in Le Chat Pro plan ? I experimented with vibe using the free tier and now I am ..."
+    },
+    {
+      "link": "https://mistral.ai/",
+      "title": "Mistral: Frontier AI LLMs, assistants, agents, services",
+      "snippet": "Get started with Studio hosted on Mistral's infrastructure and build your own applications and services with our APIs. Our servers are hosted in the EU."
+    },
+    {
+      "link": "https://mistral.ai/products/vibe/",
+      "title": "Mistral Vibe (formerly Le Chat) - AI chat and coding agent",
+      "snippet": "What can I do on the free plan? Get quick answers, search the web, and handle simple tasks. Upgrade to Pro for agents, long-horizon tasks, and all-day coding."
+    },
+    {
+      "link": "https://ifnotnil.com/t/i-tried-le-chat-ai-from-mistral-eu-based-ai/4301",
+      "title": "I tried Le Chat AI from Mistral (EU based AI)",
+      "snippet": "Last night, I experimented a little more with Le Chat, and I concluded that ChatGPT generates fewer errors than Le Chat."
+    },
+    {
+      "link": "https://www.reddit.com/r/MistralAI/comments/1qv1o6n/how_do_you_see_lechat_in_2026_february_compared/",
+      "title": "How do you see LeChat in 2026 February compared to ...",
+      "snippet": "I always found it (sadly) underpowered. Sometimes I checked in on it and concluded that it's still lacking. But now I started a conversation, and it surprised ..."
+    },
+    {
+      "link": "https://legal.mistral.ai/terms/eu-consumers-terms-of-service/",
+      "title": "Terms of Service for consumers in the European Economic Area",
+      "snippet": "Welcome to the Mistral AI Legal Center, your resource for understanding our compliance with the EU AI Act and accessing model documentation."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "UoDcXcSmLPokRWdkpkezmZ",
+  "message_id": "ed08839d-8508-4f68-9034-51465a3c4e26",
+  "answer": "根据搜索结果，Continue.dev 在2026年的定价和开源状态信息如下：\n\n首先，关于开源状态，搜索结果明确显示 Continue.dev 是一个开源项目。具体来说，GitHub 上的 continuedev/continue 仓库被描述为“open-source coding agent”，即开源编码代理，并且采用 Apache 2.0 许可证。该仓库拥有约 36,000 个星标，表明其社区活跃度较高。此外，Continue.dev 的官方网站也确认其开源代码库仍然免费提供，作为他人的基础。\n\n其次，关于定价信息，搜索结果中并没有直接提供 Continue.dev 在2026年的具体定价细节，例如免费层或付费套餐的金额。不过，有一个关键信息是，Continue.dev 已被 Cursor 收购。这一收购信息出现在 Continue.dev 官方网站上，内容为“Continue has been acquired by Cursor”，同时强调其开源代码库仍然免费可用。一位前 CEO 的简介也证实了这一点，提到他领导 Continue.dev 直到被 Cursor 收购，并构建了一个被广泛使用的开源 AI 编码助手。\n\n综合来看，可以得出以下结论：Continue.dev 作为一个开源项目，其核心代码库是免费提供的，这一点在多个来源中得到确认。然而，由于它已被 Cursor 收购，其未来的产品定价策略，特别是可能提供的商业服务或高级功能，在搜索结果中并未明确说明。因此，如果你需要了解具体的付费方案或免费额度的详细内容，建议直接访问 Continue.dev 或 Cursor 的官方网站，以获取最新和最准确的信息。另外，值得注意的是，GitHub 仓库页面提到该仓库已不再积极维护，处于只读状态，这可能意味着其开发重心已转移至 Cursor 的产品中。",
+  "query_analysis": {
+    "queries": [
+      "Continue.dev open source pricing",
+      "Continue.dev 2026 pricing",
+      "Continue.dev free pricing"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://github.com/continuedev/continue",
+      "title": "continuedev/continue: open-source coding agent - GitHub",
+      "snippet": "open-source coding agent. Pricing Search / The continuedev/continue. Continue is a coding agent available as a CLI, VS Code extension, and JetBrains plugin. ..."
+    },
+    {
+      "link": "https://continue.dev/",
+      "title": "Continue.dev",
+      "snippet": "Continue has been acquired by Cursor. open-source coding agent. our open-source codebase remains freely available as a foundation for others."
+    },
+    {
+      "link": "https://www.linkedin.com/in/chadmetcalf",
+      "title": "Chad Metcalf - Goldmine caretaker. Previously CEO of Continue ...",
+      "snippet": "Led Continue.dev as CEO from just after the seed through acquisition by Cursor, scaling the team and building an open-source AI coding assistant used by ..."
+    },
+    {
+      "link": "https://aex.dev.azure.com/",
+      "title": "Azure DevOps - Microsoft Azure",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "link": "https://dev.to/",
+      "title": "DEV Community",
+      "snippet": "DEV Community is a community of 4,114,801 amazing developers. We're a place where coders share, stay up-to-date and grow their careers.Read more"
+    },
+    {
+      "link": "https://www.merriam-webster.com/dictionary/continue",
+      "title": "CONTINUE Definition & Meaning - Merriam-Webster",
+      "snippet": "The meaning of CONTINUE is to maintain without interruption a condition, course, or action. How to use continue in a sentence."
+    },
+    {
+      "link": "https://hamel.dev/",
+      "title": "Hamel Husain's Blog – Hamel's Blog",
+      "snippet": "I'm a machine learning engineer with 20+ years of experience. I've worked at Airbnb and GitHub, including early LLM research used by OpenAI for code ...Read more"
+    },
+    {
+      "link": "https://www.reddit.com/r/gamedev/",
+      "title": "r/gamedev",
+      "snippet": "The subreddit covers various game development aspects, including programming, design, writing, art, game jams, postmortems, and marketing..."
+    },
+    {
+      "link": "https://www.reddit.com/r/learnpython/comments/18lv7ny/how_does_continue_and_pass_work/",
+      "title": "How does 'continue' and 'pass' work? : r/learnpython - Reddit",
+      "snippet": "New to Python here, I started learning like 9 days ago and I am struggling to understand what the difference is between 'continue' and ...Should I continue singing or stop it?How do I use a new chat to continue work from another chat?More results from www.reddit.com"
+    },
+    {
+      "link": "https://www.facebook.com/DEVISHOT/",
+      "title": "Dev (@DEVISHOT)",
+      "snippet": "Dev. 711813 followers · 225 talking about this. Musician. Dev (@DEVISHOT) • Facebook. Dev is in Las Vegas. 🌟 Chris Pontikis and 52 others"
+    },
+    {
+      "link": "https://www.budget.gov.hk/2026/eng/speech.html",
+      "title": "The 2026-27 Budget - Budget Speech",
+      "snippet": "25 Feb 2026 — Diversified Development Caring for the People Land and Housing Public Finance Estimates. Economic Outlook for 2026 and. Development of New ..."
+    },
+    {
+      "link": "https://www.ird.gov.hk/eng/tax/budget.htm",
+      "title": "IRD : 2026-27 Budget – Tax Measures",
+      "snippet": "22 May 2026 — The new rates apply to any instrument executed on or after 26 February 2026 for the sale and purchase or transfer of residential property.Read more"
+    },
+    {
+      "link": "https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/continue",
+      "title": "CONTINUE中文(繁體)翻譯：劍橋詞典",
+      "snippet": "CONTINUE翻譯：（使）繼續，（使）持續，（使）延續, （中斷後）再繼續，又開始。了解更多。"
+    },
+    {
+      "link": "https://www.facebook.com/aliciakeys/videos/a-few-thoughts-im-carrying-into-2026theres-always-a-way-dont-give-up-theres-alwa/1769486893737623/",
+      "title": "A few thoughts I'm carrying into 2026. There's always a way. ...",
+      "snippet": "Alicia Keys Shares 2026 Message: There's Always a Way, Take the Leap. Summarized by AI from the post below."
+    },
+    {
+      "link": "https://www.comp.hkbu.edu.hk/wsb2026/",
+      "title": "About - IAPR/IEEE Winter School on Biometrics 2026",
+      "snippet": "IAPR/IEEE Winter School on Biometrics 2026 will be held at Shenzhen on 25 to 29 January 2026. The theme this year will be Generative AI and Multimodal ...Read more"
+    },
+    {
+      "link": "https://x.com/devishot",
+      "title": "dev (@devishot) / X",
+      "snippet": "87787 followers · 2814 following. Los Angeles, CA. Joined Apr 2009. See the latest conversations with @devishot."
+    },
+    {
+      "link": "https://registry.hkust.edu.hk/resource-library/calendar-dates-2026-27",
+      "title": "Calendar Dates 2026-27 - HKUST - Academic Registry",
+      "snippet": "1. Calendar Dates 2026-27 · 2. Calendar Dates 2025-26 · 3. Calendar Dates 2024-25 · 4. Calendar Dates 2023-24 · 5. Calendar Dates 2022-23 · 6. Calendar Dates 2021-22.Read more"
+    },
+    {
+      "link": "https://en.tripadvisor.com.hk/Attraction_Review-g34515-d8563504-Reviews-Star_Tours_The_Adventures_Continue-Orlando_Florida.html",
+      "title": "Star Tours - The Adventures Continue - Tripadvisor",
+      "snippet": "The ride simulates taking the tourists on the shuttle to various Star Wars locations and through various risks and battles. The ride also randomizes the ..."
+    },
+    {
+      "link": "https://billygraham.org/answers/will-god-continue-to-answer-my-prayers-for-my-family-even-after-i-die",
+      "title": "Will God continue to answer my prayers for my family, even after I die",
+      "snippet": "Will the prayers I offer right now continue to work once I'm gone? I worry a great deal about my family and what will happen to them once I'm no long."
+    },
+    {
+      "link": "https://www.cnbc.com/video/2026/09/28/monday-september-28-2026-cramer-says-this-cybersecurity-stock-will-continue-to-go-higher.html",
+      "title": "Cramer says this cybersecurity stock will 'continue to go higher'",
+      "snippet": "Go behind the scenes with Jim Cramer and Jeff Marks of the CNBC Investing Club as they talk candidly about the market's biggest headlines, ..."
+    },
+    {
+      "link": "https://developer.android.com/",
+      "title": "Android Developers: Android Mobile App Developer Tools",
+      "snippet": "Discover the latest app development tools, platform updates, training, and documentation for developers across every Android device."
+    },
+    {
+      "link": "https://nerdy.dev/",
+      "title": "Adam Argyle",
+      "snippet": "Website for Adam Argyle: Teacher, Speaker, CSSWG member, and creator of Open Props and VisBug."
+    },
+    {
+      "link": "https://www.gov.hk/tc/about/abouthk/holiday/2026.htm",
+      "title": "GovHK 香港政府一站通：2026年公眾假期",
+      "snippet": "2026年公眾假期. 稅務事宜http://www.gov.hk/tc/nonresidents/workinghk/taxinhk/index.htm … 電(852)183 5500或電郵enquiry@1835500.gov.hk 聯絡24小時服務的支援中心。"
+    }
+  ]
+}

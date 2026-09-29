@@ -1,0 +1,114 @@
+{
+  "id": "ddW77oJz8EC9UhfK7jgM5e",
+  "message_id": "69627e56-d9c7-4655-8d05-f1642cd824bb",
+  "answer": "Meta在2026年推出了Muse Code，这是一个专门的AI编程代理工具，其定价和订阅方案在2026年8月5日首次亮相，并在8月31日结束测试版后正式推出。Muse Code的定价结构分为两种主要方式：月度订阅计划和按令牌计费的按需付费模式，具体细节如下：\n\n首先，关于月度订阅计划，Meta提供了三个不同档次的选项，以满足不同使用强度的需求。最低档是Everyday Usage，每月费用为5美元，适合每天进行少量会话的用户，大约每5小时可使用10到50次请求，并包含对Muse Spark 1.2模型的访问权限，以及语音模式和网络搜索功能。中间档是High Usage，每月费用为15美元，提供Everyday Usage三倍的使用量，并增加了对最新模型的访问权限，适合代码密集型项目。最高档是Power Usage，每月费用为50美元，提供Everyday Usage十倍的使用量，并包含新功能的早期访问权限和更高的文件上传限制，适合需要大量计算资源的专业用户或团队。这些订阅计划是按请求次数计量的，而不是按令牌数量，这一点与按需付费模式有所不同。\n\n\n\n其次，按需付费模式通过Meta的Model API提供，用户无需订阅月度计划即可使用Muse Code，费用根据令牌消耗量计算，具体分为两个层级：标准层级（Standard）和贡献者层级（Contributor）在标准层级下，输入令牌价格为每百万个1.25美元，输出令牌价格为每百万个4.25美元，缓存输入令牌价格为每百万个0.15美元，且Meta不会使用用户的数据进行模型训练在贡献者层级下，输入令牌价格大幅降低至每百万个0.10美元，输出令牌价格为每百万个0.20美元，缓存输入令牌价格仅为每百万个0.002美元，但作为交换条件，Meta可以使用用户的提示词和生成内容来继续训练其模型，这一价格差距相当显著，输入价格便宜约12.5倍，输出价格便宜约21.25倍，因此贡献者层级被视为一种用数据换取更低成本的交易方式，尤其适合个人开发者或对数据隐私要求不高的项目，但对于处理专有源代码或受保密协议约束数据的公司而言，这可能不是一个可行的选择，特别是在受监管的行业中，因为数据共享会带来隐私和合规风险。\n\n\n\n此外，需要明确的是，Muse Code的订阅计划与Meta Muse的订阅计划是分开的，两者属于不同的产品Meta Muse是Meta在2026年9月8日推出的个人AI代理，面向消费者，提供免费层级，以及每月20美元的Power计划和每月100美元的Maximum计划，其中Power计划每周提供5亿个Muse令牌，Maximum计划每周提供30亿个Muse令牌，而Muse Code则是专门针对编程任务的代理工具，其订阅计划从每月5美元起，两者虽然基于相同的模型家族，但定价和功能定位完全不同，用户需要根据具体需求选择相应的产品\n\n\n\n在市场竞争方面，Muse Code的推出正值AI编程助手市场竞争激烈的时期，主要竞争对手包括GitHub Copilot，Cursor和Claude Code等，其中GitHub Copilot凭借其庞大的用户基础（截至2025年中期约有2000万用户）占据领先地位，Claude Code在工作场所采用率上增长迅速，并在满意度调查中得分最高，而Cursor则在收入方面表现突出，据报道在2026年2月年化收入已超过20亿美元相比之下，Muse Code作为新进入者，目前尚无独立的基准测试结果或采用数据来证明其性能，其主要差异化优势在于通过数据共享选项提供显著的价格优惠，这可能是吸引价格敏感用户的关键因素，但同时也引发了关于数据隐私和源代码安全性的讨论，一些评论者甚至将贡献者层级描述为Meta以计算资源为货币购买用户源代码的一种方式，这一观点凸显了该定价策略背后的权衡取舍\n\n\n\n总体而言，Meta Muse Code在2026年的定价策略体现了其进入AI编程助手市场的独特路径，即通过灵活的订阅选项和激进的按需付费价格差异来吸引不同层次的用户，尤其是那些愿意以数据共享换取更低成本的开发者，然而，对于企业和专业团队而言，数据隐私和合规性考量可能会成为采用该工具的重要障碍，因此Meta需要在价格竞争力和数据安全信任之间找到平衡，以在竞争激烈的市场中建立稳固的立足点",
+  "query_analysis": {
+    "queries": [
+      "Muse Code Meta 2026 订阅月度计划",
+      "Muse Code Meta 2026 subscription monthly plan",
+      "Muse Code Meta 2026 pricing"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://www.newsquawk.com/headlines/meta-meta-launches-monthly-paid-subscription-plans-for-muse-code",
+      "title": "Meta (META) launches monthly paid subscription plans for ...",
+      "snippet": "Published 31 Aug 2026, 19:25 Subscribers had it 20 minutes earlier, at 19:05. Meta (META) launches monthly paid subscription plans for Muse code."
+    },
+    {
+      "link": "https://musecodes.io/pricing/",
+      "title": "Muse Code pricing: a monthly plan, or pay per token.",
+      "snippet": "Meta Muse, launched September 8, 2026, is a consumer personal agent with its own plans: free, Power at $20 a month, and Maximum at $100. Muse Code plans — ..."
+    },
+    {
+      "link": "https://www.meta.com/zh-hk/help/subscriptions/1021145227643680/?srsltid=AU7gw4WZHCowtaeurCWqKk4HfBImgs2S9GQ5bLW78wR48T1taQQVjohc",
+      "title": "關於Muse 訂閱計劃| Meta 幫助中心(zh-hk)",
+      "snippet": "Muse 訂閱計劃會每月自動續訂，直至你取消訂閱為止。我們會根據你原本的購買日期 ... 請在此下載Muse 應用程式：https://muse.ai/. ©2026 Meta。"
+    },
+    {
+      "link": "https://tech-insider.org/ie/meta-muse-code-launch-2026/",
+      "title": "Meta Muse Code Debuts, Data Tier Cuts Price 21x [2026]",
+      "snippet": "Meta launched Muse Code on 5 August 2026, an AI coding agent priced from $0.10 per million tokens for developers who share data with Meta."
+    },
+    {
+      "link": "https://www.meta.com/zh-cn/help/subscriptions/1021145227643680/?srsltid=AU7gw4VIafWEyjYR37mGYqMU_VfIgQYOZIFNC1w5CQOhkS7ocMMex2_5",
+      "title": "关于Muse 订阅| Meta 帮助中心(zh-cn)",
+      "snippet": "Muse 订阅会每月自动续订，除非你取消订阅。每月扣款日期与你最初的购买日期相同 ... 点此下载Muse 应用：https://muse.ai/. ©2026 Meta。"
+    },
+    {
+      "link": "https://dev.meta.ai/docs/muse-code/subscriptions",
+      "title": "Subscriptions - Meta Model API",
+      "snippet": "With a Muse Code subscription, you pay a flat monthly rate for usage of Muse Code (opens in new tab), instead of paying per token. Subscription benefits and ..."
+    },
+    {
+      "link": "https://www.layer3labs.io/guides/meta-muse-pricing",
+      "title": "Meta Muse Pricing: Free, Power, and Maximum Plans",
+      "snippet": "Meta Muse offers three pricing levels: a free tier at zero cost, a Power plan at $20 per month, and a Maximum plan at $100 per month. The Power ..."
+    },
+    {
+      "link": "https://www.facebook.com/groups/claudecommunity/posts/1105092025364795/",
+      "title": "What are Meta's Muse AI subscription pricing plans?",
+      "snippet": "Yo.. did you see Meta's \"Muse\" AI subscriptions???\n\nBro.. $5 / $15 / $50... Is this the race to the bottom? 🤪"
+    },
+    {
+      "link": "https://www.meta.com/help/subscriptions/1021145227643680/?srsltid=AU7gw4XZo-Qm0t47p_q1e6013XOUfl6Lepbhz5XHZhsN0c_g86ltQA8A",
+      "title": "About Muse subscriptions | Meta Help Center",
+      "snippet": "Muse subscription plans. Weekly usage allowance for Muse increases as you upgrade plans. Power plan ($20/month) ... Download the Muse app here: https://muse.ai/."
+    },
+    {
+      "link": "https://www.meta.com/zh-cn/help/subscriptions/1627861775532967/?srsltid=AU7gw4Wqz2hitrWEOOK2YtHGR7yWY23YYgElTYsFwF5KlBYQaO6vyTmu",
+      "title": "订阅Muse | Meta 帮助中心(zh-cn)",
+      "snippet": "Muse 订阅是一项付费订阅，可为你提供更多Muse 使用额度。你可以使用Meta 账户通过Muse 移动应用或网站订阅。 本文介绍了如何订阅Muse，以及订阅前的须知事项。"
+    },
+    {
+      "link": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+      "title": "Meta debuts Muse Code to take on Anthropic and OpenAI",
+      "snippet": "Developers can access Muse Code via pay-as-you-go option … company charges $1.25 per million tokens in input and $4.25 per million tokens of ..."
+    },
+    {
+      "link": "https://www.meta.com/help/subscriptions/1021145227643680/?srsltid=AU7gw4W8eqwBGArAN-9wRrENlxdmDBVWlgxZVcxFlnvbjSnMZIUM6O9I",
+      "title": "About Muse subscriptions | Meta Help Center",
+      "snippet": "Power plan ($20/month) 500M Muse tokens per week Maximum plan ($100/month) 3B Muse tokens per week Muse subscriptions availability"
+    },
+    {
+      "link": "https://codersera.com/blog/muse-code-contributor-tier-privacy-2026/",
+      "title": "Muse Code Contributor Tier: The Real Cost of 21x Cheaper",
+      "snippet": "Muse Code's contributor tier costs $0.10 per million input tokens and $0.20 output — 12.5x and 21.25x cheaper than standard — because Meta ..."
+    },
+    {
+      "link": "https://shattered.io/meta-muse-ai-agent-launch-2026/",
+      "title": "Meta Muse AI Agent Launches at $20-$100/Month [2026]",
+      "snippet": "Meta launched Muse, its personal AI agent, Sept 8 with $20 Power and $100 Maximum tiers, US-only access, and a 100M weekly token free cap."
+    },
+    {
+      "link": "https://www.mayhemcode.com/2026/08/meta-muse-code-full-review-pricing-and.html",
+      "title": "Meta Muse Code: Full Review, Pricing, and Benchmarks (2026)",
+      "snippet": "Muse Code is a terminal based coding agent, not a chatbot with a code tab bolted on. It runs from the command line, reads and reasons across ..."
+    },
+    {
+      "link": "https://www.layer3labs.io/guides/muse-code-pricing",
+      "title": "Muse Code Pricing: Session-Cost Math for Meta's CLI (2026)",
+      "snippet": "Standard tier is $1.25 per million input tokens, $0.15 per million cached input, and $4.25 per million output. Meta does not use Standard data."
+    },
+    {
+      "link": "https://www.verdent.ai/guides/agents/what-is-muse-code",
+      "title": "Meta Muse Code: Features and Pricing",
+      "snippet": "Standard pay-as-you-go pricing was listed at $1.25 per million input tokens and $4.25 per million output tokens as of August 6, 2026, with ..."
+    },
+    {
+      "link": "https://dev.meta.ai/products/muse-code",
+      "title": "Muse Code - Meta",
+      "snippet": "Everyday Usage. Best for shipping your first projects. $5.00/month ; High Usage. Best for bigger, code-heavy projects. $15.00/month ; Power Usage. Best for ..."
+    },
+    {
+      "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "title": "Introducing Muse Spark 1.1 - Meta AI",
+      "snippet": "Muse Spark 1.1 delivers exceptional performance in personal agentic tasks that require planning and orchestration across a range of external ..."
+    },
+    {
+      "link": "https://myclaw.ai/blog/muse-ai",
+      "title": "Muse AI Review: Meta's Agent, Pricing & When to Use It",
+      "snippet": "Pricing shape, Free meter + card; Power $20; Maximum $100, Token / Contributor rates on Model API, Hosting plan for always-on agent runtime."
+    }
+  ]
+}

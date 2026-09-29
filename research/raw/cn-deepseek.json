@@ -1,0 +1,252 @@
+{
+  "id": "Vh4jQuEfrVSQviZiCwPiF4",
+  "message_id": "80895e3b-7a83-446d-9486-855129d9695d",
+  "answer": "根据搜索结果，关于2026年DeepSeek编程API价格、推理模型以及每百万token的成本，可以为您提供以下详细解答。\n\n首先需要明确的是，DeepSeek在2026年的主力API模型是V4系列，包括DeepSeek-V4-Flash和DeepSeek-V4-Pro两个版本，它们都支持推理（思考）模式，并且价格在同类产品中极具竞争力。 这两个模型的定价以每百万token为单位，并且引入了峰谷计价机制，即高峰时段价格是闲时时段的两倍，高峰时段为北京时间每日9:00至12:00和14:00至18:00，其余时间（包括周末和中国法定节假日）均为闲时，闲时单价一律是高峰的一半（来源[25]）.\n\n具体到价格，根据DeepSeek官方API文档（来源[1]和[7]），以美元计价，DeepSeek-V4-Flash在闲时时段的输入价格（缓存未命中）为每百万token 0.15美元，输出价格为0.6美元；在高峰时段，输入价格翻倍至0.3美元，输出价格翻倍至1.2美元遥 如果输入命中缓存，价格会大幅降低，闲时输入（缓存命中）仅需0.003美元，高峰时段为0.006美元遥 对于DeepSeek-V4-Pro，闲时输入（缓存未命中）为0.66美元，输出为1.98美元；高峰时段输入为1.32美元，输出为3.96美元遥 缓存命中时，闲时输入为0.022美元，高峰为0.044美元遥 这些价格与多个第三方来源（如[4]、[8]、[16]、[22]、[37]）的报道一致遥 需要注意的是，有来源提到V4 Pro的输入价格在缓存未命中时为0.435美元（来源[8]和[18]），这可能是早期或特定时段的报价，而官方文档显示的0.66美元更可能是当前标准价，具体请以官方实时页面为准遥\n\n在人民币计价方面，根据官方中文文档（来源[1]），DeepSeek-V4-Flash闲时输入（缓存未命中）为每百万token 1元，输出为4元；高峰时段输入为2元，输出为8元遥 DeepSeek-V4-Pro闲时输入为4.5元，输出为13.5元；高峰时段输入为9元，输出为27元遥 缓存命中时，Flash闲时输入低至0.02元，高峰0.04元；Pro闲时输入0.15元，高峰0.30元遥 这些价格与来源[13]和[47]的描述相符遥\n\n关于推理模型的成本，DeepSeek的V4系列默认支持思考模式（即推理模式），用户也可以切换为非思考模式（来源[1]和[7]）遥 在推理模式下，模型会生成额外的思考token，因此实际费用会高于单纯的非思考模式，但即便如此，DeepSeek的推理成本依然远低于OpenAI等竞争对手遥 例如，有分析指出DeepSeek的推理模型R1（上一代推理模型）比OpenAI的o1便宜超过25倍（来源[36]），而V4系列在推理能力上进一步提升，价格却保持在极低水平遥 不过，有观点提醒，每百万token的价格并不是衡量成本的唯一标准，因为如果模型在推理时消耗更多token，即使单价便宜，总成本也可能不低（来源[6]）遥 因此，实际编程任务中，需要综合考虑模型的输出质量和token消耗量遥\n\nDeepSeek之所以能做到如此低价，主要得益于其模型架构和工程优化，包括混合专家模型（MoE）架构、量化技术以及高效的缓存机制（来源[9]、[21]、[23]、[31]）遥 官方数据显示，用户平均超过50%的token能命中缓存，这大幅降低了实际使用成本（来源[21]）遥 此外，DeepSeek曾对V4 Pro推出限时75%折扣，后来宣布将此折扣转为永久定价，因此当前价格就是常态价，不会回调（来源[2]和[8]）遥 不过，也有报道提到DeepSeek在2026年曾经历过一次全球性涨价，涨幅在2.28倍至4.55倍之间（来源[14]），但随后又进行了降价调整（来源[29]），因此当前价格已经趋于稳定遥\n\n对于编程用途，DeepSeek V4系列支持工具调用（Tool Calls）、JSON输出、Responses API以及Anthropic API格式，并且上下文长度高达1M token，最大输出长度384K token（来源[1]和[7]）遥 这些特性非常适合处理大型代码库、复杂编程任务和自动化工作流遥 在编程场景中，如果您的任务涉及大量重复性代码或固定模板，利用缓存命中可以大幅降低成本，因为缓存命中的输入价格仅为未命中时的几十分之一遥 例如，Flash闲时缓存命中输入仅0.02元人民币每百万token，而缓存未命中则为1元，相差50倍（来源[1]）遥 因此，建议开发者将固定的系统提示词、常用代码片段或上下文前缀设计为可缓存模式，以提高缓存命中率，从而降低实际支出（来源[13]）遥\n\n最后，关于整体成本估算，有分析指出，对于轻度个人使用，每月费用可能只需几美元；对于中等规模的生产应用，每月约10至60美元；对于重度负载，每月可能达到60至300美元（来源[27]）遥 具体费用取决于调用频率、输入输出token比例以及是否在高峰时段调用遥 如果您的使用场景对实时性要求不高，建议尽量在闲时时段（如夜间或周末）调用，可以节省一半费用遥\n\n综上所述，2026年DeepSeek的编程API价格在每百万token级别上极具竞争力，尤其是V4-Flash模型，其输出价格低至0.6美元（闲时）或4元人民币，而V4-Pro虽然价格稍高，但提供更强的推理能力，适合复杂编程任务遥 实际成本需结合缓存命中率、调用时段和token消耗量综合计算，但总体而言，DeepSeek是当前市场上最便宜的推理模型API之一遥",
+  "query_analysis": {
+    "queries": [
+      "DeepSeek 每百万 token 价格",
+      "2026 DeepSeek 编程 API 价格",
+      "DeepSeek 推理模型 便宜",
+      "DeepSeek programming API price",
+      "DeepSeek inference model cheap",
+      "DeepSeek cost per million tokens"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing/",
+      "title": "模型& 价格",
+      "snippet": "模型细节​ ; 价格 · 百万tokens输入（缓存未命中） · 高峰时段, 2元, 9.0元 ; 价格 · 百万tokens输出, 空闲时段, 4元, 13.5元 ; 价格 · 百万tokens输出 · 高峰时段, 8元, 27.0元."
+    },
+    {
+      "link": "https://hk.finance.yahoo.com/news/deepseek%E6%97%97%E8%89%A6%E6%A8%A1%E5%9E%8Bapi%E5%83%B9%E6%A0%BC%E5%B0%87%E6%B0%B8%E4%B9%85%E4%BF%9D%E7%95%99%E7%82%BA%E5%8E%9F%E5%83%B9%E7%9A%84%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80-152657300.html",
+      "title": "DeepSeek旗艦模型API價格將永久保留為原價的四分之一",
+      "snippet": "根據聲明，定價低至每百萬詞元輸入（緩存命中）0.025元，輸入（緩存未命中）3元，輸出6元。 原文標題DeepSeek To Make Permanent 75% Discount on ..."
+    },
+    {
+      "link": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing",
+      "title": "模型& 价格",
+      "snippet": "DeepSeek API Doc ・ 模型价格以“百万tokens”为单位。 0.02元 0.15元高峰时・ 模型名请使用deepseek-flash ・ 请求将由DeepSeek-V4.1-Flash 模型提供服务,并按Flash 价格 ..."
+    },
+    {
+      "link": "https://www.deepseek.com/en/platform/",
+      "title": "DeepSeek | API Platform",
+      "snippet": "DeepSeek-V4-Flash. US$0.0028 Input (cache miss) US$0.14 Output US$0.28 DeepSeek-V4-Pro per 1M tokens. US$0.435 Output US$0.87 Auto-caching with reduced cache ..."
+    },
+    {
+      "link": "https://www.seangoedecke.com/is-deepseek-fast/",
+      "title": "Are DeepSeek's new models really that fast and cheap?",
+      "snippet": "DeepSeek V3/R1 are 10x cheaper than 4o/o1. The claimed figure is $5.5M in compute. A cheap reasoning model might be cheap because it can't ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/Anthropic/comments/1suorit/the_costs_are_getting_out_of_hand_check_out_the/",
+      "title": "r/Anthropic - The costs are getting out of hand, check ...",
+      "snippet": "PRICE PER MILLION TOKENS IS NOT A GOOD MEASURE OF THE COST … 5x cheaper model per token can be as expensive if it uses 5x more tokens per task. ..."
+    },
+    {
+      "link": "https://api-docs.deepseek.com/quick_start/pricing",
+      "title": "Models & Pricing | DeepSeek API Docs",
+      "snippet": "The prices listed below are in units of per 1M tokens. A token, the smallest unit of text that the model recognizes, can be a word, a number, or even a ..."
+    },
+    {
+      "link": "https://aicoding.csdn.net/6a56832310ee7a33f28d7f53.html",
+      "title": "2026年AI模型API价格多少钱？GPT/Claude/DeepSeek费用对比",
+      "snippet": "均衡款$2.50(¥18) $15.00(¥109) DeepSeek是目前最便宜的AI API之一, $0.435(¥3) $0.87(¥6) 100万token DeepSeek V4 Flash 轻量款$0.14(¥1) DeepSeek V4 ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ib4ksj/how_exactly_is_deepseek_so_cheap/?tl=zh-hans",
+      "title": "Deepseek到底是怎么做到这么便宜的？ : r/LocalLLaMA",
+      "snippet": "Deepseek现在超火。我懂，成本降低了95-97%。 \n\n到底是怎么做到的？ \n\n除了训练成本更低（没用RLHF），量化，和缓存（我猜 ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/DeepSeek/comments/1ts0byd/pricing_is_crazy/",
+      "title": "r/DeepSeek - Pricing is crazy",
+      "snippet": "4.6 came out at $99 USD. $70 a month minimum using Gemini/VERTEX API will cost me under $15 with Deepseek. DeepSeek “significant increase” for ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/DeepSeek/comments/1v68q5l/cheapest_reliable_api_provider_for_open_source/",
+      "title": "Cheapest reliable API provider for open source models like DeepSeek, GLM",
+      "snippet": ""
+    },
+    {
+      "link": "https://api-docs.deepseek.com/quick_start/token_usage",
+      "title": "Token & Token Usage",
+      "snippet": "Tokens are the basic units used by models to represent natural language text, and also the units we use for billing. They can be intuitively understood as ..."
+    },
+    {
+      "link": "https://github.com/fcb01871/deepseek-aliyun-pricing",
+      "title": "DeepSeek-V4怎么用最省钱？API价格、Token Plan套餐、包 ...",
+      "snippet": "V4-Flash 的输入缓存命中价格低至每百万Tokens 0.02 元——这个数字放在2 年前是无法想象的。实际使用时，缓存命中率越高，成本越接近理论最低价。 开发建议：将固定的 ..."
+    },
+    {
+      "link": "https://www.kocpc.com.tw/archives/665967",
+      "title": "不再白菜價！DeepSeek API 全球大漲價：從「最便宜」到 ...",
+      "snippet": "API 全球大漲$64.35、高峰NT$128.70(漲幅2.28× 至4.55×) 從舊價每百萬tokens 0.003625 美元(約NT$0.12)飆升至高峰時段的0.044 美元漲幅達1,214%"
+    },
+    {
+      "link": "https://wallstreetcn.com/articles/3782371",
+      "title": "什么？GPT比DeepSeek还便宜了？大模型价格战卷出新高度",
+      "snippet": "两款模型API成本均直接打五折。 OpenAI解释称，降价主要来自缓存和推理效率的提升，而非单纯的商业补贴。公司同时进一步优化了提示词缓存机制，使智能 ..."
+    },
+    {
+      "link": "https://coworker.ai/blog/deepseek-api-pricing",
+      "title": "DeepSeek API Pricing 2026: Full Cost Breakdown",
+      "snippet": "DeepSeek V4 API pricing verified from official docs: $0.14-$0.435 per 1M input tokens. Full comparison vs GPT, Claude, Gemini, Grok, ..."
+    },
+    {
+      "link": "https://discuss.huggingface.co/t/deepseek-changed-inference-pricing-44-weeks-of-data-across-47-vendors/174593",
+      "title": "DeepSeek changed inference pricing — 44 weeks of data across 47 vendors",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.linkedin.com/posts/marktlj_deepseek-v4-dropped-and-the-pricing-is-genuinely-activity-7464540938892173312-rJi_",
+      "title": "Mark Tan's Post",
+      "snippet": "DeepSeek V4 dropped and the pricing is genuinely absurd. V4 Pro runs around $0.435 per million input tokens and $0.87 per million output ..."
+    },
+    {
+      "link": "https://finance.sina.com.cn/wm/2025-02-10/doc-ineiyazp7519858.shtml",
+      "title": "DeepSeek，大消息！输出token费用涨至每百万8元",
+      "snippet": "在优惠期，DeepSeek-V3的输入token费用在缓存命中的情况下是每百万0.1元，缓存未命中时为每百万1元；输出token的费用则是每百万2元。 而在2月9日价格调整 ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2029867896109799226",
+      "title": "2026年大模型API在哪买最划算？主流4家平台价格真实对比",
+      "snippet": "DeepSeek V3.2. DeepSeek-V3.1:输入¥4/M tokens,输出¥12/M tokens ・ 用户赠14元额度・ 适合个人开发者起步使用。 价格数据截至2026年4月,各平台定价随时可能调整。"
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2032887275860836551",
+      "title": "为什么DeepSeek 这么便宜",
+      "snippet": "只看缓存命中输入价，价差大约是450 倍。即使不算缓存，正常输入价也差了接近20 倍。 DeepSeek 官方还给过一个很关键的数据：用户平均超过50% 的token 命中缓存。"
+    },
+    {
+      "link": "https://www.cloudzero.com/blog/deepseek-pricing/",
+      "title": "DeepSeek pricing 2026: V4, R1, API costs, and how to ...",
+      "snippet": "DeepSeek API pricing centers on two V4 models. V4 Flash costs $0.14 per million input tokens and $0.28 output. V4 Pro costs $1.74/$3.48 at ..."
+    },
+    {
+      "link": "https://intuitionlabs.ai/articles/deepseek-inference-cost-explained",
+      "title": "DeepSeek's Low Inference Cost Explained: MoE & Strategy",
+      "snippet": "DeepSeek's models can cost cents or fractions of a cent per million. DeepSeek's R1 reasoning model runs 20–50× cheaper than OpenAI's comparable ..."
+    },
+    {
+      "link": "https://www.zhihu.com/question/2030963912749924411/answer/2031126196717667334",
+      "title": "如何评价DeepSeek-V4 的价格？ - 小小将的回答",
+      "snippet": "更关键的是，V4-Flash 的输入价格仅为V3.2 的一半，输出价格也只需约2/3，同时上下文长度从128K 提升至1M。综合性能、成本与上下文能力来看，DeepSeek-V4- ..."
+    },
+    {
+      "link": "https://www.v2code.ai/post/deepseek-openai-anthropic-api-pricing",
+      "title": "GPT-5.6、Claude 三家API 定价实况对比（2026 年8 月）",
+      "snippet": "DeepSeek 从2026 年8 月17 日0:00 起对API 启用峰谷计价，高峰时段为北京时间每日9:00–12:00 和14:00–18:00，其余时间段算闲时，闲时单价一律是高峰的一半 ..."
+    },
+    {
+      "link": "https://m.36kr.com/p/3131848450317056",
+      "title": "DeepSeek是新源神，推理模型o1性能1/50价格",
+      "snippet": "如果将DeepSeek-R1与Search-o1和Tree-of-Agents（大约50个智能体）结合起来，可以很小的成本获得与o3类似的性能，最终可能便宜数百倍。"
+    },
+    {
+      "link": "https://costgoat.com/pricing/deepseek-api",
+      "title": "DeepSeek API Pricing Calculator & Cost Guide (Sep 2026)",
+      "snippet": "1 Flash off-peak, light personal use runs a few dollars a month, medium production apps $10-60/month, and heavy workloads $60-300/month. V4 Pro ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/OpenAI/comments/1ibeo1o/why_does_everyone_think_deepseek_is_so_much/",
+      "title": "Why does everyone think DeepSeek is so much cheaper to ...",
+      "snippet": "Inference Costs DeepSeek's ability to train a competitive model at lower costs is impressive, but this is only one side of the equation."
+    },
+    {
+      "link": "https://wap.eastmoney.com/a/202604273719803238.html",
+      "title": "DeepSeek两天两次降价，百万token仅2分钱！调用量一度 ...",
+      "snippet": "而DeepSeek-V4-Flash的输入价格每百万Token仅0.145美元,输出价格0.293美元,合计0.439美元。缓存命中后进一步降至0.322美元。"
+    },
+    {
+      "link": "https://jangwook.net/zh/blog/zh/llm-api-pricing-comparison-2026-gpt5-claude-gemini-deepseek/",
+      "title": "GPT-5 vs Claude vs Gemini vs DeepSeek实际成本计算",
+      "snippet": "这篇文章是2026年4月基准的LLM API定价对比，帮助你做出这个判断。 2026年市场现状— 千倍价格差距的时代. 还记得2024年GPT-4 Turbo输入Token是$10/M ..."
+    },
+    {
+      "link": "https://cloud.tencent.com/developer/ask/2212516",
+      "title": "deepseek为什么和其他家的大模型价格差异这么大？ - 腾讯云",
+      "snippet": "价格差主要来源于三块:算力成本、模型效率和商业策略。 DeepSeek 能把价格压下来,核心是靠架构和工程优化… 所以便宜不是模型不行,而是它把推理成本打穿了 ..."
+    },
+    {
+      "link": "https://www.bardeen.ai/answers/how-much-does-deepseek-cost",
+      "title": "How Much Does DeepSeek Cost? Full Pricing Breakdown",
+      "snippet": "T's API charges $0.03 per 1,000 tokens for input and $0.06 per 1,000 tokens for output. cost around 6.75 cents. you're looking at $675."
+    },
+    {
+      "link": "https://www.cheaperinference.com/",
+      "title": "Cheaper Inference",
+      "snippet": "Access leading AI models through one OpenAI-compatible API and save up to 60% on inference costs. DeepSeek $0.30/M$0.15/M $1.20/M$0.60/M 50% off 22B"
+    },
+    {
+      "link": "https://www.siliconflow.cn/pricing",
+      "title": "大模型API 价格方案",
+      "snippet": "DeepSeek-V4-Flash. deepseek-ai/DeepSeek-V4-Flash. 费用发生时段: 2点～8点¥ 1.50 ; DeepSeek-V4-Pro. deepseek-ai/DeepSeek-V4-Pro. ¥ 12.00 ; DeepSeek-V3.2. deepseek- ..."
+    },
+    {
+      "link": "https://www.scribd.com/document/1029434817/2026%E5%B9%B4%E5%88%AB%E5%86%8D%E5%BD%93%E9%9F%AD%E8%8F%9C-DeepSeek%E7%AD%89%E4%BA%94%E5%A4%A7%E6%A8%A1%E5%9E%8BAPI%E4%BB%B7%E6%A0%BC%E7%BB%88%E6%9E%81%E5%AF%B9%E6%AF%94-%E8%BF%99%E5%BC%A0%E5%BA%95%E4%BB%B7%E8%A1%A8%E6%94%B6%E5%A5%BD",
+      "title": "2026年别再当韭菜！DeepSeek等五大模型API价格终极对比",
+      "snippet": "2026年大模型API价格战真相：实测十家接口，这份省钱攻略终结选择困难. 3 pages ... DeepSeek API价格全网底价大曝光，这家居然省下80%成本！ 1 page. 2026年别再当 ..."
+    },
+    {
+      "link": "https://startup.aliyun.com/info/1091914.html",
+      "title": "价格比OpenAI的o1便宜超过25倍。在我们对DeepSeek R1进行 ...",
+      "snippet": "DeepSeek推出了其首个推理模型R1，以其性价比突出而脱颖而出，比OpenAI的o1便宜超过25倍。在初步基准测试中，R1与o1竞争激烈，在人工分析质量指数中获得第二高分。"
+    },
+    {
+      "link": "https://benchlm.ai/deepseek/api-pricing",
+      "title": "DeepSeek API Pricing (September 2026)",
+      "snippet": "The DeepSeek API costs $0.30/$1.20 per million input/output tokens at peak … off-peak ($0.15/$0.60). DeepSeek V4 Pro costs $1.32/$3.96 at peak ..."
+    },
+    {
+      "link": "https://www.reuters.com/business/retail-consumer/deepseeks-new-ai-model-is-by-far-cheapest-well-known-models-run-research-firm-2026-08-03/",
+      "title": "DeepSeek's new AI model is by far the cheapest of well- ...",
+      "snippet": "DeepSeek's V4-Flash charges $0.14 per million input tokens and $0.28 per million output tokens, according to research firm Artificial Analysis."
+    },
+    {
+      "link": "https://www.volcengine.com/docs/82379/1099320",
+      "title": "模型价格- 火山方舟",
+      "snippet": "本文介绍火山方舟各模型的计费公式及单价,方便您查阅和比较模型价格, 300万token:150元,可生成100次,平均1.5 元/次。 3000万"
+    },
+    {
+      "link": "https://www.infoq.cn/article/FEcOI8kYoGuFYq39acEo",
+      "title": "涨价30倍仍是最便宜的模型，DeepSeek可能有这个底气",
+      "snippet": "DeepSeek 官方对应价格为0.14 美元和0.28 美元。 只有DeepSeek 官方价格的64%,便宜约36%。"
+    },
+    {
+      "link": "https://openrouter.ai/deepseek/deepseek-chat",
+      "title": "DeepSeek V3 - API Pricing & Benchmarks",
+      "snippet": "DeepSeek-V3 is the latest model from the DeepSeek team, building upon the instruction following and coding abilities of the previous versions."
+    },
+    {
+      "link": "https://news.ycombinator.com/item?id=44149238",
+      "title": "Why DeepSeek is cheap at scale but expensive to run locally",
+      "snippet": "Deepseek V3/R1 are expensive to run locally because they are so big compared to the models people usually run locally. The number of active ..."
+    },
+    {
+      "link": "https://www.larksuite.com/zh_cn/blog/deepseek-pricing",
+      "title": "DeepSeek：价格实惠且功能强大的人工智能工具",
+      "snippet": "​价格细则：​. 输入token（缓存命中）：每百万token $0.07​. 输入token（缓存未命中）：每百万token $0.27​. 输出token：每百万token $1.10​. 理想用例 ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t4s6g2/deepseek_v4_being_17x_cheaper_got_me_to_actually/?tl=zh-hans",
+      "title": "DeepSeek V4便宜17倍让我实际测量了一下我发送到云端的 ...",
+      "snippet": "我不会把DeepSeek V4与其他大型模型进行比较。它 ... 文件读取、代码解释、模板、结构化编辑、总结等，通常可以用更小、更便宜的模型处理得更高效。"
+    },
+    {
+      "link": "https://www.morphllm.com/deepseek-api",
+      "title": "DeepSeek API Pricing (2026): Cost per Token and How to Call It",
+      "snippet": "Off-peak, deepseek-v4-flash costs $0.22 per 1M input tokens on a cache miss, $0.007 per 1M on a cache hit, and $0.66 per 1M output tokens; ..."
+    },
+    {
+      "link": "https://blog.csdn.net/a772304419/article/details/145542297",
+      "title": "DeepSeek API 用量模型& 价格& 术语解释原创",
+      "snippet": "Tokens 是模型处理文本的基本单位，可以是单词、字符或子词。 · 模型价格以“百万tokens”为单位意味着费用是根据模型处理的tokens 数量计算的，每100 万个 ..."
+    },
+    {
+      "link": "https://www.llmabacus.com/compare/cheapest-reasoning-llm",
+      "title": "最便宜的推理模型：2026 省钱跑「思考型」大模型",
+      "snippet": "一句话总结：低成本强推理→ DeepSeek V4 Pro（¥9/¥27 峰时；空闲¥4.5/¥13.5 ... DeepSeek 是否更便宜取决于调用时段和输入输出比例。 想算具体的月账单差距 ..."
+    }
+  ]
+}

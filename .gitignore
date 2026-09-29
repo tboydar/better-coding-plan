@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# 暫存
+.tmp/
+*.tmp
+
+# 本機 API key / secrets（絕不進 repo）
+.keys.env
+*keys.env
+.env

@@ -1,0 +1,103 @@
+{
+  "id": "8cwJpXDJ5uKTF5vYpL6Z8s",
+  "message_id": "743a6c24-1f02-44bd-9b43-7106588dce48",
+  "answer": "根據搜尋結果，2026年台灣市場的AI訂閱方案價格與選擇，可以從兩個主要面向來分析：一是Google AI的官方訂閱方案，二是針對程式開發的AI Coding Plan。由於兩者的計費邏輯與目標用戶不同，最划算的選擇會因你的使用情境而有很大差異。\n\n首先，關於Google AI在台灣的訂閱方案，2026年8月的資訊顯示，目前共有四種付費層級，價格分別為：Google AI Plus每月新台幣165元、Google AI Pro每月新台幣650元、Google AI Ultra 5x每月新台幣3,300元，以及最高階的Google AI Ultra 20x每月新台幣6,500元。這些方案自2026年5月起全面改採「算力消耗制」計費，也就是不再以單純的提示詞次數計算，而是根據你使用模型時的運算資源消耗來計算，每5小時重置一次直到達到每週上限。在儲存空間方面，Plus方案提供400GB，Pro方案提供5TB，Ultra 5x提供20TB，Ultra 20x則提供30TB。此外，Pro以上的方案才支援100萬個詞元的脈絡視窗，而Deep Think進階思考功能則需要Ultra 5x以上才有。\n\n針對不同的使用者，Google AI方案的選擇建議如下。對於預算有限、但希望在日常辦公中獲得AI輔助的進階辦公者或小資工作者，每月165元的Plus方案是相對平易近人的高CP值選擇，它提供標準限制2倍的Gemini用量，並解鎖Gmail等基本服務的AI功能。對於每天需要依賴AI進行大量研究、長文寫作、數據分析或程式碼除錯的重度使用者，例如數位內容創作者、學術研究員或軟體開發者，每月650元的Pro方案會更合適，它提供標準限制4倍的用量額度，並支援更長的脈絡視窗。至於每月3,300元的Ultra 5x和6,500元的Ultra 20x，則分別鎖定進階開發者、高頻創作者以及需要部署自動化AI代理的企業級用戶，提供最高等級的算力、儲存空間和Google Cloud抵免額。\n\n另一方面，如果你問的是專門用於AI程式開發的Coding Plan訂閱，搜尋結果顯示台灣市場的選擇與價格邏輯又有所不同。這類方案通常分為兩種模式：一種是按請求次數計費、Token無上限的Coding Plan，另一種是傳統的訂閱制。在價格上，國際主流服務如ChatGPT Plus和Gemini Pro每月皆為20美元，約合新台幣640元左右。而中國大陸的AI服務則提供更具價格競爭力的選項，例如GLM Coding Lite每月僅3美元，約新台幣96元，每5小時週期提供120個提示；GLM Coding Pro每月15美元，約新台幣480元，每5小時週期提供600個提示。此外，也有像MiniMax Starter這樣每月新台幣約29元的入門方案，或是阿里雲百煉、火山方舟等提供首月新台幣個位數價格的體驗方案。\n\n綜合來看，要判斷「最划算」並沒有一個絕對的答案，關鍵在於你的使用頻率和需求強度。如果你是偶爾使用AI查詢資料的一般用戶，免費版或每月165元的Google AI Plus可能就已足夠。如果你是高頻率的AI依賴者，特別是程式開發者，那麼每月650元的Google AI Pro在算力額度、儲存空間和功能完整性上，對於台灣用戶來說是相對均衡且划算的選擇。但若你的開發需求極高，且不介意使用非Google體系的服務，那麼每月僅約新台幣96元的GLM Coding Lite或約480元的GLM Coding Pro，在價格上具有極大的優勢，非常適合預算有限但需要大量AI輔助編程的開發者。最後，若你是企業用戶或需要處理極高強度的工作流，則應考慮每月3,300元以上的Ultra方案，以獲得最高的算力與擴充權限。建議你根據自己實際的工作型態與預算，在上述方案中做出最適合的選擇。",
+  "query_analysis": {
+    "queries": [
+      "2026 Taiwan AI coding plan 訂閱 方案 價格 NTD 新台幣 最划算",
+      "2026年台灣AI編碼計畫訂閱方案價格NTD新台幣最划算"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://www.facebook.com/bnextmedia/posts/google-ai-%E5%90%84%E6%96%B9%E6%A1%88%E6%9C%89%E5%93%AA%E4%BA%9B%E7%89%B9%E8%89%B2%E8%A9%B2%E6%80%8E%E9%BA%BC%E9%81%B8%E6%93%87google-%E6%96%BC-2026-%E5%B9%B4-io-%E9%96%8B%E7%99%BC%E8%80%85%E5%A4%A7%E6%9C%83%E5%AE%A3%E5%B8%83%E8%A8%82%E9%96%B1%E6%96%B9%E6%A1%88%E6%9B%B4%E6%96%B0%E8%A8%88%E8%B2%BB%E9%82%8F%E8%BC%AF%E5%85%A8%E9%9D%A2%E6%94%B9%E6%8E%A1%E7%AE%97%E5%8A%9B%E6%B6%88%E8%80%97%E5%88%B6compute-used/1374982301327341/",
+      "title": "Google AI 各方案有哪些特色，該怎麼選擇？ Google 於2026 ...",
+      "snippet": "Google 於2026 年I/O 開發者大會宣布訂閱方案更新，計費邏輯全面改採「算 力消耗制」（compute-used），並新增AI Ultra 新台幣 3,300 元方案層級。同時， ..."
+    },
+    {
+      "link": "https://today.line.me/tw/v3/article/NvyD0En",
+      "title": "2026最新Google AI訂閱方案｜Gemini 改算力消耗制、 ...",
+      "snippet": "Google 於2026 年I/O 開發者大會宣布訂閱方案重大更新，計費邏輯全面改採「算力消耗制」（compute-used），並新增AI Ultra 新台幣3,300 元方案層級。"
+    },
+    {
+      "link": "https://www.atlascloud.ai/zh-TW/blog/tips/coding-plan-best-ai-coding-subscription-under-20",
+      "title": "20美元以下最佳AI 程式碼訂閱方案",
+      "snippet": "本文方案價格與模型費率基於2026 年5 月的Atlas Cloud Coding Plan 文件。GitHub Copilot 與Cursor 的價格截至同期於各自官網確認。點數計算為說明性 ..."
+    },
+    {
+      "link": "https://www.dealmoon.com/post/3203834",
+      "title": "双非码农2026年的AI订阅一个月多少？164刀 - Dealmoon",
+      "snippet": "两个非码农背景的家庭2026年在AI订阅上会花多少钱？164刀，以下是细分。 1️⃣ChatGPT - 20刀/月。 2️⃣Gemini Pro - 20刀/月。 之所以两个都订阅主要是因为之前我和 ..."
+    },
+    {
+      "link": "https://one.google.com/intl/zh-TW_tw/about/google-ai-plans/",
+      "title": "訂閱Google AI 方案，輕鬆解決日常大小事",
+      "snippet": "訂閱Google AI 方案，輕鬆解決日常大小事 ; Google AI Plus · $165 TWD. 400 GB 儲存空間 ; Google AI Pro · $650 TWD. 5 TB 儲存空間 ; Google AI Ultra · $3,300 TWD · 儲存空間 ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2039774524376404404",
+      "title": "2026年5月主流AI Coding Plan平台全面对比：能力",
+      "snippet": "当前AI编程订阅主要分为两类模式，适配个人开发者不同使用习惯：. Coding Plan：按请求次数计费，Token无上限，每月几十元即可获得上万次请求，适合高 ..."
+    },
+    {
+      "link": "https://news.qq.com/rain/a/20260422A0485K00",
+      "title": "AI coding plan 选购指南：日耗10 亿Token 工程师的7家横评",
+      "snippet": "¥29/月用不了最强模型，和¥200/月用到最强模型，哪个更划算？ 答案不取决于价格，取决于你的使用场景。 每天只写半小时代码的，¥29够了。 靠AI编程 ..."
+    },
+    {
+      "link": "https://gitcode.csdn.net/6a0dda4e662f9a54cb75f01b.html",
+      "title": "2026年5月主流AI Coding Plan平台全面对比 - AtomGit开源社区",
+      "snippet": "限购状态：不限购，所有套餐均可随时购买。 核心优势：. Coding Plan价格亲民，Lite版¥40/月，Pro版¥200/月，支持DeepSeek‑V4‑Flash、GLM‑5.1等主流模型。"
+    },
+    {
+      "link": "https://adg.csdn.net/6a2b73f4f346c94489bfc5cd.html",
+      "title": "2026年5月主流AI Coding Plan平台全面对比 - 智能体开发者社区",
+      "snippet": "Coding Plan Lite版首月¥36,连续包月¥40,每月18000次请求,性价比不错。 ¥36 ¥40 1,200 18,000 Pro ¥160 ¥200 6,000 90,000"
+    },
+    {
+      "link": "https://kilo.ai/articles/best-ai-subscription-for-coding",
+      "title": "Which AI Subscription Is Best for Coding in 2026?",
+      "snippet": "If you search for the best AI subscription for coding, you'll find a list of monthly plans: ChatGPT Plus/Pro, Claude Pro/Max, GitHub Copilot, ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2019765859053225823",
+      "title": "2026年国内主流AI Coding Plan套餐全对比｜开发者避坑指南",
+      "snippet": "... 计费模式，大幅降低AI辅助编程的使用门槛。 ... 首月薅羊毛首选：阿里云百炼（7.9元）> 火山方舟（8.91元）> MiniMax（9.9元），三者均能以个位数价格体验核心功能，适合新 ..."
+    },
+    {
+      "link": "https://github.com/mahonzhan/awesome-coding-plan",
+      "title": "各厂家Coding Plan 实际价值对比",
+      "snippet": "数据对比(TL;DR) ; GLM Coding Plan Lite（使用海外版订阅测试glm-5.1）, ￥49.00, 3x Claude Pro 用量额度每5 小时限额最多约80 次prompts 每周限额最多约400 次prompts ..."
+    },
+    {
+      "link": "https://www.cnblogs.com/junbaor/p/19670554",
+      "title": "2026 年国内AI Coding Plan 怎么选？5 大平台横评帮你省钱",
+      "snippet": "入门体验的话，MiniMax Starter 只要¥29/月，是目前最便宜的月付方案。如果想更低成本试水，火山引擎和阿里云百炼都有首月特惠，最低¥7.9 就能用一个 ..."
+    },
+    {
+      "link": "https://nabi.104.com.tw/posts/nabi_post_8c5f5394-b8bc-4b94-8fac-4398c1c219e3",
+      "title": "AI軟體代購費用怎麼算？2026最新定價公式與報價解析｜戰國...",
+      "snippet": "業界目前最透明、最被接受的AI軟體代購費用定價公式為：原廠美金售價× 1.8 = 客戶台幣價（含稅）。 這個公式由業界領導品牌戰國策集團首先公開揭露，並 ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/CLine/comments/1nknwvb/were_launching_glm_coding_plans_with_zai_3month/?tl=zh-hant",
+      "title": "我們正在推出GLM Coding Plans，搭配zAI -- 每月3 美元",
+      "snippet": "GLM Coding Lite：一個月$3，每5 小時週期120 個提示. GLM Coding Pro：一個月$15，每5 小時週期600 個提示. 備註：這些價格是第一個計 ..."
+    },
+    {
+      "link": "https://www.atlascloud.ai/zh/blog/tips/coding-plan-best-ai-coding-subscription-under-20",
+      "title": "20美元以下的最佳AI编程订阅：哪些方案真正物有所值",
+      "snippet": "本文将拆解该价格区间内的实际可用方案，分析其日常限额和模型访问权限的真实情况，并根据你的实际编码方式推荐适合的方案。以下所有数据均有据可循。"
+    },
+    {
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1rw5xvh/whats_the_best_ai_to_actually_pay_for_right_now/?tl=zh-hant",
+      "title": "現在哪個AI 真的值得付費？（2026） : r/AI_Agents",
+      "snippet": "不是在說什麼炒作，我是指真的，每天都在用的那種。 現在選擇超多： ChatGPT、Claude、Gemini、Copilot、Perplexity，等等。 ..."
+    },
+    {
+      "link": "https://www.cnblogs.com/jzssuanfa/p/20098883",
+      "title": "2026年国产AI编程Coding Plan深度横评：六大平台谁最值得 ...",
+      "snippet": "较好，价格最低的聚合方案[^6]. 选购建议：. 极低预算（<¥30/月）：MiniMax Starter（¥29/月）或无问芯穹Lite（¥19.9/月）是唯二低于30元的长期方案。"
+    }
+  ]
+}

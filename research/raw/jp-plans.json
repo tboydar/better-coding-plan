@@ -1,0 +1,124 @@
+{
+  "id": "CsqdJRx48A2Y6EKyQB9o8s",
+  "message_id": "0b6e45ed-fab8-42e3-9573-4e95be06e621",
+  "answer": "2026年時点の日本市場におけるAIコーディングツールのプラン比較とおすすめについて、Cursor、GitHub Copilot、OpenAI Codexを中心に、料金や特徴を詳しく解説します。まず全体像として、2026年3月時点で主要なAIコーディングツールは14種類以上存在し、それぞれ料金プランや機能が大きく異なります。特に注目すべきは、市場シェアの動向で、2026年のデータによると、Claude Codeが31.8%で1位、GitHub Copilot Agentが26.7%で2位、Codex CLIが16.1%で3位、Cursorが14.8%で4位となっています。このように、従来人気だったCursorが上位3位から転落し、OpenAIのCodexが急速にシェアを伸ばしているのが現状です。\n\n。\n\n料金プランについて具体的に見ていきましょう。まずGitHub Copilotは、無料のFreeプランに加え、個人向けのProプランが月額10ドル（約1,500円）、より上位のPro+プランが月額39ドル（約5,850円）、さらにMaxプランが月額100ドル（約15,000円）という価格帯を設定しています。一方、Cursorも同様に、無料プランに加え、Proプランが月額20ドル（約3,000円）、より上位のプランが月額39ドル（約5,850円）など、複数の段階を用意しています。OpenAIのCodexについては、Plusプランが月額3,000円で個人開発者向けの標準的な有料プラン、Proプランが月額16,800円からでより大きな利用枠を提供する上位プランとなっています。また、Claude Codeは月額200ドル（約30,000円）の高額プランが話題になりましたが、これは一般の個人開発者には手が届きにくい価格です。このように、各ツールとも無料枠から高額なプロフェッショナル向けプランまで、幅広い価格帯を展開しています\n\n次に、それぞれのツールの特徴と適した利用シーンを比較します。CursorはVS Code互換のAI統合IDEで、エディタ内でAIがコードを書き、ユーザーがその作業を舵取りしながら進めるスタイルです。エージェントモードでタスクを自律実行できる一方、標準モードではコンテキスト窓が限られており、20,000行を超える巨大なプロジェクトではコンテキスト不足でうまく動作しないことがあります。一方、Codexはタスクを記述してバックグラウンドで実行し、完了後にプルリクエストとして結果を返すという、より自律的なワークフローを特徴としています。また、CodexはRustで書かれており、バイナリ起動の遅延が小さいという技術的な利点もあります。さらに、Codexはセキュリティのデフォルト設定がより強固であると評価されていますが、Cursorの方がより機動的で柔軟な操作が可能とされています\n\nコンテキスト窓のサイズも重要な比較ポイントです。Claude Codeは250kトークンの窓を持ち、巨大なコードベースをほぼ全体把握できますが、Codex CLIとGPT-4.1の組み合わせでは1Mトークンまで拡張可能で、超大規模プロジェクトを丸ごと解析できるのが強みです。一方、Cursorの標準モードではコンテキストが限られるため、大規模プロジェクトのリファクタリングには不向きな場合があります\n\n利用形態の違いも理解しておく必要があります。Claude CodeとCodexはCLI（コマンドラインインターフェース）ツールで、ターミナル上で開発作業を完結させたい開発者に向いています。これらはオープンソースで公開されており、透明性が高いという利点があります。一方、CursorとGitHub CopilotはIDEやプラットフォームに統合された製品で、クローズドソースの商用製品です。このため、開発スタイルや好みによって最適なツールが異なります\n\n実際の利用者の声を見ると、Cursorは毎月の使用枠を消費するペースが速すぎるという不満が報告されています。また、あるRedditユーザーの報告では、適切なツール選びによって月間コーディング時間が160時間から40時間に減少したとのことで、ツール選択が生産性に与える影響は非常に大きいことがわかります\n\n2026年時点でのおすすめをまとめると、まず個人開発者で予算を抑えたい場合は、GitHub Copilotの無料プランかProプラン（月額10ドル）が手頃です。また、CursorのProプラン（月額20ドル）もバランスが良く、エディタ内での対話的な開発を好む人に向いています。一方、自律的なエージェント機能を重視し、バックグラウンドでタスクを実行させたい場合は、CodexのPlusプラン（月額3,000円）がコストパフォーマンスに優れています。大規模なコードベースを扱う開発者や、CLI環境での作業を好む開発者には、Claude CodeやCodex CLIが適していますが、Claude Codeの高額プランは個人には負担が大きいため、企業やプロフェッショナル向けと言えるでしょう\n\n最後に、料金や機能は頻繁に更新されるため、最新情報は必ず各公式サイトで確認することをお勧めします。2026年3月時点の情報では、市場はまさに戦国時代の様相を呈しており、毎月のように新機能や料金改定が行われています。自分の開発スタイルや予算に最も合うツールを選ぶことが、開発効率を最大化する鍵となります",
+  "query_analysis": {
+    "queries": [
+      "2026 日本 AI コーディング プラン 比較 おすすめ",
+      "Cursor Copilot Codex 円",
+      "Cursor Codex 円"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
+      "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と ...",
+      "snippet": "本記事では、2026年3月時点で利用可能な主要AIコーディングツール14種類を徹底調査し、以下の観点で比較・解説します。 料金プラン（無料枠・個人・チーム ..."
+    },
+    {
+      "link": "https://note.com/kopen_insider/n/n23cd9048a4a3",
+      "title": "Claude Code vs Codex vs Cursor — AIコーディング ...",
+      "snippet": "そこで今回は、最新情報と開発者の声をもとに、Claude Code、OpenAI Codex、Cursorの3つのAIコーディングアシスタントを徹底比較します！ 大手開発サイト ..."
+    },
+    {
+      "link": "https://www.itmedia.co.jp/itselect/ai_tool/",
+      "title": "【2026年版】AIツールのおすすめ製品を徹底比較",
+      "snippet": "2026年最新のAIツールおすすめ製品を用途別に比較。生成AIや予測AIの種類、ビジネス導入のメリット、自社に最適な製品の選び方を解説します。"
+    },
+    {
+      "link": "https://medium.com/realworld-ai-use-cases/whats-the-best-value-for-money-cursor-claude-code-codex-github-copilot-e9c7e5fa9ce8",
+      "title": "What's the best value for money? Cursor? Claude Code? ...",
+      "snippet": "As of June 2026, people use four tools: Cursor, Claude Code, OpenAI Codex, and GitHub Copilot. Max 5x at $100 gives you five times that budget. ..."
+    },
+    {
+      "link": "https://www.aspicjapan.org/asu/article/52257",
+      "title": "【2026】コード生成AI12選｜プログラミング・コーディング ...",
+      "snippet": "コード生成AI（プログラミングAI・コーディングAI）11製品を、利用形態、エージェント機能、IDE・CLI対応、料金、セキュリティで比較。"
+    },
+    {
+      "link": "https://www.optimnow.io/post/ai-coding-tools-pricing-cursor-copilot-claude-code-codex",
+      "title": "Cursor, Copilot, Claude Code & Codex Pricing (2026)",
+      "snippet": "The AI coding tool market has converged on 4 price points. $10 to $20 buys an individual seat, $39 buy ・ a heavy tier. Copilot Free, Pro $10, Pro+ $39, Max $ ..."
+    },
+    {
+      "link": "https://cad-kenkyujo.com/cording-ai/",
+      "title": "【2026】おすすめコーディングAIツール13選！製造業DXに効く ...",
+      "snippet": "2025年最新のコーディングAIツール13選を徹底解説。GitHub CopilotやCursorなど定番から、製造業DXに役立つCAD特化型まで幅広く紹介します。"
+    },
+    {
+      "link": "https://zapier.com/blog/codex-vs-cursor/",
+      "title": "Codex vs. Cursor: Which should you use? [2026]",
+      "snippet": "Both offer parallel agent execution; Codex's have stronger security defaults, but Cursor's are more agile. Cursor and Codex both let you run ..."
+    },
+    {
+      "link": "https://note.com/lab_bit__sutoh/n/n957d85f7e19a",
+      "title": "CLIコーディングAI比較分析レポート：Claude Code・Codex ...",
+      "snippet": "注目を集める3つのCLIコーディングツール 「Cursor CLI」「Claude Code」「Codex CLI」 について、動画で示された比較検証を基に、それぞれの特徴、長所、 ..."
+    },
+    {
+      "link": "https://qiita.com/kotauchisunsun/items/5e5244fdabf577d7c879",
+      "title": "CursorがTOP3から転落、OpenAIのCodexがシェア率 ...",
+      "snippet": "AI Coding Agentのプロダクト別のシェア ; 1位, Claude Code, 31.8% ; 2位, Copilot Agent, 26.7% ; 3位, Codex CLI, 16.1% ; 4位, Cursor, 14.8%."
+    },
+    {
+      "link": "https://www.qbook.jp/column/2004.html",
+      "title": "【2026年最新】種類別・コード生成AIおすすめ10選 ... - Qbook",
+      "snippet": "3. コード生成AI おすすめ5選【IDE・エディタ連携型】 · 3-1. GitHub Copilot（無料/有料） · 3-2. Tabnine（無料/有料） · 3-3. Amazon Q Developer（無料/ ..."
+    },
+    {
+      "link": "https://re-study.jp/aiprograming-osusume-hikaku-2026/",
+      "title": "AIプログラミングおすすめ比較！2026年版・目的別の選び方 ...",
+      "snippet": "AIプログラミングの種類から目的別の選び方・2025年おすすめAPI比較・フレームワーク解説まで徹底網羅。ミドル世代・未経験者に最適な生成AI ..."
+    },
+    {
+      "link": "https://tamata78.hatenablog.com/entry/2025/10/17/110651",
+      "title": "Cursor、Claude Code、Codex CLIのAgent機能無制限利用の ...",
+      "snippet": "AIツール Cursor Claude Codex ... 現状、ドル円150円程度なので、$20は3000円ぐらい。Claudeは1万5000円。 個人で使うには、一旦はCursor、Codexかな。"
+    },
+    {
+      "link": "https://www.datacamp.com/ja/blog/codex-vs-cursor",
+      "title": "Codex と Cursor の比較: ワークフローに合う AI コーディング ...",
+      "snippet": "Codex ではタスクを記述してバックグラウンドで実行し、戻ってくるのはプルリクエスト。Cursor ではエディタに留まり、AI が書くのを舵取りします。"
+    },
+    {
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news009.html",
+      "title": "AIをよく使う社員だけ5倍に Claude、ChatGPT／Codex ... - IT",
+      "snippet": "その後で、Claude、ChatGPT／Codex、Cursorの3環境について、金額の違いとシートの設定手順を具体的に整理していく。 続きを読むには、[続きを読む] ..."
+    },
+    {
+      "link": "https://segmentfault.com/a/1190000047759440",
+      "title": "AI 编程工具横评：Claude Code / Cursor / Copilot / Codex ...",
+      "snippet": "Claude Code 与Codex 是CLI 工具，开源可查；Cursor 与Copilot 是IDE / 平台产品，闭源商业。 Codex 用Rust 写，二进制启动延迟较小；Claude Code 主语言 ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/vibecoding/comments/1u0y582/which_20_plan_is_better_cursor_or_codex/?tl=ja",
+      "title": "月20ドルのどのプランがいい？CursorかCodexか？",
+      "snippet": "開発者向けに、月20ドルのどのプランがよりコスパいいか迷ってるんだよね。利用上限、機能、全体的なパフォーマンスの面でどう違う？"
+    },
+    {
+      "link": "https://www.businessinsider.jp/article/2605-how-much-did-major-generative-ai-service-fees-become-in-may-2026/",
+      "title": "生成AI、利用料はいくらになった？ 2026年5月の主要8 ...",
+      "snippet": "「エントリープラン」とは、無料プランではもの足りない人向けの、もっとも手ごろな料金プラン。制限事項は多いものの1,000円台で利用できるプランを比較 ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/vibecoding/comments/1sqx48d/why_do_people_still_pay_for_cursor_or_copilot/?tl=ja",
+      "title": "なんで今でもCursorやCopilotにお金払ってる人がいるの？ ...",
+      "snippet": "ここ3か月ずっとClaude Code、Codex、Cursorを使ってるけど、Cursorは毎月の使用枠を消費するペースが速すぎて泣ける。枠が ..."
+    },
+    {
+      "link": "https://mirumi.me/coding-agent-tools/",
+      "title": "Cline、Roo、GitHub Copilot、Codex CLI で勝ち残ったのは ...",
+      "snippet": "Claude Code の $200 コースは X では大流行しているように見えたけど、すべての一般人が毎月ひとつのツールに 3 万円も出せるはずもなく、これは ..."
+    },
+    {
+      "link": "https://www.sungrove.co.jp/codex/",
+      "title": "Codexで何ができる？業務活用するには？使い方やCursorと ...",
+      "snippet": "Codexの料金プランと利用条件 ; Plus, 月3,000円, 個人開発などに向いた標準的な有料プラン ; Pro, 月16,800円～, より大きなCodex利用枠を利用できる上位 ..."
+    },
+    {
+      "link": "https://cursor.com/ja/pricing",
+      "title": "料金プラン",
+      "snippet": "$20 / mo. Pro Pro+ Ultra. Hobbyの内容に加えて:."
+    }
+  ]
+}

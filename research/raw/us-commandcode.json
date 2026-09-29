@@ -1,0 +1,144 @@
+{
+  "id": "Ao7gEb764AXyU9YawVUTXH",
+  "message_id": "95e35ace-420e-43f2-b521-816e78719692",
+  "answer": "Command Code の2026年における価格プラン、特にGOATプランの月間クレジットについてご説明いたします。\n\n検索結果によりますと、Command CodeのGOATプランは月額10ドルで70ドル分のクレジットが付与される、非常にコストパフォーマンスに優れたコーディング向けプランとして紹介されています。これは支払い額の7倍に相当するクレジットが得られることを意味します。\n\nGOATプランは、30以上のオープンウェイトモデルおよびクローズドモデルを利用できる点が特徴です。このプランは、Command Codeが提供するプラン群の中で、低コストでありながら十分な利用枠を確保した中間的な位置づけにあります。例えば、同じくCommand Codeが提供するGoプランは月額1ドルで10ドル分のクレジットが付与される入門向けのプランです。一方、GOATプランは月額10ドルで70ドル分のクレジットが得られるため、より本格的にコーディング作業を行うユーザー向けと言えます。\n\nさらに上位のプランとしては、Proプランが月額20ドルで80ドル分、Max 10xプランが月額100ドルで150ドル分、Max 20xプランが月額200ドルで300ドル分のクレジットを提供しています。このように、GOATプランは価格とクレジットのバランスが取れた選択肢となっています。\n\nGOATプランのクレジットは、毎月のサイクル開始時にリセットされる仕組みです。つまり、月額料金を支払うことで、毎月70ドル分のクレジットが新たに付与され、それをコーディング関連のAIモデル利用に充当できます。具体的には、DeepSeek V4.1 Flashなどのモデルを利用する際に、クレジットが6倍の価値で適用される場合もあります。例えば、60ドル分のクレジットとして扱われるケースが報告されています。\n\n。\n\n\n\nただし、注意点として、新しく追加されたモデルについては、当初は2倍のクレジット価値（つまり10ドル支払いに対して20ドル分）から始まり、交渉によってより良い条件が整うまでその状態が続くことがあります。それでも、公開API価格と比較すると2倍の価値が得られるため、十分にお得です。\n\nまた、GOATプランは、Command Codeのv1リリースに伴うフルリライトを経て、より成熟したコーディングエージェントハーネスとして提供されています。このプランは、オープンモデルを活用したコーディングを支援することを目的としており、約98%のキャッシュヒット率を誇るインフラや、AIスロップを修正するためのビルトインのデザインスキルなど、高度な機能を備えています。\n\nさらに、Command Codeは30,000人以上の有料顧客、100,000人以上の開発者、そして10兆トークンの処理規模を達成しており、その信頼性と実績が伺えます。GOATプランは、このような成熟したサービス基盤の上に成り立っているため、安心して利用できるでしょう。\n\nなお、一部のユーザーからは、マーケティング表現と実際のクレジット価値に乖離があるとの指摘もあります。例えば、Goプランの1ドルで40ドル分という宣伝に対し、実際にはDeepSeek V4 Proのクレジットとして10ドル分しか得られないという報告があります。同様に、GOATプランでも、宣伝されている70ドル分のクレジットが、特定のモデルでは20ドル分にしかならないケースがあるとされています。このため、利用するモデルによって実際のクレジット価値が変動する点には留意が必要です。\n\n総合的に見ますと、Command CodeのGOATプランは、月額10ドルで70ドル分のクレジットを提供する、低コストで高価値なコーディングプランです。30以上のモデルを利用でき、毎月クレジットがリセットされるため、継続的にコーディング作業を行うユーザーにとって非常に魅力的な選択肢と言えます。ただし、モデルごとのクレジット価値の違いや、新モデルに対する初期のクレジット倍率など、細かな条件を理解した上で利用することが推奨されます。",
+  "query_analysis": {
+    "queries": [
+      "Command Code 2026 GOAT credits",
+      "Command Code 2026 pricing plan",
+      "GOAT credits monthly plan"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://x.com/CommandCodeAI/status/2085039006203711649",
+      "title": "Introducing the GOAT plan 🐐 Command Code ...",
+      "snippet": "Introducing the GOAT plan Command Code GOAT plan is the best low-cost coding plan on the market today. - $10/mo to get $70 credits."
+    },
+    {
+      "link": "https://x.com/CommandCodeAI/status/2085039007843623261",
+      "title": "Command Code",
+      "snippet": "Introducing the GOAT plan Command Code GOAT plan is the best low-cost coding plan on the market today. - $10/mo to get $70 credits."
+    },
+    {
+      "link": "https://www.mindstudio.ai/blog/command-code-pricing-plans",
+      "title": "Command Code Pricing: Go and Goat Plans vs $200 ...",
+      "snippet": "Command Code's Goat plan gives $70 in monthly credits across 33 models for $10. Here's how it stacks up against GLM, Kimi, and DeepSeek plans."
+    },
+    {
+      "link": "https://www.facebook.com/ahmadawais/posts/introducing-the-goat-plan-command-code-goat-plan-is-the-best-low-cost-coding-pla/10236937290626850/",
+      "title": "Introducing GOAT plan $10/mo for $70 credits",
+      "snippet": "Introducing GOAT plan $10/mo for $70 credits — Command Code GOAT is the best low-cost plan for... AUGUST 5. Introducing the GOAT plan!"
+    },
+    {
+      "link": "https://www.linkedin.com/posts/mrahmadawais_goat-plan-command-code-activity-7491478559434346497-Eqv0",
+      "title": "GOAT Plan | Command Code | Ahmad Awais",
+      "snippet": "Command Code GOAT plan is the best low-cost coding plan on the market today. - $10/mo to get $70 credits. 7x what you pay - 30+ open ..."
+    },
+    {
+      "link": "https://x.com/MrAhmadAwais/status/2085712848521658834",
+      "title": "GOAT 🐐 Command Code GOAT plan is the best low-cost ...",
+      "snippet": "... Command Code GOAT plan is the best low-cost coding plan on the market today. - $10/mo to get $70 credits. 7x what you pay - 30+ open weight ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/CommandCode/comments/1vghnd9/introducing_command_code_goat_plan_best_low_cost/",
+      "title": "Introducing Command Code GOAT plan — best low cost AI ...",
+      "snippet": "Command Code GOAT plan is the best low-cost coding plan on the market today. - $10/mo to get $70 credits. 7x what you pay - 30+ open weight and ..."
+    },
+    {
+      "link": "https://www.volanea.com/blog/command-code-goat-plan-review",
+      "title": "Command Code GOAT Plan Review: $10 AI Coding Value",
+      "snippet": "Command Code GOAT Plan offers $70 in AI coding credits for $10. See its limits, model choices, harness features, and key trade-offs."
+    },
+    {
+      "link": "https://www.reddit.com/r/CommandCode/comments/1wcgyzh/just_upgraded_to_the_goat_plan/",
+      "title": "Just upgraded to the GOAT plan : r/CommandCode",
+      "snippet": "GPT 5.6 Sol is now in Command Code GOAT (70 dollar credits.). r ... DeepSeek V4.1 Flash is live in Command Code GOAT (6x usage, $60 credits)."
+    },
+    {
+      "link": "https://commandcode.ai/docs/plans/goat",
+      "title": "GOAT Plan",
+      "snippet": "New models start at 2x credits i.e. $20 credits on the $10/mo GOAT plan until we negotiate better deals. That's still 2x your money at public API prices, and ..."
+    },
+    {
+      "link": "https://commandcode.ai/pricing",
+      "title": "Pricing - Command Code AI",
+      "snippet": "Every plan. Side by side. ; Go$1/mo · $10 ; GOAT$10/mo · $70 ; Pro$20/mo · $80 ; Max 10×$100/mo · $150 ; Max 20×$200/mo · $300."
+    },
+    {
+      "link": "https://commandcode.ai/docs/plans/go",
+      "title": "Go Plan",
+      "snippet": "The Go plan is the $1/month entry point to Command Code: open models, available globally, for the price of a coffee once a month. Your $1 buys $10 of credits. A ..."
+    },
+    {
+      "link": "https://www.facebook.com/ahmadawais/posts/command-code-is-the-only-code-agent-that-has1-1-go-plan-with-10x-free-credits-be/10236285027040668/",
+      "title": "Command Code is the only code agent that has: 1. $1 Go ...",
+      "snippet": "Command Code is the only code agent that has: 1. $1 Go plan with 10x free credits (best overall) 2. optimizes for top open models 3. repairs ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/DeepSeek/comments/1viwwpx/beware_of_command_codes_misleading_marketing/",
+      "title": "Beware of Command Code's misleading marketing",
+      "snippet": "TL;DR: the $1 Go plan gets you $10 of DeepSeek V4 Pro credit, not the \"$40\" the headline claims. The $10 GOAT plan gets you a $20 DeepSeek ..."
+    },
+    {
+      "link": "https://commandcode.ai/docs/resources/pricing-limits",
+      "title": "Pricing Limits",
+      "snippet": "Monthly subscription credits. Reset at the start of every cycle. On the Max plans, premium and standard models each have their own usage limit - $100 premium / ..."
+    },
+    {
+      "link": "https://github.com/router-for-me/CLIProxyAPI/discussions/4007",
+      "title": "[Feature] Add Command Code (commandcode.ai ...",
+      "snippet": "The interesting part is the Go plan: $1/month with $10 of included credits and deal multipliers that push effective usage to ~$40 on selected OSS models ( ..."
+    },
+    {
+      "link": "https://www.mindstudio.ai/blog/command-code-goat-plan-pricing",
+      "title": "Command Code's Goat Plan: $10 for $70 in AI ...",
+      "snippet": "It costs $10 a month and includes $70 in monthly credits distributed across 33 open and closed coding models, with the exact credit value per ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/Goatapp/comments/k7bh7f/am_i_able_to_bid_using_goat_credit_or_is_it_only/",
+      "title": "Am I able to bid using GOAT credit? Or is it only purchase?",
+      "snippet": "If you want to bid or buy something that costs less than $500 after fees, shipping, and taxes, it will explicitly come out of your GOAT credit ..."
+    },
+    {
+      "link": "https://medium.com/readers-club/command-code-ai-review-2026-the-1-ai-coding-tool-developers-are-switching-to-d8172fa1f96c",
+      "title": "Command Code AI Review 2026 | Readers Club",
+      "snippet": "The $1 Go plan gives you $10 in credits, around 15K requests, taste-1 access, and limited analytics. That makes it a low-cost entry point for ..."
+    },
+    {
+      "link": "https://pricingpagehub.com/company/command-code/",
+      "title": "Command Code Pricing: Plans & Costs | Pricing Page Hub",
+      "snippet": "See Command Code's AI & Machine Learning pricing page — full-page screenshots of the live plan tiers, captured at US/USD pricing."
+    },
+    {
+      "link": "https://goatpayments.com/solutions/subscription-recurring-billing/",
+      "title": "Subscription & Recurring Billing Solutions",
+      "snippet": "With GOAT Payments, you can easily set up, track, and manage recurring payments, allowing you to focus on growing your business while we handle the complexities ..."
+    },
+    {
+      "link": "https://www.creditgoats.com/monthly-plan",
+      "title": "Goat Individual Plan (Monthly)",
+      "snippet": "$89/month, no contract. Credit Repair. Credit Rebuilding. Credit Education. 3 Bureau Audit-Analysis. Personalized Dispute Letters. 24/7 Client Portal Access."
+    },
+    {
+      "link": "https://algoat.tv/Pricing",
+      "title": "Pricing — $49/mo · $29/mo Annual · 7-Day Trial",
+      "snippet": "No credit card required. Monthly Pass $49/mo Month to month. All plans include TradingView integration. No additional software needed. Credit cards via secure ..."
+    },
+    {
+      "link": "https://www.justanswer.com/tv-repair/of61k-need-know-gave-cc-goat-first.html",
+      "title": "Understanding GOAT Credit Card Charges: Expert Answers",
+      "snippet": "When entering credit card details on platforms like Goat, a temporary authorization hold may appear to verify the card's validity. This hold is not a charge"
+    },
+    {
+      "link": "https://licorice.gorgias.help/en-US/articles/goat-club-membership-212345",
+      "title": "G.O.A.T. Club Membership",
+      "snippet": "When logged in, any applicable Membership credits will automatically be applied to your purchase at checkout. If you're no · Do I Need a Separate Membership For ..."
+    },
+    {
+      "link": "https://help.goatfundedfutures.com/en/articles/14111116-are-the-plans-a-subscription-model-or-a-one-time-fee",
+      "title": "Are the plans a subscription model or a one-time fee?",
+      "snippet": "All plans are a one-time fee only. Unlike many other futures prop firms, we do not charge monthly subscriptions. You pay once and have unlimited ..."
+    }
+  ]
+}

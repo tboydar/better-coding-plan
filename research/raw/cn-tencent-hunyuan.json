@@ -1,0 +1,175 @@
+{
+  "id": "Kp3bKHL9mzGHs6pyqjb8tt",
+  "message_id": "8a17d1a6-8bb7-4a15-bfb8-26c6d0c8929d",
+  "answer": "腾讯混元Tencent Hunyuan在2026年的编程套餐价格，主要分为两种形式：一种是面向AI编程场景的Coding Plan订阅套餐，另一种是按Token计费的传统API服务。\n\n\n\n首先来看Coding Plan订阅套餐，这是腾讯云为AI编程场景推出的专属订阅方案，采用固定月费加请求次数限制的模式，成本更可控-根据2026年3月的信息，腾讯云Coding Plan分为Lite和Pro两个档位-Lite套餐首月优惠价为7.9元人民币，次月续费为40元人民币，每月请求限额约为18,000次；Pro套餐首月优惠价为39.9元人民币，次月续费为100元人民币（5折优惠），第三个月起恢复原价200元人民币，每月请求限额约为90,000次-需要注意的是，这些套餐有每日限量预售的规则，每天上午10点准时刷新开售，活动时间从2026年3月5日到4月19日，且不支持退款-\n\n在用量限制方面，Lite套餐每5小时最多约1,200次请求，每周最多约9,000次请求，每订阅月最多约18,000次请求；Pro套餐的用量限制更高，每周最多约45,000次请求-这些请求次数是模型调用的预估数值，通常一次用户提问会触发多次模型调用，简单任务单次提问约消耗5到15次模型调用，复杂任务单次提问约消耗15到30次或更多，因此实际消耗的请求次数一般多于用户提问次数-\n\nCoding Plan支持的模型包括Tencent HY 2.0 Instruct、GLM-5、Kimi-K2.5、MiniMax-M2.5、Hunyuan-TurboS等，这些模型在套餐内使用不额外按Token计费，而是消耗套餐内的请求额度-该套餐适用于个人开发场景，如个人项目、学习实践、工具搭建等，并支持在Claude Code、CodeBuddy、Cline、Cursor等主流编程工具中使用，但严禁将套餐API Key用于自动化脚本或非交互式批量调用场景-\n\n\n\n另一种是按Token计费的混元大模型API服务，价格根据模型不同而有差异-根据2026年的价格信息，混元-lite模型已调整为全面免费，API输入输出总长度从原来的4k升级到256k；混元-standard模型每百万token输入价格为4.5元人民币，输出价格为5元人民币；混元-pro模型每百万token输入价格为30元人民币，输出价格为100元人民币-此外，首次开通混元大模型服务后会赠送10万token免费额度，有效期一年，当赠送额度用完后，需要开启后付费才能继续使用-\n\n值得注意的是，腾讯云在2026年对混元模型价格进行了多次调整，其中Tencent HY 2.0 Instruct模型的输入价格从每千token 0.0008元涨至0.004505元，涨幅达463%，输出价格从每千token 0.002元涨至0.01113元，涨幅超过5倍-同时，混元-pro模型的API输入价格从每千token 0.1元降至0.03元，降幅达70%-这些价格调整反映了腾讯云在2026年对混元模型定价策略的频繁变动-\n\n另外，腾讯在2026年还发布了多个新模型，包括Hy3 preview和Hy4 preview-其中Hy3 preview是一款融合快思考与慢思考的混合专家模型，拥有2950亿总参数量和210亿激活参数量，在Kilo Code等平台上的定价为输入每百万token约0.13到0.14美元，输出每百万token约0.53到0.57美元；Hy4 preview总参数770B，激活参数49B，上下文长度1M，在代码、办公、科学等真实生产力任务上表现出色，其定价在TokenHub平台上约为每百万token输入0.834美元-\n\n综合来看，2026年腾讯混元编程相关的价格体系较为复杂，既有适合高频编码场景的Coding Plan订阅套餐，也有按量付费的API服务，还有针对新模型的预览定价-对于个人开发者而言，Coding Plan的Lite套餐以较低的首月价格提供了较为充足的请求额度，适合轻度使用；Pro套餐则面向专业开发者，适合高频高强度编码场景-对于企业级开发需求，腾讯云建议通过文本生成服务调用模型服务，而非使用Coding Plan套餐-由于价格政策在2026年内多次调整，建议在购买前查阅腾讯云官方文档获取最新价格信息-",
+  "query_analysis": {
+    "queries": [
+      "2026 Tencent Hunyuan coding plan price",
+      "2026 腾讯混元 编程计划",
+      "Tencent Hunyuan coding plan",
+      "腾讯混元 编程 价格"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://pricepertoken.com/pricing-page/provider/tencent",
+      "title": "Tencent API Pricing (Updated 2026)",
+      "snippet": "Complete Tencent API pricing guide for 2026. 2026 Hunyuan HY3 Preview $0.18 / $0.60. Compare pricing for all 6 Tencent models. across popular AI coding tools."
+    },
+    {
+      "link": "https://www.huangxiaolong.net/read/3322.html",
+      "title": "2026年Coding Plan套餐对比：腾讯云/阿里云/百度/联通云/火山 ...",
+      "snippet": "2026 年，各大云厂商纷纷推出Coding Plan——专为AI 编程场景设计的订阅套餐。相比传统按Token 计费，Coding Plan 采用固定月费+ 请求次数/积分限制模式，成本更可控， ..."
+    },
+    {
+      "link": "https://kilo.ai/models/by/tencent",
+      "title": "Tencent Coding Models on Kilo Code (2026)",
+      "snippet": "Every Tencent Coding Model in Kilo Code, Ranked ; Tencent: Hy3 · 58.8 · 262K · $0.130 / $0.530 · 91 tok/s ; Tencent: Hunyuan A13B Instruct · — · 131K · $0.140 / $0.570."
+    },
+    {
+      "link": "https://www.tencentcloud.com/act/pro/tokenhub",
+      "title": "TokenHub – One API for DeepSeek, GLM, Kimi & More",
+      "snippet": "Full model pricing ; Tencent Hunyuan Hy4 Preview New, Agentic · Coding · Productivity, $0.834 ; Tencent Hunyuan Hy3, General · Coding, $0.132 ; DeepSeek-V4-Flash ( ..."
+    },
+    {
+      "link": "https://torchtree.com/en/post/guonei-ai-coding-plan-xuan-gou-zhi-nan/",
+      "title": "Guide to Buying China's Mainstream AI Coding Plans",
+      "snippet": "Tencent Cloud, and. Tencent Cloud ¥40 (first month ¥7.9) ¥200 Same as Bailian Hunyuan series, ¥19.9/month 1,000/ Prompt ・ 2026 mainstream ..."
+    },
+    {
+      "link": "https://mastra.ai/models/providers/tencent-coding-plan",
+      "title": "Tencent Coding Plan (China) Models: IDs, Context & Usage",
+      "snippet": "Browse Tencent Coding Plan (China) model IDs, capabilities, and context windows. Input $/1M Output $/1M /hunyuan-2.0-instruct 131K"
+    },
+    {
+      "link": "https://hcfy.ai/docs/services/hunyuan/",
+      "title": "混元大模型（腾讯元宝）",
+      "snippet": "模型与价格​ · hunyuan-lite ：免费。 · hunyuan-standard ：每百万token 的输入价格为4.5 元，输出价格为5 元。 · hunyuan-pro ：每百万token 的输入价格为 ..."
+    },
+    {
+      "link": "https://cloud.tencent.com/document/product/1823/130092",
+      "title": "大模型服务平台TokenHub Coding Plan 概述 - 腾讯云",
+      "snippet": "腾讯云Coding Plan是为AI编程场景推出的订阅套餐,提供Lite(40元/月)和Pro(200元/月)两档,支持OpenClaw、Cursor等主流工具. 等主流编程工具。"
+    },
+    {
+      "link": "https://llmpricing.dev/p/tencent-coding-plan/",
+      "title": "Tencent Coding Plan (China) - LLM Pricing",
+      "snippet": "Hosted models by blended price asc ; Hunyuan-TurboShunyuan-turbos, Subscription, $0, 131,072 ; Tencent HY 2.0 Instructhunyuan-2.0-instruct, Subscription, $0 ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2014009160056973159",
+      "title": "腾讯云Coding Plan购买入口、费用价格及Tokens用户量限制 ...",
+      "snippet": "腾讯云Coding plan的Pro基础套餐面向专业开发者，适合高频高强度编码场景，原价200.00元/月，优惠价格39.90元/月，用量配置如下：. 支持模型列表：Tencent ..."
+    },
+    {
+      "link": "https://jia.je/kb/en/software/coding_plan.html",
+      "title": "AI Coding Plan - Jiegec's Knowledge Base",
+      "snippet": "Kimi Code Pricing Plus ($22/month): Personal projects and prototyping Max ($55/month): Daily coding. Tencent Cloud Token Plan. Tencent Cloud LLM Coding Plan ..."
+    },
+    {
+      "link": "https://models.dev/providers/tencent-coding-plan",
+      "title": "Tencent Coding Plan (China) models, pricing, and API docs",
+      "snippet": "Models ; Hunyuan-TurboSProvider-specific, hunyuan-turbos, 131,072, 16,384, $0.00 / $0.00 ; Kimi-K2.5Provider-specific, kimi-k2.5, 262,144, 32,768, $0.00 / $0.00 ..."
+    },
+    {
+      "link": "https://intl.cloud.tencent.com/document/product/1300/81315",
+      "title": "Token Plan Overview",
+      "snippet": "Plan Specifications ; Price. USD 7/month. USD 17/month ; Usage Limit. Per subscription month. 1000 credits. Per subscription month. 2600 credits."
+    },
+    {
+      "link": "https://baike.baidu.com/item/%E8%85%BE%E8%AE%AF%E6%B7%B7%E5%85%83%E5%A4%A7%E6%A8%A1%E5%9E%8B/63600993",
+      "title": "腾讯混元大模型",
+      "snippet": "2026年4月23日，腾讯发布并开源了其混元Hy3 preview语言模型。这是一款融合快思考与慢思考的混合专家(MoE)模型，拥有2950亿总参数量、210亿激活参数量， ..."
+    },
+    {
+      "link": "https://www.kucoin.com/news/flash/tencent-cloud-s-hunyuan-model-prices-surge-by-over-460",
+      "title": "Tencent Cloud's Hunyuan Model Prices Increase by Over ...",
+      "snippet": "The input price for the HunYuan 2.0 Instruct model increased from CNY 0.0008 per thousand tokens to CNY 0.004505, a rise of 463%; the output ..."
+    },
+    {
+      "link": "https://cloud.tencent.com/document/product/1729/97731",
+      "title": "混元生文计费概述 - 腾讯云",
+      "snippet": "本文说明腾讯混元大模型服务将迁移至TokenHub，并介绍了其计费方式、免费额度及价格详情，核心结论是首次开通可获得100万tokens免费资源包， ..."
+    },
+    {
+      "link": "https://hunyuan.tencent.com/research/hy4-preview",
+      "title": "Hy4 preview 发布",
+      "snippet": "今天，我们发布Hy4 preview，总参数770B，激活参数49B，上下文长度1M，在代码、办公、科学等真实生产力任务上展现出卓越能力。"
+    },
+    {
+      "link": "https://docs.feishu.cn/v/wiki/Cw8DwBOGLiyQB1kIKYCc59oCnnd/a2",
+      "title": "腾讯混元- lite模型免费：腾讯云大模型价格调整详情",
+      "snippet": "今天，腾讯云公布全新大模型价格方案，其中主力模型之一混元-lite 模型，API 输入输出总长度计划从目前的4k 升级到256k，价格从0.008 元/ 千tokens 调整为全面免费。 同时 ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2015468530938693485",
+      "title": "程序员的Coding Plan 完整指南（2026年8月16日持续更新）",
+      "snippet": "Coding Plan 是云厂商推出的AI 编程模型订阅套餐。 核心特点：. 固定月费; 提供大量AI 请求额度; 可在Cursor / Claude Code / Cline / OpenClaw ..."
+    },
+    {
+      "link": "https://www.tencentcloud.com/products/acc",
+      "title": "Tencent CodeBuddy",
+      "snippet": "Based on the Tencent Hunyuan code model, this tool assists various Tencent departments in training and integrating different code models; it is a coding ..."
+    },
+    {
+      "link": "https://opensource.tencent.com/summer-of-code",
+      "title": "腾讯开源| Tencent Open Source",
+      "snippet": "2026年初项目移交腾讯官方维护,新增TensorRT和ncnn部署支持。最新引入的Agent模式将训练、验证、推理、导出、多模态评估与开放世界分析能力"
+    },
+    {
+      "link": "https://www.tmtpost.com/7986281.html",
+      "title": "腾讯需要一场2026年的首胜",
+      "snippet": "混元3.0支持256K上下文窗口,首次响应速度提升54%,平均完成时间缩短47%,编程能力逼近GLM4.7,"
+    },
+    {
+      "link": "https://cloud.tencent.com/document/product/1616/118994",
+      "title": "计费概述（混元生视频） - 腾讯云",
+      "snippet": "腾讯混元生视频服务将迁移至TokenHub，新用户可获50积分免费额度。该服务提供预付费资源包、后付费及并发叠加包等多种计费模式，积分单价为1元/积分， ..."
+    },
+    {
+      "link": "https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/139132951",
+      "title": "腾讯混元大模型全面降价，混元-lite直接免费！ 转载",
+      "snippet": "值得注意的是，腾讯云的最高配置万亿参数模型混元-pro，API 输入价格从0.1元/千tokens 降至0.03元/千tokens，降幅达70％。 据悉，以上价格调整立即生效。"
+    },
+    {
+      "link": "https://hunyuan.tencent.com/",
+      "title": "腾讯混元",
+      "snippet": "基于Hy3基座模型，融合高精度语音识别与深度语义理解能力，在通用识别、上下文感知、多场景鲁棒性以及方言覆盖等核心维度实现全面提升。"
+    },
+    {
+      "link": "https://news.sciencenet.cn/htmlnews/2025/6/545773.shtm",
+      "title": "腾讯2026“青云计划”启动 - 新闻- 科学网",
+      "snippet": "6月12日，腾讯2026“青云计划”正式启动，在全球范围内招募一批顶尖技术学生，通过提供行业顶级的师资力量、充足的算力资源和极具竞争力的薪酬职级，为 ..."
+    },
+    {
+      "link": "https://console.cloud.tencent.com/tokenhub/codingplan",
+      "title": "Coding Plan",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "link": "https://www.tencentcloud.com/products/tokenhub",
+      "title": "TokenHub - Discover Kimi K3, GLM 5.2 Top LLMs & AI ...",
+      "snippet": "Tencent Ads leverages the Hunyuan large model for understanding the commercial value of content, mining users' potential business interests, and providing ..."
+    },
+    {
+      "link": "https://codingplan.link/en/plans/tencentcloud",
+      "title": "Tencent Cloud Coding Plan Guide - Hunyuan plus GLM, Kimi ...",
+      "snippet": "Review Tencent Cloud's Lite and Pro coding plans, supported models, triple quota limits and mainstream tool integration path."
+    },
+    {
+      "link": "https://buy.tencentcloud.com/pricing/hunyuan",
+      "title": "定价Tencent Hunyuan",
+      "snippet": "首次开通腾讯混元大模型 服务后，以下接口将发放免费调用额度，供您测试体验。免费调用额度将以一次性的免费资源包的形式配送，并在计费结算时优先扣减。"
+    },
+    {
+      "link": "https://www.ithome.com/0/928/093.htm",
+      "title": "腾讯云官宣混元模型Token 涨价，最高涨幅超5 倍",
+      "snippet": "其中，Tencent HY2.0 Instruct 模型输入价格从0.0008 元/ 千tokens，涨至0.004505 元/ 千tokens；输出价格从0.002 元/ 千tokens，涨至0.01113 元/ 千 ..."
+    },
+    {
+      "link": "https://wallstreetcn.com/articles/3771098",
+      "title": "腾讯云年内第三次涨价：AI代码助手最高涨价150% ！",
+      "snippet": "其中，企业旗舰版价格由78元/人/月上调至198元/人/月，涨幅约154%；企业专享版由158元/人/月上调至316元/人/月，涨幅达100%。此次调价同时新增WorkBuddy ..."
+    }
+  ]
+}

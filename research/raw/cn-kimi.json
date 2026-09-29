@@ -1,0 +1,115 @@
+{
+  "id": "b8xz2qQVx55G23oBXGera6",
+  "message_id": "64203325-ca95-4059-8119-d83fe849fc59",
+  "answer": "根据您提供的搜索结果，我需要先说明一点：您提到的30元、60元、128元这几个价格档位，在本次搜索到的资料中并未出现。搜索结果显示的是Kimi（月之暗面）Coding Plan在2026年的价格体系，与您询问的档位不同。下面我根据搜索结果，为您详细梳理2026年Kimi Coding Plan的实际价格、额度及相关信息。\n\n首先，关于价格，搜索结果中有多个来源提到了不同的套餐价格，但核心信息指向几个主要档位。一个来源显示Kimi Coding Plan的价格为49元每月，且没有阶梯档位，这是较早时期的信息。另一个更详细的来源则列出了多个档位，包括49元每月、99元每月，以及更高档位。还有资料提到，Kimi的会员体系在2026年经历了调整，例如有信息显示旧套餐Andante按年付为468元，而新体系下最低组合（Go加Starter）为1536元，入门门槛大幅上涨。另外，一份2026年7月20日的说明指出，近期套餐有调整，但已付费用户权益不受影响，老套餐可继续使用，新套餐暂未开放购买。因此，您提到的30元、60元、128元档位，在现有资料中找不到对应信息，可能属于未公开的新套餐，或是其他来源的过时或错误信息。\n\n其次，关于额度，这是Kimi Coding Plan的核心特点之一。多个来源一致指出，Kimi Code的额度以订阅日为起点每7天自动刷新，未用完不累积。除了周额度外，还有每5小时的滚动频率窗口，即使总量充足，短时间请求过多也会触发限流。所有登录设备和API Key共享同一套配额，无论从CLI、VS Code还是第三方工具发起请求，消耗的都是同一个账户的额度。此外，Kimi Code与Kimi会员计划共享同一套额度池，所有会员功能（如网站部署、深度研究、PPT、Kimi Code等）都从这个池子按实际token消耗扣除。如果月总额度达到上限，Kimi Code额度会冻结，需等待月额度重置或升级订阅。关于具体额度数值，有资料提到Kimi Coding Plan的额度约为Claude Pro的2倍用量，每5小时重置；也有资料提到按Token计量，活动期间额度可能有3倍提升。还有来源提到，Kimi Code另有5小时/周使用限额，仅作用于Kimi Code，不影响其他会员功能。\n\n第三，关于模型，搜索结果中提到的Kimi Coding Plan默认模型有多个版本。较早的资料提到Kimi-K2.5，具有原生多模态、图片理解强的特点。更新的资料则提到Kimi K2.7Code编程模型，以及Kimi K3正式上线，最高支持1M上下文，擅长编程、游戏3D和知识任务。这些模型版本的变化反映了Kimi在2026年内的持续迭代。\n\n第四，关于套餐档位与权益，搜索结果中提到了不同的档位名称，如Andante、Moderato、Allegretto、Allegro、Vivace等。例如，Allegro档有20倍Kimi Code、约150个Agent每月、50次Agent集群和Kimi Claw；Vivace档提升到60倍Kimi Code、约360个Agent每月和120次Agent集群。这些档位对应不同的价格和额度，但具体价格在搜索结果中未完全列出。另外，一份资料详细列出了高档套餐的权益，包括Agent用量约360个、Agent任务并行4个、Agent集群可用120次、梦境记忆、自进化技能、专属Kimi Claw支持10个群聊、百万Tokens超长对话容量、定时任务20个、项目数100个、项目存储空间50GB、Kimi Code可调用、专业数据库12000次调用等。\n\n第五，关于计费方式，搜索结果明确指出Kimi Coding Plan采用Token计量方式，而非简单的请求次数。一次简单请求（如推荐一首摇滚歌曲）约0.03元，一次复杂的多步任务（如规划一周自驾行程）费用更高。所有会员功能共享一个额度池，按实际token消耗计算，无需单独管理各功能用量。\n\n最后，关于选型建议，搜索结果中有一份2026年国内主流AI Coding Plan套餐全对比，其中提到Kimi适合前端/UI开发、多模态编程、海外用户，因为其多模态能力强、图片理解好、长上下文、海外体验佳。另一份资料也提到Kimi的亮点是多模态和图片理解。\n\n总结来说，2026年Kimi（月之暗面）Coding Plan的价格体系在49元每月起步，有多个档位，最高档位价格未在搜索结果中明确，但可能达到199元或更高。额度采用Token计量，有周额度（每7天刷新）和5小时滚动频率窗口双重限制，且与Kimi会员其他功能共享额度池。模型从K2.5迭代到K2.7Code再到K3，持续升级。您提到的30元、60元、128元档位在现有资料中无对应信息，建议您直接访问Kimi官网或官方文档获取最新、最准确的套餐信息，因为2026年7月有套餐调整说明，新套餐可能尚未完全公开。",
+  "query_analysis": {
+    "queries": [
+      "2026 Kimi 月之暗面 coding plan 额度",
+      "2026 Kimi 月之暗面 coding plan 价格",
+      "2026 Kimi 月之暗面 coding plan 价格 额度",
+      "kimi-code plan 30元 60元 128元"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://www.163.com/dy/article/KORQUAEJ05445SO5.html",
+      "title": "2026 国内Coding Plan 全解析：8 大厂套餐横评，性价比之王 ...",
+      "snippet": "Kimi（月之暗面）Coding Plan（多模态最强）. 价格：49元/月；无阶梯档. 额度：约Claude Pro 2倍用量；每5小时重置. 模型：Kimi-K2.5（原生多模态、图片 ..."
+    },
+    {
+      "link": "https://cloud.tencent.com/developer/article/2656546",
+      "title": "Coding plan 到底该怎么选？阿里、腾讯、字节、智普、百度",
+      "snippet": "发布于2026-04-17 ・ 各家的Coding Plan绕晕了! 价格、额度、模型 ・ 额度规则:重点看是否有周限额/月限额,部分平台还有5小时不到・ 月之暗面Kimi 亮点: ..."
+    },
+    {
+      "link": "https://www.cnblogs.com/wzxNote/p/19648084",
+      "title": "2026年国内主流AI Coding Plan套餐全对比｜开发者避坑指南",
+      "snippet": "Kimi（月之暗面）, 49（Andante档） / 无（限时3倍额度）, Token（2026.1.28切换）, 按Token计量，活动期间额度3倍，无明确固定数值, Kimi K2.5（原生多模 ..."
+    },
+    {
+      "link": "https://baike.baidu.com/en/item/Kimi%20Code%20Plan/4672977",
+      "title": "Kimi Code Plan",
+      "snippet": "The Kimi Code Plan is an AI programming service plan under Moonshadow, with its default model being the KimiK2.7Code programming model. The plan adopts a Token- ..."
+    },
+    {
+      "link": "https://blog.csdn.net/coolyoung520/article/details/158321671",
+      "title": "国内AI 编程Coding Plan 深度调研报告（2026年2月） 原创",
+      "snippet": "Kimi Code Plan 套餐与模型・ 基础编程额度+ 会员权益Moderat 月每周更新额度+ 多设备共享. Kimi Code接入K2.5,限时3倍额度・ 套餐价格:¥49/月、¥99/月、 ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2006431542428315931",
+      "title": "已知国内LLM Coding Plan 订阅套餐整理",
+      "snippet": "主要特点： 大厂背书，通义千问系列模型，每月最多18000-90000次请求额度。 ... 5. 月之暗面(Kimi) - Kimi Code. 官网网址： https://www.kimi.com/code/docs/bene ..."
+    },
+    {
+      "link": "https://github.com/xiaotiewinner/coding-plan",
+      "title": "2026年6月国内外AI编程工具与Coding Plan订阅方案全景对比",
+      "snippet": "2026年6月国内外AI编程工具与Coding Plan订阅方案全景对比，涵盖MiniMax、Kimi、GLM、Claude、ChatGPT等主流平台的额度、价格、模型性能及性价比分析 ..."
+    },
+    {
+      "link": "https://www.kimi.com/help/membership/membership-pricing",
+      "title": "Kimi 会员套餐价格与权益对比",
+      "snippet": "Kimi Code 限额：Kimi Code 另有5 小时/ 周使用限额，仅作用于Kimi Code，不影响其他会员功能。 按月刷新：额度在每个计费周期自动刷新，未使用的额度到期清零。 频次限制5 ..."
+    },
+    {
+      "link": "https://www.kimi.com/help/kimi-code/benefits",
+      "title": "Kimi Code 权益与计费说明",
+      "snippet": "Kimi Code 的额度以订阅日为起点每7 天自动刷新，未用完不累积。除了周额度外，还有每5 小时的滚动频率窗口——即使总量充足，短时间请求过多也会触发限 ..."
+    },
+    {
+      "link": "https://www.kimi.com/code/docs/",
+      "title": "Kimi Code 概览| Kimi Code 文档",
+      "snippet": "Kimi Code 是Kimi 会员权益中专为开发者提供的智能编程服务,基于Kimi 最新旗舰模型,通过桌面端、CLI、VS Code 扩展插件等产品形态"
+    },
+    {
+      "link": "https://www.kimi.com/user/agreement/paidServiceAgreement",
+      "title": "Kimi付费服务协议",
+      "snippet": "《Kimi付费服务协议》（“本协议”）适用于北京月之暗面科技股份有限公司及其关联公司（“我们”或“月之暗面”）为您提供Kimi的会员、订阅及相关增值功能与服务（“付费服务”或“ ..."
+    },
+    {
+      "link": "https://github.com/yacuo/ai-coding-plan/blob/main/vendors/kimi-coding-plan.md",
+      "title": "Kimi Coding Plan 多少钱：Moderato、Allegretto、Allegro",
+      "snippet": "Allegro 有20 倍Kimi Code、约150 Agent/月、50 次Agent 集群和Kimi Claw；Vivace 提升到60 倍Kimi Code、约360 Agent/月和120 次Agent 集群。 question ..."
+    },
+    {
+      "link": "https://www.kimi.com/help/membership",
+      "title": "会员订阅",
+      "snippet": "加油包、赠送额度和会员额度，先扣哪个？ 达到额度上限或被限流时还能继续吗 ... © 2026 北京月之暗面科技有限公司|京ICP备2023011302号-14|京B2-20240852|京公网 ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/kimi/comments/1rcarfl/kimi_coding_plan_weekly_limits/?tl=zh-hant",
+      "title": "Kimi Coding Plan - 每週額度",
+      "snippet": "Kimi 是一個大型模型，它比glm 5 和minimax 還貴。Claude 在他們所有的編碼方案上可能都不賺錢。 Z.ai 無法滿足需求，但有很多提供商都有那個模型， ..."
+    },
+    {
+      "link": "https://www.kimi.com/code",
+      "title": "Kimi Code - 搭载Kimi K3 的AI 编程Agent 与CLI 工具",
+      "snippet": "Kimi K3 正式上线！最高1M 上下文，擅长编程、游戏3D 和知识任务。在Kimi Code（KFC）中体验Kimi K3。Kimi Code是专为开发者打造的AI 工具套件，配备高性能CLI 工具与 ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/kimi/comments/1qr8vvm/kimi_plan_pricing_is_interesting_do_they_think/?tl=zh-hant",
+      "title": "Kimi plan pricing... 真係幾有趣喎。佢哋以為自己係Anthropic ...",
+      "snippet": "我對 open weight models 都幾期待嘅，但係要同 OpenAI 同 Anthropic 呢啲大佬爭，佢哋就要喺價錢上面鬥過。佢哋喺 API 價錢上面 ..."
+    },
+    {
+      "link": "https://www.kimi.com/help/kimi-blackboard/plan-adjustment-notice",
+      "title": "关于会员订阅套餐调整的说明- 2026年7月20日",
+      "snippet": "关于Kimi 近期套餐调整的统一说明：所有已付费用户权益完全不受影响；老套餐未移除、可继续使用与续费；老用户可升级档位；新套餐暂未开放购买。"
+    },
+    {
+      "link": "https://www.kimi.com/code/docs/kimi-code/membership.html",
+      "title": "会员权益| Kimi Code 文档",
+      "snippet": "计费示例（引自官方示例，仅供感受量级，实际以平台为准）：一次简单请求（如「推荐一首摇滚歌曲」）约0.03 元；一次复杂的多步任务（如「规划一周成都到川西的自驾行程」 ..."
+    },
+    {
+      "link": "https://x.com/0xLogicrw/status/2078884490353799387",
+      "title": "App 和Kimi Code 的会员，被拆成通用会员与Coding Plan。 ...",
+      "snippet": "按年付计算，旧Andante 为468 元，同时包含网页端权益和基础Code 额度。新体系最低组合是Go 加Starter，共1536 元。入门门槛变为原来的3.28 倍，上涨228% ..."
+    },
+    {
+      "link": "https://www.bilibili.com/video/BV14zcMzQE5y/",
+      "title": "kimi code 体验49元套餐5小时限制能干多少事",
+      "snippet": "，Kimi K3 + Codex 真好用！【附教程+测评】，为什么我买了Kimi 的199 套餐？，kimi ... kimi code 体验49元套餐5小时限制能干多少事. 麦麦大数据. 相关推荐."
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "id": "ZAbyUaCFuJZeDUShfTsSVB",
+  "message_id": "96ca52d0-1018-4061-9b76-bc36f2a9123b",
+  "answer": "2026年9月時点での日本におけるGoogle Gemini AI ProおよびAntigravityの料金プランについて、検索結果に基づいて詳しく説明します。\n\nまず、GoogleのAIサブスクリプションは2026年5月のGoogle I/Oで大幅に再編され、現在は4つのプラン構成となっています。。最上位のGoogle AI Ultraは2つのバリエーションに分かれ、従来の単一プランから価格が引き下げられました。\n\n。\n\n1. Google AI Plus: 月額725円（税込）。400GBのクラウドストレージが含まれ、Geminiアプリでの利用上限が無料版の2倍に拡大されます。また、GmailやGoogleドキュメントなどへのGemini統合、画像・音楽・動画生成モデルへのアクセス拡大、Gemini Notebookの拡張機能などが利用可能です。家族最大5人までプランを共有できます。\n\n\n\n2. Google AI Pro: 月額2,900円（税込）。5TBのクラウドストレージが含まれ、Geminiアプリでの利用上限が無料版の4倍に拡大されます（2026年5月のリニューアルでストレージが2TBから5TBへ無償拡大されました）。主な特典として、Gemini 3.1 ProやDeep Researchへのアクセス拡大、Google検索のAIモードでのGemini 3 Proへのアクセス拡大、GmailでのAIによる要約機能（米国のみ）、Gemini Sparkへのアクセス、Google AntigravityやAI Studio、Julesなどの使用量上限の拡大、Android Studioのエージェント型AIアシスタント向け最上位Geminiモデルの使用量上限拡大、Google Developer Programを通じた毎月10ドルのGoogle Cloudクレジット、YouTube Premium Liteプラン（広告抑止・オフライン再生・バックグラウンド再生対応、提供状況は国により異なる）、Google Health Premium（月額1,000円相当）とGoogle Home Premium Standard（月額10ドル相当）が含まれます。また、100万トークンのコンテキストウィンドウ拡張機能も利用可能です。\n\n\n\n3. Google AI Ultra 5x: 月額14,500円（税込）。20TBのクラウドストレージが含まれ、GeminiアプリとGoogle Antigravityでの利用上限がAI Proプランの5倍に設定されます。主な特典として、Gemini 3.5 Flashとの統合によるコードテストとデバッグの迅速化、Google Antigravityへの優先アクセス、20TBの大容量ストレージ、YouTube Premium個人プラン（広告なし視聴可能）、24時間365日稼働のパーソナルAIエージェント「Gemini Spark」（米国のみ）が含まれます。また、Google検索のAIモードでのGemini 3 Proへの上位レベルアクセス、Project Genie（現実ベースの新しい世界を生成できる機能）へのアクセス、Google Flowでの動画生成ツール利用、Google Developer Programを通じた毎月40ドルのGoogle Cloudクレジット、Google Home Premium Advanced（月額20ドル相当）が含まれます。\n\n\n\n\n\n4. Google AI Ultra 20x: 月額32,000円（税込）。30TBのクラウドストレージが含まれ、GeminiアプリとGoogle Antigravityでの利用上限がAI Proプランの20倍に設定されます（従来は月額250ドル＝約36,400円でしたが、200ドル＝約32,000円に値下げされました）。主な特典として、Gemini 3.1 ProやDeep Research、Gemini Agent（米国のみ・英語のみ）、Deep Think推論モードへの優先的アクセス、Google検索のAIモードでのGemini 3 Proへの最上位レベルアクセス、AI搭載の通話機能でローカルビジネスへの問い合わせ（米国のみ）、Project Genieへのアクセス、Google Flowでの動画生成ツール利用、Google Developer Programを通じた毎月100ドルのGoogle Cloudクレジット、YouTube Premium個人プラン、Google Health PremiumとGoogle Home Premium Advancedが含まれます。\n\n\n\n\n\n次に、Google Antigravity単体の料金について説明します。AntigravityはGoogleのエージェント型開発ツールで、AIコードエディターとして機能します。2026年時点での料金プランは以下の通りです:\n\n\n\n\n\n1. 無料プラン（Individual）: 月額0ドル。Gemini 3.8 Flash、Gemini 3.7 Flash、Gemini 3.6 Flash、Gemini 3.1 Pro、Claude Sonnet & Opus 4.6、gpt-oss-120bなどのエージェントモデルにアクセス可能です。タブ補完（Tab completions）とコマンドリクエストは無制限ですが、基本的な週次レート制限が適用されます。\n\n\n\n2. Google AI Proプラン: 月額19.99ドル（約3,200円）。Antigravity単体ではこの価格ですが、Google AI Proサブスクリプション（月額2,900円）に含まれる場合もあります。より寛大なレート制限と柔軟なAIクレジットプールが提供されます。\n\n\n\n\n\n3. Google AI Ultra 5xプラン: 月額99.99ドル（約14,500円）。Google AI Ultra 5xサブスクリプションに含まれ、Antigravityへの優先アクセスと5倍の利用上限が提供されます。\n\n\n\n\n\n4. Google AI Ultra 20xプラン: 月額199.99ドル（約32,000円）。Google AI Ultra 20xサブスクリプションに含まれ、20倍の利用上限が提供されます。\n\n\n\n\n\nなお、2026年5月の改定で利用制限の計算方法が変更され、従来の「プロンプト回数ベースの日次制限」から「計算量（compute-used）ベース」に移行しました。これは、AIの利用スタイルがチャットからエージェントへ移行していることを反映したもので、プロンプトの複雑さ、使用する機能、チャットの長さを考慮して制限が計算されます。制限は5時間ごとにリフレッシュされ、週次制限に達するまで継続します。また、最大モデルで制限に達した場合、より高速な小型モデルに自動的に切り替わり、作業を中断しません。さらに、AI ProおよびUltraサブスクライバーは、Google Antigravity、Google Flow、そして近日中にGeminiアプリでも利用可能な「AIクレジット」を追加購入できます（従量課金制）。\n\n\n\n\n\n最後に、日本円での価格比較をまとめます。Google AI Plusが725円/月、Google AI Proが2,900円/月、Google AI Ultra 5xが14,500円/月、Google AI Ultra 20xが32,000円/月です。Antigravity単体では無料プランが0ドル、Proが19.99ドル（約3,200円）ですが、Google AI Proサブスクリプションに含まれる場合が多く、実質的にはGoogle AI Pro（2,900円）を契約すればAntigravityのPro相当機能が利用可能です。最上位のUltra 20xは32,000円と高額ですが、開発者やテックワーカー向けに設計されており、潤沢な利用枠と多数の追加特典が含まれます。\n\n選択にあたっては、自身の利用頻度や必要な機能に応じて、ProかUltra 5xかを検討するのが良いでしょう。学生向けにはGoogle AI Proの割引プランも提供されているため、該当する場合はそちらも確認することをお勧めします。",
+  "query_analysis": {
+    "queries": [
+      "2026年 日本 Google Gemini AI Pro アンチ重力 価格",
+      "2026 Japan Google Gemini AI Pro Antigravity pricing",
+      "日本 円 サブスクリプション",
+      "日本 円 subscription"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://justinmckelvey.com/blog/google-antigravity-pricing",
+      "title": "Google Antigravity Pricing 2026: Free Preview, Real Limits",
+      "snippet": "Google Antigravity pricing as of August 2026: free public preview with metered quotas, Google AI Pro at $20/month, AI Ultra at $249.99/month ..."
+    },
+    {
+      "link": "https://japan.zdnet.com/article/35247708/",
+      "title": "グーグル、AIプランを刷新--これから選ぶべきプランは？",
+      "snippet": "... 価格を月額249.99ドル（同3万6400円）から199.99ドル（同3万2000円）に引き下げた。この価格で、GeminiアプリとGoogle Antigravityの利用上限がAI Pro ..."
+    },
+    {
+      "link": "https://forest.watch.impress.co.jp/docs/news/2110047.html",
+      "title": "月額100米ドルの「Google AI Ultra」プランが新設",
+      "snippet": "2026年7月16日 「Google AI Pro」がさらにお得に、YouTube Premium Liteに加えてAIエージェント「Gemini Spark」も追加、価格は据え置き2,900円"
+    },
+    {
+      "link": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+      "title": "Google AI subscription updates from Google I/O 2026",
+      "snippet": "plan from $250 to $200. Gemini app and Google Antigravity than our Pro plan — now at a lower cost."
+    },
+    {
+      "link": "https://www.businessinsider.jp/article/2606-how-much-did-major-generative-ai-service-fees-become-in-jun-2026/",
+      "title": "【2026年6月版】“生成AI”主要8サービス料金早見表。",
+      "snippet": "個人向け「ミドル」プラン ; 2. Gemini（Google AI）. Google AI Pro. 2,900円. 29,000円／年（月換算・約2,417円） ; 3. Claude. Pro. $20（約3,200円）."
+    },
+    {
+      "link": "https://www.cloudzero.com/blog/google-antigravity-pricing/",
+      "title": "Google Antigravity pricing 2026: tiers, limits, free plan",
+      "snippet": "Google Antigravity is $0 on the free tier; Pro at $19.99 a month, Ultra 5x at $99.99, and Ultra 20x at $199.99."
+    },
+    {
+      "link": "https://one.google.com/intl/ja_jp/about/google-ai-plans/",
+      "title": "Google AI のプラン（クラウド ストレージ付き）",
+      "snippet": "日本 新機能が追加 Google AI Plus ¥725 /月 400 GB. Google AI Pro ¥2,900 /月 5 TB … 月額 ¥14,500 ～ 20"
+    },
+    {
+      "link": "https://antigravity.google/pricing/",
+      "title": "Google Antigravity - Pricing",
+      "snippet": "For Individuals $0/month. Experience Antigravity without a subscription plan. Download. Plan includes: ; Google AI Pro. See how it is like to build, work, and ..."
+    },
+    {
+      "link": "https://japan.cnet.com/article/35247703/",
+      "title": "「Google AI Ultra」大幅値下げ 月1万4500円から利用可能に ...",
+      "snippet": "「Google AI Ultra」大幅値下げ 月1万4500円から利用可能に Geminiの最上位プラン. CNET Japan Staff 2026年05月20日 05時59分. ポスト · 一覧 · note."
+    },
+    {
+      "link": "https://support.google.com/gemini/thread/403203601/antigravity-limits-with-google-ai-ultra-at-100-for-all-models?hl=en",
+      "title": "Antigravity Limits with Google AI Ultra at 100% for all models",
+      "snippet": "this is a 200USD plan and … paying $250 a month. Gemini apps does not support Antigravity issues."
+    },
+    {
+      "link": "https://hatenabase.jp/blog/gemini-advanced%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%EF%BC%9Agoogle-ai-pro-ultra%E3%81%A7%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B/",
+      "title": "Google AI Pro / Ultra 完全ガイド【2026年9月最新】旧Gemini ...",
+      "snippet": "Gemini Advancedは、Google AI Pro / Ultraへと名称を移しつつある最上位AIサービス。月額2,900円のProは2TBストレージ付きでコスパが高い。100万トークン ..."
+    },
+    {
+      "link": "https://www.ai-souken.com/article/what-is-gemini-advanced",
+      "title": "Geminiの料金完全ガイド｜個人・法人・APIプラン徹底比較",
+      "snippet": "AI Proは月額¥2,900・5TBストレージの中核プランです。2026年5月リニューアルで、ストレージが2TBから5TBへ無償拡大した点が今回最大のアップデートです。"
+    },
+    {
+      "link": "https://support.google.com/googleone/answer/14534406?hl=ja",
+      "title": "Google AI Pro の特典を利用する - Google One ヘルプ",
+      "snippet": "Google AI Pro では、Google Earth での Gemini 機能をより高い使用量上限で利用できるため、Gemini と話しながら地理空間分析をより迅速に行えます。たとえば、次のような ..."
+    },
+    {
+      "link": "https://antigravity.google/blog/changes-to-antigravity-plans",
+      "title": "Changes to Antigravity Plans",
+      "snippet": "$20/month Google AI Pro plan, which provides an entry-level quota for experimentation, from $250 to $200 per month. The offer expires May 25, ..."
+    },
+    {
+      "link": "https://book.st-hakky.com/data-science/google-ai-ultra-price-analysis",
+      "title": "Google AI Ultraの料金を徹底解説｜5xと20xの違いと選び方",
+      "snippet": "Google AI Ultraは5x月額14,500円、20x月額32,000円の2プランで、使用量上限はAI Proの5倍・20倍 · 2026年5月の改定で旧単一プラン36,400円から2階層化され、古い記事の料金 ..."
+    },
+    {
+      "link": "https://subtracker.io/best/best-subscription-tracker-japan",
+      "title": "The Best Subscription Tracker in Japan (2026) | SubTracker",
+      "snippet": "Enter a subscription at ¥1,290. SubTracker handles JPY among its 25 currencies with the correct exponent, but the check takes ten seconds and ..."
+    },
+    {
+      "link": "https://antigravity.google/pricing?ref=bradcraetive.com",
+      "title": "Google Antigravity Pricing",
+      "snippet": "Plans and pricing for individuals and teams. Available For Individuals $0/month Experience Antigravity without a subscription plan Download Plan includes: ..."
+    },
+    {
+      "link": "https://tokyoesque.com/subscription-services-in-japan/",
+      "title": "The Benefits Of Subscription Services In Japan",
+      "snippet": "Likewise, Coffee Mafia, an independent cafe in Shinjuku, Tokyo offers a monthly ¥3,000 JPY subscription service that enables customers to get a ..."
+    },
+    {
+      "link": "https://www.japantimes.co.jp/sub/",
+      "title": "The Japan Times Subscription",
+      "snippet": "Choose your digital plan ; MONTHLY. US$30. PER MONTH ; ANNUAL. US$249. PER YEAR ; MONTHLY. ¥3,000. PER MONTH ; ANNUAL. ¥24,900. PER YEAR."
+    },
+    {
+      "link": "https://help.njpwworld.com/hc/en-us/articles/25027366612633-I-m-a-continuing-subscriber-After-the-renewal-can-I-pay-for-my-subscription-in-US-Dollars",
+      "title": "I'm a continuing subscriber. After the renewal, can I pay for ...",
+      "snippet": "Subscribers continuing from the prior version of NJPW WORLD will continue to be charged in Yen. The international price point of $9.99 USD applies to new ..."
+    },
+    {
+      "link": "https://www.united.com/ja/jp/subscriptions",
+      "title": "ユナイテッドの年間パス",
+      "snippet": "年間パスの管理 ... ログイン して、年間パスを管理したり、詳細や自動更新のオプションを表示します。 年間パスを管理する."
+    },
+    {
+      "link": "https://japan-ai.co.jp/media/5975/",
+      "title": "Claudeの料金プランを徹底比較！無料・Pro・Max・Team・API ...",
+      "snippet": "Aug 12, 2026 - Claudeの料金プランは目的に合わせて選べば最小コストで最大活用できる ・ 日本円換算(目安) Pro $20 約3,000円 ・ サブスクリプションとは完全に別体系 ..."
+    },
+    {
+      "link": "https://learn.microsoft.com/ja-jp/answers/questions/5267633/question-5267633",
+      "title": "サブスクリプション（ドルから円への変更）",
+      "snippet": "日本のライセンスは日本国内でしか認証できません、10月以降も居住地が海外ならその国の契約をすることになります。"
+    },
+    {
+      "link": "https://gemini.google/jp/subscriptions/?hl=ja",
+      "title": "Google AI Pro と Ultra で Gemini 3.1 Pro などにアクセス",
+      "snippet": "新しく強力な機能により多くアクセスして、生産性と創造力を高めることができます。 ￥725 JPY / 月. 無料版の 2 倍の使用量上限."
+    },
+    {
+      "link": "https://wsj.com/subscribe/ja_jp",
+      "title": "The Wall Street Journal",
+      "snippet": "多言語配信：日本語、英語、中国語. ボタン一つで原文閲覧（日英、双方での記事閲覧が可能）. 通常、月額2,954円が今なら最初の12ヵ月間は月額600円（税込）. 今すぐ購読 ..."
+    },
+    {
+      "link": "https://www.ntt.com/bizon/glossary/j-s/subscription.html",
+      "title": "サブスクリプション（サブスク）とは？意味・定義 | IT用語集",
+      "snippet": "月額1,000円前後で、映画やドラマ、音楽が好きなだけ楽しめるサービスです。PCやスマートフォンに加え、近年では家庭用TVに一機能として搭載されることも多くなりました。"
+    },
+    {
+      "link": "https://www.reddit.com/r/google_antigravity/comments/1ro7qwm/paying_29month_antigravitys_pro_plan_needs_to_be/",
+      "title": "Paying $29/Month, Antigravity's Pro Plan Needs to Be ...",
+      "snippet": "Paying $29/Month, plan costs KES 3,700 (~$29 after bank transaction fees). bundles features I have zero use for: 2TB storage, Gemini App, Whisk ..."
+    },
+    {
+      "link": "https://discuss.ai.google.dev/t/so-pro-plan-users-are-now-paying-for-gemini-flash-1000-credits-9-prompts/132880",
+      "title": "So Pro plan users are now paying for Gemini Flash + 1000 ...",
+      "snippet": "AI Ultra 25000 credits at $250 a month would be used up in 6 hours time (4000 credits an hour). Vu_Vi March 16, 2026, 3:21am 4. If you upgrade ..."
+    },
+    {
+      "link": "https://one.google.com/intl/en_us/about/google-ai-plans/",
+      "title": "Google AI plans with Cloud Storage",
+      "snippet": "These student offers provide students with discounted pricing and benefits on the Google AI Plus and Google AI Pro plans. Available to eligible students ..."
+    },
+    {
+      "link": "https://zenn.dev/ry_km/articles/stripe-free-transaction-currency",
+      "title": "Stripeで0円決済を実装する時の注意点",
+      "snippet": "Dec 22, 2024 - 並行して対応を調べてみましたが、方法は「全ユーザーのUSDが紐づくサブスクリプションをキャンセルし、日本円が紐づくサブスクリプションを付け直す」 ..."
+    },
+    {
+      "link": "https://stripe.com/jp/resources/more/what-is-a-subscription-plan-and-how-does-it-work",
+      "title": "サブスクリプションプランの概要と仕組み",
+      "snippet": "May 15, 2025 - サブスクリプションプランとは、個人または企業が定められた間隔で継続的に料金を支払うのと引き換えに、商品やサービスの利用権を受け取る支払いモデル ..."
+    },
+    {
+      "link": "https://apps.apple.com/jp/app/%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86-%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-%E5%9B%BA%E5%AE%9A%E8%B2%BB%E3%82%92%E3%81%8A%E5%BE%97%E3%81%AB%E7%AE%A1%E7%90%86/id1506451600",
+      "title": "サブスク管理【サブスクリプション・固定費をお得に管理】",
+      "snippet": "・USDとして記録された日本円のデータを、必要なものだけ選んで修正できるようになりました・同じアカウントでログインすれば、iPhoneとAndroidの間でプレミアムの購入 ..."
+    },
+    {
+      "link": "https://pay.jp/column/what-is-stripe",
+      "title": "Stripeとは？決済プラットフォームの仕組み・機能・手数料を ...",
+      "snippet": "Jun 26, 2026 - Stripeとは、アメリカ発のオンライン決済プラットフォームです。 サブスクリプション・定期課金の管理。 種 日本円決済のみで海外展開の予定がない国内ス ..."
+    },
+    {
+      "link": "https://programming-zero.net/claude-code-pricing-guide/",
+      "title": "Claude Codeの料金を全プラン日本円比較ガイド!早見表あり ...",
+      "snippet": "May 5, 2026 - Claudeサブスクリプション5プランの早見表（日本円換算あり） ; Team Standard, $25/席/月※最小5席, MIN19,000円 ; Team Premium, $125/席/月※最小5席 ..."
+    },
+    {
+      "link": "https://qiita.com/usayamadausako/items/7b72b36303d9d9a077c7",
+      "title": "Claude Code | 結局コスパ最強な有料プランはどれだ !? ...",
+      "snippet": "Dec 5, 2025 - ClaudeはOpenAI同様に、前払い式の「使用クレジット」方式のAPI連携と、サブスクリプ ... 実はMax 5x(日本円で約1万5千円)を使って、上記の使い方をして ..."
+    },
+    {
+      "link": "https://confluence.atlassian.com/jpns/faq/%E3%81%8A%E6%94%AF%E6%89%95%E3%81%84%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6--%E6%97%A5%E6%9C%AC%E5%86%86%E4%BE%A1%E6%A0%BC",
+      "title": "お支払い方法について- 日本円価格",
+      "snippet": "Apr 22, 2026 - ライセンス更新の場合は、ご契約終了日の90日前、45日前、15日前に、サブスクリプションの年間更新の場合は、60日前、30日前に自動で発行し、登録のご連絡 ..."
+    },
+    {
+      "link": "https://help.revolut.com/ja-JP/help/card-payments-withdrawals/subscriptions/",
+      "title": "事業者へのサブスクリプションの支払いの管理方法",
+      "snippet": "サブスクリプションの表示と管理 · 下部メニューから「送金」を開きます · 右上のカレンダーアイコンをタップします · サブスクリプションを選択して詳細を表示します."
+    }
+  ]
+}

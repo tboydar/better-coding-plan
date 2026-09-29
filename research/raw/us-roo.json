@@ -1,0 +1,129 @@
+{
+  "id": "XmGnwa4sX9RZc7RTs69bvq",
+  "message_id": "215f6f77-ed8e-4add-b5ed-196ced448f8f",
+  "answer": "Roo Code 是一个 AI 编程扩展，旨在为你的代码编辑器提供一个完整的 AI 开发团队。 它最初是从 Cline 分叉出来的，Cline 是另一个开源的 AI 编程工具。 根据搜索结果，Roo Code 扩展已于 2026 年 5 月 15 日关闭，其 GitHub 仓库已被所有者归档，目前处于只读状态。 这意味着该项目已不再积极开发或维护，但仓库仍然可以访问，以查看其历史代码和文档。\n\n\n\nRoo Code 的主要功能包括：从自然语言描述和规格生成代码；通过模式（如代码、架构师、询问、调试和自定义模式）适应不同任务；重构和调试现有代码；编写和更新文档；回答关于代码库的问题；自动化重复性任务；以及利用 MCP 服务器（模型上下文协议服务器）来扩展其能力。\n\n 这些模式具体包括：代码模式用于日常编码、编辑和文件操作；架构师模式用于规划系统、规格和迁移；询问模式用于快速解答、解释和文档；调试模式用于追踪问题、添加日志和隔离根本原因；自定义模式则允许你为团队或工作流构建专门的模式。\n\n\n\n由于 Roo Code 已关闭，搜索结果建议寻找替代方案，包括 ZooCode（一个由 Roo Code 社区发起的分支）和 Cline（Roo Code 的起源项目）． 如果你曾是付费用户并有账单问题，可以联系 billing@roocode.com 寻求帮助。\n\n 需要注意的是，Roo Code, Inc 不对任何代码、模型或其他工具提供任何明示或暗示的保证，所有内容均按“现状”提供，使用风险自负，包括知识产权侵权、网络漏洞或攻击、偏见、不准确、错误、缺陷、病毒、停机、财产损失或损坏以及人身伤害等。\n\n\n\n关于 Roo Code 的支持质量，搜索结果中有一条用户评论抱怨其支持“差得要命”，并提到尝试使用 Kiro IDE 或 Kilo 代码扩展作为替代方案，还提到了一个名为 roo-cline.commandExecutionTimeout 的设置，但具体细节不完整． 这暗示一些用户可能遇到了支持响应不佳或技术问题难以解决的情况，但缺乏更详细的背景信息来全面评估其支持质量。\n\n\n\n\n\n关于 AI 编程的更广泛背景，搜索结果中有一篇题为“On AI Coding and Its Discontents”的文章，讨论了 AI 编程工具（如 Claude Code）的局限性和挑战． 文章指出，虽然这些工具在生成初始功能或处理简单任务时可能很出色，但在处理复杂、混乱的生产代码时往往会失败，导致需要返工． 一位开发者提到，AI 生成的更改看起来合理且代码质量不错，但最终只适用于一个特定案例，却破坏了所有其他案例． 另一位开发者强调，过度依赖 AI 会导致“去技能化”，即开发者失去独立规划和工作的能力，甚至可能损害他们保持就业的能力． 然而，也有开发者表示，在绿地项目（全新项目）上使用 AI 编程工具取得了成功，并带来了实际收入，他们认为关键在于知道何时需要深入理解系统，以及何时只需让 AI 完成正确的事情（例如通过单元测试来验证）．\n\n\n\n\n\n此外，搜索结果中还提到了“vibe coding”这一概念，由 Andrej Karpathy 推广，指的是一种完全依赖 AI 的编程方式，开发者几乎不阅读代码或差异，只是通过对话和复制粘贴错误信息来驱动 AI 工作． 这种方式适合周末的临时项目，但对于需要长期维护和深入理解的生产系统来说，可能带来风险，因为代码可能超出开发者的理解范围，且 AI 有时无法修复某些错误，只能通过随机更改来绕过问题．\n\n\n\n\n关于 2026 年的 AI 编程设置，搜索结果中有一篇个人博客文章详细介绍了作者的“Agentic Coding Setup”，强调了使用 Linux 虚拟机、Tailscale（用于组建私有网络）、Git worktrees（用于并行工作流）以及 ChatGPT 桌面应用（用于会话同步）等工具的重要性． 作者指出，在 Windows 上进行代理式编程几乎不可能，因为代理主要基于 Bash 和其他 Unix 工具训练，在 PowerShell 上往往会遇到引用问题和 UTF-8 支持缺口． 他还提到，通过配置代理为“零审批”模式（如 --dangerously-skip-permissions 或 --yolo），可以并行运行多个工作流并离开电脑，但这需要一个可丢弃的虚拟机来限制潜在风险． 此外，使用 GitHub 仓库作为项目的保存点，以及 chezmoi 来同步和备份代理配置（如 AGENTS.md 和技能）也是关键组成部分． 作者还提到，Visual Studio Code 的 Remote - SSH 扩展允许他审查代理在任何工作树中创建的代码，而 Portless 则帮助代理在并行工作树中启动开发服务器，而不会发生端口冲突． 最后，他提到 ChatGPT 桌面应用在 SSH 支持和会话同步方面表现出色，而 Claude 桌面应用则相对较弱，通常需要借助 Claude Code 加 tmux 来实现类似功能．\n\n\n\n\n综上所述，Roo Code 是一个曾经流行的开源 AI 编程扩展，但已于 2026 年 5 月关闭，其社区推荐了 ZooCode 和 Cline 作为替代品． 如果你正在考虑使用 AI 编程工具，需要权衡其效率提升与潜在风险，特别是在复杂项目中对代码理解和长期维护的影响，同时可以参考一些高级设置（如使用 Linux 虚拟机、Tailscale 和 Git worktrees）来优化代理式编程的工作流程．",
+  "query_analysis": {
+    "queries": [
+      "2026年 Roo Code Cline 开源AI编码扩展",
+      "Roo Code Cline AI coding extension 2026",
+      "Roo Code Cline open source AI coding extension 2026"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://github.com/RooCodeInc/Roo-Code",
+      "title": "Roo Code gives you a whole dev team of AI agents ...",
+      "snippet": "Roo Code gives you a whole dev team of AI agents in your code editor. The Roo Code Extension was shut down on May 15th. If you're looking for an alternative, ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1op2e8b/roo_codes_support_sucks_big_time_please_help_me/?tl=zh-hans",
+      "title": "Roo Code的支持真是差得要命- 请帮我自己修复它",
+      "snippet": "解决办法是用叉子? 我会尝试Kiro IDE或Kilo代码扩展。 不在Roo或Cline中,叫 roo-cline.commandExecutionTimeout 。 而Roo/Cline会等它们完成。 根本无法 ..."
+    },
+    {
+      "link": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+      "title": "On AI Coding and Its Discontents",
+      "snippet": "10 Aug 2026 — Tools like Claude Code can feel like magic, but the strategy of outsourcing all code production to AI isn't currently sustainable. In ...Read more"
+    },
+    {
+      "link": "https://www.facebook.com/KellyClarksonShow/videos/meet-roo-yall-/26679188301688716/",
+      "title": "Meet Roo y'all | The Kelly Clarkson Show",
+      "snippet": "On a talk show hosted by Kelly Clarkson, a guest shares the story of her chihuahua, Roo, who she adopted from the organization Mutt Scouts. She ..."
+    },
+    {
+      "link": "https://domenic.me/agentic-coding-setup/",
+      "title": "My Agentic Coding Setup, July 2026",
+      "snippet": "23 Jul 2026 — With the right tools, coding agents can run autonomously, in parallel, and be reachable from anywhere. Here's how I've stitched them ..."
+    },
+    {
+      "link": "https://www.roo.vet/",
+      "title": "Roo Veterinary Relief Management",
+      "snippet": "Roo is the #1 veterinary relief platform connecting the largest network of veterinarians and technicians with hospitals for freelance relief jobs."
+    },
+    {
+      "link": "https://x.com/karpathy/status/1886192184808149383?lang=en",
+      "title": "Andrej Karpathy on X: \"There's a new kind of coding I call \" ...",
+      "snippet": "There's a new kind of coding I call \"vibe coding\", where you fully give in to the vibes, embrace exponentials, and forget that the code even ..."
+    },
+    {
+      "link": "https://forums.developer.nvidia.com/t/single-spark-setups-which-models-do-you-actually-run-for-coding-and-how-sharing-mine-a-test-prompt/374423",
+      "title": "Single-Spark setups — which models do you actually run ...",
+      "snippet": "25 Jun 2026 — I run a single DGX Spark serving models headless with sparkrun into the OpenCode harness. I'd like to hear how others have set theirs up, ..."
+    },
+    {
+      "link": "https://www.facebook.com/aliciakeys/videos/a-few-thoughts-im-carrying-into-2026theres-always-a-way-dont-give-up-theres-alwa/1769486893737623/",
+      "title": "A few thoughts I'm carrying into 2026. There's always a way. Don't ...",
+      "snippet": "Alicia Keys Shares 2026 Message: There's Always a Way, Take the Leap. Summarized by AI from the post below. Alicia Keys. Jan 4. A few thoughts I ..."
+    },
+    {
+      "link": "https://blog.codinghorror.com/",
+      "title": "Coding Horror",
+      "snippet": "What happens to the communities where programmers learn from each other, the very communities like Stack Overflow where Ben had so much fun becoming a ...Read more"
+    },
+    {
+      "link": "https://www.reddit.com/r/dotnet/comments/1u4fxcz/how_much_of_your_daily_work_is_agentic_coding_now/",
+      "title": "How much of your daily work is agentic coding now?",
+      "snippet": "My company has been pushing agentic coding quite heavily lately. More and more work is being done by AI agents and developers are moving towards reviewing, ..."
+    },
+    {
+      "link": "https://registry.hkust.edu.hk/resource-library/calendar-dates-2026-27",
+      "title": "Calendar Dates 2026-27 - HKUST - Academic Registry",
+      "snippet": "1. Calendar Dates 2026-27 · 2. Calendar Dates 2025-26 · 3. Calendar Dates 2024-25 · 4. Calendar Dates 2023-24 · 5. Calendar Dates 2022-23 · 6. Calendar Dates 2021-22."
+    },
+    {
+      "link": "https://www.ird.gov.hk/eng/tax/budget.htm",
+      "title": "2026-27 Budget – Tax Measures - IRD",
+      "snippet": "For measures (i) to (iv), the relevant legislation was passed by the Legislative Council on 13 May 2026 and gazetted on 22 May 2026."
+    },
+    {
+      "link": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "snippet": "all of AI engineering is Neijuan. Astra is by all accounts an incredibly impressive model. It's amazing at computer use, understands images and complex topics,"
+    },
+    {
+      "link": "https://roo.gnjoy.hk/",
+      "title": "RO仙境傳説：愛如初見",
+      "snippet": "RO仙境傳説:愛如初見You need to enable JavaScript to run this app."
+    },
+    {
+      "link": "https://www.bylsmahire.com.au/about/bylsma-tv/demonstration_videos/red-roo-gt622---hydraulic-tiller/",
+      "title": "Red Roo GT622 - Hydraulic Tiller",
+      "snippet": "Red Roo GT622 - Hydraulic Tiller. Phone 03 5335 8397. Sebastopol VIC 3356. Hours Monday - Saturday 7:30am to 5:00pm 03 5335 8397 info@bylsmahire.com.au 346 ..."
+    },
+    {
+      "link": "https://www.umkc.edu/financial-aid/scholarships-grants/roo-advantage-scholarship.html",
+      "title": "Roo Advantage Scholarship",
+      "snippet": "The award ensures tuition and fees are met for full-time, Pell-eligible Missouri and Kansas residents who file the FAFSA by April 1 for Fall admits and Dec. 1 ...Read more"
+    },
+    {
+      "link": "https://www.gov.hk/tc/about/abouthk/holiday/2026.htm",
+      "title": "GovHK 香港政府一站通：2026年公眾假期",
+      "snippet": "政府發言人說：「由於二○二六年的清明節為星期日，該天的翌日將訂為補假。就此，由於清明節翌日為復活節星期一，該日之後第一個並非公眾假期的日子將訂為增補公眾假期。"
+    },
+    {
+      "link": "https://coding.net/",
+      "title": "Coding.net",
+      "snippet": "提供一站式研发管理平台及云原生开发工具，让软件研发如同工业生产般简单高效，助力企业提升研发管理效能. 预约演示 · 帮助文档. 开发者. 万+. 开发者. 企业.Read more"
+    },
+    {
+      "link": "https://www.budget.gov.hk/2026/eng/speech.html",
+      "title": "Budget Speech - The 2026-27 Budget",
+      "snippet": "Innovation and Finance Diversified Development Caring for the People Land and Housing. Economic Outlook for 2026 and the Medium Term. ..."
+    },
+    {
+      "link": "https://www.cpce-polyu.edu.hk/docs/cpceacademicregistrycarlibraries/default-document-library/cpce_academic_calendar_2026-27.pdf?sfvrsn=8b6be79e_5",
+      "title": "[PDF] cpce_academic_calendar_2026-27.pdf",
+      "snippet": "College of Professional and Continuing Education Academic Calendar 2026/27. The schedule of add/drop exercise for individual programmes may ..."
+    },
+    {
+      "link": "https://www.budget.gov.hk/2026/eng/budget07.html",
+      "title": "Artificial Intelligence + (AI+) - The 2026-27 Budget - Budget Speech",
+      "snippet": "The $3 billion AI Subsidy Scheme launched by the Government has approved around 30 R&D applications in the fields of large language models, new ..."
+    },
+    {
+      "link": "https://www.facebook.com/BipashaBasu/videos/fathers-day-2026-we-love-you-papa/1637287557963932/",
+      "title": "Father's Day 2026 We love you Papa | Bipasha Basu - Facebook",
+      "snippet": "Sticker, Shiba Inu dog running towards you with open mouth happy face with sparkles coming. 2mo. Profile photo of Shanu. Shanu Pathan. Love ..."
+    }
+  ]
+}

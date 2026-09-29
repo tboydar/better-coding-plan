@@ -1,0 +1,196 @@
+{
+  "id": "WD38o9ypSzF5zd6HSWJJbv",
+  "message_id": "b2dbe94e-30be-4bc8-8ace-932342914ead",
+  "answer": "根据提供的搜索结果，我可以为您详细说明2026年ChatGPT Plus（20美元/月）和Pro（200美元/月）计划中Codex agent的每周配额限制情况。\n\n。\n\n首先需要明确的是，Codex是OpenAI提供的编程代理工具，其使用量受到多层限制，包括5小时滚动窗口和每周配额等概念。这些限制因订阅计划不同而有显著差异，且具体数值可能随时间和政策调整而变化，因此以下信息基于搜索结果中截至2026年9月的数据，并会指出其中的不确定性和用户反馈。\n\n。\n\n\n\n关于ChatGPT Plus计划（20美元/月），搜索结果明确指出，Plus计划包含Codex使用权限，但并非无限量。一个来源（编号24）提到，截至2026年7月3日，Plus计划的Codex使用量是有限制的，并建议将限制理解为分层计量表，即同时存在5小时窗口和每周配额等多个维度。另一个来源（编号29）进一步说明，Codex使用量在滚动5小时窗口内计量，Plus用户大约可获得10到100条GPT-5.6 Sol消息，具体取决于任务复杂度等因素，而每周配额则未公开具体数值，但通常远高于5小时窗口的限制。此外，有用户反馈（编号15）指出，在Plus计划下，即使单个中等复杂度的任务也可能快速消耗配额，导致硬性锁定，使工具难以持续使用，这反映了实际使用中限制可能显得较为严格，尤其是在密集开发场景下。还有来源（编号21）提到，OpenAI在推广Codex时提供了一段有限时间的慷慨使用限制，但在高需求期间可能对Plus用户设置速率限制，这意味着Plus用户的体验可能因时段而异，并非始终稳定。综合来看，Plus计划的Codex每周配额没有官方公开的固定数字，但用户普遍反映其限制较为紧张，适合轻度到中度使用，对于专业或高强度的编程工作可能不够用，且缺乏清晰的剩余用量可见性，容易在开发中途被中断（编号16）也强调了硬性限制和缺乏可见性对代理工作流的负面影响）‌。\n\n\n\n关于ChatGPT Pro计划（200美元/月），搜索结果提供了更多细节，但同样存在不一致之处，需要仔细辨析。首先，Pro计划被描述为包含“无限消息和上传”以及“最大深度研究和代理模式”（编号3），但实际使用中并非真正无限制，因为存在滥用防护措施（编号3和23），且多个用户报告了硬性使用限制（编号8和18）‌。具体到Codex，Pro计划的使用量是Plus的5倍或20倍（编号29），其中200美元档位对应20倍于Plus的用量（编号2和20）‌。然而，关于每周配额的具体数值，不同来源给出了不同信息：一个来源（编号19）提到，在ChatGPT聊天中，Pro 200美元档位每周可获得200条GPT-6 Pro消息，而Pro 100美元档位为50条，但这些数字主要针对聊天模型，而非直接等同于Codex的每周配额；另一个来源（编号13）则称，Pro 200美元档位下，GPT-5.6 Sol Pro模型每天有170条消息的独立配额，且两个Pro模型合计每天上限200条，这同样针对聊天场景，而非Codex专用配额‌.对于Codex本身，搜索结果中缺乏官方公布的每周固定配额数字，但用户反馈提供了实际体验：有用户（编号9）在2026年7月报告，作为20倍计划的付费订阅者，通过正常开发工作耗尽了每周Codex配额，并询问是否有更高层级计划或请求礼貌性重置配额的可能性，但OpenAI支持回应称不会重置使用限制（编号1），且没有更高层级的个人计划（编号9）‌.另一个用户（编号32）在讨论中提到，在约6到7次完整会话后达到每周上限，每次会话相当于完全使用5小时窗口，而实际上5小时窗口在约2小时的活跃编码中就会耗尽，这暗示每周配额大约相当于12到14小时的活跃编码时间，但具体数值因任务复杂度而异（编号29）‌.此外，有来源（编号4）指出，5小时限制实际上是每周限制的一部分，即每周配额包含5小时窗口，但具体比例未明确；还有来源（编号11）声称Codex已移除所有限制，无论订阅计划如何，但这与多数其他来源矛盾，可能指特定时期或特定条件下的临时政策，需谨慎对待‌.综合来看，Pro 200美元计划的Codex每周配额显著高于Plus，但并非无限，且具体数值未公开，用户实际可用的编码时间受任务复杂度、模型选择等因素影响，通常在数小时到十几小时之间，且一旦耗尽，只能等待每周重置，无法通过支持团队重置（编号1）‌.此外，Pro计划还区分了100美元和200美元两个档位（编号2），其中200美元档位提供20倍于Plus的用量，而100美元档位为5倍（编号2和20），但搜索结果中未明确说明这两个档位在Codex每周配额上的具体差异，仅提到100美元档位可提供足够大的Codex访问量，使日常工作中几乎无需考虑限制（编号36），而200美元档位则被描述为面向重度用户，但仍有硬性限制（编号18）‌.\n\n\n\n\n\n总结来说，截至2026年9月，ChatGPT Plus（20美元/月）的Codex agent每周配额没有官方公开的固定数字，但用户普遍反映限制较紧，适合轻度到中度使用，且存在5小时滚动窗口和每周配额两层限制，具体可用消息数在10到100条之间（取决于任务复杂度），每周配额通常远高于此，但缺乏可见性，容易在密集开发中耗尽‌.而ChatGPT Pro（200美元/月）的Codex每周配额显著更高，约为Plus的20倍，但同样非无限，具体数值未公开，用户实际可用编码时间可能在数小时到十几小时之间，且一旦耗尽只能等待每周重置，无法通过支持重置（编号1和9）‌.两个计划都面临硬性限制和缺乏清晰剩余用量可见性的问题（编号16），这影响了专业开发者的工作流连续性（编号9）‌.如果您需要精确的当前配额数值，建议直接查看Codex使用仪表板（编号6和26）或运行/status命令（在活跃CLI会话中，编号1和6），因为限制会随政策调整而变化（编号5和7）‌.同时，请注意，Pro 200美元计划在2026年9月10日前后暂停了新注册和升级（编号5），这可能影响您当前的选择，但现有订阅者不受影响（编号2）‌.",
+  "query_analysis": {
+    "queries": [
+      "ChatGPT Codex agent limitations",
+      "ChatGPT Plus vs Pro plan limits",
+      "ChatGPT Codex agent weekly quota",
+      "ChatGPT Pro 200 USD plan limits",
+      "2026 ChatGPT Plus 20 USD plan limits"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan",
+      "title": "Using Codex with your ChatGPT plan",
+      "snippet": "Usage limits vary by plan. For current reward, limit, and eligibility details, For more details, see Codex usage limits. On August 31, 2026, GPT-5.4 and GPT-5. ..."
+    },
+    {
+      "link": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "title": "About ChatGPT Pro tiers",
+      "snippet": "The main difference is usage allowance: Pro $100 unlocks 5x higher usage than Plus, while Pro $200 unlocks 20x usage than Plus. Can I cancel or change my plan ..."
+    },
+    {
+      "link": "https://chatgpt.com/plans/pro/",
+      "title": "ChatGPT Plan | Pro",
+      "snippet": "Unlimited messages and uploads. It offers pro-level reasoning, no usage caps, Pro removes limits, Your Pro plan includes GPT-6 Astra in Chat, ChatGPT Work, and ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/codex/comments/1v42x6r/codex_usage_limits_and_performance_megathread/",
+      "title": "Codex Usage Limits and Performance Megathread",
+      "snippet": "Codex is providing the 5 hour limit as weekly limit. 70% weekly usage left."
+    },
+    {
+      "link": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
+      "title": "What is ChatGPT Plus?",
+      "snippet": "ChatGPT Plus is a subscription plan that provides enhanced access to the ChatGPT web app for $20/month. Higher model limits: broader model options than on the ..."
+    },
+    {
+      "link": "https://chatgpt.com/codex/pricing/",
+      "title": "Codex Pricing",
+      "snippet": "You can find your current limits in the Codex usage dashboard⁠. If you want to see your remaining limits during an active Codex CLI session, you can use /status ..."
+    },
+    {
+      "link": "https://chatgpt.com/plans/plus/",
+      "title": "ChatGPT Plan | Plus",
+      "snippet": "Plus includes stronger reasoning, expanded access to ChatGPT Work and Codex, advanced image creation, and higher limits for research and uploads. Is ChatGPT ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/ChatGPTPro/comments/1h9xdiy/chatgpt_pro_200_has_limits/",
+      "title": "r/ChatGPTPro - ChatGPT pro $200 has limits?",
+      "snippet": "Just upgraded to $200 subscription to get help in my maths assignments, 50–55 questions in I am locked out and it says I cannot upload more screenshots ..."
+    },
+    {
+      "link": "https://community.openai.com/t/codex-weekly-quota-exhausted-on-20x-plan-any-options/1387546",
+      "title": "Codex Weekly Quota Exhausted on 20x Plan – Any Options?",
+      "snippet": "I'm writing to share feedback regarding the current Codex usage limits for ChatGPT Pro subscribers. I'm a ChatGPT Pro subscriber paying $200 ..."
+    },
+    {
+      "link": "https://chatgpt.com/pricing/",
+      "title": "Pricing",
+      "snippet": "We offer monthly plans for Plus, Pro, and Business. Unlimited text chats subject to abuse guardrails."
+    },
+    {
+      "link": "https://www.reddit.com/r/codex/comments/1ucv9vn/the_codex_has_removed_all_limits_regardless_of/",
+      "title": "The Codex has removed all limits, regardless of ...",
+      "snippet": "The Codex has removed all limits, regardless of the subscription. 5-hour and weekly usage limits for the Codex App. ChatGPT seat has 5-hour ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/ChatGPTPro/comments/1o89wq8/how_worth_it_is_pro_compared_to_plus/",
+      "title": "How worth it is Pro compared to Plus?",
+      "snippet": ""
+    },
+    {
+      "link": "https://justinmckelvey.com/blog/chatgpt-usage-limits",
+      "title": "ChatGPT Usage Limits 2026: Plus, Pro & Business Explained",
+      "snippet": "On Pro $200, GPT-5.6 Sol Pro gets a separate 170 messages a day, with both Pro models capped at 200 a day combined. And OpenAI paused new sign- ..."
+    },
+    {
+      "link": "https://community.openai.com/t/codex-rate-limits-discussion-thread/1378553",
+      "title": "Codex Rate Limits Discussion Thread",
+      "snippet": "weekly usage limit after 3-4 days of use. my entire 5-hour quota and 12% of my weekly quota. At this rate I will get 8 prompts a week per ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1w9riar/am_i_the_only_one_burning_through_the_20_plus/",
+      "title": "Am I the only one burning through the $20 Plus limits ...",
+      "snippet": "$20 Plus limits insanely fast? The hard lockouts are making it unusable. Limits vanish instantly: A single, moderately complex task now eats ..."
+    },
+    {
+      "link": "https://community.openai.com/t/hard-usage-limits-with-no-visibility-are-breaking-agent-workflows-codex-chatgpt-subscription/1378663",
+      "title": "Hard usage limits with no visibility are breaking agent ...",
+      "snippet": "Hard usage limits with no visibility are breaking agent workflows (Codex + ChatGPT subscription) · Allow agents to use multiple available models ..."
+    },
+    {
+      "link": "https://community.openai.com/t/chatgpt-plus-user-limits-valid-for-2025/1149656",
+      "title": "ChatGPT Plus User Limits, valid for 2025",
+      "snippet": ""
+    },
+    {
+      "link": "https://community.openai.com/t/200-chatgpt-pro-20x-hard-usage-limits-appeared-without-advance-notice/1400674",
+      "title": "$200 ChatGPT Pro 20x - Hard usage limits appeared ...",
+      "snippet": "ChatGPT Pro was publicly described as a “$200/month” plan with “unlimited usage.” including “unlimited ChatGPT” and “o1 pro.”"
+    },
+    {
+      "link": "https://www.morphllm.com/codex-pricing",
+      "title": "Codex Pricing 2026: Free, $8 Go, $20 Plus, $100 Pro ... - Morph",
+      "snippet": "In ChatGPT Chat, Pro $200 gets 200 GPT-6 Pro messages per week and Pro $100 gets 50 per week, shared with GPT-5.6 Sol Pro. Business Premium seats get 50 per ..."
+    },
+    {
+      "link": "https://www.cloudzero.com/blog/how-much-does-chatgpt-cost/",
+      "title": "How Much Does ChatGPT Cost? All Plan & Pricing Tiers ...",
+      "snippet": "ChatGPT pricing spans six plans: Plus at $20/month, $200 buys 20x plus the largest limits, $200 $2,400 $9.23 Business (annual) $20/seat $240/ ..."
+    },
+    {
+      "link": "https://x.com/OpenAIDevs/status/1929956778105811071?lang=en",
+      "title": "We're rolling out a few updates to Codex today",
+      "snippet": "It includes generous usage limits for a limited time, but during periods of high demand, we might set rate limits for Plus users"
+    },
+    {
+      "link": "https://community.openai.com/t/chatgpt-plus-and-usage-limits/544425",
+      "title": "ChatGPT Plus and Usage Limits",
+      "snippet": ""
+    },
+    {
+      "link": "https://intuitionlabs.ai/articles/chatgpt-plans-comparison",
+      "title": "ChatGPT Plans 2026: Free vs Plus $20 vs Pro $200 ...",
+      "snippet": "03Pro is a $200 per month individual plan for research and coding work, with substantially more usage than Plus, though limits and abuse ..."
+    },
+    {
+      "link": "https://blog.laozhang.ai/en/posts/chatgpt-plus-codex-weekly-limit-credits",
+      "title": "ChatGPT Plus Codex Weekly Limits: Do Credits Add More ...",
+      "snippet": "As of July 3, 2026, ChatGPT Plus includes Codex usage, but it is not unlimited. The safest way to read a Codex limit is as layered meters: ..."
+    },
+    {
+      "link": "https://customgpt.ai/chatgpt-plus-limits-2026/",
+      "title": "ChatGPT Plus Limits 2026: Every Cap, Verified",
+      "snippet": "Verified Q2 2026: ChatGPT Plus gives you 160 GPT-5.5 messages every 3 hours, 3,000 Thinking messages weekly, 80 uploads per 3 hours, ..."
+    },
+    {
+      "link": "https://www.iwoszapar.com/p/chatgpt-work-codex-usage-limits",
+      "title": "Codex Usage Limits: How to Check Credits and Tasks",
+      "snippet": "Check your current Codex limits in the Codex Usage Dashboard. During an active Codex CLI session, run /status to see remaining limits."
+    },
+    {
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1qzg6uy/chatgpt_go_vs_plus_vs_pro_2026_quick_breakdown/",
+      "title": "ChatGPT Go vs Plus vs Pro (2026): quick breakdown after ...",
+      "snippet": "Go: the cheapest paid tier. It's a good step up from Free if you use ChatGPT pretty regularly but you're not living in it all day. · Plus ($20/mo) ..."
+    },
+    {
+      "link": "https://www.facebook.com/cnet/posts/the-new-chatgpt-pro-tier-comes-with-much-higher-usage-limits-than-the-20-plus-pl/1335596238430232/",
+      "title": "The new ChatGPT Pro tier comes with much higher usage ...",
+      "snippet": "Public Chat GPT's Pro plan will cost a whopping $200 per month—far more than the $20 monthly charge for the existing ChatGPT Plus."
+    },
+    {
+      "link": "https://justinmckelvey.com/blog/codex-usage-limits",
+      "title": "Codex Usage Limits: 5-Hour Window, Weekly Cap, What ...",
+      "snippet": "Codex usage is metered in a rolling 5-hour window: Plus gets roughly 10 to 100 GPT-5.6 Sol messages, Pro 5x or 20x that, plus an unpublished ..."
+    },
+    {
+      "link": "https://northflank.com/blog/chatgpt-usage-limits-free-plus-enterprise",
+      "title": "ChatGPT usage limits explained: free vs plus vs enterprise",
+      "snippet": "ChatGPT's usage limits restrict access when you need it most, with a limit of 10 messages every 5 hours on the free plan."
+    },
+    {
+      "link": "https://www.mindstudio.ai/blog/openai-100-per-month-plan-explained",
+      "title": "OpenAI's $100 Plan Explained: Plus vs $100 vs Pro Side ...",
+      "snippet": "ChatGPT Pro at $200/month offers unlimited access and o1 pro mode, but most developers don't need truly unlimited throughput. The $100 plan's ..."
+    },
+    {
+      "link": "https://github.com/openai/codex/discussions/2251",
+      "title": "Codex Usage Limits · openai codex · Discussion #2251",
+      "snippet": "Hit the weekly cap after ~6–7 full sessions. = fully using the 5-hour cap. In practice, that 5-hour cap is reached in ~2 hours of active coding."
+    },
+    {
+      "link": "https://coursiv.io/blog/chatgpt-plus-vs-pro",
+      "title": "ChatGPT Plus vs Pro vs Team: Which Is Worth It?",
+      "snippet": "If you're deciding between ChatGPT Pro vs Plus, it's worth remembering Plus already covers model access and higher-than-free limits for most day ..."
+    },
+    {
+      "link": "https://learn.chatgpt.com/docs/pricing",
+      "title": "Pricing",
+      "snippet": "When you use Codex with an API key, API pricing applies to image generation instead of included ChatGPT usage limits. Where can I see my current usage limits?"
+    },
+    {
+      "link": "https://sintra.ai/blog/chatgpt-plus-vs-pro",
+      "title": "ChatGPT Plus vs Pro: Is Upgrading Really Worth It?",
+      "snippet": "ChatGPT Plus ($20/mo) suits most people; Pro ($200/mo) is for power users who hit limits. Compare price, models, and usage limits to pick in ..."
+    },
+    {
+      "link": "https://community.openai.com/t/understanding-the-new-codex-limit-system-after-the-april-9-update/1378768",
+      "title": "Understanding the New Codex Limit System After the April ...",
+      "snippet": "In other words, for $100, users can temporarily get a level of Codex access that is large enough to stop thinking about limits in everyday work ..."
+    }
+  ]
+}

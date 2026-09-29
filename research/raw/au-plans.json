@@ -1,0 +1,195 @@
+{
+  "id": "dgET65TzcExNuJStLZXPFo",
+  "message_id": "b2995840-527f-4679-a9fa-0f11437f8fcd",
+  "answer": "根据搜索结果，2026年澳大利亚市场上AI编程订阅的价格，特别是GitHub Copilot和Cursor的对比，可以为您提供以下详细信息。\n\n首先需要说明的是，搜索结果中提供的价格均以美元计价，并未直接给出澳大利亚元的价格。澳大利亚用户实际支付的金额会因汇率波动、商品及服务税（GST）以及可能的地区定价差异而有所不同。不过，您可以参考以下美元价格作为基准，再结合当前汇率和澳大利亚的税收政策进行换算。\n\n１. GitHub Copilot的定价体系\n\nGitHub Copilot在2026年提供了多个档位，价格从低到高排列如下：\n\n免费版（Free）：价格为0美元，提供有限的功能，适合轻度用户或试用。\n\n专业版（Pro）：价格为每月10美元，这是个人用户最常用的入门付费档位，提供1000个积分（credits）的用量。\n\n专业增强版（Pro+）：价格为每月39美元，适合使用频率较高的个人开发者，提供更多的用量额度。\n\n高级用户档（Power-user tier）：价格为每月100美元，这是2026年6月新增的档位，面向重度使用者。\n\n商业版（Business）：价格为每用户每月19美元，适合5到50人规模的初创公司或中小团队，提供团队管理功能。\n\n企业版（Enterprise）：价格为每用户每月39美元，面向大型企业，提供更全面的合规和管理功能。\n\n值得注意的是，GitHub Copilot在2026年6月1日启用了基于用量的GitHub AI积分系统，这意味着订阅费用中包含的积分用完后，超出部分需要额外购买积分，每个高级请求的指导价格约为0.04美元。另外，Copilot的Pro档位中，一些高级模型（如Grok 4.5、GPT-5.6 Luna、Kimi K3）每月有15美元的使用上限，且目前不支持Claude和Gemini模型。\n\n２. Cursor的定价体系\n\nCursor在2026年同样提供了多个档位，价格如下：\n\n爱好版（Hobby）：免费，无需信用卡，提供有限的智能体请求和标签补全次数，适合体验产品。\n\n专业版（Pro）：每月20美元（按年付费为每月16美元），这是最受欢迎的档位，包含无限标签补全、扩展的智能体限制、云智能体、最大上下文窗口、所有前沿模型（如Claude、GPT、Gemini等），以及每月20美元的积分池。\n\n专业增强版（Pro+）：每月60美元，适合重度用户，提供约三倍于Pro版的用量积分。\n\n超级版（Ultra）：每月200美元，面向全天候进行AI原生开发的个人用户，提供约20倍于Pro版的用量，并优先获得新功能。\n\n团队版（Teams）：每用户每月40美元（按年付费为每用户每月32美元），包含Pro版的所有功能，并增加集中计费、团队共享规则、智能体代码审查、用量分析、团队级隐私模式和SAML/OIDC单点登录等功能。此外，团队版还提供高级席位（Premium seats），价格为每用户每月96美元。\n\n企业版（Enterprise）：价格需联系销售团队定制，包含团队版的所有功能，并增加组织级池化用量、发票计费、SCIM席位管理、AI代码追踪API和审计日志等。\n\nCursor在2025年中期从简单的请求制转向了基于积分的计费模式，这是其定价体系中最具争议的变化。每个付费计划都包含一个月度用量额度，用完后可以按需继续计费。需要注意的是，Cursor的积分池分为两个部分：Cursor自有模型池（如Grok 4.x、Composer 2.5、Auto）和其他模型池（如Claude、GPT、Gemini），不同模型的请求会从对应的池中扣减积分。\n\n３. Cursor与Copilot的核心价格对比\n\n从入门价格来看，Copilot Pro每月10美元，而Cursor Pro每月20美元，Cursor的价格正好是Copilot的两倍。在团队层面，Cursor Teams每用户每月40美元，而Copilot Business每用户每月19美元，同样是两倍的关系。\n\n以一个五人工程师团队为例，如果选择Copilot Business，每月总费用为95美元；如果选择Cursor Teams，每月总费用为200美元。如果扩大到200人的工程组织，Copilot每月费用为3800美元，而Cursor为8000美元，年度差距达到50400美元。\n\n不过，价格差异并不代表Cursor没有价值。Cursor在编辑器体验、多文件重构、智能体模式以及前沿模型的选择广度上具有优势，尤其适合重度使用Claude Opus或GPT-5.5进行复杂重构的开发者。而Copilot的优势在于更广泛的IDE覆盖（支持VS Code、JetBrains、Visual Studio、Neovim、Xcode、Eclipse等）、更快的自动补全速度、与GitHub工作流的原生集成，以及更强的企业合规能力（SOC 2 Type II、ISO 27001、GDPR、FedRAMP路径）。\n\n４. 澳大利亚用户的注意事项\n\n对于澳大利亚用户，有几个关键点需要留意：\n\n第一，上述价格均为美元，澳大利亚用户需要按当前汇率换算成澳元，并考虑澳大利亚的商品及服务税（GST，通常为10%）。实际支付金额可能会高于美元标价。\n\n第二，部分工具可能存在地区定价差异，搜索结果中未明确提及澳大利亚是否有专属定价，建议直接访问Cursor和GitHub Copilot的官方网站查看澳大利亚地区的实际价格。\n\n第三，如果您的日常开发环境是VS Code、JetBrains、Visual Studio或Xcode，Copilot是更合适的选择；如果您更看重编辑器内的AI体验和多文件重构能力，Cursor可能更值得投资。\n\n第四，对于预算有限的个人开发者，Copilot Pro每月10美元是更经济的选择；对于重度用户，Cursor的Pro+（60美元）和Ultra（200美元）提供了更高的用量上限，而Copilot的最高个人档位是Pro+（39美元），超出后只能使用免费模型或额外购买积分。\n\n第五，搜索结果中还提到了DevPass这一聚合平台，提供每月29美元、79美元和179美元的固定价格，可以访问200多种模型（包括Claude、GPT-5.6、Gemini 3.1 Pro等），并兼容Claude Code、OpenCode、Cursor、Cline、Zed等工具。如果您需要同时使用多个模型和工具，这类聚合方案可能值得考虑，但需要自行评估其可靠性和服务条款。\n\n总结来说，2026年澳大利亚市场上，GitHub Copilot的入门价格为每月10美元（约合澳元需换算），Cursor的入门价格为每月20美元。Copilot在价格和IDE覆盖面上占优，Cursor在编辑器体验和模型广度上占优。建议您根据自身的工作流程、预算和团队规模，结合上述详细对比做出选择，并务必访问官方网站确认澳大利亚地区的实际定价和税收情况。",
+  "query_analysis": {
+    "queries": [
+      "AUS Copilot Cursor订阅定价",
+      "2026 Australia AI coding subscription pricing",
+      "AUS Copilot Cursor subscription pricing",
+      "2026年澳大利亚AI编码订阅定价"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://www.morphllm.com/comparisons/cursor-vs-copilot",
+      "title": "Cursor vs Copilot (2026): Cursor $20/mo vs GitHub ... - Morph",
+      "snippet": "Pricing: Cursor vs Copilot (June 2026) ; Entry paid, Pro $20/mo (~$20 API usage), Pro $10/mo (1,000 credits, $10) ; Mid tier, Pro+ $60/mo ($70 usage), Pro+ $39/mo ..."
+    },
+    {
+      "link": "https://llmgateway.io/blog/best-ai-coding-plans",
+      "title": "11 Best AI Coding Plans in 2026 (Compared)",
+      "snippet": "An honest comparison of the best AI coding plans in 2026 — Claude Code, Cursor, Copilot, Codex, OpenCode Go and more … pricing — $29, $79, or $ ..."
+    },
+    {
+      "link": "https://getautonoma.com/blog/cursor-vs-copilot",
+      "title": "Cursor vs Copilot in 2026: One Costs 2x. Is It Worth It?",
+      "snippet": "Copilot at $10-19/user is the rational default. Cursor at $20-40/user earns the premium. Copilot Pro is $10/month for individuals. Copilot Business is $19/user ..."
+    },
+    {
+      "link": "https://www.aipricing.guru/blog/cursor-vs-github-copilot-pricing-2026/",
+      "title": "Cursor vs GitHub Copilot Pricing 2026",
+      "snippet": "Compare Cursor and GitHub Copilot pricing in 2026: $20 Cursor Pro vs $10 Copilot Pro, team plans, premium requests, and cost scenarios."
+    },
+    {
+      "link": "https://www.atlascloud.ai/zh/blog/tips/coding-plan-best-ai-coding-subscription-under-20",
+      "title": "20美元以下的最佳AI编程订阅：哪些方案真正物有所值",
+      "snippet": "计划定价和模型费率基于2026 年5 月的Atlas Cloud Coding Plan 文档。GitHub Copilot 和Cursor 定价截至同日。点数计算仅供参考，实际成本因模型选择、 ..."
+    },
+    {
+      "link": "https://tech-insider.org/cursor-vs-copilot-2026/",
+      "title": "Cursor vs Copilot 2026: $20 vs $10, $29B Valuation [Tested]",
+      "snippet": "Cursor Pro is $20/month versus Copilot Pro at $10/month. Cursor Business is $40/user/month versus Copilot Business at $19/user/month. Copilot ..."
+    },
+    {
+      "link": "https://go-cloud.io/cursor-pricing-2026/",
+      "title": "Cursor Pricing 2026 Explained: | Which Plan is Best?",
+      "snippet": "Cursor Pricing 2026 offers six pricing plans : Hobby (free), Pro ($20/month), Pro+ ($60/month), Ultra ($200/month), Teams ($40–$120/user/month) ..."
+    },
+    {
+      "link": "https://www.eesel.ai/blog/cursor-pricing",
+      "title": "Cursor pricing 2026: Hobby, Pro, and Business plans ...",
+      "snippet": "Cursor still starts free with the Hobby plan, then runs Pro at $20/mo, Pro+ at $60/mo, Ultra at $200/mo, and Teams at $40/user/mo, with ..."
+    },
+    {
+      "link": "https://www.nocode.mba/articles/cursor-pricing",
+      "title": "Cursor Pricing 2026: Free, Individual, Teams & Enterprise",
+      "snippet": "Cursor has a free Hobby plan, Individual plans starting at $20/month, Teams seats starting at $40 per user/month, and custom Enterprise pricing."
+    },
+    {
+      "link": "https://www.morphllm.com/ai-coding-costs",
+      "title": "AI Coding Costs (2026): Claude vs Codex vs Gemini ... - Morph",
+      "snippet": "For most solo developers the honest 2026 answer is $20-100/month on a subscription; for teams it is $40-500/month per 5 engineers depending on model tier,"
+    },
+    {
+      "link": "https://kilo.ai/articles/best-ai-subscription-for-coding",
+      "title": "Which AI Subscription Is Best for Coding in 2026?",
+      "snippet": "If you search for the best AI subscription for coding, you'll find a list of monthly plans: ChatGPT Plus/Pro, Claude Pro/Max, GitHub Copilot, ..."
+    },
+    {
+      "link": "https://larridin.com/blog/compare-cost-copilot-claude-code-cursor",
+      "title": "GitHub Copilot vs. Claude Code vs. Cursor: Total Cost ...",
+      "snippet": "Cursor's updated Teams pricing offers Standard seats at $32 per user per month on an annual plan or $40 monthly. Premium seats cost $96 per user ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1rw5xvh/whats_the_best_ai_to_actually_pay_for_right_now/",
+      "title": "What's the best AI to actually pay for right now? (2026)",
+      "snippet": "Not talking about hype I mean real, day-to-day usage.\n\nThere are so many options now:\n\nChatGPT, Claude, Gemini, Copilot, Perplexity, etc.\n\nSome seem great ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2050870611602417393",
+      "title": "2026 年Coding Plan 与AI 编程工具全景对比（额度/价格/水平）",
+      "snippet": "2026 年Coding Plan 与AI 编程工具全景对比（额度/价格/水平）. 3 ... 编码订阅里很有竞争力| | [Claude](https://claude.ai/upgrade) Pro | 20 ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/GithubCopilot/comments/1oktcug/copilot_pricing_vs_cursor/",
+      "title": "Copilot pricing vs cursor? : r/GithubCopilot",
+      "snippet": "Hey, using ablot cursor, whats the pricing difference to cursor? Thinking about to change but idk about the pricing. Im spending like 100$ a month on cursor ..."
+    },
+    {
+      "link": "https://canopywave.com/blog/best-ai-coding-plans-2026-pricing-limits-use-cases",
+      "title": "Best AI Coding Plans in 2026: Pricing & Limits Compared",
+      "snippet": "The official plan currently starts at $20 per month, with higher Max environments including OpenClaw, OpenCode, Kilo Code, Cline, and other ..."
+    },
+    {
+      "link": "https://openclawlaunch.com/guides/ai-coding-plans-compared",
+      "title": "AI Coding Plans Compared: Subscriptions vs API Tokens",
+      "snippet": "Coding Subscription Plans ; Claude Pro, $20 ($17 annual), All Claude models + Claude Code CLI, shared token budget ; Cursor Pro, $20, Unlimited ..."
+    },
+    {
+      "link": "https://intl.cloud.baidu.com/zh/article/8803572",
+      "title": "AI编程模型订阅全解析：2026年开发者选型与成本优化指南",
+      "snippet": "据行业报告显示，2026年全球AI编程模型市场规模预计突破120亿美元，其中订阅制占比超65%，成为主流服务模式。开发者选择订阅制的核心诉求包括：降低初期 ..."
+    },
+    {
+      "link": "https://code-pass.dev/blog/2026-ai-coding-tools-price-hike-roundup",
+      "title": "2026 年AI 编程工具订阅涨价潮梳理 - CodePass",
+      "snippet": "2026 年上半年，多家AI 编程工具出现了不同程度的涨价。Anthropic 在4 月底上调了Claude Code 企业部署的成本预估，日均费用从6 美元涨到13 美元，涨幅 ..."
+    },
+    {
+      "link": "https://www.facebook.com/groups/vibecodinglife/posts/1933879780533883/",
+      "title": "Why is copilot more expensive than cursor?",
+      "snippet": "With Cursor my spending was 10 times more than what i have with Copilot using the same AI model and same amount of work. Why is there such a huge difference ..."
+    },
+    {
+      "link": "https://mofcloud.com/tools/subscriptions",
+      "title": "AI subscriptions compared: 14 plans + subscription-vs-API",
+      "snippet": "Coding Plan Zhipu AI On sale $18 from/mo No free tier (developer coding plan, Lite $18/mo Pro $80 no first-hand official confirmation"
+    },
+    {
+      "link": "https://www.finout.io/blog/what-happened-to-cursor-pricing-2026-guide-5-cost-cutting-tips",
+      "title": "What Happened to Cursor Pricing? 2026 Guide & 5 Cost ...",
+      "snippet": "The Pro plan now includes $20 in monthly usage for frontier models, with the option to buy more at cost. Usage through the Auto setting — Cursor's system for ..."
+    },
+    {
+      "link": "https://chatgpt.com/pricing/",
+      "title": "Pricing",
+      "snippet": "Paid plans (Plus, Pro, Business, and Enterprise) are priced per user per month. See pricing for our individual, business, and enterprise plans."
+    },
+    {
+      "link": "https://aivy.com.au/resources/cursor-vs-github-copilot/",
+      "title": "Cursor vs GitHub Copilot: Which AI Tool Is Better in 2026?",
+      "snippet": "most-used feature seat is $170, Every Cursor plan is cheaper billed annually, and all prices exclude GST. offers a clearer path with set ..."
+    },
+    {
+      "link": "https://www.quietlycode.org/blog/hidden-cost-ai-coding-assistants-2026",
+      "title": "The Hidden Cost of AI Coding Assistants in 2026",
+      "snippet": "A cost-intent breakdown for developers and teams: subscriptions, latency tax, data risk, and why local execution can be the best value AI IDE."
+    },
+    {
+      "link": "https://www.reddit.com/r/GithubCopilot/comments/1ls3343/cursors_20_is_worse_than_gh_copilots_10/",
+      "title": "Cursor's 20$ is worse than GH Copilot's 10$ : r/GithubCopilot",
+      "snippet": "For those who have questioned and compared cursor unlimited use in their 20$ plan it's even worse than 10$ copilot plan."
+    },
+    {
+      "link": "https://cursor.com/pricing",
+      "title": "Cursor · Pricing",
+      "snippet": "Pricing ; Individual. For the agent-curious. $20 / mo. Pro Pro+ Ultra ; Teams. For teams that ship together. $40 / user / mo. Standard Premium ; Enterprise. For ..."
+    },
+    {
+      "link": "https://daily.dev/blog/ai-coding-tools-cost-cursor-vs-copilot-vs-claude-code-pricing/",
+      "title": "What AI coding tools really cost in 2026: Cursor vs Copilot ...",
+      "snippet": "Typical monthly cost by usage level: Light solo developer: $10 to $20; Daily professional: $60 to $100; Agent-heavy power user: $200+. So if I ..."
+    },
+    {
+      "link": "https://blog.csdn.net/weixin_44162814/article/details/158658021",
+      "title": "2026年国内主流AI Coding Plan套餐全对比｜开发者避坑指南",
+      "snippet": "注：价格单位均为“元/月”，首月优惠仅针对新用户，已订阅用户价格不变；额度均为各平台入门档（Lite/Starter）核心数据，Pro及以上档位为入门档5倍左右， ..."
+    },
+    {
+      "link": "https://darkathena.top/archives/AI-Coding-Plans-Subscription-Models-Market-Landscape-20260512",
+      "title": "AI 订阅策略调研报告：各大厂商的定价体系及其变化趋势 ...",
+      "snippet": "1. OpenAI（ChatGPT） ; Go, ~$16（地区差异）, GPT-5.5 标准，含广告 ; Plus, $20/月, GPT-5.5 Pro 无广告，更深推理 ; Pro, $200/月, 无限GPT-5 访问，4x ..."
+    },
+    {
+      "link": "https://stripe.com/cn/resources/more/pricing-models-for-ai-coding-companies",
+      "title": "AI 编程工具的定价模式：供应商指南",
+      "snippet": "AI 编程工具使用哪些核心定价模式？ 按席位定价; 分层订阅; 基于功能的定价; 按用量定价; 混合定价. 哪些套餐模式最适合开发人员 ..."
+    },
+    {
+      "link": "https://one.google.com/about/google-ai-plans/",
+      "title": "Google AI plans with Cloud Storage",
+      "snippet": "Explore Google AI plans. Access our most advanced AI, generate videos from text, and secure cloud storage."
+    },
+    {
+      "link": "https://www.figma.com/pricing/",
+      "title": "Plans & Pricing",
+      "snippet": "Learn about Figma pricing plans. Explore Figma products, compare key features, and read through FAQs to choose the right plan and seats for your team."
+    },
+    {
+      "link": "https://codepick.dev/zh/compare/ai-coding-subscription-comparison-2026/",
+      "title": "AI 编程订阅套餐对比2026：Claude / Codex / 国产Coding Plan ...",
+      "snippet": "价格：月费普遍¥50-200，人民币直付、国内直连，无支付/网络门槛。 形态：Coding Plan（固定月费额度）之外，还有Agent Plan / Token Plan 等新形态，见 ..."
+    },
+    {
+      "link": "https://cursor.com/cn/pricing",
+      "title": "定价",
+      "snippet": "Hobby 适合爱折腾的人免费包括: ✓ 无需信用卡✓ 有限的智能体请求✓ Composer 访问权限试用Cursor 个人适合想尝试智能体的人$20 / mo."
+    },
+    {
+      "link": "https://github.com/features/copilot",
+      "title": "GitHub Copilot · Your AI coding agent",
+      "snippet": "GitHub Copilot Free is a new free pricing tier with limited functionality for individual developers."
+    }
+  ]
+}

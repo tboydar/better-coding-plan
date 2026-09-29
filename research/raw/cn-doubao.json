@@ -1,0 +1,205 @@
+{
+  "id": "Rpsu42WssQUhnsgEk3ULPk",
+  "message_id": "6da95a26-044d-42ad-8c56-6ff1d9626c43",
+  "answer": "根据您的问题，我为您整理了2026年字节跳动豆包Doubao编程相关产品在火山引擎平台上的价格信息。\n\n首先需要说明的是，火山引擎是字节跳动旗下的云与AI服务平台，豆包大模型是字节跳动自研的大模型系列，其中专门面向编程场景的模型是Doubao-Seed-Code系列，对应的订阅服务称为方舟Coding Plan。\n\n关于方舟Coding Plan的价格，目前最突出的优惠是限时促销价，首月最低仅需9.9元人民币。这个价格是在2026年双十一期间推出的批量促销活动，针对AI程序员场景，最低首月9.9元就能使用。促销期结束后，标准月费会有所上调，根据搜索结果，标准月度订阅费用在促销结束后将升至约5.5美元，折合人民币大约在40元左右，具体以官方实时报价为准。\n\n方舟Coding Plan的核心特点是多模型兼容，不仅支持字节自研的豆包Doubao-Seed-Code系列模型，还支持GLM系列、DeepSeek系列、Kimi系列等多款主流编程模型，工具使用不限，订阅后即可使用。目前最新支持的模型包括GLM-5.3系列、DeepSeek-V4系列、Doubao-Seed-2.1-turbo、Kimi-K3等。\n\n关于豆包编程模型的综合使用成本，火山引擎官方宣称其综合使用成本相比业界平均水平降低了62.7%，为国内最低价。该模型已通过火山方舟平台全量开放API，面向个人开发者公布了订阅制套餐包Coding Plan。\n\n除了Coding Plan订阅制外，火山方舟平台也提供按量计费的方式。例如，豆包大模型Evolving版本（聚焦Coding和Agent场景）的推理输入价格为6元每百万tokens，推理输出价格为30元每百万tokens。另外，豆包编程模型Doubao-Seed-2.1-pro的公开定价为0.8元每百万tokens，并且火山方舟平台提供每日最高500万Tokens的免费额度，按照这个定价计算，单日可节省4元，月度最高可节省120元。这个免费政策是常态化的，面向所有注册用户，不限新老，无地域限制、无使用场景限制，可直接用于编程教学辅助。\n\n对于有长期稳定需求的企业用户，火山引擎还提供包年包月模式，相比按需付费可享受更高折扣，同时获得专属技术支持服务。对于有数据安全合规需求的大型企业，还支持私有化部署定制报价，具体价格需联系商务人员咨询。\n\n另外，豆包C端专业版年费为399元每年（个人版），可无限量调用Doubao-Seed-2.1-pro模型，但仅可在C端网页和APP内使用，无法通过API调用集成到教学系统。如果月度使用量超过1.2亿Tokens，C端付费更划算，否则方舟平台的免费额度即可覆盖需求。\n\n总结来说，2026年字节跳动豆包编程相关产品在火山引擎平台上的价格体系比较灵活，既有低至9.9元首月的Coding Plan订阅制，也有按量计费的API调用方式，还有每日500万Tokens的免费额度可供日常使用。对于个人开发者，如果使用量不大，免费额度基本够用；如果使用频繁，Coding Plan订阅制或C端专业版可能更划算；对于企业用户，则可以根据业务规模选择按需付费、包年包月或私有化部署。具体价格建议以火山引擎官网实时报价为准，因为促销活动和价格调整较为频繁。",
+  "query_analysis": {
+    "queries": [
+      "2026 字节跳动 豆包 Doubao coding plan 编程 价格 火山引擎 元",
+      "字节跳动 火山引擎 价格 2026",
+      "字节跳动 豆包 编程计划 2026",
+      "ByteDance Doubao coding plan 2026"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://www.atlascloud.ai/zh/blog/ai-updates/seedance-2.0-mini-overview",
+      "title": "Seedance 2.0 Mini：速度提升2 倍，成本降低一半",
+      "snippet": "字节跳动的火山引擎于2026. Mini 版价格为每秒USD0.056 ,其价格低至每秒¥0.16,720P 版本约为每秒¥0.5 … 定价约为每1,000 token ¥0.023, 最低档¥0.16 约合 ..."
+    },
+    {
+      "link": "https://www.volcengine.com/article/39870",
+      "title": "2026最新火山引擎联网搜索API价格及收费标准",
+      "snippet": "2026年，字节跳动旗下火山引擎针对企业用户推出了全新的联网搜索API价格体系，兼顾灵活性与性价比，助力企业高效实现多源数据整合与智能分析。 一 ..."
+    },
+    {
+      "link": "https://www.cnblogs.com/geyee/p/19652010",
+      "title": "豆包字节火山引擎邀请码- geyee",
+      "snippet": "包字节火山引擎邀请码. Plan 支持Doubao、GLM、DeepSeek、Kimi 等模型,工具不限,现在订阅折上9折,低至8.9元,订阅越多越划算! 2026年9月"
+    },
+    {
+      "link": "https://www.volcengine.com/article/2605938",
+      "title": "2026年豆包大模型营销活动：编程辅助模型免费额度差异明显",
+      "snippet": "按照其公开定价0.8元/百万tokens计算 ・ 包C端专业版年费为399元 ・ 火山引擎的优惠策略定位# 编程大模型免费权益维・ 字节跳动自研算力・ 比行业平均低 ..."
+    },
+    {
+      "link": "https://www.volcengine.com/article/37534",
+      "title": "火山方舟Coding Plan：字节生态下的AI编程效率利器",
+      "snippet": "火山引擎是字节跳动旗下的云与AI服务平台。 山引擎推出的AI Coding场景订阅服务, 为开发者打造高性价比、稳定安全的编码解决方案。 字节自研豆包系列・ ..."
+    },
+    {
+      "link": "https://x.com/Sino_Market/status/2021776054315348002",
+      "title": "ByteDance Volcano Engine to Launch Major Doubao AI ...",
+      "snippet": "... 2026 ByteDance's Volcano Engine plans to release a major upgrade to the Doubao AI models on February 14, 2026. The update includes Doubao ..."
+    },
+    {
+      "link": "https://www.zhihu.com/question/7296164568",
+      "title": "火山引擎总裁回应字节系大模型比同行便宜八成",
+      "snippet": "据澎湃新闻报道，12 月 18 日，在当天举办的火山引擎 Force 大会上，字节跳动再次掀起价格战：发布豆包视觉理解模型， ..."
+    },
+    {
+      "link": "https://www.volcengine.com/",
+      "title": "火山引擎-你的AI云",
+      "snippet": "火山引擎是字节跳动旗下的云与AI服务平台。在AI时代，聚焦豆包大模型和AI云原生技术，为企业提供从Agent 开发到部署的一站式服务，助力企业AI转型与创新发展。"
+    },
+    {
+      "link": "https://www.volcengine.com/sem",
+      "title": "字节跳动云与AI服务平台",
+      "snippet": "火山引擎是字节跳动旗下的云与AI服务平台。在AI时代，聚焦豆包大模型和AI云原生技术，为企业提供从Agent 开发到部署的一站式服务，助力企业AI转型与创新发展。"
+    },
+    {
+      "link": "https://www.facebook.com/unwirehk/posts/%E5%AD%97%E7%AF%80%E8%B7%B3%E5%8B%95%E6%97%97%E4%B8%8B%E7%81%AB%E5%B1%B1%E5%BC%95%E6%93%8E%E6%96%BC-3-%E6%9C%88-4-%E6%97%A5%E6%AD%A3%E5%BC%8F%E5%85%AC%E5%B8%83-seedance-20-ai-%E5%BD%B1%E7%89%87%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B-api-%E5%AE%9A%E5%83%B9%E7%B4%94%E5%BD%B1%E7%89%87%E7%94%9F%E6%88%90%E6%AF%8F-1000000-token-%E6%94%B6%E8%B2%BB-46-%E5%85%83/1356382209863575/",
+      "title": "字節跳動旗下火山引擎於3 月4 日正式公布Seedance 2.0 AI ...",
+      "snippet": "字節跳動旗下火山引擎於3 月4 日正式公布Seedance 2.0 AI 影片生成模型API 定價，純影片生成每1,000,000 token 收費46 元人民幣，換算每秒費用約1 元 ..."
+    },
+    {
+      "link": "https://www.volcengine.com/product/ark",
+      "title": "火山方舟",
+      "snippet": "Doubao-Seed-1.6-thinking. 23.04元/10k输入TPM5.76元/1k输出TPM. 1.92元/10k输入 ... 火山引擎豆包大模型通过中国电子技术标准化研究院依据国标《GB/T 45288.2》 ..."
+    },
+    {
+      "link": "https://www.volcengine.com/article/37177",
+      "title": "火山引擎方舟Coding Plan：官网及价格详情全解析",
+      "snippet": "火山引擎方舟Coding Plan凭借多模型兼容、高性价比、稳定安全的优势，成为开发者AI编程的优质选择。通过官网可快速获取套餐价格与服务信息，订阅后即可 ..."
+    },
+    {
+      "link": "http://www.news.cn/tech/20260623/acd6f2f27fc34459a7d1684c03278431/c.html",
+      "title": "豆包2.1 Pro模型发布，Coding与Agent能力跨越“质变点”",
+      "snippet": "6月23日，火山引擎在北京举办2026夏季FORCE原动力大会，集中发布豆包大模型2.1，以及视频、图像、音频等多款新模型，并升级面向Agent（智能体）的云 ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/1971915412322128484",
+      "title": "豆包编程模型发布！AI程序员双十一大促9.9元到岗",
+      "snippet": "这个双十一，我们打算针对“AI程序员”进行批量促销，最低首月9.9元就能领回工位！ 今天，火山引擎正式发布豆包编程模型（ Doubao-Seed-Code）：专 ..."
+    },
+    {
+      "link": "https://www.volcengine.com/article/37530",
+      "title": "火山方舟Coding Plan：豆包大模型vs其他编程模型对比",
+      "snippet": "方舟Coding Plan是火山引擎为开发者量身打造的AI Coding场景订阅服务，支持豆包（Doubao-Seed-Code系列）、GLM-4.7、DeepSeek-V3.2、Kimi-K2.5等多款主流 ..."
+    },
+    {
+      "link": "https://www.volcengine.com/article/2697573",
+      "title": "2026年8月大模型促销：Seedance2.0-mini真让利，竞品套路多",
+      "snippet": "火山引擎在本轮小模型促销中处于价格领导者位置。其Seedance2.0-mini折后价2.75元/百万tokens，比阿里云低9%，比华为云低33.7%，比腾讯云低21.4%，免费 ..."
+    },
+    {
+      "link": "https://www.volcengine.com/activity/codingplan",
+      "title": "方舟Coding-Plan",
+      "snippet": "方舟Coding Plan 限时9.9 元起，模型自由，工具不限，最新支持GLM-5.3 系列、DeepSeek-V4 系列、Doubao-Seed-2.1-turbo、Kimi-K3 等."
+    },
+    {
+      "link": "https://www.volcengine.com/docs/82379/1099320",
+      "title": "模型价格- 火山方舟",
+      "snippet": "本文介绍火山方舟各模型的计费公式及单价,方便您查阅和比较模型价格, 调整前价格,2026-08-21 - 6.00 - 480p 16:9 2~15 5 2.53~5.62"
+    },
+    {
+      "link": "https://hk.finance.yahoo.com/news/%E7%81%AB%E5%B1%B1%E5%BC%95%E6%93%8E%E6%AD%A3%E5%BC%8F%E7%99%BC%E5%B8%83%E8%B1%86%E5%8C%85%E7%B7%A8%E7%A8%8B%E6%A8%A1%E5%9E%8B-%E7%B6%9C%E5%90%88%E4%BD%BF%E7%94%A8%E6%88%90%E6%9C%AC%E6%AF%94%E6%A5%AD%E7%95%8C%E5%B9%B3%E5%9D%87%E9%99%8D%E4%BD%8E62-7-071318766.html",
+      "title": "火山引擎正式發布豆包編程模型綜合使用成本比業界平均 ...",
+      "snippet": "豆包編程模型綜合使用成本相比業界平均降低62.7%，為國內最低價。目前，該模型已透過火山方舟平台全量開放API。 (CW)."
+    },
+    {
+      "link": "https://finance.sina.com.cn/tob/2025-11-11/doc-infwzfah5888619.shtml",
+      "title": "字节火山引擎正式发布豆包编程模型：成本降低62.7%",
+      "snippet": "目前模型已通过火山方舟平台全量开放API，面向个人开发者公布订阅制套餐包“Coding Plan”，首月低至9.9元。此外，TRAE中国版正式接入该模型，TRAE（CN） ..."
+    },
+    {
+      "link": "https://www.volcengine.com/docs/ark/model-pricing",
+      "title": "模型价格- 火山方舟 - 文档中心",
+      "snippet": "本文介绍火山方舟各模型的计费公式及单价，方便您查阅和比较模型价格，还提供计费说明链接和价格计算器预估费用，具体以实际下单结果为准。"
+    },
+    {
+      "link": "https://kr-asia.com/bytedance-sets-four-ai-priorities-for-2026",
+      "title": "ByteDance sets four AI priorities for 2026",
+      "snippet": "World models, coding, Seedance, and Doubao monetization are set to guide its AI agenda this year. ByteDance is entering 2026 with four ..."
+    },
+    {
+      "link": "https://seed.bytedance.com/zh/blog/seed2-1-officially-released-advancing-ai-productivity",
+      "title": "Seed2.1 正式发布，深入AI 生产力",
+      "snippet": "1）豆包电脑版或豆包App 选择“办公任务” 模式. 2）TRAE Work 或TRAE IDE 内置模型选择Doubao-Seed-2.1-Pro 或Doubao-Seed-2.1-Turbo. 3）火山方舟体验 ..."
+    },
+    {
+      "link": "https://www.ai-indeed.com/encyclopedia/30829.html",
+      "title": "豆包大模型2.2 什么时候升级？原定8 月发布已推迟",
+      "snippet": "豆包大模型2.2由字节跳动Seed团队研发，原定2026年8月发布已推迟。推迟旨在提升编程与Agent能力，团队已重组并坚持自研路线，新发布时间待定。"
+    },
+    {
+      "link": "https://auto.ifeng.com/c/8w1M6kmcah4",
+      "title": "【网通社快报】字节跳动推迟发布豆包大模型2.2",
+      "snippet": "据接近字节跳动的人士透露，延期原因是公司计划通过更充分的预训练和后训练，提升模型在编程、工具调用和Agent方面的能力。该决策将延长研发周期，以实现 ..."
+    },
+    {
+      "link": "https://seed.bytedance.com/zh/",
+      "title": "字节跳动Seed",
+      "snippet": "字节跳动Seed 团队成立于2023 年，致力于寻找通用智能的新方法，追求智能上限。团队研究方向涵盖LLM、语音、视觉、世界模型、基础架构、AI Infra、下一代AI 交互等， ..."
+    },
+    {
+      "link": "https://www.ithome.com/0/996/239.htm",
+      "title": "消息称字节跳动豆包大模型2.2 将推迟发布，原计划8 月推出",
+      "snippet": "IT之家 8 月30 日消息，据白鲸实验室消息，字节跳动原计划于8 月推出的豆包大模型2.2 将推迟面世。 多位接近字节的人士称，延期的原因是，字节内部 ..."
+    },
+    {
+      "link": "https://m.36kr.com/p/3838454229027072",
+      "title": "36氪独家｜2026 年字节AI 的四个关键命题",
+      "snippet": "进一步打好 Coding 的地基，做好Coding 的Dogfooding（数据回流、评测，形成飞轮），提升Agent 能力。 豆包强化商业化能力，重点场景是“办公”。 字节的 ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2081663575060497017",
+      "title": "2026年AI编程工具大全，33个主流工具一次看懂",
+      "snippet": "字节跳动的AI办公研发平台，前身是2025年初发布的TRAE，今年8月和扣子一起并进了豆包体系。Work、Code、Design三种模式一键切换，写代码是它，PPT、数据 ..."
+    },
+    {
+      "link": "https://www.21jingji.com/article/20260131/herald/2fff8881537cfa130c5d0090d11afce4.html",
+      "title": "字节CEO梁汝波：豆包AI 2026年要“勇攀高峰” 薪酬和激励要 ...",
+      "snippet": "梁汝波表示，在攀高峰的过程中，字节跳动每个业务都有需要重点突破的地方，而重中之重，是AI 模型能力要做到行业前列，并通过助手整合好已有的产品服务， ..."
+    },
+    {
+      "link": "https://seed.bytedance.com/en/blog/seed-2-0-official-launch",
+      "title": "Seed 2.0 Official Launch",
+      "snippet": "The Seed2.0 Pro and Code models have been launched on the Doubao App and TRAE, and the model API for the Seed2.0 full series is available on ..."
+    },
+    {
+      "link": "https://blog.laozhang.ai/en/posts/doubao-seed-code",
+      "title": "Doubao Seed Code: Open Source, API Model, or Coding Plan?",
+      "snippet": "ByteDance Seed's launch material says Seed2.0 includes a dedicated Code model and frames Doubao App, TRAE, and Volcano Engine as availability ..."
+    },
+    {
+      "link": "https://techjacksolutions.com/ai-tools/bytedance-seed/what-is-bytedance-seed/",
+      "title": "What Is ByteDance Seed? The Platform Behind Doubao ...",
+      "snippet": "ByteDance Seed is the research team that builds the models behind Doubao, China's most used AI assistant. Its model family spans language, video ..."
+    },
+    {
+      "link": "https://www.techinasia.com/news/bytedances-volcano-engine-debuts-coding-agent-at-1-3-promo-price",
+      "title": "ByteDance's Volcano Engine debuts coding agent at $1.3 ...",
+      "snippet": "The standard monthly subscription fee will rise to US$5.5 after the initial promotion, which began on November 11, Singles' Day in China."
+    },
+    {
+      "link": "https://news.aibase.com/news/22712",
+      "title": "ByteDance Launches a New AI Programming Model! It Only ...",
+      "snippet": "ByteDance launched the Doubao-Seed-Code programming model, achieving breakthroughs in performance, cost, and migration."
+    },
+    {
+      "link": "https://github.com/ByteDance-Seed/Seed-Coder",
+      "title": "Seed-Coder: Let the Code Model Curate Data for Itself",
+      "snippet": "Seed-Coder is a family of lightweight open-source code LLMs comprising base, instruct and reasoning models, developed by ByteDance Seed."
+    },
+    {
+      "link": "https://skywork.ai/skypage/en/doubao-seed-code-agentic-coding-guide/1990963970708561920",
+      "title": "Doubao Seed Code: The Ultimate Guide to Agentic ...",
+      "snippet": "Doubao Seed Code is a specialized programming model from ByteDance's \";Seed\" AI research team, designed specifically for agentic coding tasks."
+    },
+    {
+      "link": "https://jia.je/kb/en/software/coding_plan.html",
+      "title": "AI Coding Plan - Jiegec's Knowledge Base",
+      "snippet": "Professional Plan: 1 RMB/100 Credits per month, minimum purchase 50K Credits (500 RMB/month); available model library (varies slightly by region, Guangzhou more ..."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "RydbQMfuHRuFzxcfNxmDcZ",
+  "message_id": "1d60ff29-2aba-4ae4-a9f1-efc6473c2236",
+  "answer": "OpenCode Go は2026年時点で、月額10ドルのサブスクリプションサービスとして提供されています。初月は5ドルで利用できるのが特徴です。この料金で、OpenCodeチームが厳選したオープンソースのコーディング向けAIモデル群にアクセスできます。モデルは中国のAIラボが開発したものが中心で、米国、欧州、シンガポールのサーバーから配信されます。\n\n料金体系の詳細を見ると、初月5ドル、2ヶ月目以降は月額10ドルというシンプルな構造です。さらに、紹介リンク経由で申し込むと追加で5ドル分のクレジットが付与されるキャンペーンも存在します。この10ドルという価格は、同種のサービスと比較して非常に競争力があります。例えば、Claude Maxは月額100ドル、ChatGPT Proは月額200ドルするため、個人開発者にとっては圧倒的に手頃なエントリーレベルと言えます。\n\nただし、この10ドルが無制限利用を意味するわけではありません。OpenCode Goはドル換算の使用量制限を採用しています。具体的には、5時間ごとに12ドル分、週間で30ドル分、月間で60ドル分の使用が含まれます。つまり、月額10ドルの支払いで、市場価格で60ドル相当のAPI使用量を得られる計算で、約6倍の価値があるとされています。この制限はリクエスト数ではなく、使用したモデルの種類と複雑さに基づいて消費されます。例えば、MiniMax M2.5というモデルを使う場合、5時間で約2万リクエスト、月間で最大10万リクエストまで利用可能です。一方、GLM-5では5時間で約1,150リクエスト、月間で約5,750リクエストに留まります。このように、モデルごとに消費量が異なるため、実際の利用可能回数は選択するモデルによって大きく変動します。\n\n\n\n\n\n利用可能なモデルは時期によって更新されており、2026年時点では18種類以上のモデルが含まれています。代表的なものとして、GPT 5.6 Luna、Grok 4.5、Kimi K3、GLM-5.2、Qwen3.8 Max、DeepSeek V4、MiniMax M3などが挙げられます。これらのモデルは、OpenCodeチームがエージェント型コーディングワークフロー向けにテストし、ベンチマークを取った上で選定されています。また、無料で利用できるBig Pickleというモデルもあり、5時間あたり200リクエストまで、サブスクリプションなしで試用できます。さらに、Space Bunny FreeやLongCat 2.5 Previewといった期間限定の無料モデルも提供されることがあります。\n\n\n\n\n\nこのサブスクリプションの最大の利点は、複数のモデルプロバイダーに個別のAPIキーを管理する手間が省けることです。1つのAPIキーで全モデルにアクセスでき、OpenCode本体だけでなく、OpenAI互換のAPIエンドポイントをサポートする任意のツールでも利用できます。具体的には、Hermes Agent、OpenClaw、Pi Agent、Mastraなどで使用可能です。また、データプライバシー面では、ほとんどのプロバイダーがゼロリテンションを謳っており、コードがモデル学習に使われない設計です。ただし、Grok 4.5とGPT 5.6 Lunaは30日間のログ保持があるため、機密性の高いプロジェクトを扱う場合は注意が必要です。\n\n\n\n\n\n一方で、制限事項も存在します。ヘビーユーザーは、5時間ごとの12ドル制限を数日で使い切る可能性があります。また、モデルが中国のAIラボ製に限定されており、西側のプロプライエタリモデルは含まれません。さらに、サービスはまだベータ版であり、モデルラインナップや価格、制限が今後変更される可能性があります。また、Reddit上では量子化されたモデルが使われているという噂もありましたが、独立したテストではその証拠は見つかっておらず、むしろGo上のGLM-5.1はZ.ai上の同モデルより120Kトークン以上のコンテキストを良好に処理できたという報告もあります。\n\n\n\n\n\n実際のユーザーレビューを見ると、3週間の日常利用で制限に一度も達しなかったという声がある一方、高価なモデルを多用する場合は制限に早く達するという指摘もあります。推奨される使い方としては、日常的なルーチンワークにはMiniMaxやDeepSeek Flashなどの安価なモデルを使い、複雑な推論が必要なタスクにはGrok 4.5やGPT 5.6 Lunaを温存するという戦略です。また、Claude Codeなどの他のサブスクリプションと併用し、Goはルーチン作業用、Claudeは難易度の高い作業用と使い分けるのも効果的です。\n\n\n\n\n\n総合的に判断すると、OpenCode Goは2026年において最も安価なマルチモデルAIコーディングサブスクリプションの1つであり、特にターミナル中心の開発者にとって価値が高いと言えます。初月5ドルという低価格で試用できるため、まずは自分の使用パターンに合うかどうかを測定し、5時間、週間、月間の各制限が自分のコーディングペースに適合するかを確認することをお勧めします。制限を頻繁に超える場合は、Zenクレジットを追加で購入するか、他のプロバイダーと併用することで対応可能です。",
+  "query_analysis": {
+    "queries": [
+      "OpenCode Go 2026 subscription details",
+      "OpenCode Go 2026 subscription plan price",
+      "OpenCode Go 2026 monthly credits"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://thomas-wiegold.com/blog/opencode-go-review/",
+      "title": "OpenCode Go Review: Is the $10 AI Coding Plan Worth It?",
+      "snippet": "OpenCode Go is the cheapest multi-model AI coding subscription available in 2026. At $10 per month, the value is real — especially if you ..."
+    },
+    {
+      "link": "https://www.seerofsouls.com/opencode-go-review-is-the-10-month-coding-model-plan-worth-it/",
+      "title": "OpenCode Go Review: Is the $10/Month Coding Model Plan ...",
+      "snippet": "OpenCode Go is a budget-friendly $10/month subscription … values: $12 per 5-hour window, $30 per week, and $60 per month."
+    },
+    {
+      "link": "https://www.bitdoze.com/opencode-go-plan/",
+      "title": "OpenCode Go Review 2026: 18 AI Models for $10/Month ...",
+      "snippet": "OpenCode Go is a flat subscription from the OpenCode team: one API key, 18 models, $10/month after a $5 first month. No per-token math."
+    },
+    {
+      "link": "https://help.apiyi.com/en/opencode-go-subscription-worth-it-review-en.html",
+      "title": "Is the OpenCode GO Plan Worth Buying? $10/Month 3 ...",
+      "snippet": "OpenCode GO uses USD-equivalent billing: $12 credit every 5 hours, $30 weekly, and $60 monthly. The actual number of requests depends on which model you use— ..."
+    },
+    {
+      "link": "https://opencode.ai/v2/docs/console/go",
+      "title": "Go",
+      "snippet": "OpenCode Go gives you reliable access to popular open coding models, with two monthly plans: Plan Price Included usage Go $10/month Lower-cost access to the ..."
+    },
+    {
+      "link": "https://aiidelist.com/ide/opencode",
+      "title": "OpenCode Review 2026: Open-Source CLI, Go Pricing & ...",
+      "snippet": "The plan costs $10 per month. · It provides stable access to a curated set of open coding models. · OpenCode describes the target value as roughly six times the ..."
+    },
+    {
+      "link": "https://opencode.ai/go",
+      "title": "OpenCode Go | Low cost coding models for everyone",
+      "snippet": "Go costs $10/month. You can use it with OpenCode or any agent. Go Plus costs $40/month with higher limits. ... Subscribe to Go - $10/month with generous limits · ..."
+    },
+    {
+      "link": "https://www.creacosas.com/en/blogs/technology/opencode-go-precio-limites-opinion",
+      "title": "OpenCode Go Usage Limits in 2026: $10/Month and Is It ...",
+      "snippet": "The plan costs $5 for the first month and $10 per month from the second month on. It works as a provider inside OpenCode and can also be used ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/opencodeCLI/comments/1u29wty/whats_your_ideal_ai_subscription_stack_as_a/",
+      "title": "What's your ideal AI subscription stack as a professional ...",
+      "snippet": "$150–250/month on average. OpenCode Go Plan ($10) for DeepSeek … + NeuralWatt ($15) A cheap alternative subscription for z.ai, Kimi, and ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/opencode/comments/1vkaj1w/ways_to_utilise_the_opencode_go_plan/",
+      "title": "Ways to utilise the opencode go plan?",
+      "snippet": "1 month ago - I’ve been using the OpenCode Go plan for the past two months, primarily using DeepSeek Flash 0731 for reasoning. Even though I use it across Hermes Agent, ..."
+    },
+    {
+      "link": "https://opencode.ai/docs/go/",
+      "title": "Go",
+      "snippet": "with two monthly plans: Plan Price Included usage Go $10/month Lower-cost access to the models below Go Plus $40/month Higher usage limits. ..."
+    },
+    {
+      "link": "https://www.facebook.com/groups/vibecodinglife/posts/2128193411102518/",
+      "title": "Anyone here using the OpenCode go subscription? What ...",
+      "snippet": "3 weeks ago - It starts at $5 for the first month, then $10/month. What I like ... credits. Would love to hear what the really heavy Codex users are ..."
+    },
+    {
+      "link": "https://www.knolli.ai/post/opencode-go",
+      "title": "OpenCode Go: Things You Need to Know in 2026",
+      "snippet": "Low-cost subscription pricing at $5 for the first month and $10/month after that; Generous limits for regular coding workflows; Reliable access ..."
+    }
+  ]
+}

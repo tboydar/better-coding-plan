@@ -1,0 +1,109 @@
+{
+  "id": "aEZkY86bVGVok23ARqX2K9",
+  "message_id": "a16061b4-57c2-4c75-8ad9-fe37ce272c65",
+  "answer": "検索結果には、2026年の韓国におけるNaver HyperCLOVA Xのコーディングプランやサブスクリプション価格に関する具体的な情報は含まれていませんでした。提供された情報は、HyperCLOVA Xの概要、機能、性能評価、および関連サービスの説明に限られています。\n\n\n\nまず、HyperCLOVA Xは、韓国のインターネット大手Naverが開発した大規模言語モデル（LLM）で、2023年8月24日に公開されました。これは、韓国語に最適化された生成型AIであり、創作、要約、推論、翻訳、コーディングなどの多様な回答を提供できる対話型AIとして設計されています（検索結果[4]、[9]、[19]）。また、企業向けには、CLOVA Studioを通じてAPIが提供され、企業が自社のデータでモデルをカスタマイズできるようになっています（検索結果[4]、[8]）。さらに、2025年2月には、パラメータ数を従来比約40%に削減しながらも性能を向上させた更新版が公開されました（検索結果[15]）。\n\n\n\n性能面では、2024年4月の報告によると、HyperCLOVA Xは韓国語、一般常識、数学、コーディングの分野で、比較評価された14のモデルの中で1位を記録しました（検索結果[18]）。また、2026年9月時点で、CLOVA Xという対話型AIサービスは、2023年8月24日から2026年4月9日まで約2年半運営されたと記載されています（検索結果[6]）。ただし、この情報はサービスの運営期間に関するもので、価格やサブスクリプションプランについては触れられていません。\n\n\n\n\n\n検索結果には、コーディングに特化したサブスクリプションプランや、その価格体系についての記述は一切ありませんでした。したがって、2026年の韓国におけるNaver HyperCLOVA Xのコーディングプランや価格についての正確な情報を提供することはできません。このような情報は、Naverの公式ウェブサイトや、最新のプレスリリース、または韓国国内のテクノロジーニュースを直接確認する必要があります。\n\n\n\nなお、関連する情報として、NaverはAIスタートアップを支援するために、HyperCLOVA Xを活用した革新的なAIサービスの開発に集中しているとの記述があります（検索結果[10]）。また、HyperCLOVA XはオープンソースのAIモデルとして、企業や開発者が自由にアクセスし、商業的利用が可能であるとされています（検索結果[11]）。しかし、これらも価格やサブスクリプションの詳細には言及していません。\n\n\n\n結論として、提供された検索結果からは、2026年の韓国におけるNaver HyperCLOVA Xのコーディングプランやサブスクリプション価格に関する情報は得られませんでした。正確な価格情報を入手するには、Naverの公式発表や、韓国国内の最新のニュースソースを参照することをお勧めします。",
+  "query_analysis": {
+    "queries": [
+      "2026年 韓国AIコーディングサブスクリプション Naver HyperCLOVA X コーディングプラン 価格",
+      "2026 Korea AI coding subscription Naver HyperCLOVA X coding plan price",
+      "2026년 한국 AI 코딩 구독 네이버 하이퍼클로바 X 코딩 계획 가격"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://techcrunch.com/2023/08/24/koreas-internet-giant-naver-unveils-generative-ai-services/",
+      "title": "Korea's internet giant Naver unveils generative AI services",
+      "snippet": "HyperCLOVA X is an upgraded version of its previous LLM for the Korean language, launched in 2021. Naver says HyperCLOVA has more than 204 ..."
+    },
+    {
+      "link": "https://www.globaldeal.io/finder/segments/south-korea-ai-compute?lang=ja",
+      "title": "AI 計算基盤 × 韓国 | Finder",
+      "snippet": "HyperCLOVA X（2023 年 8 月公開、Naver 独自韓国語 LLM、CLOVA Studio ... AI 訓練向け）は 2025-2026 年導入予定。MSIT 傘下機関として AI ..."
+    },
+    {
+      "link": "https://huggingface.co/naver-hyperclovax",
+      "title": "naver-hyperclovax (HyperCLOVA X)",
+      "snippet": "NAVER's generative AI, HyperCLOVA X, demonstrates exceptional Korean language understanding within the broader societal context."
+    },
+    {
+      "link": "https://thebridge.jp/2023/08/koreas-naver-joins-generative-ai-race-with-hyperclova-x-large-language-model",
+      "title": "韓国Naver、次世代LLM「HyperCLOVA X」をローンチ",
+      "snippet": "韓国の大手インターネット企業 Naver は24日、次世代大規模言語モデル(LLM)「HyperCLOVA X」のローンチを発表した。 HyperCLOVA X を提供して自社のデー ..."
+    },
+    {
+      "link": "https://ncloud.com/product/aiService/clovaStudio",
+      "title": "CLOVA Studio - AI Services - NAVER Cloud Platform ...",
+      "snippet": "HyperCLOVA X는 한국의 문화와 맥락을 가장 잘 이해하는 생성형 AI입니다. AI 생태계와의 연결성 및 확장성을 기반으로 새로운 사용자 경험과 비즈니스 기회를 만들어 ..."
+    },
+    {
+      "link": "https://namu.wiki/w/CLOVA%20X",
+      "title": "CLOVA X",
+      "snippet": "Sep 21, 2026 - 네이버클라우드에서 개발한 HyperCLOVA X 모델을 기반으로 한 대화형 인공지능 서비스. 2023년 8월 24일부터 2026년 4월 9일까지 약 2년 반 동안 운영했다 ..."
+    },
+    {
+      "link": "https://globaldeal.io/finder/ja/articles/japan-to-south-korea-ai-compute-market-entry-2026",
+      "title": "日本企業のための韓国 AI コンピュート / NPU 市場参入ガイド ...",
+      "snippet": "(4) HyperCLOVA X / EXAONE 3.0 の韓国語 SOTA + 日本市場への接続。Naver HyperCLOVA X（2023 年 8 月公開、CLOVA Studio で API 提供、Sovereign AI ..."
+    },
+    {
+      "link": "https://clova.ai/en/clova-studio",
+      "title": "CLOVA Studio",
+      "snippet": "With CLOVA Studio, you can create your own version of HyperCLOVA X. Bring your business data and start building custom AI models and services. We offer three ..."
+    },
+    {
+      "link": "https://ledge.ai/articles/hyper_clova_x",
+      "title": "Naver 独自の大規模言語モデル「Hyper CLOVA X」発表 ...",
+      "snippet": "このうちCLOVA Xは創作、要約、推論、翻訳、コーディングなどをベースに多様な回答を提供できる対話型AIで、質問と回答を連続して続けられる。Naver内外の ..."
+    },
+    {
+      "link": "https://www.korit.jp/news/ai/platum-navercloud-ai-hyperclovax-240919/",
+      "title": "NAVER Cloud、AIスタートアップを支援...5つのHyperCLOVA ...",
+      "snippet": "特に、AI技術が産業全般にわたって中核的な競争力として浮上する中、「HyperCLOVA X」を活用したスタートアップの革新的なAIサービスの開発に集中した。"
+    },
+    {
+      "link": "https://www.navercorp.com/tech/hyperclovax",
+      "title": "HyperCLOVA X",
+      "snippet": "한국의 소버린 AI 생태계 구축을 위한 HyperCLOVA X의 오픈소스 AI 모델입니다. 기업과 개발자들이 자유롭게 접근할 수 있고 상업적 활용이 가능하여 AI 기술 혁신에 기여 ..."
+    },
+    {
+      "link": "https://cafe-dc.com/network/korean-search-giant-naver-unveils-ai-model-hyperclova-x/",
+      "title": "韓国検索大手NaverがAIモデル「HyperCLOVA X」を発表",
+      "snippet": "Naverは今回発表されたHyperClova Xの詳細については明らかにしていませんが、同社が2年前に公開した旧バージョンのパラメータの合計は2,040億でした。"
+    },
+    {
+      "link": "https://contents.premium.naver.com/banya/banyacompany/contents/230804093937468gg",
+      "title": "네이버의 새로운 초거대 AI '하이퍼클로바 X', 그리고 이를 활용한 ...",
+      "snippet": "Aug 4, 2023 - 이번 글에서는 네이버가 2023년 하반기에 공개할 새로운 초거대 AI 모델인 '하이퍼클로바 X'와 이를 기반으로 계획하고 있는 다양한 AI 서비스들에 대해 ..."
+    },
+    {
+      "link": "https://www.navercorp.com/en/tech/hyperclovax",
+      "title": "HyperCLOVA X",
+      "snippet": "HyperCLOVA X THINK is a reasoning model that generates precise reasoning by analyzing complex queries and comprehending both text and images."
+    },
+    {
+      "link": "https://www.cio.com/article/3828615/%EB%84%A4%EC%9D%B4%EB%B2%84-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-40-%EC%A4%84%EC%9D%B4%EA%B3%A0-%EC%84%B1%EB%8A%A5-%EB%86%92%EC%9D%B8-%ED%95%98%EC%9D%B4%ED%8D%BC%ED%81%B4%EB%A1%9C%EB%B0%94x-%EA%B3%B5.html",
+      "title": "네이버, 파라미터 40% 줄이고 성능 높인 하이퍼클로바X 공개",
+      "snippet": "Feb 20, 2025 - 네이버에 따르면, 업데이트된 하이퍼클로바X 모델은 기존 대비 약 40% 수준의 파라미터 수로 구성된, 상대적으로 작은 크기의 모델이지만 더 강력한 성능 ..."
+    },
+    {
+      "link": "https://blog.naver.com/n_cloudplatform/223192160315",
+      "title": "[클로바 시선#7] 하이퍼클로바X 출시 발표 요약집",
+      "snippet": "Aug 24, 2023 - 마침내 2023년 8월 24일! 팀네이버 컨퍼런스 DAN 23에서 팀네이버의 업그레이드된 초대규모 AI가 최초로 공개되었어요. 이번 컨퍼런스에서는 생성형 ..."
+    },
+    {
+      "link": "https://clova.ai/tech-blog/ko-hyperclova-x-%ED%95%9C%EA%B5%AD%EC%96%B4%EC%97%90-%EC%B5%9C%EC%A0%81%ED%99%94%EB%90%9C-%EC%B5%9C%EC%B2%A8%EB%8B%A8-ai-%EB%AA%A8%EB%8D%B8",
+      "title": "HyperCLOVA X, 한국어에 최적화된 최첨단 AI 모델",
+      "snippet": "Aug 7, 2024 - OVA X는 네이버의 초대규모 AI인 하이퍼클로바X가 적용된 기업용 서비스로 업무 생산성을 향상할 수 있는 다양한 기능을 대화형 인터페이스로 제공합니다."
+    },
+    {
+      "link": "https://dealsitetv.com/articles/114262",
+      "title": "네이버AI '하이퍼클로바X' 한국어·상식·수학·코딩 성능 입증",
+      "snippet": "Apr 4, 2024 - 이번 리포트에 따르면 하이퍼클로바X는 한국어·일반상식·수학·코딩 부문에서 1위를 기록했다. 비교 평가를 위해 선정한 14개 모델 중 가장 높은 점수를 ..."
+    },
+    {
+      "link": "https://m.blog.naver.com/happychallote/223193089628",
+      "title": "한국어가 6500배 강한 한국판생성AI 네이버하이퍼클로바X ...",
+      "snippet": "사용법은 챗GPT나 바드와 동일합니다. 기본적으로 질문을 하면 창작, 요약, 추론, 번역, 코딩등이 가능한 다양한 답변을 제공받을 수 있습니다."
+    }
+  ]
+}

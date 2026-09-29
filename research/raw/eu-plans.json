@@ -1,0 +1,330 @@
+{
+  "id": "9VCPQWD96aHvB3DevQL2dL",
+  "message_id": "319db12f-86ce-42d8-a796-db76fe7fbed9",
+  "answer": "根据提供的搜索结果，我可以为您详细比较2026年欧洲市场上几款主要AI编码订阅计划的价格，包括Gemini、Mistral Le Chat Pro和Phind。\n\n并补充相关背景信息。\n\n\n\n首先来看Mistral Le Chat Pro，这是Mistral AI公司推出的付费订阅计划，价格为每月14.99美元，不含税，这是目前主流AI公司中价格最低的付费AI聊天产品之一，低于ChatGPT Plus的每月20美元和Claude的同类价格（搜索结果1和19）。这个价格在多个来源中得到确认，例如搜索结果42和56也提到Pro计划为每月14.99美元，提供高达免费版6倍的消息额度、5倍的网络搜索次数、15GB的库存储空间，以及全天候的编码功能，包括在命令行界面、集成开发环境和网页端使用Vibe编码代理（搜索结果1和42）。此外，Mistral还提供教育优惠，经过验证的学生可以以每月5.99美元的价格订阅Pro计划，原价为14.99美元（搜索结果1），也有来源提到学生价为每月7.04美元（搜索结果56，这可能是不同时间或地区的差异。对于团队使用，Team计划为每用户每月24.99美元，按年付费可降至每用户每月19.99美元（搜索结果1和52。企业版则提供定制价格，包括自定义服务级别协议、专用支持和私有部署（搜索结果1。值得注意的是，Mistral的Pro计划还包含每月15美元的API积分，可用于在Studio中测试模型（搜索结果1，这增加了其性价比。另外，有报道称法国运营商Free Mobile曾向其用户提供为期12个月的Le Chat Pro免费订阅，包括最低2欧元套餐的用户（搜索结果24，这显示了该产品在欧洲市场的推广力度。\n\n\n\n接下来看Google的Gemini相关计划，Google在2026年推出了Google AI系列订阅，包括多个层级（搜索结果2和61。最基础的Google AI Plus计划为每月4.99美元，提供400GB存储空间和2倍于免费版的使用额度（搜索结果2和61。Google AI Pro计划为每月19.99美元，提供5TB存储空间、4倍使用额度、访问Pro模型、Deep Think功能、自定义AI专家、Gemini Live等高级功能，并包含1百万token的上下文窗口（搜索结果2和5。更高端的Google AI Ultra计划有两个版本，一个是每月99.99美元，提供20TB存储空间和5倍于Pro计划的使用额度；另一个是每月199.99美元，提供30TB存储空间和20倍于Pro计划的使用额度（搜索结果2和61。值得注意的是，Google在2026年的I/O大会上宣布将Ultra计划的月费从250美元降至200美元，但搜索结果2中显示的是199.99美元，这可能反映了不同版本或促销活动（搜索结果57。Google AI Pro和Ultra计划还包含YouTube Premium、Google Home Premium等额外福利，以及Google Cloud月度积分，Pro计划为每月10美元，Ultra计划为每月40美元或100美元（搜索结果2。对于开发者，Google还提供Gemini Code Assist Standard计划，月付价格为每用户每月22.80美元，年付价格为每用户每月19美元（搜索结果14。此外，Google AI Studio提供API访问，其Gemini 3.8 Flash模型的API价格为每百万输入token 0.75美元（搜索结果11和49，这属于按用量计费的模式，与订阅计划不同（搜索结果20显示Gemini API价格范围从每百万输入token 0.10美元到2.00美元不等，具体取决于模型（搜索结果20。\n\n\n\n再看Phind AI，这是一款专为开发者设计的AI搜索引擎和编码助手，其核心优势在于结合实时网络搜索和深度代码理解，支持几乎所有主流编程语言，如Python、JavaScript、Java、C++、C#、PHP、Go、Ruby和TypeScript（搜索结果4。Phind提供完全免费的版本，每日有有限的查询次数，适合初学者或轻度使用（搜索结果4和58。其付费Pro计划为每月20美元，提供每天500次以上的Phind-70B和GPT-4模型使用额度，支持图像分析，以及32,000 token的输入长度（搜索结果13和38。另有来源提到Phind Pro为每月20美元，用于无限使用高级模型，包括Phind-70B、GPT-4o和Claude 3.5 Sonnet（搜索结果38。不过，也有搜索结果22指出，与AI编码工具的中位入门价格每月20美元相比，Phind的免费版价格为零，处于或低于市场水平，而该类别价格范围从每月10美元到30美元不等（搜索结果22。Phind还提供API服务，例如Phind Code LLaMA v2（34B）模型的API价格为每百万输入和输出token各0.84美元（搜索结果31，以及更便宜的模型选项（搜索结果50。Phind与Visual Studio Code集成，方便开发者在IDE中直接使用AI辅助（搜索结果58。\n\n\n\n\n\n从欧洲市场的角度来看，这些AI编码工具的价格和功能各有侧重，需要根据您的具体需求来选择。如果您追求最低的入门价格和欧洲本土AI公司的产品，Mistral Le Chat Pro以每月14.99美元的价格提供了全面的编码功能，包括全天候的Vibe编码代理，并且有学生优惠和团队折扣，性价比很高（搜索结果1、19、42。如果您已经深度使用Google生态，如Gmail、Docs、Drive等，那么Google AI Pro计划以每月19.99美元的价格不仅提供强大的AI功能，还附带5TB存储空间和多种Google服务福利，可能更适合您（搜索结果2和36，有用户甚至表示从每月100美元的Claude Max降级到20美元的Google AI Pro后并未感到功能缺失（搜索结果36。如果您是专业开发者，主要需求是快速解决编码问题和调试，那么Phind的免费版已经足够日常使用，而Pro版每月20美元则提供更强大的模型和无限使用额度，特别适合频繁的编码工作（搜索结果4、13、38。\n\n\n\n\n\n还需要注意的是，欧洲的AI监管环境也在影响这些服务，欧盟人工智能法案（EU AI Act）于2026年8月生效，对AI系统提供商施加了透明度等义务，特别是对通用目的AI模型（搜索结果8和59。这意味着在欧洲运营的AI服务，包括上述的Gemini、Mistral和Phind，都需要遵守相关法规，这可能影响其功能或数据使用方式（搜索结果26和51。例如，搜索结果26提到，AI编码工具需要在2026年8月前根据法案附件III进行分类和文档映射（搜索结果26。因此，在选择AI编码订阅时，除了价格，还应考虑提供商是否符合欧盟法规，以及数据隐私和安全性，特别是对于企业用户（搜索结果27指出，美国AI提供商对欧洲公司可能构成GDPR风险，而欧洲本土的Mistral可能在这方面更有优势（搜索结果27和37。\n\n\n\n\n\n总结来说，2026年欧洲市场上，Mistral Le Chat Pro以每月14.99美元成为最便宜的付费AI编码订阅，适合预算有限且需要全面编码功能的用户；Google AI Pro以每月19.99美元提供更丰富的生态整合和存储空间，适合Google用户；Phind则以免费版和每月20美元的Pro版满足不同层次的开发者需求，特别擅长编码搜索和调试。您可以根据自己的预算、使用频率、生态偏好和合规需求来选择最适合的方案，如果可能，建议先利用各家的免费版或试用期来体验实际效果，再做决定。",
+  "query_analysis": {
+    "queries": [
+      "Le Chat Pro AI coding plan pricing",
+      "2026 Gemini AI coding plan pricing",
+      "2026 Le Chat Pro AI coding plan pricing",
+      "2026 Mistral AI coding plan pricing",
+      "2026 Europe EU AI coding plan pricing",
+      "Phind AI coding plan pricing",
+      "Gemini AI coding plan pricing",
+      "2026 Europe EU AI coding plan",
+      "Mistral AI coding plan pricing"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://mistral.ai/pricing/",
+      "title": "Pricing - Mistral",
+      "snippet": "$30 /mo in API credits. Chat and email support. Free plan provides limited access to Vibe, including our latest models, chat, search, creation, and Vibe for ..."
+    },
+    {
+      "link": "https://one.google.com/intl/en_us/about/google-ai-plans/",
+      "title": "Google AI plans with Cloud Storage",
+      "snippet": "Explore Google AI plans. Access our most advanced AI, generate videos from text, and secure cloud storage."
+    },
+    {
+      "link": "https://www.reddit.com/r/MistralAI/comments/1rwo9rs/is_mistral_ai_actually_worth_it_or_is_it_just/",
+      "title": "Is Mistral AI actually worth it, or is it just cheap? : r/MistralAI",
+      "snippet": "I’m considering getting a Mistral AI subscription (monthly or yearly) mainly because it’s cheaper than other AI tools.\n\nBut I haven’t used it much, ..."
+    },
+    {
+      "link": "https://phindai.org/",
+      "title": "Phind AI: Search Engine for Developers | Solve Coding ...",
+      "snippet": "Yes! It provides a completely free version for all developers. So they can use it to search for coding solutions and programming help."
+    },
+    {
+      "link": "https://gemini.google/subscriptions/",
+      "title": "Google AI Pro & Ultra — get access to Gemini 3.1 Pro & more",
+      "snippet": "Starting at: $99.99/ month. AI Pro $199.99 / month: Solve complex problems with your code Upload your code repository, up to 30k lines of code, Docs, and more ..."
+    },
+    {
+      "link": "https://chatgpt.com/pricing/",
+      "title": "Pricing",
+      "snippet": "Paid plans (Plus, Pro, Business, and Enterprise) are priced per user per month. We offer monthly plans for Plus, Pro, and Business and annual plans for ..."
+    },
+    {
+      "link": "https://pricepertoken.com/pricing-page/provider/mistral-ai",
+      "title": "Mistral AI API Pricing (Updated 2026)",
+      "snippet": "Currently, Mistral Nemo is the most affordable at $0.02 per 1M input tokens. How do I estimate cost for a Mistral AI API session? Count your input tokens ( ..."
+    },
+    {
+      "link": "https://artificialintelligenceact.eu/",
+      "title": "EU Artificial Intelligence Act | Up-to-date developments and ...",
+      "snippet": "According to Article 57 of the AI Act, each Member State must establish at least one AI regulatory sandbox at the national level by 2 August 2026."
+    },
+    {
+      "link": "https://jannikreinhard.com/ai-models-2026-comparison-europe/",
+      "title": "AI Models in 2026: What I Would Actually Pick",
+      "snippet": "Compare AI models by quality, cost, context and EU hosting. June 2026 snapshot with workload recommendations and data-sovereignty ..."
+    },
+    {
+      "link": "https://mistral.ai/products/vibe/",
+      "title": "Mistral Vibe (formerly Le Chat) - AI chat and coding agent",
+      "snippet": "What can I do on the free plan? Get quick answers, search the web, and handle simple tasks. Upgrade to Pro for agents, long-horizon tasks, and all-day coding."
+    },
+    {
+      "link": "https://www.nocode.mba/articles/google-ai-studio-pricing",
+      "title": "Google AI Studio Pricing (2026): Free, Paid Plans & Gemini ...",
+      "snippet": "Updated September 25, 2026: Google's current Gemini API pricing documentation lists Gemini 3.8 Flash Standard at $0.75 per 1M input tokens ..."
+    },
+    {
+      "link": "https://docs.mistral.ai/admin/billing-usage/subscriptions",
+      "title": "Subscriptions | Mistral Docs",
+      "snippet": "For the latest plan details, usage budgets, and model pricing, see Mistral pricing. Mistral Code seats, Free mode, Pro, Education, Team, and Enterprise. add ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1b5i8oz/phindcom_pro_subscription/",
+      "title": "phind.com pro subscription : r/ChatGPT",
+      "snippet": "PHIND PRO $20/mo. 500+ Phind-70B and GPT-4 uses per day Analyze images with GPT-4 32,000 tokens input length."
+    },
+    {
+      "link": "https://codeassist.google/products/business",
+      "title": "Gemini Code Assist for teams and businesses",
+      "snippet": "Gemini Code Assist Standard (monthly) Price $22.80 per user per month. Gemini Code Assist Standard (annual) Price $19 per user per month with an upfront annual ..."
+    },
+    {
+      "link": "https://www.getaiperks.com/en/ai/mistral-ai-free-credits-2026",
+      "title": "Mistral AI Free Credits 2026: Le Chat, Devstral, Codestral ...",
+      "snippet": "Mistral AI in 2026 offers the cheapest mainstream AI chat product (Le Chat Pro at $14.99/month), free API access to Devstral Small 2505, and a ..."
+    },
+    {
+      "link": "https://mistral.ai/products/studio/",
+      "title": "Mistral Studio | Your AI production platform.",
+      "snippet": "One platform to build, deploy, and govern agentic AI systems—all with enterprise privacy, security, and full ownership of your data."
+    },
+    {
+      "link": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "title": "AI Act | Shaping Europe's digital future - European Union",
+      "snippet": "The July 2026 action plan on Cybersecurity and AI sets out a coordinated approach to help Member States, businesses and public authorities address cybersecurity"
+    },
+    {
+      "link": "https://www.euacc.ai/programmes/ai-continent",
+      "title": "Digital Europe Programme — AI & Supercomputing - EUACC",
+      "snippet": "Complete guide to Digital Europe Programme — AI & Supercomputing: €2M–5M per project (open AI-DATA-10 call); €1M–17.5M across 2026 AI-09 topics available, ..."
+    },
+    {
+      "link": "https://www.cloudzero.com/blog/mistral-api-pricing/",
+      "title": "Mistral API Pricing In 2026: Models, Le Chat Plans, And ...",
+      "snippet": "Mistral Le Chat Pro pricing at $14.99/month is the cheapest paid AI chat product from a major provider, less than ChatGPT Plus ($20) or Claude ..."
+    },
+    {
+      "link": "https://www.cloudzero.com/blog/gemini-pricing/",
+      "title": "Gemini pricing in 2026: models, plans, and thinking tokens",
+      "snippet": "Gemini API pricing ranges from $0.10 per million input tokens to $2.00 per million. Full 2026 model table, subscription plans, and costs."
+    },
+    {
+      "link": "https://mistral.ai/pricing/api/",
+      "title": "Pricing - Mistral",
+      "snippet": "Explore pricing for Mistral Vibe and APIs. Regional inference +10% available for 75% above list pricing on select APIs. Cutting-edge AI models across text, ..."
+    },
+    {
+      "link": "https://ideaproof.io/saas-pricing/product/phind",
+      "title": "Phind Pricing 2026: Plans & Real Costs",
+      "snippet": "Against the AI Coding Tools median entry price of $20/mo, Phind at $0/mo is at or below the market. The category range runs from $10 to $30. What pricing model ..."
+    },
+    {
+      "link": "https://ai.google.dev/gemini-api/docs/pricing",
+      "title": "Gemini Developer API pricing",
+      "snippet": "Estimated pricing is based on 25 audio tokens per second for input and 175 text tokens per minute for output, for an effective blended rate of ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/MistralAI/comments/1ilcxab/12_months_of_mistral_ais_le_chat_pro_starting/",
+      "title": "12 Months of Mistral AI's 'Le Chat Pro' Starting February ...",
+      "snippet": "Just heard some awesome news – Free Mobile is giving all its subscribers, including those on the €2 plan, a full year of Mistral AI's premium ..."
+    },
+    {
+      "link": "https://flowlyn.com/tools/mistral-api-pricing-calculator",
+      "title": "Mistral API Pricing Calculator | Estimate Your AI Costs",
+      "snippet": "Mistral Small 4 excels in agentic tasks, coding, and multimodal understanding at just $0.15/M input—perfect for high-volume production workloads. Devstral 2: ..."
+    },
+    {
+      "link": "https://www.augmentcode.com/guides/eu-ai-act-2026",
+      "title": "The 2026 EU AI Act and AI-Generated Code",
+      "snippet": "Classify your AI coding tools under the EU AI Act before August 2026 using Annex III analysis, documentation mapping, and a 90-day ..."
+    },
+    {
+      "link": "https://www.innogpt.de/en/blog/ai-providers/ai-provider-comparison",
+      "title": "AI Provider Comparison 2026: The 12 Best AI Platforms",
+      "snippet": "This comprehensive AI provider comparison 2026 shows you why popular US providers represent an incalculable GDPR risk for European companies. We ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/MistralAI/comments/1kszptc/le_chat_worth/",
+      "title": "Le chat worth? : r/MistralAI",
+      "snippet": "Hello Mistral community,\n\nCan someone help me understand who the ideal customer is for the Le Chat pro plan? It has a similar price to something like gemini ..."
+    },
+    {
+      "link": "https://geminicli.com/plans/",
+      "title": "Plans",
+      "snippet": "Plans ; Free. Get Started. Great for getting started and exploring Gemini CLI. Authenticate instantly with your Google Account ; Google AI Pro."
+    },
+    {
+      "link": "https://locoroo.net/reports/2026-april/mistral-ai",
+      "title": "Mistral AI - AI Coding Agents Report: April 2026 - Locoroo",
+      "snippet": "Consumer plans range from $0 (Free) to $24.99/user/mo (Team), with Enterprise pricing custom. Pro at $14.99/mo includes the Vibe CLI, priced ..."
+    },
+    {
+      "link": "https://aimlapi.com/models/phind-code-llama-v2-34b",
+      "title": "Phind Code LLaMA v2 (34B) — API Pricing and Benchmarks",
+      "snippet": "Phind Code LLaMA v2 (34B) is priced at input $0.84 / 1M, output $0.84 / 1M. Does Phind Code LLaMA v2 (34B) support streaming?"
+    },
+    {
+      "link": "https://me.developers.google.com/benefits",
+      "title": "Benefits | Google Developer Program",
+      "snippet": "Join Builders Hub, powered by Google Developer Program and take advantage of Cloud credits, Google Skills credits, Gemini in documentation & tools and other"
+    },
+    {
+      "link": "https://aionx.co/ai-comparisons/mistral-ai-review/",
+      "title": "Mistral AI Review: Le Chat, Pricing & ChatGPT Comparison",
+      "snippet": "With Le Chat Pro priced at $15/month versus ChatGPT Plus at $20/month, and faster response speeds of up to 1,000 words per second, Mistral ..."
+    },
+    {
+      "link": "https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence",
+      "title": "European approach to artificial intelligence",
+      "snippet": "The plan is to build large-scale AI data and computing infrastructures, July 2026 EU launches AI Gigafactories call to boost Europe's computing capacity and ..."
+    },
+    {
+      "link": "https://www.datacamp.com/blog/mistral-le-chat",
+      "title": "Mistral Le Chat: Europe's Answer to ChatGPT",
+      "snippet": "The Pro plan for Le Chat starts at just $14.99 per month, with discounts that can lower the price to as little as $6.99 per month. There's even ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/Bard/comments/1pxxo7c/the_20_google_ai_pro_plan_is_a_deal_thats/",
+      "title": "The $20 Google AI Pro plan is a deal that's honestly too good",
+      "snippet": "I just made the jump from a $100 claude max sub down to the $20 google pro plan, and I don't feel like I'm losing anything. In fact, I'm gaining ..."
+    },
+    {
+      "link": "https://aiidelist.com/blog/mistral-ai-2026",
+      "title": "Mistral AI 2026: Models, Vibe, Pricing & Funding",
+      "snippet": "Mistral AI in 2026: models, Vibe, pricing, funding, open-weight strategy, enterprise stack, and how it compares with major AI rivals."
+    },
+    {
+      "link": "https://tolky.to/en/descobrir-ia/phind",
+      "title": "Phind: The AI search engine and assistant built ... - Tolky",
+      "snippet": "Phind Pro at $20/month for unlimited use of advanced models (Phind-70B, GPT-4o, Claude 3.5 Sonnet). Free $0 Daily queries with the standard Phind model Pro $20 ..."
+    },
+    {
+      "link": "https://cloud.google.com/products/gemini/pricing",
+      "title": "Gemini for Google Cloud pricing",
+      "snippet": "Standard edition ; Gemini Code Assist Standard. $0.031232877 / 1 hour, $0.026027397 / 1 hour ..."
+    },
+    {
+      "link": "https://aisubscriptioncomparison.com/",
+      "title": "AI Subscription Comparison: Plans, Pricing & Features (2026)",
+      "snippet": "Mistral Le Chat Pro at $15/mo is the cheapest paid AI subscription from a dedicated AI company. It provides access to Mistral Large and Medium models with ..."
+    },
+    {
+      "link": "https://www.softwareimprovementgroup.com/blog/eu-ai-act-summary/",
+      "title": "A comprehensive EU AI Act Summary [August 2026 update]",
+      "snippet": "Our 2026 AI Boardroom Gap report examines why many organizations struggle to convert their AI ambitions into safe, scalable implementation."
+    },
+    {
+      "link": "https://felloai.com/mistral-ai-pricing/",
+      "title": "Mistral AI Pricing 2026: Vibe (Le Chat) Plans & API Costs",
+      "snippet": "Vibe Pricing Plans (Formerly Le Chat) ; Pro, $14.99/mo, Up to 6x the free message allowance, 5x the web searches, 15GB library, All-day coding in ..."
+    },
+    {
+      "link": "https://aionx.co/ai-comparisons/ai-pricing-comparison/",
+      "title": "AI Pricing Comparison 2026: ChatGPT, Claude, Gemini | AionX",
+      "snippet": "ChatGPT, Claude, Gemini, and Grok — all in one plan for $20/month instead of $80+ separately. Get All 4 AI Models — $20/Month. via Bluehost AI ..."
+    },
+    {
+      "link": "https://www.capterra.com/p/10015254/phind/",
+      "title": "phind Software Pricing, Alternatives & More 2026",
+      "snippet": "Phind also offers a paid Pro plan with extra features. with a limited number of free monthly uses. Starting price Get Price"
+    },
+    {
+      "link": "https://www.reddit.com/r/Bard/comments/1oab3ia/can_someone_explain_the_differences_between/",
+      "title": "Can someone explain the differences between paying $20 a month for 2.5 ...",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.multichats.ai/blog/cost-to-use-all-ai-models",
+      "title": "How Much Does It Cost to Use All AI Models? (2026)",
+      "snippet": "Mistral Le Chat. Pro. $14.99. Le Chat, European models. Six chat tools ... The annual Pro plan ($199.99) works out to about $16.67 a month ..."
+    },
+    {
+      "link": "https://progresschamber.org/insights/eu-ai-code-suffering-from-scope-creep/",
+      "title": "EU's AI Code is Suffering From Scope Creep",
+      "snippet": "The EU's regulatory guidance to AI companies is being hijacked, causing delays and undoing years of political negotiations."
+    },
+    {
+      "link": "https://ifnotnil.com/t/i-tried-le-chat-ai-from-mistral-eu-based-ai/4301",
+      "title": "I tried Le Chat AI from Mistral (EU based AI)",
+      "snippet": "For the cheaper monthly subscription price of 14 USD, I think Le Chat offers better value for money than ChatGPT."
+    },
+    {
+      "link": "https://felloai.com/gemini-pricing/",
+      "title": "Gemini Pricing 2026: Plans, API & Workspace Cost Guide",
+      "snippet": "Gemini pricing 2026 explained, with AI Plus at $4.99, Pro at $19.99, Ultra from $99.99, Gemini 3.8 Flash API rates at $0.75/$3.75 and ..."
+    },
+    {
+      "link": "https://aipricing.org/brands/phind",
+      "title": "Phind API Pricing 2026 | Models, Token Cost & Calculator",
+      "snippet": "Phind API pricing: 2 models from Free to Free/1M input tokens. Compare Phind models, calculate costs, and find the best option for your use case."
+    },
+    {
+      "link": "https://www.linkedin.com/pulse/eu-ai-act-what-companies-need-know-2026-kobil-group-c0eyf",
+      "title": "The EU AI Act: What companies need to know in 2026",
+      "snippet": "The EU AI Act represents a milestone in European AI regulation and will significantly influence the strategic direction of many companies."
+    },
+    {
+      "link": "https://techjacksolutions.com/ai-tools/mistral/mistral-pricing/",
+      "title": "Mistral Pricing & Le Chat Plans: Complete Guide (2026)",
+      "snippet": "Pro Plan Le Chat Pro: $14.99/Month … s $24.99 per user per month on monthly billing, dropping to $19.99 per user per month when billed annually. r / Solo ..."
+    },
+    {
+      "link": "https://www.sentisight.ai/ai-price-comparison-gemini-chatgpt-claude-grok/",
+      "title": "2026 AI Subscription Prices: Gemini vs ChatGPT vs Claude",
+      "snippet": "Compare 2026 monthly AI subscription costs for Gemini, ChatGPT, Claude, and Grok. Full pricing breakdown from free tiers to $300/month ..."
+    },
+    {
+      "link": "https://codegpt.co/pricing",
+      "title": "Pricing - AI Coding Plans from $0 to $30/month",
+      "snippet": "Flexible pricing for developers and teams. Free every day: 10 AI interactions on us. Professional from $9/mo for premium models. to 10% Free AI coding. Economy ..."
+    },
+    {
+      "link": "https://www.amnesty.org/en/latest/campaigns/2026/04/eu-simplification-laws/",
+      "title": "How EU proposals to “simplify” tech laws roll back our rights",
+      "snippet": "In November 2025, it unveiled proposals for sweeping changes to major laws like the AI Act and the General Data Protection Regulation (GDPR). At ..."
+    },
+    {
+      "link": "https://www.grizzlypeaksoftware.com/articles/p/mistral-ai-pricing-in-2026-pro-costs-free-tier-limits-and-api-rates-lx4o2n2v",
+      "title": "Mistral AI Pricing in 2026: Pro Costs, Free Tier Limits, and ...",
+      "snippet": "Le Chat Free Tier: What You Actually Get · Le Chat Pro: $14.99/Month · Student Plan: $7.04/Month · Team and Enterprise: Custom Pricing · API Pricing ..."
+    },
+    {
+      "link": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+      "title": "Google AI subscription updates from Google I/O 2026",
+      "snippet": "We're also reducing the monthly price of our top-tier AI Ultra plan from $250 to $200. You'll get the exact same capabilities — including a 20X ..."
+    },
+    {
+      "link": "https://aiforbusinessautomation.com/tools/phind-ai-review/",
+      "title": "Phind AI Review 2026 - AIFBA",
+      "snippet": "Yes, Phind offers a free plan with limited daily queries. ... Yes, Phind integrates with Visual Studio Code, allowing developers to access AI assistance directly ..."
+    },
+    {
+      "link": "https://shiftmag.dev/how-developers-should-build-ai-tools-so-the-eu-doesnt-lose-it-9482/",
+      "title": "EU AI Act Compliance: How to Build It Into Your Product",
+      "snippet": "The August 2026 deadline for the EU AI Act is getting close, and companies and developerds building AI products are starting to feel it."
+    },
+    {
+      "link": "https://wise.com/gb/blog/mistral-ai-pricing",
+      "title": "Mistral AI pricing and plans guide for the UK",
+      "snippet": "The Pro plan costs $14.99 per month (approximately £11.5 at current rates). This is a flat monthly subscription for one user. There isn't a ..."
+    },
+    {
+      "link": "https://geotoolbox.ai/blog/gemini-pricing",
+      "title": "Gemini Pricing in 2026: Plans, API Costs, and Is It Free?",
+      "snippet": "Gemini is free to start. Paid consumer plans are Google AI Plus at $4.99, Google AI Pro at $19.99, and Google AI Ultra at $99.99 or $199.99 a month, as of July ..."
+    },
+    {
+      "link": "https://aitoolsdevpro.com/ai-tools/phind-guide/",
+      "title": "Phind Guide 2026: Features, Pricing, How to Use & Complete ...",
+      "snippet": "Comprehensive guide to Phind usage, features, pricing, and best practices for developers in 2026. Covers V8 models, IDE integration, and enterprise APIs."
+    }
+  ]
+}
