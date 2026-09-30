@@ -14,6 +14,20 @@
 set -uo pipefail
 cd "$(dirname "$0")/.."
 
+# --- self-contained environment (launchd has no shell env/PATH/HOME) ---
+export HOME="${HOME:-/Users/$(whoami 2>/dev/null || echo eugene)}"
+# common node/npm locations (for npx)
+for _p in "$HOME/.nvm/versions/node/"*/bin /opt/homebrew/bin /usr/local/bin /usr/bin /bin; do
+  case ":$PATH:" in *":$_p:"*) : ;; *) PATH="$_p:$PATH" ;; esac
+done
+export PATH
+export NVM_DIR="${NVM_DIR:-$HOME/.nvm}"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" >/dev/null 2>&1 || true
+
+export NONINTERACTIVE=1
+# persist caches under $HOME so npx works under launchd even without a shell env
+export npm_config_cache="${npm_config_cache:-$HOME/.npm}"
+
 TODAY="${BCP_DATE:-$(date -u +%Y-%m-%d)}"
 PUSH="yes"
 DRY="no"
@@ -27,7 +41,7 @@ while [[ $# -gt 0 ]]; do
   esac
 done
 
-export FELO_API_KEY="${FELO_API_KEY:-$(grep -o 'FELO_API_KEY=\"[^\"]*\"' "$HOME/.zshrc" 2>/dev/null | cut -d'\"' -f2)}"
+export FELO_API_KEY="${FELO_API_KEY:-$(awk -F'"' '/^export FELO_API_KEY=/{print $2; exit}' "$HOME/.zshrc" 2>/dev/null)}"
 if [ -z "$FELO_API_KEY" ]; then
   echo "FELO_API_KEY not found" >&2
   exit 3
@@ -111,7 +125,18 @@ mkdir -p "$(dirname "$SUMMARY")"
     slug="${SLUGS[$idx]}"
     out="${TODAY_RAW}/${slug}-daily-${TODAY}.json"
     if [ -s "$out" ]; then
-      echo "| $slug | ✅ | $(wc -c < "$out" | tr -d ' ')B |"
+      # detect empty/no-result answers so bad queries get noticed
+      ans="$(python3 -c "import json,sys
+try:
+  d=json.load(open('$out'))
+  s=(d.get('data',d).get('answer') or d.get('answer') or '').strip()
+  print('EMPTY' if (not s or len(s)<10 or '搜索结果为空' in s or '无法找到' in s) else 'OK')
+except Exception: print('BAD')" 2>/dev/null)"
+      if [ "$ans" = "OK" ]; then
+        echo "| $slug | ✅ | $(wc -c < "$out" | tr -d ' ')B |"
+      else
+        echo "| $slug | ⚠️ 弱結果/$ans | $(wc -c < "$out" | tr -d ' ')B |"
+      fi
     else
       echo "| $slug | ⚠️ 失敗/無內容 | — |"
     fi

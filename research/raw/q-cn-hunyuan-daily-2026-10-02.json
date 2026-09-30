@@ -1,0 +1,113 @@
+{
+  "id": "KiWd5YPmRYTuStkKSnypUN",
+  "message_id": "487a75a3-e437-4b94-99ff-aa8d1aab193d",
+  "answer": "根据搜索结果，2026年腾讯混元相关的Coding Plan价格信息如下。\n\n\n\n腾讯云推出的Coding Plan主要分为Lite和Pro两档，价格分别为每月40元和每月200元，新用户首月有优惠，Lite版首月为7.9元，Pro版首月为39.9元，这一价格体系在多个来源中得到确认，例如2026年3月的AI早报和2026年5月的对比报告中都有提及，同时也有信息显示腾讯云Coding Plan的Lite版为40元每月，Pro版为200元每月，支持OpenClaw和Cursor等主流工具，并且腾讯云还推出了TokenHub服务，聚合了混元2.0、GLM-5、Kimi-K2.5等主流模型，适配AI编码全场景，价格为39元每月起，这可能是另一种套餐形式，与Coding Plan的定价略有不同，但都归属于腾讯云的大模型服务范畴，用户可以根据自身需求选择适合的套餐，对于腾讯混元系列模型本身，在Coding Plan中通常作为可选模型之一，而非单独定价的套餐，例如在腾讯云Coding Plan的模型列表中，包含了混元系列的多款模型，如hunyuan-2.0-instruct、hunyuan-2.0-thinking、hunyuan-t1和hunyuan-turbos等，这些模型通过订阅套餐即可调用，无需额外按次付费，此外，腾讯云还提供了按量付费的API调用方式，例如混元Hy3模型的输入价格为每百万token约0.132美元，输出价格约0.528美元，而新一代的Hy4 Preview模型输入价格为每百万token约0.834美元，输出价格约2.501美元，这些按量价格适合使用量波动较大或不想订阅固定套餐的用户，总体来看，2026年腾讯混元Coding Plan的价格以订阅制为主，Lite版40元每月和Pro版200元每月是核心档位，首月优惠力度较大，同时也有TokenHub等聚合服务提供更灵活的入门选择，按量付费的API价格则作为补充，满足不同使用场景的需求，用户在选择时，应结合自己的开发频率、模型偏好和预算，综合考虑订阅套餐与按量计费两种方式的性价比，以找到最适合自己的方案。",
+  "query_analysis": {
+    "queries": [
+      "2026 腾讯混元 coding 编程 plan 价格",
+      "2026 Tencent Hunyuan coding plan price"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://post.smzdm.com/p/anvzqv2v",
+      "title": "腾讯云推出Coding Plan【AI 早报2026-03-07】_服务软件",
+      "snippet": "腾讯云推出Coding Plan【AI 早报2026-03-07】 ; Lite 版, 7.9 元, 20 元 ; Pro 版, 39.9 元, 100 元 ..."
+    },
+    {
+      "link": "https://jia.je/kb/en/software/coding_plan.html",
+      "title": "AI Coding Plan - Jiegec's Knowledge Base",
+      "snippet": "2026/02/12: GLM Coding Plan prices changed from 40/200/400 RMB/month to 49/149/469 RMB/month; meanwhile, usage quotas were reduced to 2/3 of the original:"
+    },
+    {
+      "link": "https://mastra.ai/models/providers/tencent-coding-plan",
+      "title": "Tencent Coding Plan (China) Models: IDs, Context & Usage",
+      "snippet": "Browse Tencent Coding Plan (China) model IDs, capabilities, and context windows. $/1M Output $/1M tencent-coding-plan/glm-5 203K plan/hunyuan-2.0-instruct 131K"
+    },
+    {
+      "link": "https://pricepertoken.com/pricing-page/provider/tencent",
+      "title": "Tencent API Pricing (Updated 2026)",
+      "snippet": "Complete Tencent API pricing guide for 2026. 2026 Hunyuan HY3 Preview $0.18 / $0.60 Hy3-preview (Non-reasoning)"
+    },
+    {
+      "link": "https://kilo.ai/models/by/tencent",
+      "title": "Tencent Coding Models on Kilo Code (2026)",
+      "snippet": "Tencent Hunyuan coding models in Kilo Code. Compare hosted Hunyuan pricing, benchmarks, and developer. Top Coding58.8index Price$0.13–$0.14 / 1M ininput range ..."
+    },
+    {
+      "link": "https://www.163.com/dy/article/KORQUAEJ05445SO5.html",
+      "title": "2026 国内Coding Plan 全解析：8 大厂套餐横评，性价比之王 ...",
+      "snippet": "腾讯云CodeBuddy Coding Plan（微信生态）. 价格：45元/月；企业版另议. 额度：约2,000次/5小时；每周限额. 模型：腾讯混元代码专用模型. 特点：微信生态 ..."
+    },
+    {
+      "link": "https://cloud.tencent.com/document/product/1823/130092",
+      "title": "大模型服务平台TokenHub Coding Plan 概述 - 腾讯云",
+      "snippet": "腾讯云Coding Plan是为AI编程场景推出的订阅套餐，提供Lite（40元/月）和Pro（200元/月）两档，支持OpenClaw、Cursor等主流工具."
+    },
+    {
+      "link": "https://www.tencentcloud.com/act/pro/tokenhub",
+      "title": "TokenHub – One API for DeepSeek, GLM, Kimi & More",
+      "snippet": "Full model pricing ; Tencent Hunyuan Hy4 Preview New, Agentic · Coding · Productivity, $0.834 ; Tencent Hunyuan Hy3, General · Coding, $0.132 ; DeepSeek-V4-Flash ( ..."
+    },
+    {
+      "link": "https://cloud.tencent.com/developer/article/2654022",
+      "title": "OpenClaw这样买Token最划算：一文看懂各大平台Coding Plan",
+      "snippet": "注：价格以2026年3月底官方正价为准，首月优惠为新用户专属，具体以下单 ... 腾讯生态用户. 腾讯云Pro ¥200. —. 混元独家，双协议，CodeBuddy集成 ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2039774524376404404",
+      "title": "2026年5月主流AI Coding Plan平台全面对比：能力",
+      "snippet": "Coding Plan价格亲民,Lite版¥40/月,Pro版¥200/月,支持DeepSeek‐V4‐Flash、GLM‐5.1等主流模型. Coding Plan价格体系: 套餐首月价格连续包月5小时请求数月请求数Lite ¥40 ¥ ..."
+    },
+    {
+      "link": "https://llmpricing.dev/p/tencent-coding-plan/",
+      "title": "Tencent Coding Plan (China) - LLM Pricing",
+      "snippet": "Hosted models by blended price asc ; Hunyuan-TurboShunyuan-turbos, Subscription, $0, 131,072 ; Tencent HY 2.0 Instructhunyuan-2.0-instruct, Subscription, $0 ..."
+    },
+    {
+      "link": "https://blog.csdn.net/coolyoung520/article/details/158321671",
+      "title": "国内AI 编程Coding Plan 深度调研报告（2026年2月） 原创",
+      "snippet": "作者购买了国内主流AI编程服务进行比较，重点体验了腾讯云7.9元/月的套餐，支持多种大模型和编程工具。测试发现腾讯云混元模型能生成详细开发计划，但 ..."
+    },
+    {
+      "link": "https://torchtree.com/en/post/guonei-ai-coding-plan-xuan-gou-zhi-nan/",
+      "title": "Guide to Buying China's Mainstream AI Coding Plans",
+      "snippet": "Tencent Cloud ¥40 (first month ¥7.9) ¥200 Same as Bailian Hunyuan series, ¥19.9/month 1,000/ Prompt"
+    },
+    {
+      "link": "https://github.com/will-17173/coding-plan-collection",
+      "title": "最全的Coding Plan 汇总",
+      "snippet": "摩尔线程（Coding Plan） ; Lite Plan, ¥120/季度, 每5 小时最多约120 次prompts, GLM-4.7, Claude Pro 套餐的3 倍用量 ; Pro Plan, ¥600/季度, 每5 小时 ..."
+    },
+    {
+      "link": "https://models.dev/providers/tencent-coding-plan",
+      "title": "Tencent Coding Plan (China) models, pricing, and API docs",
+      "snippet": "Models ; Hunyuan-TurboSProvider-specific, hunyuan-turbos, 131,072, 16,384, $0.00 / $0.00 ; Kimi-K2.5Provider-specific, kimi-k2.5, 262,144, 32,768, $0.00 / $0.00 ..."
+    },
+    {
+      "link": "https://intl.cloud.tencent.com/document/product/1300/81315",
+      "title": "Token Plan Overview",
+      "snippet": "Plan Specifications ; Price. USD 7/month. USD 17/month ; Usage Limit. Per subscription month. 1000 credits. Per subscription month. 2600 credits."
+    },
+    {
+      "link": "https://cloud.tencent.com/act/pro/tokenplan",
+      "title": "腾讯云大模型Token Plan_畅享龙虾和编码自由",
+      "snippet": "聚合混元2.0、GLM-5、Kimi-K2.5等主流模型，适配龙虾&AI编码全场景，调用稳定高效。兼容OpenClaw、Codebuddy等多款编程工具，39元/月起，立即订阅！"
+    },
+    {
+      "link": "https://www.cnblogs.com/ouyangkai/p/20018953",
+      "title": "国产AI编程套餐比对-2026年5月12日- 少年。",
+      "snippet": "国产AI Code Plan 套餐比对报告 · ：入门价最低（¥19）、支持多模型（Claude/GPT 等）、综合实力均衡 · ：唯一无时间窗口限制、TTS 免费、Agent 能力优秀、 ..."
+    },
+    {
+      "link": "https://developer.cloud.tencent.com/article/2656546",
+      "title": "Coding plan 到底该怎么选？阿里、腾讯、字节、智普、百度",
+      "snippet": "四家像是一个产品经理出品，Lite版40元/月、Pro版200元/月，首月优惠阿里/腾讯/百度7.9元、字节9.9元，限额也高度一致，5小时1200次请求、每周9000次、每 ..."
+    },
+    {
+      "link": "https://www.tencentcloud.com/products/tokenhub",
+      "title": "TokenHub - Discover Kimi K3, GLM 5.2 Top LLMs & AI ...",
+      "snippet": "Large Model Service. Available to all Tencent Cloud users, offering rich model resources including the Hunyuan series and mainstream third-party large models."
+    }
+  ]
+}

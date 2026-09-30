@@ -1,0 +1,135 @@
+{
+  "id": "GBQRxEXEsjSiMRYxo7mtVd",
+  "message_id": "ab5753bf-2cee-4673-92a7-51eb8dfd2d8d",
+  "answer": "Sakana AIのFuguサブスクリプションプランについて、2026年時点の情報を検索結果からまとめます。\n\nFuguは、Sakana AIが提供するマルチエージェントオーケストレーションシステムで、複数の最先端モデルを動的に組み合わせて複雑なタスクを解決するAPIサービスです。 コーディングや推論など高品質が求められるワークフロー向けに設計されており、OpenAI互換のAPIから利用できます。\n\nサブスクリプションプランは3階層あり、すべてのプランでFuguとFugu Ultraの両方が利用可能です。 Standardプランは月額20ドルで、軽度な日常利用や小規模な実験、個人ワークフローでの試用に適しています。 利用枠はベースラインとして設定されていますが、正確なトークン数は製品ページには公開されていません。 Proプランは月額100ドルで、Standardプランの10倍の利用枠を提供し、定期的なコーディング、コードレビュー、リサーチ、分析などの集中的な作業セッション向けです。 Maxプランは月額200ドルで、Standardプランの20倍の利用枠を提供し、より深く長いセッションを実行するパワーユーザー向けです。 なお、一部の情報源ではMaxプランの利用枠を30倍とする記載もありますが、公式の製品ページでは20倍とされています。\n\n\n\nサブスクリプションプランに加えて、従量課金（ペイ・アズ・ユー・ゴー）方式も用意されています。 従量課金では、Fugu Ultraの入力トークンが100万トークンあたり5ドル、出力トークンが100万トークンあたり30ドルで、コンテキストが272Kトークンを超えると入力が10ドル、出力が45ドルに上がります。 キャッシュされた入力トークンは100万トークンあたり0.50ドルで、272K超では1ドルです。 Fugu Maxの従量課金は、入力が100万トークンあたり2ドル、出力が6ドル、キャッシュ入力が0.25ドルで、コンテキスト長に関わらず一定です。 複数のエージェントが動作する場合でも、モデル料金は積み上げられず、アクティブなプール内で最も高い階層のモデルに基づく単一レートが適用されます。\n\n\n\nサブスクリプションプランはSakana AI APIプラットフォーム専用で、Sakana Chatにはサブスクリプションはなく、契約してもSakana Chatの利用制限は変更されません。 また、FuguはEU/EEA圏内ではGDPRコンプライアンス対応が完了するまで提供されていませんので、欧州のユーザーやEUのデータ要件を持つチームは現時点では利用できません。\n\n\n\nコーディング用途での性能について、Sakana AIが公開したベンチマークでは、Fugu UltraはSWE-bench Proで73.7%を記録し、Claude Opus 4.8の69.2%やGPT-5.5の58.6%を上回っています。 また、LiveCodeBenchでは93.2%で、AnthropicのClaude Fable 5の89.8%をも上回る結果です。 ユーザーの声として、コードレビューではFugu Ultraが他のツールより網羅的な回答を提供し、他のモデルが見逃すバグを多数発見したという報告もありますが、一方で、実際にStandardプランを試したユーザーからは、品質はまずまずだが速度が遅く、5時間の利用制限が予想以上に早く消費されるという指摘もあります。 また、ベンチマーク結果はSakana AI自身の報告であり、購入前に自社のワークロードで再現性を確認することが推奨されています。\n\n\n\nまとめると、2026年のFuguサブスクリプションプランは、Standardが月額20ドル、Proが月額100ドル、Maxが月額200ドルで、すべてのプランでFuguとFugu Ultraが使えます。 コーディングや複雑な推論タスクでの性能は高いとされていますが、EU圏外限定であること、正確な利用枠が非公開であること、従量課金では高額になり得ることを考慮して選ぶ必要があります。 特に、重いセッションでは1クエリあたり10ドル以上に達することもあるため、コスト意識の高いユーザーはサブスクリプションと従量課金のどちらが適しているかを慎重に比較することが重要です。",
+  "query_analysis": {
+    "queries": [
+      "Sakana AI Fugu subscription coding",
+      "2026 Sakana AI Fugu subscription Standard Pro pricing",
+      "2026 サカナAI フグ サブスクリプション スタンダード プロ価格",
+      "Sakana AI Fugu subscription pricing"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://sakana.ai/fugu/",
+      "title": "Sakana Fugu — Multi-Agent System as a Model",
+      "snippet": "Fugu balances strong performance with low latency, making it the ideal default for everyday work. Drop it into tools like Codex for coding and code review, or ..."
+    },
+    {
+      "link": "https://www.therundown.ai/tools/sakana-fugu",
+      "title": "Sakana Fugu: Features, Pricing & Alternatives",
+      "snippet": "Standard is $20 per month, Pro is $100 with 10 times the Standard allowance, and Max is $200 with 20 times the allowance; all three include Fugu ..."
+    },
+    {
+      "link": "https://sakana.ai/fugu-release/",
+      "title": "Sakana Fugu: One Model to Command Them All",
+      "snippet": "Update: September 11, 2026. We have released Fugu Max, optimized for cost/performance at the Pareto Frontier."
+    },
+    {
+      "link": "https://www.requesty.ai/models/sakana/fugu-ultra",
+      "title": "Sakana AI fugu-ultra API Pricing & Cost",
+      "snippet": "fugu-ultra is priced at $5.00 per million input tokens and $30.00 per million output tokens when accessed via Requesty."
+    },
+    {
+      "link": "https://news.ycombinator.com/item?id=48624782",
+      "title": "Sakana Fugu | Hacker News",
+      "snippet": "Got myself the $20 subscription and tried it out. The 5-hour limit runs out surprisingly fast. Quality is okay but it feels slow, and even with my $20 Claude ..."
+    },
+    {
+      "link": "https://www.smophy.ai/blogs/sakana-fugu-vs-smophyai-automatic-ai-model-selection-2026",
+      "title": "Sakana Fugu vs SmophyAI: Two Approaches to AI Model ...",
+      "snippet": "The subscription plan mirrors ChatGPT's structure: Standard $20/month, Pro $100/month, Max $200/month."
+    },
+    {
+      "link": "https://dev.classmethod.jp/articles/sakana-fugu-ga-first-touch/",
+      "title": "Sakana Fugu (GA) をサブスクリプションプランで試してみた",
+      "snippet": "サブスクリプションプランは Standard $20 / Pro $100 / Max $200 の 3 階層で、どのプランでも fugu と fugu-ultra の両方が使えます。プランごとの ..."
+    },
+    {
+      "link": "https://openrouter.ai/sakana/fugu-ultra",
+      "title": "Fugu Ultra - API Pricing & Providers",
+      "snippet": "Fugu Ultra costs $5.00/M input tokens and $30.00/M output tokens, with separate rates for Cache Read at $0.50/M tokens and Web Search at $10.00 ..."
+    },
+    {
+      "link": "https://console.sakana.ai/pricing",
+      "title": "Pricing",
+      "snippet": "Subscription Plan ; Standard, $20/month, Lightweight daily usage, occasional API calls, small experiments, and trying Fugu in personal workflows. Baseline ..."
+    },
+    {
+      "link": "https://sakana.ai/fugu-max-release/",
+      "title": "Introducing Fugu Max and Fugu Ultra v2: Orchestrating the ...",
+      "snippet": "Cost: At $2 per million input tokens and $6 per million output tokens, Fugu Max's output pricing is 40-60% lower than Sonnet 5, GPT 5.6 Terra, ..."
+    },
+    {
+      "link": "https://admina.moneyforward.com/jp/blog/sakana-fugu-enterprise-guide",
+      "title": "Sakana Fuguとは？料金や最新機能を情シス目線で解説",
+      "snippet": "定額サブスクリプションプラン(月額) Standard:月額20ドル(基本的な利用枠) Pro:月額100ドル(Standardプランの10倍の利用 『思考・実行・検証』プロセス ..."
+    },
+    {
+      "link": "https://coursiv.io/blog/fugu-ultra",
+      "title": "Fugu Ultra: Sakana AI Model, Price & Benchmarks",
+      "snippet": "Fugu, Everyday coding, code review, chatbots, and interactive work, Designed to balance latency and quality ; Fugu Ultra, Hard research, long ..."
+    },
+    {
+      "link": "https://dev.classmethod.jp/en/articles/sakana-fugu-ga-first-touch/",
+      "title": "I tried Sakana Fugu (GA) with a subscription plan - DevelopersIO",
+      "snippet": "Since a subscription plan also launched on the same day, I signed up for the Standard plan at $20/month that same day and tried it out. It ..."
+    },
+    {
+      "link": "https://sakana.ai/",
+      "title": "Sakana AI — Building Frontier AI in Japan",
+      "snippet": "About Sakana AI. About Sakana AI. Blog · Corporate Info · Contact Us · Sakana Chat. Building Frontier AI in Japan. Tokyo, Japan © 2026 Sakana AI 株式会社."
+    },
+    {
+      "link": "https://www.reddit.com/r/opencodeCLI/comments/1uchxq7/sakana_ai_fugu_fugu_ultra_models_coming_soon_to/",
+      "title": "Sakana AI (Fugu & Fugu Ultra) models coming soon to ...",
+      "snippet": "Introducing Sakana Fugu: A full multi-agent orchestration system accessible via a single model API. Our 'Fugu Ultra' model matches the ..."
+    },
+    {
+      "link": "https://phosailabs.com/blog/sakana-fugu-api-pricing",
+      "title": "Sakana Fugu API Pricing: Plans, Costs Explained (2026)",
+      "snippet": "Subscription plans start at $20/month (Standard), $100/month (Pro), and $200/month (Max). All tiers include Fugu and Fugu Ultra. Pay-as-you-go ..."
+    },
+    {
+      "link": "https://gigazine.net/news/20260622-sakana-fugu-multi-agent-system-ai/",
+      "title": "Sakana AIがClaude Fable超えをアピールするマルチ ...",
+      "snippet": "サブスクリプションプランではFuguとFugu Ultraの双方を利用可能。月額料金はStandardプランが20ドル(約3232円)、Proプランが100ドル(約1万6158円) ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1uehm9n/saw_something_called_sakana_fugu_anyone_tried_it/",
+      "title": "Saw something called Sakana Fugu, anyone tried it?",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.nikkei.com/article/DGXZQOUC11B4U0R10C26A9000000/",
+      "title": "サカナAIの「Sakana Fugu」、AI性能再び世界最高水準 複数 ...",
+      "snippet": "サカナ・フグは複数の大規模言語モデル(LLM)を組み合わせて運用しているAIモデルだ。6月に一般提供が始まり、それぞれのAIモデルが得意とするタスクを割 ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/AISEOInsider/comments/1ueja58/sakana_fugu_ai_is_actually_scary_for_coding_2026/",
+      "title": "Sakana Fugu AI Is Actually SCARY For Coding (2026)",
+      "snippet": ""
+    },
+    {
+      "link": "https://x.com/kgsi/status/2068936116221465008",
+      "title": "Sakana AIのFuguのStandardプランを申し込んでみる（月額 ...",
+      "snippet": "サブスクは7月末までに契約すると2か月目が無料らしいから実質$10で契約可能。 学習設定が初期オプトインされてるので、嫌なかたは必ずオプトアウトして ..."
+    },
+    {
+      "link": "https://console.sakana.ai/get-started",
+      "title": "Get started",
+      "snippet": "Before using Fugu or Sakana Namazu, create an API key and copy the generated key. The key is shown only once, so store it somewhere secure before closing the ..."
+    },
+    {
+      "link": "https://japan.storm.mg/articles/1144023",
+      "title": "日本発AI「Sakana Fugu」登場 GPT-5.5やClaudeを上回る性能",
+      "snippet": "... サブスクリプションは、次の3プランで構成される。 Standardは月額20ドル。ProはStandardの10倍の利用枠を提供し、月額100ドル。MaxはStandardの20倍 ..."
+    },
+    {
+      "link": "https://www.datacamp.com/blog/sakana-fugu",
+      "title": "Sakana Fugu: Features, Benchmarks, and How It Works",
+      "snippet": "Pro: $100/month, 10x the Standard usage, suited for regular coding and research sessions; Max: $200/month, 30x the Standard usage, suited for ..."
+    }
+  ]
+}

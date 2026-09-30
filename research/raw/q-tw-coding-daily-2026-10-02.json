@@ -1,0 +1,103 @@
+{
+  "id": "TefNtSUm3ugPXkWnNFiJyS",
+  "message_id": "77ec7069-4502-4d33-bac6-0558680f6f29",
+  "answer": "根據搜尋結果，2026年台灣市場上並未直接列出以新台幣計價的AI coding plan訂閱方案，但可以從各平台的美元或人民幣定價來推估相對划算的選擇。整體而言，沒有單一「最划算」的方案，因為每個方案的計費方式、額度限制與適用場景差異極大，選擇取決於你的使用型態與預算範圍。\n\n\n\n首先，從價格競爭最激烈的入門區間來看，多個來源指出每月10到20美元是開發者工具競爭最激烈的價格帶，GitHub Copilot、Cursor以及一系列基於API的計畫都在爭奪這筆預算（搜尋結果17、18）．在此區間內，Xiaomi MiMo以每月6美元提供6000萬點數，是目前搜尋結果中最低的入門價格，但它的使用限制較多，僅限於特定編程工具如OpenClaw、OpenCode、Kilo Code與Cline，若在這些工具之外使用可能違反條款（搜尋結果1）．對於預算有限且僅在支援工具內使用的開發者，這是一個極低成本的試水選項．\n\n\n\n若你追求更全面的功能，MiniMax Token Plan每月20美元起，其特色是將編程與多模態功能（包含文字、圖像、語音與音樂）整合在同一訂閱中，但要注意編程與非編程使用會共享同一額度池，若團隊同時使用多模態功能，可能會比預期更快達到限制（搜尋結果1、8）．對於需要處理設計稿截圖或UI草圖的前端開發者，Kimi Moderato每月15美元是搜尋結果中唯一支援截圖多模態輸入的原廠方案，適合前端與Vibe Coding場景（搜尋結果2）．\n\n\n\n在更高階的區間，GLM Coding Plan的Pro與Max方案分別約為每月80美元與161美元，採用滾動式五小時與每週提示配額制，進階模型會以更高倍率消耗配額，因此提示數量並非固定費率，對於需要頂級模型能力的大型專案或複雜Agent調度，這可能是合適選擇，但長期成本可透過七折包年進一步降低（搜尋結果1、2、7）．Canopy Wave的Unlimited Token Plan則提供每月15.99美元起的高速月度Token額度，用完後轉為降低優先級的公平使用限制，適合需要可預測月度API成本的持續性Agent與編碼工作負載（搜尋結果8）．\n\n\n\n值得注意的是，搜尋結果中多次強調，AI coding plan的定價頁面看起來相似，但在真實Agent工作負載下的行為差異極大（搜尋結果1）．例如，一個Agent在夜間執行重構時，每一步都會重新發送儲存庫上下文，一個提示可能觸發多次模型呼叫，滾動式五小時配額在演示中看似充裕，卻可能在午夜前就讓實際工作停擺（搜尋結果1）．因此，選擇方案時不應僅看標題價格，而應仔細評估以下幾個關鍵陷阱：第一，點數並不一定等於Token，一個Agent提示可能觸發多次模型呼叫；第二，，廣告的上下文長度並不等於你在規模化使用時能負擔的上下文量；第三，，部分訂閱僅允許在特定核准的編程工具內使用，這是一個多數團隊在遇到問題前都會忽略的授權細節（搜尋結果1）．\n\n\n\n對於台灣使用者而言，還需考慮網路延遲與服務端點的可達性，搜尋結果建議在OpenClaw的機器上使用ping命令檢測到服務端點的網路延時與丟包情況，以確保連線品質（搜尋結果2）．此外，，若你的使用頻率較低或不規律，搜尋結果指出，在考量某些月份訂閱可能未被充分利用的情況下，按量付費的API定價可能比固定月費更划算（搜尋結果1、8）．輕度使用者也可以輪流使用目前仍完全免費的DeepSeek、騰訊元寶與百度文心等消費者端服務，直到遇到限制再切換（搜尋結果7）．\n\n\n\n總結來說，2026年台灣市場上最划算的AI coding plan取決於你的具體需求：若預算極低且僅在支援工具內使用，Xiaomi MiMo每月6美元是最低入門選擇；若需要多模態功能且預算約20美元，MiniMax Token Plan提供整合方案但需注意共享額度；若為前端開發且需截圖輸入，Kimi Moderato每月15美元是唯一原廠多模態方案；若需頂級模型能力且可接受較高價格，GLM Pro或Max提供強大效能但需留意滾動配額機制；若追求可預測的API成本，Canopy Wave的Unlimited Token Plan提供高速額度後轉為公平使用限制的彈性方案．最終建議是，先釐清你的使用型態是輕度聊天、日常編程還是重度Agent工作流，再對照各方案的計費結構與限制，並在訂閱前仔細閱讀條款，避免在衝刺開始後才發現授權或額度問題（搜尋結果1）．",
+  "query_analysis": {
+    "queries": [
+      "2026 Taiwan AI coding plan subscription best price",
+      "2026 台灣 AI coding plan 訂閱 最划算 價格"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://www.augmentcode.com/learn/ai-coding-plans-2026-billing-models",
+      "title": "AI coding plan pricing is the wrong number to compare",
+      "snippet": "2026 covers five AI coding subscriptions: MiniMax, Xiaomi MiMo, GLM, Kimi Code, Entry prices run from $6 to $20 per month. 60M credits, up to $ ..."
+    },
+    {
+      "link": "https://cloud.tencent.com/developer/article/2654022",
+      "title": "OpenClaw这样买Token最划算：一文看懂各大平台Coding Plan",
+      "snippet": "2026 年的国内Coding Plan 市场已进入白热化竞争阶段。价格战的直接受益者是开发者和用户：首月不到10 元即可体验多款顶流模型，这在一 ..."
+    },
+    {
+      "link": "https://h89.cn/archives/728.html",
+      "title": "国产大模型怎么买更划算：主流平台Token Plan 订阅与百万 ...",
+      "snippet": "订阅制已成国产大模型平台标配：2026 年内至少15+ 家厂商推出Token Plan / Coding Plan 类订阅套餐，入场价集中在¥29-49/月，多采用Credits/积分制或固定 ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/vibecoding/comments/1slum7k/best_ai_coding_stack_for_2040month_in_2026/",
+      "title": "Best AI coding stack for $20–40/month in 2026? Hitting ...",
+      "snippet": "AI coding workflow on a $20–40/month budget. Usually it costs me around $0.01-$0.02 per request using Minimax M2.7. the best AI coding plans"
+    },
+    {
+      "link": "https://news.qq.com/rain/a/20260419A05QA500",
+      "title": "最全AI Coding Plan和Token购买攻略：大厂价格一站汇总 - QQ",
+      "snippet": "最全AI Coding Plan和Token. AI Coding Plan和Token价格 ・ 补全$20/月 Pro+ $40/月 ・ 基础补全$15/月 ・ 补全$10/月 Business $19/人/ Pro $17/月起Max"
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2015468530938693485",
+      "title": "程序员的Coding Plan 完整指南（2026年8月16日持续更新）",
+      "snippet": "Coding Plan 是云厂商推出的AI 编程模型订阅套餐。 核心特点：. 固定月费; 提供大量AI 请求额度; 可在Cursor / Claude Code / Cline / OpenClaw 等工具 ..."
+    },
+    {
+      "link": "https://mofcloud.com/tools/subscriptions",
+      "title": "AI subscriptions compared: 14 plans + subscription-vs-API",
+      "snippet": "Consumer AI subscription prices compared: Coding Plan moved to credits, Standard $10/mo Multi-source. GLM Coding price hikes"
+    },
+    {
+      "link": "https://canopywave.com/blog/best-ai-coding-plans-2026-pricing-limits-use-cases",
+      "title": "Best AI Coding Plans in 2026: Pricing & Limits Compared",
+      "snippet": "Prices and plan details were checked on July 17, 2026; Best for MiniMax Token Plan $20/month Monthly. Plan $6/month Monthly credits. Five-hour ..."
+    },
+    {
+      "link": "https://codepick.dev/en/compare/coding-plan-comparison-2026/",
+      "title": "5 China-Native AI Coding Subscriptions Compared - CodePick",
+      "snippet": "Volcengine Ark Coding Plan ; Lite, CNY 40/month, Limited-time CNY 9.9 and up ; Pro, CNY 200/month, Common promo CNY 49.9 ..."
+    },
+    {
+      "link": "https://github.com/mahonzhan/awesome-coding-plan",
+      "title": "各厂家Coding Plan 实际价值对比",
+      "snippet": "AI IDE/Plugin Plan ; ⚠️ Kiro Pro, $20.00 (新注册首月免费，退出付款页丢失免费资格), 1,000 credits. Pay-per-use overage ($0.04/credit)"
+    },
+    {
+      "link": "https://blog.csdn.net/weixin_44162814/article/details/158658021",
+      "title": "2026年国内主流AI Coding Plan套餐全对比｜开发者避坑指南",
+      "snippet": "注：价格单位均为“元/月”，首月优惠仅针对新用户，已订阅用户价格不变；额度均为各平台入门档（Lite/Starter）核心数据，Pro及以上档位为入门档5倍左右， ..."
+    },
+    {
+      "link": "https://www.cnblogs.com/junbaor/p/19670554",
+      "title": "2026 年国内AI Coding Plan 怎么选？5 大平台横评帮你省钱",
+      "snippet": "入门体验的话，MiniMax Starter 只要¥29/月，是目前最便宜的月付方案。如果想更低成本试水，火山引擎和阿里云百炼都有首月特惠，最低¥7.9 就能用一个月。"
+    },
+    {
+      "link": "https://my.oschina.net/u/9749499/blog/19208935",
+      "title": "2026 年国内AI Coding Plan 怎么选？5 大平台横评帮你省钱",
+      "snippet": "入门体验的话，MiniMax Starter 只要¥29/月，是目前最便宜的月付方案。如果想更低成本试水，火山引擎和阿里云百炼都有首月特惠，最低¥7.9 就能用一个月。"
+    },
+    {
+      "link": "https://codingplan.org/en",
+      "title": "AI Coding Plan Comparison 2026 - Claude, GLM, MiniMax ...",
+      "snippet": "For budget-conscious developers, GLM Lite at $18/month or OpenCode Go at $10/month (32 models, 6x usage value) are excellent entry points."
+    },
+    {
+      "link": "https://llmgateway.io/blog/best-ai-coding-plans",
+      "title": "11 Best AI Coding Plans in 2026 (Compared)",
+      "snippet": "DevPass tops the list with one flat rate for every model. pricing — $29, $79, or $179 a month. Lite $29/mo ~$87 at provider rates Pro $79/mo ~$ ..."
+    },
+    {
+      "link": "https://kilo.ai/articles/best-ai-subscription-for-coding",
+      "title": "Which AI Subscription Is Best for Coding in 2026?",
+      "snippet": "The launch plan is the MiniMax Token Plan Plus at $20/month, picked on merit — MiniMax M3 sits among the most capable models on our leaderboard, ..."
+    },
+    {
+      "link": "https://www.atlascloud.ai/zh-TW/blog/tips/coding-plan-best-ai-coding-subscription-under-20",
+      "title": "20美元以下最佳AI 程式碼訂閱方案",
+      "snippet": "每月$10 到$20 的價格區間已成為開發者工具領域競爭最激烈的戰場。GitHub Copilot、Cursor 以及一系列基於API 的計畫都在爭奪這筆預算。"
+    },
+    {
+      "link": "https://www.atlascloud.ai/blog/tips/coding-plan-best-ai-coding-subscription-under-20",
+      "title": "The Best AI Coding Subscription Under $20 in 2026",
+      "snippet": "The $10 to $20/month range has become the most contested bracket in developer tooling. GitHub Copilot, Cursor, and a growing list of ..."
+    }
+  ]
+}
