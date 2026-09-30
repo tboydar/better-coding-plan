@@ -1,0 +1,104 @@
+{
+  "id": "jtgBYRYPdUj5JqohUC5Kpc",
+  "message_id": "96fcc689-a581-45a4-9193-11cbca982c94",
+  "answer": "検索結果に基づき、2026年の日本におけるAIコーディングプランの割引やおすすめ、最安の選択肢について詳しく説明します。\n\nまず、2026年時点でAIコーディングツールの選び方の基本として、単一の「最強」ツールを探すのではなく、用途に応じて複数のモデルやツールを組み合わせる「システム」として考えるのが主流です。具体的には、設計やアーキテクチャを担当する高性能なモデル（例：Claude Fable 5、Claude Opus 4.8、GPT-5.6 Sol、Gemini 3.1 Pro）と、実装を担当する安価で高速なモデル（例：Claude Sonnet 4.6、GPT-5 Mini、Qwen 3.6 Coder、GLM-5.2）を分け、さらに別ベンダーのモデルでレビューを行うという構成が推奨されています。\n\n日本市場で特に注目すべき最安プランとしては、まずGitHub Copilotの無料プランがあります。月額0円で、月50回のチャットまたはエージェント利用、月2,000回のコード補完が可能で、利用できるモデルはClaude Haiku 4.5やGPT-5 Miniです。これは「まず試したい人」に最適な選択肢です。\n\n有料プランでコストパフォーマンスに優れるのは、Windsurf Pro（月額15ドル）とTRAE Pro（月額10ドル）です。これらのプランは、個人開発者にとって十分な機能を備えており、コスト重視のユーザーに推奨されています。特にTRAE Proは月額10ドルと、主要ツールの中では非常に安価な部類に入ります。\n\n一方、本格的にAIコーディングを活用したい個人には、Cursor Pro（月額20ドル）とClaude Codeの組み合わせが「二刀流」として最強とされています。CursorはIDE内での開発体験に優れ、Claude Codeはターミナルでの自律的なエージェント動作に強みがあります。この組み合わせは、開発の効率と品質を最大化するための定番構成です。\n\nチームでの導入を考える場合、GitHub Copilot Business（月額19ドル/ユーザー）が推奨されます。導入の障壁が低く、対応環境が広いことが決め手です。組織管理機能やポリシー制御、IP補償も含まれています。\n\nセキュリティを最重視する企業には、Tabnineが唯一無二の選択肢です。エアギャップ対応（インターネットから完全に切り離した環境での利用）が可能で、機密コードの取り扱いに不安がある組織に適しています。\n\n割引情報については、検索結果に具体的な割引キャンペーンの詳細は限られていますが、OpenCode Goというツールで月額10ドルのプランがあり、プロモーションとして15ドルから60ドル相当の特典が2026年9月20日まで提供されていたという情報があります。また、Claude Proは年払いの場合、月額20ドルが17ドルに割引されるプランがあります。\n\n料金体系の観点では、サブスクリプションとAPIの使い分けも重要です。日常的な対話型のコーディングにはサブスクリプション（例：Claude Max、Cursor）が適しており、プログラムによるエージェントやCI、バースト的な自動化にはAPIが適しています。多くの本格的な開発環境では両方を併用しています。\n\n2026年の価格帯をまとめると、最安の無料プランから、月額10ドル前後のコストパフォーマンス重視プラン、月額20ドル前後の本格的な個人向けプラン、月額19ドルから39ドルのチーム・エンタープライズ向けプランまで、幅広い選択肢があります。特に日本円換算では、1ドル160円として、TRAE Proが約1,600円、Windsurf Proが約2,400円、Cursor ProとClaude Proが約3,200円、GitHub Copilot Businessが約3,040円となります。\n\n最終的なおすすめとしては、まず無料のGitHub Copilotで試し、本格的に使うならCursor ProとClaude Codeの組み合わせ、コストを抑えたいならTRAE ProやWindsurf Pro、チーム導入ならGitHub Copilot Business、セキュリティ重視ならTabnineというのが、2026年時点での合理的な選択肢です。",
+  "query_analysis": {
+    "queries": [
+      "2026 日本 AI コーディング プラン 割引 おすすめ 最安",
+      "2026年 日本 AI コーディング プラン 割引 おすすめ 最安",
+      "2026 Japan AI coding plan discount recommended cheapest"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://www.stackspend.app/blog/model-selection/best-coding-models-july-2026",
+      "title": "Best Coding Models, July 2026",
+      "snippet": "The coding-model leaderboard (July 2026) ; GPT-5 Mini, Cheap execution, $0.25 / $2, High-volume codegen where the plan is already fixed ; Gemini ..."
+    },
+    {
+      "link": "https://github.com/codertesla/ai-coding-deals",
+      "title": "codertesla/ai-coding-deals: Money-saving guide ...",
+      "snippet": "-saving guide to AI coding tools: free tiers, discounts, 2 OpenCode Go ($10/mo; promo — $15 → $60/mo — ends 2026-09-20). Discounts / free credits Best $60 ( ..."
+    },
+    {
+      "link": "https://www.faros.ai/blog/best-ai-coding-agents-2026",
+      "title": "Best AI Coding Agents for 2026: Real-World Developer ...",
+      "snippet": "A developer-focused look at the best AI coding agents in 2026, comparing Claude Code, Cursor, Codex, Copilot, Cline, and more—with guidance ..."
+    },
+    {
+      "link": "https://www.atlascloud.ai/blog/tips/coding-plan-best-ai-coding-subscription-under-20",
+      "title": "The Best AI Coding Subscription Under $20 in 2026",
+      "snippet": "The best AI coding subscription under $20 compared: daily credits, model access, tool support, and the real math. Find out which plan ..."
+    },
+    {
+      "link": "https://cg-kenkyujo.com/ai-coding/",
+      "title": "【2026】AIコーディングツールおすすめ17選！無料枠・料金 ...",
+      "snippet": "この記事では、AIコーディングにおすすめの17ツールを厳選して紹介し、比較しやすいように無料枠や有料プラン、日本語対応など、主要情報を一覧表にまとめ ..."
+    },
+    {
+      "link": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
+      "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と ...",
+      "snippet": "料金プラン ; Pro, $10/月, 無制限補完、300プレミアムリクエスト、Coding Agent、Claude/Codex対応 ; Pro+, $39/月, Proの全機能 + Claude Opus 4.6等全 ..."
+    },
+    {
+      "link": "https://www.qbook.jp/column/2004.html",
+      "title": "【2026年最新】種類別・コード生成AIおすすめ10選 ... - Qbook",
+      "snippet": "ここでは、IDEやコードエディタと連携して利用できるおすすめのコード生成AIを5つ紹介します。まずは一覧表で大まかにご確認ください。 ツール名, プラン ..."
+    },
+    {
+      "link": "https://www.aspicjapan.org/asu/article/52257",
+      "title": "【2026】コード生成AI12選｜プログラミング・コーディング ...",
+      "snippet": "コード生成AI（プログラミングAI・コーディングAI）11製品を、利用形態、エージェント機能、IDE・CLI対応、料金、セキュリティで比較。"
+    },
+    {
+      "link": "https://ai-advisors.jp/media/ai-knowledge/ai-billing-recommendations/",
+      "title": "【2026年5月最新】AIは必ず課金しろ！無料プランがNGな理由と",
+      "snippet": "1. ChatGPT（Plus）：元祖・AI界のオールラウンダー · 2. Gemini（Google AI Pro）：Google印のコスパ王。 · 3. Claude（Pro）：文章とコードの ..."
+    },
+    {
+      "link": "https://www.businessinsider.jp/article/2605-how-much-did-major-generative-ai-service-fees-become-in-may-2026/",
+      "title": "生成AI、利用料はいくらになった？ 2026年5月の主要8 ...",
+      "snippet": "その変化をお伝えすべく、日本で個人利用できる主要な生成AIサービス8つを対象に、最新の料金プランを毎月レポートする。 ※USD表示は1ドル＝160円換算。"
+    },
+    {
+      "link": "https://www.reddit.com/r/opencodeCLI/comments/1stg1is/best_ai_coding_stack_in_2026_for_heavy_users_cost/",
+      "title": "Best AI coding stack in 2026 for heavy users? (cost vs limits ...",
+      "snippet": "Kimi Allegretto honestly looks like one of the best value options right now for heavy coding usage. Minimax raising the price to $10 for the ..."
+    },
+    {
+      "link": "https://kilo.ai/articles/best-ai-subscription-for-coding",
+      "title": "Which AI Subscription Is Best for Coding in 2026?",
+      "snippet": "Buy a MiniMax coding plan directly in Kilo ... Coding plans give you more bang for the buck — more tokens and requests at a fraction of the cost."
+    },
+    {
+      "link": "https://note.com/yuho_walker/n/n266cebf0a1eb",
+      "title": "【2026年版】AIコーディングツール5選の選び方 — 開発スタイル ...",
+      "snippet": "無料プランが充実 ・ 各ツールの詳細な機能比較、料金プラン、具体的な活用法については、元記事をご覧ください ・ 比較表や料金詳細、FAQ、今後の展望ま ..."
+    },
+    {
+      "link": "https://getdx.com/blog/ai-coding-assistant-pricing/",
+      "title": "AI coding assistant pricing and ROI guide (2026)",
+      "snippet": "The Max 20x plan at $200/mo is substantially cheaper than API billing for heavy users: a developer consuming equivalent tokens via API would ..."
+    },
+    {
+      "link": "https://shift-ai.co.jp/blog/10854/",
+      "title": "【2026年最新】Claudeの料金プランを解説！Claude Codeや ...",
+      "snippet": "Claudeの料金プランやAPIの価格・他のAIツールとの料金比較について詳しく解説します。 この記事を読めば、Claudeの料金に関する知識を理解でき、自分 ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/vibecoding/comments/1reeqmc/best_budgetfriendly_ai_ides_and_clis_in_2026/?tl=ja",
+      "title": "2026年、コスパ最強のAI IDEとCLIは？ : r/vibecoding",
+      "snippet": "やあ、 \n\nちょっと経験のある若手プログラマーです。ここ数年、色んなIDEを使ってて、VS Codeが一番のお気に入りなんだ ..."
+    },
+    {
+      "link": "https://canopywave.com/blog/best-ai-coding-plans-2026-pricing-limits-use-cases",
+      "title": "Best AI Coding Plans in 2026: Pricing & Limits Compared",
+      "snippet": "Official international pricing currently starts at $6 per month for 60 million credits. Higher tiers include Standard at $16 for 200 million ..."
+    },
+    {
+      "link": "https://dev.to/soulentheo/every-ai-coding-cli-in-2026-the-complete-map-30-tools-compared-4gob",
+      "title": "Every AI Coding CLI in 2026: The Complete Map (30+ ...",
+      "snippet": "The real cost of BYOK: With Claude Sonnet at $3/$15 per million tokens, moderate daily use runs $10-15/month. With OpenRouter, you can compare ..."
+    }
+  ]
+}

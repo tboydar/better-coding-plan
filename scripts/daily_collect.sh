@@ -110,6 +110,16 @@ for idx in "${picks[@]}"; do
   sleep 15   # felo 5/min limit (6 calls per run = ~90s, stays safe)
 done
 
+# --- [非LLM] official price snapshot (zero token cost) ---
+if [ -x "scripts/fetch_official_prices.sh" ]; then
+  echo ""
+  echo "=== [非LLM] 官方定價快照 ==="
+  scripts/fetch_official_prices.sh >/tmp/fetch_op_$$.txt 2>&1 || true
+  cat /tmp/fetch_op_$$.txt
+else
+  echo "(no scripts/fetch_official_prices.sh — skip non-LLM price fetch)"
+fi
+
 # --- summary md ---
 SUMMARY="updates/${TODAY}.md"
 mkdir -p "$(dirname "$SUMMARY")"

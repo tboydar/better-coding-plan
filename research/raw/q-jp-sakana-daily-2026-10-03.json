@@ -1,0 +1,145 @@
+{
+  "id": "JDzEy5BoQEV2yfDVWsv6CH",
+  "message_id": "94162528-00e8-4167-a1c0-937efa129c16",
+  "answer": "Sakana AIのFuguサブスクリプションプランについて、2026年時点の料金体系を検索結果に基づいて詳しく説明します。\n\nSakana Fuguは、Sakana AIが提供するマルチエージェントシステムで、複数のフロンティアモデルをオーケストレーションして複雑なタスクを処理することを特徴としています。このシステムは、人手で設計したワークフローに頼るのではなく、タスクごとに専門エージェントをどう編成し、振り分け、連携させるかをシステム自身が学習できる点が大きな特徴です。具体的には、TRINITYという軽量な進化型コーディネーターが複数のLLMを複数ターンにわたって統括し、各モデルにThinker（思考役）、Worker（実行役）、Verifier（検証役）の役割を割り当てて、コーディング、数学、推論、知識といった幅広いタスクに応じて作業を適応的に振り分けます。また、Conductorという強化学習によって訓練されたシステムは、自然言語ベースの協調戦略を自ら見つけ出し、エージェント間のやり取りの型や要点を絞ったプロンプトを設計することで、多様なLLMの集まりが難度の高い推論ベンチマークで単体のモデルを上回る力を発揮します。\n\nFuguのサブスクリプションプランは3段階で構成されています。まずStandardプランは月額20ドルで、軽量な日常利用に適しています。低頻度のAPI利用、小規模な実験、個人ワークフローでの試用を想定しており、標準の利用枠が含まれます。次にProプランは月額100ドルで、Standardプランの10倍の利用量を提供します。週に数回の集中作業、具体的には定期的なコーディング、コードレビュー、研究、分析セッションに適しています。最後にMaxプランは月額200ドルで、Standardプランの20倍の利用量を提供し、長時間にわたる負荷の高いワークロード向けに設計されています。なお、検索結果によってはMaxプランの利用量が30倍と記載されているものもありますが、公式情報では20倍とされています。\n\nすべてのサブスクリプションプランには、Fugu、Fugu Ultra、Fugu Maxの3つのモデルへのアクセスが含まれています。Fuguはレイテンシーと品質のバランスを重視し、日常的なコーディングや対話型の作業に適したデフォルトの選択肢です。Fugu Ultraは複雑な多段階推論において回答品質を優先し、精度と深さが最も重要となる場面でより多くの専門エージェントを調整しますが、応答時間は長くなります。Fugu Maxは最大のモデルプールをオーケストレーションし、コストパフォーマンスのトレードオフ全体を最適化するように設計されており、専門エージェントの効率的な組み合わせを動的に見つけてモデル性能とコスト効率を同時に向上させます。\n\nコーディング用途に焦点を当てると、Fuguは日常的なコーディング、コードレビュー、チャットボット、対話型の作業に適しており、レイテンシーと品質のバランスを取っています。一方、Fugu Ultraはハードな研究、長いコーディングタスク、論文の再現、特許や文献の分析、複雑な推論を優先し、回答品質とより深いオーケストレーションを重視しますが、レイテンシーと使用量が増加する可能性があります。Proプランは週に数回の集中コーディングセッションに適しており、Maxプランはより重い長時間のワークロード向けです。\n\n従量課金プランも用意されており、月額の利用枠ではなくトークン使用量に応じて課金されます。このプランでは、Fuguは基盤モデルの標準レートで課金され、複数のエージェントが稼働している場合でも料金を積み上げることはなく、関与する最上位モデルに基づく単一のレートで支払います。Fugu Ultraの従量課金価格は、100万トークンあたり入力5ドル、出力30ドル、キャッシュ入力0.50ドルで、272Kトークンを超えるコンテキストではより高いレート（入力10ドル、出力45ドル、キャッシュ入力1.00ドル）が適用されます。Fugu Maxはコンテキスト長にかかわらず、100万トークンあたり入力2ドル、出力6ドル、キャッシュ入力0.25ドルで、web_searchとweb_fetchは1回あたり0.007ドルで課金されます。\n\nAPIの利用方法としては、OpenAI互換のAPIを通じてアクセスでき、既存のクライアントやコーディングハーネスをAPIキーとともにFuguのエンドポイントに向けてリクエストを送るだけで、SDKの移行は必要ありません。エンドポイントはhttps://api.sakana.aiで提供されています。また、FuguはChat Completions、Responses、Anthropic Messages APIをサポートしています。\n\nなお、Sakana Namazuという日本語に特化したLLMも提供されていますが、これはサブスクリプションプランには含まれておらず、純粋に従量課金（トークン単位）で請求されます。\n\nコーディング用途でプランを選ぶ際の実践的なアドバイスとしては、短いコードスニペットや簡単なコーディング作業にはStandardプランで十分ですが、長いコードベースのレビュー、移行計画、論文の再現、Kaggleスタイルのデータサイエンス、研究の統合、証拠要件のあるセキュリティレビューなど、単一モデルの回答では複数回のリトライが必要になるような複雑なタスクにはFugu Ultraを使用することが推奨されています。重要な評価指標はトークン単価だけでなく、タスク完了あたりのコストであり、Fugu Ultraは最終回答の背後に隠れたオーケストレーション作業を使用する可能性があるため、公平なテストのためには入力、出力、キャッシュ入力、オーケストレーション使用量、レイテンシー、リトライ率、人間のレビュー時間をログに記録することが推奨されています。",
+  "query_analysis": {
+    "queries": [
+      "2026 Sakana AI Fugu subscription Standard Pro pricing",
+      "Sakana AI Fugu subscription pricing",
+      "2026年 鮭魚AI 鱻 鱼子订阅 标准专业定价",
+      "Sakana AI Fugu subscription coding"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://sakana.ai/fugu/",
+      "title": "Sakana Fugu — Multi-Agent System as a Model",
+      "snippet": "... Fugu, Fugu Ultra, and Fugu Max. The subscription plan has three monthly tiers: Standard Plan ($20/month) is great for lightweight daily use; Pro Plan ($100 ..."
+    },
+    {
+      "link": "https://sakana.ai/",
+      "title": "Sakana AI — Building Frontier AI in Japan",
+      "snippet": "Sakana FuguLLM orchestrating frontier models for complex tasks · Sakana Namazu ... Sakana ChatAI chat featuring Fugu and Namazu · Careers. Careers. Research ..."
+    },
+    {
+      "link": "https://billing-cost.console.aliyun.com/subscription",
+      "title": "https://billing-cost.console.aliyun.com/subscription",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "link": "https://console.sakana.ai/get-started",
+      "title": "Get started",
+      "snippet": "Before using Fugu or Sakana Namazu, create an API key and copy the generated key. The key is shown only once, so store it somewhere secure before closing the ..."
+    },
+    {
+      "link": "https://coursiv.io/blog/fugu-ultra",
+      "title": "Fugu Ultra: Sakana AI Model, Price & Benchmarks",
+      "snippet": "Standard, $20/month, Lightweight daily usage ; Pro, $100/month, Focused coding, review, research, and analysis sessions ; Max, $200/month, Heavier ..."
+    },
+    {
+      "link": "https://www.requesty.ai/models/sakana/fugu-ultra",
+      "title": "Sakana AI fugu-ultra API Pricing & Cost",
+      "snippet": "fugu-ultra is priced at $5.00 per million input tokens and $30.00 per million output tokens when accessed via Requesty. Prompt caching is supported, which can ..."
+    },
+    {
+      "link": "https://www.threads.com/@aiposthub/post/DWrb6yYAe33/2026-%E5%B9%B4ai-%E8%A8%82%E9%96%B1%E8%B2%BB%E6%AD%A3%E5%BC%8F%E9%80%B2%E5%85%A5%E6%94%B6%E5%89%B2%E6%9C%9F%E5%B9%BE%E4%B9%8E%E6%89%80%E6%9C%89%E4%B8%BB%E6%B5%81%E5%B7%A5%E5%85%B7chatgptclaudegeminiperplexity-%E5%85%A8%E9%83%A8%E5%8D%A1%E5%9C%A820-%E7%BE%8E%E9%87%91%E6%9C%88%E9%80%99%E6%A2%9D%E7%B7%9A%E4%B8%8D%E6%98%AF%E5%B7%A7%E5%90%88%E6%98%AF%E5%B8%82%E5%A0%B4%E9%BB%98%E5%A5%91",
+      "title": "2026 年，AI 訂閱費正式進入「收割期」。 幾乎所有主流工具 ...",
+      "snippet": "我以前也乖乖付US$20 訂Plus，直到發現： ✨ Plus 3人共享：US$9.07/月（官US$25） ✨ Claude Pro 3人共享：US$8.99/月（官US$20） ✨ Perplexity 6人 ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1uehm9n/saw_something_called_sakana_fugu_anyone_tried_it/",
+      "title": "Saw something called Sakana Fugu, anyone tried it?",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.datacamp.com/blog/sakana-fugu",
+      "title": "Sakana Fugu: Features, Benchmarks, and How It Works",
+      "snippet": "Pro: $100/month, 10x the Standard usage, suited for regular coding and research sessions; Max: $200/month, 30x the Standard usage, suited for ..."
+    },
+    {
+      "link": "https://openrouter.ai/sakana/fugu-ultra",
+      "title": "Fugu Ultra - API Pricing & Providers",
+      "snippet": "Fugu Ultra costs $5.00/M input tokens and $30.00/M output tokens, with separate rates for Cache Read at $0.50/M tokens and Web Search at $10.00/ ..."
+    },
+    {
+      "link": "https://branch.cmbchina.com/0592/promotion/AA.htm",
+      "title": "https://branch.cmbchina.com/0592/promotion/AA.htm",
+      "snippet": ""
+    },
+    {
+      "link": "https://www.reddit.com/r/AISEOInsider/comments/1ueja58/sakana_fugu_ai_is_actually_scary_for_coding_2026/",
+      "title": "Sakana Fugu AI Is Actually SCARY For Coding (2026)",
+      "snippet": ""
+    },
+    {
+      "link": "https://console.sakana.ai/pricing",
+      "title": "Pricing",
+      "snippet": "Standard, $20/month, Lightweight daily usage, occasional API calls, small experiments, and trying Fugu in personal workflows. Baseline allowance ; Pro, $100/ ..."
+    },
+    {
+      "link": "https://mall.jd.com/index-617883.html",
+      "title": "https://mall.jd.com/index-617883.html",
+      "snippet": ""
+    },
+    {
+      "link": "https://coursiv.io/blog/sakana-ai-fugu",
+      "title": "Sakana AI Fugu Review: Fugu Ultra vs Claude Fable 5",
+      "snippet": "Fugu is aimed at coding, reasoning, research, and other work where a single model pass may be insufficient. Configurable agent selection. For ..."
+    },
+    {
+      "link": "https://www.therundown.ai/tools/sakana-fugu",
+      "title": "Sakana Fugu: Features, Pricing & Alternatives",
+      "snippet": "Standard is $20 per month, Pro is $100 with 10 times the Standard allowance, and Max is $200 with 20 times the allowance; all three include Fugu ..."
+    },
+    {
+      "link": "https://www.shopbest.net/AIGEOSF/452.html",
+      "title": "2026年豆包收费标准全解读：三档会员定价策略与免费版深度 ...",
+      "snippet": "2026年收费标准的设计理念、定价逻辑,以及免费版与付费版的核心差异… 豆包专业版的定价显著更低, 专业版5088元vs 6088元,差价1000元)。 引导用户选择长期 ..."
+    },
+    {
+      "link": "https://www.smophy.ai/blogs/sakana-fugu-vs-smophyai-automatic-ai-model-selection-2026",
+      "title": "Sakana Fugu vs SmophyAI: Two Approaches to AI Model ...",
+      "snippet": "The subscription plan mirrors ChatGPT's structure: Standard $20/month, Pro $100/month, Max $200/month. One structural limitation worth knowing: ..."
+    },
+    {
+      "link": "https://sayo.ai/zh-CN/guides/subscription-pricing",
+      "title": "订阅与定价计划",
+      "snippet": "价格:每月20 美元(按年计费则每月15 美元——省25%)。 价格:每月60 美元(按年计费则每月45 美元)。 每年180 美元)。 2026 Sayo AI Limited."
+    },
+    {
+      "link": "https://sakana.ai/fugu-max-release/",
+      "title": "Introducing Fugu Max and Fugu Ultra v2: Orchestrating the ...",
+      "snippet": "Cost: At $2 per million input tokens and $6 per million output tokens, Fugu Max's output pricing is 40-60% lower than Sonnet 5, GPT 5.6 Terra, ..."
+    },
+    {
+      "link": "https://vendors.paddle.com/subscriptions-v2",
+      "title": "https://vendors.paddle.com/subscriptions-v2",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "link": "https://news.ycombinator.com/item?id=48624782",
+      "title": "Sakana Fugu | Hacker News",
+      "snippet": "You pay $200/month to Anthropic, $200/month to OpenAI, $200/month to Cursor, $200/month to $200/month to Google, and seeing that it didn't come to a nice ..."
+    },
+    {
+      "link": "https://www.macromicro.me/pro",
+      "title": "立即訂閱| MacroMicro 財經M平方",
+      "snippet": "本次總經AI 知識節活動期間：2026.09.01~09.30，新訂閱或升級 Max AI 年繳方案，即可享獨家兩大限定加碼： · 已是Max AI 年繳會員即可直接享有以上權益。 · MM AI 已於2026 ..."
+    },
+    {
+      "link": "https://dev.classmethod.jp/en/articles/sakana-fugu-ga-first-touch/",
+      "title": "I tried Sakana Fugu (GA) with a subscription plan - DevelopersIO",
+      "snippet": "Since a subscription plan also launched on the same day, I signed up for the Standard plan at $20/month that same day and tried it out. It ..."
+    },
+    {
+      "link": "https://nutrola.app/zh/blog/how-much-does-cal-ai-cost-now-2026",
+      "title": "2026年Cal AI的费用是多少？定价与替代方案",
+      "snippet": "2026年，Cal AI的费用为每月$8.99或每年$49.99，没有免费套餐，仅提供短期免费试用。以下是完整的价格解析、实际获得的服务以及与其他主要卡路里追踪 ..."
+    },
+    {
+      "link": "https://phosailabs.com/blog/sakana-fugu-api-pricing",
+      "title": "Sakana Fugu API Pricing: Plans, Costs Explained (2026)",
+      "snippet": "Subscription plans start at $20/month (Standard), $100/month (Pro), and $200/month (Max). All tiers include Fugu and Fugu Ultra. Pay-as-you-go ..."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "V825yYCSUCZXRQD5EaoAEB",
+  "message_id": "205fa812-c35a-46b8-baae-a7518826abd1",
+  "answer": "根據搜尋結果，2026年台灣市場上並未出現專門針對台灣用戶的AI Coding Plan訂閱方案，所有找到的資訊均以中國大陸市場為主，價格以人民幣計價。因此，若您身處台灣，目前沒有直接可用的本地訂閱方案，但可以參考這些中國大陸平台的價格與方案，評估是否適合跨境使用，或考慮其他國際服務。\n\n以下整理搜尋結果中關於中國大陸AI Coding Plan的詳細資訊，供您參考與比較。\n\n\n\n首先，關於最划算的選擇，搜尋結果指出，入門體驗最便宜的是MiniMax Starter，月費僅人民幣29元，是目前最便宜的月付方案，且無每周或每月限額，僅每5小時刷新額度，適合連續高強度使用，但模型規模較小，僅適合輕量級腳本任務（來源6，來源7）。若想以更低成本試水，火山引擎和阿里雲百煉都有首月特惠，最低人民幣7.9元就能用一個月，但這僅限新用戶，且額度較低，適合剛入門或想一次體驗多款模型的用戶（來源1，來源6，來源7）。阿里雲百煉的常規入門月價為人民幣40元，首月特惠7.9元，計費單位為API請求次數，核心額度為每5小時1200次，每周9000次，每月18000次，支持Qwen3.5-Plus、GLM-4.7、Kimi-K2.5等模型，工具適配數量超過4種，包括Claude Code、Cline、OpenClaw等，優勢是首月價格最低，模型種類豐富，穩定性強，但僅支持主帳號，配置文檔不完善，且無退訂退款政策（來源6）。火山方舟（字節）的入門月價同樣為人民幣40元，首月特惠8.91元，計費單位為API請求次數，額度與百煉一致，支持模型包括Doubao-Seed-Code、DeepSeek-V3.2、GLM-4.7、Kimi-K2.5，並有Auto模式自動匹配最優模型，工具適配數量最多，超過7種，但存在超售問題，響應緩慢，頻繁出現400或429錯誤，退款條款苛刻（來源6）。\n\n\n\n其次，若您需要更強大的模型能力，智譜GLM的入門月價為人民幣49元，計費單位為Prompt次數，每5小時80次，每周400次，無月度限額，支持GLM-4.7（全套餐）及GLM-5（僅Max套餐，754B參數），代碼能力接近Claude Opus），工具適配最廣，超過20種，並提供免費MCP工具鏈，但2026年2月12日漲價後取消首購優惠，性價比下降約30%，且GLM-5在高峰期按3倍、非高峰期按2倍抵扣額度（來源1，來源6）。Kimi（月之暗面）的入門月價為人民幣49元（Andante檔），計費單位為Token，自2026年1月28日全面切換，僅統計未命中緩存的Token，目前有限時3倍額度活動（至2月28日），活動結束後額度將縮減至三分之一），支持Kimi K2.5模型，原生多模態，可輸入截圖分析設計稿，長上下文能力達256K，但工具適配較少，僅3至4種，且限制嚴格，非指定工具使用可能封號，僅限個人使用，禁止企業場景（來源1，來源6）。無問芯穹（Infini）的入門月價為人民幣19.9元，計費單位為API請求次數，每5小時1000次，支持DeepSeek、MiniMax、Kimi、GLM等多模型聚合，月費最低，單次複雜任務成本僅約人民幣8分錢，但品牌知名度低，模型更新速度慢，無首月優惠（來源6）。\n\n\n\n此外，搜尋結果也提到，2026年中國大陸的Coding Plan市場競爭激烈，至少15家以上廠商推出訂閱套餐，入場價集中在人民幣29至49元每月，多採用Credits或積分制（來源2）。在選擇時，需注意各家計量單位完全不同，直接比較數字無意義，例如API請求次數、Prompt次數、Token計量三種方式，背後實際消耗差異很大（來源6）。同時，也要考慮您的OpenClaw機器訪問哪個大模型服務更快，可用ping命令測試網路延時和丟包情況（來源1）。\n\n\n\n總結來說，若您身處台灣，目前沒有專門的本地方案，但若考慮跨境使用中國大陸平台，最便宜的入門選擇是MiniMax Starter（人民幣29元每月），或利用火山引擎、阿里雲百煉的首月特惠（人民幣7.9元起）。若追求模型能力與工具兼容性，智譜GLM或Kimi是較高階的選擇，但價格也相對較高。建議您根據自身開發需求，例如是輕量級腳本任務還是大型項目，以及對模型多模態或工具適配性的要求，綜合評估後選擇最適合的方案，同時注意各平台的隱藏限額規則與計費單位差異，避免踩坑（來源1，來源6）。",
+  "query_analysis": {
+    "queries": [
+      "2026 台灣 AI coding plan 訂閱 最划算 價格",
+      "2026 Taiwan AI coding plan subscription best price"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://cloud.tencent.com/developer/article/2654022",
+      "title": "OpenClaw这样买Token最划算：一文看懂各大平台Coding Plan",
+      "snippet": "2026 年的国内Coding Plan 市场已进入白热化竞争阶段。价格战的直接受益者是开发者和用户：首月不到10 元即可体验多款顶流模型，这在一 ..."
+    },
+    {
+      "link": "https://h89.cn/archives/728.html",
+      "title": "国产大模型怎么买更划算：主流平台Token Plan 订阅与百万 ...",
+      "snippet": "订阅制已成国产大模型平台标配：2026 年内至少15+ 家厂商推出Token Plan / Coding Plan 类订阅套餐，入场价集中在¥29-49/月，多采用Credits/积分制或固定 ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2015468530938693485",
+      "title": "程序员的Coding Plan 完整指南（2026年8月16日持续更新）",
+      "snippet": "Coding Plan 是云厂商推出的AI 编程模型订阅套餐。 核心特点：. 固定月费; 提供大量AI 请求额度; 可在Cursor / Claude Code / Cline / OpenClaw 等工具 ..."
+    },
+    {
+      "link": "https://news.qq.com/rain/a/20260419A05QA500",
+      "title": "最全AI Coding Plan和Token购买攻略：大厂价格一站汇总 - QQ",
+      "snippet": "一、AI编程IDE订阅计划对比（Coding Plan）. 什么是Coding Plan？就是AI编程工具的月费订阅，比如Cursor、Copilot这些。"
+    },
+    {
+      "link": "https://github.com/mahonzhan/awesome-coding-plan",
+      "title": "各厂家Coding Plan 实际价值对比",
+      "snippet": "AI IDE/Plugin Plan ; ⚠️ Kiro Pro, $20.00 (新注册首月免费，退出付款页丢失免费资格), 1,000 credits. Pay-per-use overage ($0.04/credit)"
+    },
+    {
+      "link": "https://blog.csdn.net/weixin_44162814/article/details/158658021",
+      "title": "2026年国内主流AI Coding Plan套餐全对比｜开发者避坑指南",
+      "snippet": "注：价格单位均为“元/月”，首月优惠仅针对新用户，已订阅用户价格不变；额度均为各平台入门档（Lite/Starter）核心数据，Pro及以上档位为入门档5倍左右， ..."
+    },
+    {
+      "link": "https://www.cnblogs.com/junbaor/p/19670554",
+      "title": "2026 年国内AI Coding Plan 怎么选？5 大平台横评帮你省钱",
+      "snippet": "入门体验的话，MiniMax Starter 只要¥29/月，是目前最便宜的月付方案。如果想更低成本试水，火山引擎和阿里云百炼都有首月特惠，最低¥7.9 就能用一个月。"
+    },
+    {
+      "link": "https://my.oschina.net/u/9749499/blog/19208935",
+      "title": "2026 年国内AI Coding Plan 怎么选？5 大平台横评帮你省钱",
+      "snippet": "入门体验的话，MiniMax Starter 只要¥29/月，是目前最便宜的月付方案。如果想更低成本试水，火山引擎和阿里云百炼都有首月特惠，最低¥7.9 就能用一个月。"
+    },
+    {
+      "link": "https://www.atlascloud.ai/zh-TW/blog/tips/coding-plan-best-ai-coding-subscription-under-20",
+      "title": "20美元以下最佳AI 程式碼訂閱方案",
+      "snippet": "每月$10 到$20 的價格區間已成為開發者工具領域競爭最激烈的戰場。GitHub Copilot、Cursor 以及一系列基於API 的計畫都在爭奪這筆預算。"
+    }
+  ]
+}

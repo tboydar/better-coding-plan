@@ -1,5 +1,8 @@
 # Daily pipeline setup & troubleshooting
 
+> 2026-09-30：**價格抓取改為非 LLM**。官方定價頁用 curl 直接抓（零 token），
+> felo 僅保留給新聞/新方案分析（用使用者自己的 plan，可接受）。
+
 Target repo: `/Users/eugene/cc/better-coding-plan` → `https://github.com/tboydar/better-coding-plan` (public)
 
 ## Components
@@ -8,7 +11,8 @@ Target repo: `/Users/eugene/cc/better-coding-plan` → `https://github.com/tboyd
 |-------|------|---------|
 | Skill | `~/.pi/agent/skills/better-coding-plan/SKILL.md` | Agent instructions for manual runs |
 | Query pool | `scripts/queries.txt` | `query|slug` one per line, edited to add/remove topics |
-| Collector | `scripts/daily_collect.sh` | daily run: rotate queries → felo search → summary → commit → push |
+| Collector | `scripts/daily_collect.sh` | daily run: official-price fetch + summary + commit + push |
+| Non-LLM price | `scripts/fetch_official_prices.sh` | curl official pricing pages -> research/official-prices/ |
 | Scheduler | `~/Library/LaunchAgents/com.eugene.better-coding-plan.plist` | runs collector every day 08:30 |
 | Logs | `~/Library/Logs/better-coding-plan*.log` | stdout / stderr |
 

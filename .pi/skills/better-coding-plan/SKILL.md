@@ -28,20 +28,35 @@ docs/analysis/recommendations.md  # value analysis + recommendations
 research/raw/                 # raw felo JSON results (slug.json + slug.json.txt)
 scripts/
   search.sh                   # single felo query -> research/raw/<slug>.json
+  fetch_official_prices.sh    # NON-LLM: curl official pricing pages -> research/official-prices/
   run_searches.sh             # batch runner (throttled, retries)
   queries.txt                 # persistent query pool:  query|slug
-  daily_collect.sh            # daily collection entrypoint (used by launchd)
+  daily_collect.sh            # daily entrypoint: fetch_official_prices + optional slice (launchd)
 updates/                      # dated changelog (updates/YYYY-MM-DD.md)
+research/official-prices/     # NON-LLM official price snapshots (YYYY-MM-DD.json)
 ```
+
+## Price collection strategy (LLM-free first)
+
+**Official price data should be fetched with plain HTTP — NOT an LLM.** The user's
+LLM budget is for the plans being monitored; price collection must not burn tokens.
+
+1. `scripts/fetch_official_prices.sh` curls official pricing pages (GitHub, Cursor,
+   Windsurf, Anthropic/Claude; unsupported for OpenAI 403 / Mistral / Google JS) and
+   stores a normalized JSON snapshot at `research/official-prices/YYYY-MM-DD.json`.
+   It diffs against the previous snapshot (SQLite JSON) and prints additions/removals.
+2. Run it via `scripts/daily_collect.sh` (invoked by launchd), or manually:
+   `./scripts/fetch_official_prices.sh`.
+3. Only use felo where a human-readable comparison / analysis is needed (news, new
+   plan discovery, cross-country value notes) — keep that to a handful of queries.
 
 ## Daily pipeline (what to do when asked to "run the daily collection")
 
 1. Read the latest update log: `updates/` newest file — understand what was last collected.
-2. Run `scripts/daily_collect.sh` from the repo root (or use felo manually, see below).
-   - It batches a slice of `scripts/queries.txt`, throttles to respect felo's
-     **5 requests/min per API key** rate limit, and saves results to `research/raw/`.
-3. Summarize: append a new dated section `updates/YYYY-MM-DD.md` (or update README highlights
-   if a meaningful finding appears — new plan, big price change, cross-country deal).
+2. Run `scripts/fetch_official_prices.sh` first (NON-LLM price snapshots + diff).
+3. Optionally run `scripts/daily_collect.sh` for the felo news slice (throttled).
+4. Summarize: append a new dated section `updates/YYYY-MM-DD.md` (or update README
+   highlights if a meaningful finding appears — new plan, big price change, deal).
 4. Update docs when a recurring plan changed materially:
    - price/quota changes → `docs/by-country/<country>.md`
    - new top-value plan → `docs/analysis/recommendations.md` + `README.md` highlights
@@ -68,13 +83,17 @@ For deeper research (new country, verify a price, compare a vendor):
 
 ## Environment / credentials
 
-- Search tool: `npx -y @willh/felo-cli --json "<query>"` — API key from `~/.zshrc`
-  (`FELO_API_KEY="..."`; scripts auto-load it).
-- Rate limit: **5/min per key, 15/min per user** — always throttle, retry on RATE_LIMITED.
+- NON-LLM price fetch: plain `curl` against official pricing pages, no API key needed,
+  no token cost. Supported: GitHub docs, GitHub, Cursor, Windsurf, Anthropic/Claude.
+- Search tool (analysis only): `npx -y @willh/felo-cli --json "<query>"` — API key from
+  `~/.zshrc` (`FELO_API_KEY="..."`; scripts auto-load it). Felo consumes the user's own
+  plan (OK per user preference), but keep it minimal — price data lives in the curl path.
+- Rate limit: felo **5/min per key, 15/min per user** — always throttle, retry on RATE_LIMITED.
 - Git: SSH key for `git@github.com` works for `tboydar`; repo: `tboydar/better-coding-plan`.
 - Daily schedule (launchd): `~/Library/LaunchAgents/com.eugene.better-coding-plan.plist`
   calls `scripts/daily_collect.sh` (see references/setup.md for install steps).
 
 ## References
 
-- `references/setup.md` — launchd install/uninstall, query pool management, troubleshooting.
+- `references/setup.md` — launchd install/uninstall, query pool management,
+  official-price fetch details, troubleshooting.

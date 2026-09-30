@@ -1,0 +1,160 @@
+{
+  "id": "L3HU5CEhdvPm9rL8S5dLMh",
+  "message_id": "dc984b45-1692-4d71-b140-0914e818dff5",
+  "answer": "根據搜尋結果，2026年Google AI方案在台灣的價格與訂閱資訊整理如下。\n\n首先，關於Google AI Plus方案，在台灣的月費價格有過調整。根據2026年1月的資訊，Google AI Plus在台灣推出時的訂閱價格為每月新台幣260元，當時慶祝上市還提供了前兩個月5折、每月新台幣130元的限量優惠。不過到了2026年稍後，價格有所調降，有資料顯示費用從原本的每月260元調降至每月165元，雲端儲存空間也從原本的200GB加倍至400GB。另外也有搜尋結果提到Google AI Plus在台灣的價格為每月新台幣165元，包含400GB儲存空間。需要注意的是，不同時間點的促銷活動或價格調整可能造成差異，實際價格仍以Google官方頁面顯示為準。\n\n接著是Google AI Pro方案，在台灣的月費價格為新台幣650元，提供5TB的雲端儲存空間。這個方案享有4倍的Gemini用量，相較於未訂閱AI方案的使用者，並包含更多進階功能，例如擴充的Gemini Pro模型存取權、1百萬個詞元的脈絡窗口、每月1,000點Google Flow點數、每月10,000點Google Flow Music點數，以及YouTube Premium Lite方案（視國家地區而定）等福利。另外，Google AI Pro也提供10TB儲存空間的選項，可根據個人用量需求選擇。\n\n再來是Google AI Ultra方案，這個方案在2026年5月的I/O開發者大會後進行了調整，拆分成兩個檔次，台灣的月費價格分別為新台幣3,300元與新台幣6,500元起。Google AI Ultra 5x方案月費為新台幣3,300元，提供20TB儲存空間，享有Pro方案5倍的Gemini用量；Google AI Ultra 20x方案月費為新台幣6,500元，提供30TB儲存空間，享有Pro方案20倍的Gemini用量。Ultra方案是針對高用量創作者、AI重度使用者或技術團隊設計，包含更高的Gemini與代理限制、Ultra等級的影片生成能力、4K畫質提升、完整的YouTube Premium個人方案等頂級福利。\n\n綜合來看，2026年Google AI方案在台灣的價格結構為：Plus每月165元（400GB）、Pro每月650元（5TB）、Ultra每月3,300元起（20TB）或6,500元（30TB）。選擇哪個方案取決於個人需求，如果只是輕量使用、偶爾需要AI輔助，Plus方案就足夠；如果需要頻繁進行深度分析、處理長文件、大量創作或開發工作，Pro方案會是更合適的選擇；而若是高產量的創作者或需要最高AI配額的技術團隊，則應考慮Ultra方案。另外，Google也針對學生提供優惠，例如有資訊指出台灣的大專院校學生可享有Google AI Pro免費一年的方案，或是有其他學生專屬優惠，符合資格的學生可以多加留意。",
+  "query_analysis": {
+    "queries": [
+      "2026 Google AI Plus Pro Ultra subscription price",
+      "2026 Google AI 台灣訂閱價格",
+      "2026 Google AI Taiwan subscription price",
+      "2026 Google AI 台灣 台幣 價格 Plus Pro Ultra 訂閱"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://one.google.com/intl/zh-TW_tw/about/google-ai-plans/",
+      "title": "訂閱Google AI 方案，輕鬆解決日常大小事",
+      "snippet": "Google AI Plus 每月$165 TWD 400 GB. Google AI Pro 每月$650 TWD 5 TB. Google AI Ultra 每月$3,300 TWD 起"
+    },
+    {
+      "link": "https://www.glbgpt.com/hub/google-ai-plus-vs-pro/",
+      "title": "Google AI Plus vs Pro: Prices, Limits, Ultra Compared",
+      "snippet": "As of July 13, 2026, Google's own Gemini subscriptions page lists Google AI Plus at $4.99/month, Google AI Pro at $19.99/month, and Google AI ..."
+    },
+    {
+      "link": "https://www.facebook.com/9to5Google/posts/googles-ai-plus-pro-and-ultra-plans-just-got-updated-usage-limits-following-io-2/1411616004344386/",
+      "title": "Google's AI Plus, Pro, and Ultra plans just got updated ...",
+      "snippet": "... AI Pro,” while we're getting “Google AI Ultra” for $249.99 per month.... Google announces 'AI Pro' and new $250/month 'Ultra' subscription."
+    },
+    {
+      "link": "https://www.glbgpt.com/hub/how-much-is-google-ai-plus-subscription/",
+      "title": "Google AI Plus Price: $4.99, Limits, Pro Comparison",
+      "snippet": "In 2026, a Google AI Plus subscription costs $4.99 per month in the United States and includes 400 GB of cloud storage, according to Google's ..."
+    },
+    {
+      "link": "https://content.peaker.com.tw/google-ai-ultra/",
+      "title": "Google AI Ultra 全攻略：費用、功能特色與Gemini Premium差異",
+      "snippet": "本文更新於2026 年9 月：Google AI Ultra 已於2026 年5 月I/O 降價並拆成兩檔（NT$3,300／月與NT$6,500／月），台灣可直接訂閱；比較表全面改為免費／Google AI ..."
+    },
+    {
+      "link": "https://technews.tw/2026/01/28/google-launches-google-ai-plus-in-35-new-countries-and-territories/",
+      "title": "Google AI Plus 訂閱方案登台，月付260 元",
+      "snippet": "在台灣，Google AI Plus 訂閱價格每月台幣260 元。為了慶祝在台推出，新訂閱用戶現在享前2 個月5 折、每月台幣130 元限量優惠。 值得一提 ..."
+    },
+    {
+      "link": "https://one.google.com/intl/zh-TW_tw/about/",
+      "title": "取得加大儲存空間、更多AI 服務和實用功能",
+      "snippet": "Google AI 方案 ; Google AI Plus · $165 TWD. 400 GB 儲存空間 ; Google AI Pro · $650 TWD. 5 TB 儲存空間 ; Google AI Ultra · $3,300 TWD · 儲存空間20 TB 起."
+    },
+    {
+      "link": "https://one.google.com/intl/en_us/about/google-ai-plans/",
+      "title": "Google AI plans with Cloud Storage",
+      "snippet": "Power your everyday with a Google AI plan ; Google AI Plus. $4.99 USD · 400 GB storage ; Google AI Pro. $19.99 USD · 5 TB storage ; Google AI Ultra · $99.99 USD ..."
+    },
+    {
+      "link": "https://gemini.google/subscriptions/",
+      "title": "Google AI Pro & Ultra — get access to Gemini 3.1 Pro & more",
+      "snippet": "Google AI Plus · $4.99 · Get 2x higher usage access than Free ; Google AI Pro · $19.99 · Get 4x higher usage access than Free ; Google AI Ultra · $99.99 · $99.99/ month ..."
+    },
+    {
+      "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/ai-plus/",
+      "title": "Google AI Plus 正式在台推出：讓AI 成為你提升生產力與創意 ...",
+      "snippet": "在台灣,Google AI Plus 的訂閱價格為每月新台幣260 元;為了慶祝正式上市,新訂閱用戶現在更可享有前兩個月5 折、每月新台幣130 元的限量優惠。"
+    },
+    {
+      "link": "https://www.gvm.com.tw/article/126891?srsltid=AU7gw4V42qTleWCGynNCAPcthx7qZN3KsUBHl4cNaagIRsyNItscRj76",
+      "title": "Gemini免費版與Pro、Ultra比較》費用、功能、福利差在哪？",
+      "snippet": "Google 目前提供三個付費方案，20日I/O 2026大會上公開新方案，最大變化是AI Ultra 新增平價方案，每月只需3300元。至於原先月費價格8150 元的Google AI ..."
+    },
+    {
+      "link": "https://www.facebook.com/bnextmedia/posts/google-ai-%E5%90%84%E6%96%B9%E6%A1%88%E6%9C%89%E5%93%AA%E4%BA%9B%E7%89%B9%E8%89%B2%E8%A9%B2%E6%80%8E%E9%BA%BC%E9%81%B8%E6%93%87google-%E6%96%BC-2026-%E5%B9%B4-io-%E9%96%8B%E7%99%BC%E8%80%85%E5%A4%A7%E6%9C%83%E5%AE%A3%E5%B8%83%E8%A8%82%E9%96%B1%E6%96%B9%E6%A1%88%E6%9B%B4%E6%96%B0%E8%A8%88%E8%B2%BB%E9%82%8F%E8%BC%AF%E5%85%A8%E9%9D%A2%E6%94%B9%E6%8E%A1%E7%AE%97%E5%8A%9B%E6%B6%88%E8%80%97%E5%88%B6compute-used/1374982301327341/",
+      "title": "Google AI 各方案有哪些特色，該怎麼選擇？ Google 於2026 ...",
+      "snippet": "Google 於2026 年I/O 開發者大會宣布訂閱方案更新，計費邏輯全面改採「算 力消耗制」（compute-used），並新增AI Ultra 新台幣 3,300 元方案層級。同時， ..."
+    },
+    {
+      "link": "https://www.gvm.com.tw/article/126891?srsltid=AU7gw4UEnVMVP-bXnWN9pkr7MYyUTflnXrpIktpF1CvRbMBi3w0qFMQK",
+      "title": "Gemini免費版與Pro、Ultra比較》費用、功能、福利差在哪？",
+      "snippet": "Google 目前提供三個付費方案，20日I/O 2026大會上公開新方案，最大變化是AI Ultra 新增平價方案，每月只需3300元。至於原先月費價格8150 元的Google AI ..."
+    },
+    {
+      "link": "https://mashable.com/article/google-io-2026-gemini-ultra-ai-subscription-tiers",
+      "title": "Google I/O 2026: AI subscription tiers are now cheaper",
+      "snippet": "The three-tier structure now looks like this: AI Plus at $7.99/month, AI Pro at $19.99/month, and AI Ultra starting at $99.99/month. Gemini Spark, the new ..."
+    },
+    {
+      "link": "https://www.threads.com/@qwe987299/post/DTMhF6pkl2e/2026-google-gemini-ai-%E5%AE%8C%E6%95%B4%E6%AF%94%E8%BC%83%E5%85%8D%E8%B2%BBproultra-%E6%96%B9%E6%A1%88%E5%B7%AE%E5%88%A5%E8%88%87%E5%83%B9%E6%A0%BC%E5%85%A8%E5%88%86%E6%9E%90httpsmnyatwccword2685html",
+      "title": "2026 Google Gemini AI 完整比較：免費、Pro、Ultra 方案差別 ...",
+      "snippet": "2026 Google Gemini AI 完整比較：免費、Pro、Ultra 方案差別與價格全分析mnya.tw/cc/wo… ; wang_sosa's profile picture · Sosa Wang (@wang_sosa)."
+    },
+    {
+      "link": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+      "title": "Google AI subscription updates from Google I/O 2026",
+      "snippet": "We're also reducing the monthly price of our top-tier AI Ultra plan from $250 to $200. You'll get the exact same capabilities — including a 20X ..."
+    },
+    {
+      "link": "https://www.facebook.com/verge/videos/googles-ai-tools-will-be-bundled-into-a-subscription-plan-the-most-expensive-is-/665506106467683/",
+      "title": "Google's AI tools will be bundled into a subscription plan ...",
+      "snippet": "Google AI Ultra Subscription Plan: $249.99 Per Month Announced. Summarized by AI from the post below."
+    },
+    {
+      "link": "https://www.eesel.ai/blog/google-ai-ultra",
+      "title": "Google AI Ultra explained: Features, pricing, and who it's ...",
+      "snippet": "At $249.99 per month (with a promotional rate of $124.99 for the first three months), Ultra is priced substantially higher than rivals like ..."
+    },
+    {
+      "link": "https://support.google.com/googleone/answer/16476811?hl=en&co=GENIE.Platform%3DDesktop",
+      "title": "Get a Google AI Pro membership - Computer",
+      "snippet": "With a Google AI Pro plan you get greater access to Google AI. Choose from 5 TB or 10 TB of storage based on your specific Google AI Pro plan needs."
+    },
+    {
+      "link": "https://www.reddit.com/r/Bard/comments/1pxxo7c/the_20_google_ai_pro_plan_is_a_deal_thats/",
+      "title": "The $20 Google AI Pro plan is a deal that's honestly too good",
+      "snippet": "I just made the jump from a $100 claude max sub down to the $20 google pro plan, and I don't feel like I'm losing anything. In fact, I'm gaining ..."
+    },
+    {
+      "link": "https://9to5google.com/2026/05/25/google-ai-plus-pro-ultra-gemini-features/",
+      "title": "What Gemini features you get with Google AI Plus, Pro, & ...",
+      "snippet": "The standalone cost is $8.99 per month. 'Expanded' access. AI Pro subscribers get “Expanded” access to: Google Flow (1,000 Flow credits per ..."
+    },
+    {
+      "link": "https://fc.bnext.com.tw/articles/view/4432",
+      "title": "Gemini 3.7 Flash 登場！Flash、Pro 模型怎麼切換？Google AI ...",
+      "snippet": "Google 於2026 年1 月在台推出的方案,費用從原先每月NT$260 元調降至現行的NT$165 元,雲端儲存空間也同步從200GB 加倍至400GB。"
+    },
+    {
+      "link": "https://one.google.com/about/plans?hl=zh_TW",
+      "title": "升級雲端儲存空間的方案與定價",
+      "snippet": "Google AI · 方案與定價. 登入. 選擇適合的Google One 方案. 所有Google 帳戶均附最多15 GB，其他Google One 方案的總儲存空間已包含此容量。可隨時取消訂閱。訂閱即表示 ..."
+    },
+    {
+      "link": "https://support.google.com/googleone/answer/16476811?hl=zh-Hant&co=GENIE.Platform%3DAndroid",
+      "title": "訂閱Google AI Pro 會員方案- Android - Google One說明",
+      "snippet": "訂閱Google AI Pro 方案，即可享有更高的Google AI 使用權限。您可以根據自己的用量需求，選擇Google AI Pro 5 TB 或10 TB 儲存空間方案。進一步瞭解Google One 永久 ..."
+    },
+    {
+      "link": "https://www.sogi.com.tw/articles/google-one/6268016",
+      "title": "Google One空間不夠用怎麼辦？2026方案費用比較與省錢 ...",
+      "snippet": "台灣目前每月費用從65 元起，AI 方案則從月費165 元到6,500 元不等。到底各方案內容差在哪、哪一種最省錢？以下幫你一次整理。 Google One空間不夠用怎麼 ..."
+    },
+    {
+      "link": "https://support.google.com/googleone/answer/16476811",
+      "title": "Get a Google AI Pro membership - Android",
+      "snippet": "With a Google AI Pro plan you get greater access to Google AI. Choose from 5 TB or 10 TB of storage based on your specific Google AI Pro plan needs."
+    },
+    {
+      "link": "https://www.taiwannews.com.tw/news/6424931",
+      "title": "Google offers college students in Taiwan free year of AI Plus",
+      "snippet": "Google offers college students in Taiwan free year of AI Plus Offer includes access to Gemini Omni and 400 GB of cloud storage Aug. 20, 2026. ..."
+    },
+    {
+      "link": "https://opentherank.com/ai-pricing/gemini/",
+      "title": "Gemini Price by Country 2026 | Where is Gemini cheapest",
+      "snippet": "Compare Gemini subscription prices across all regions. Indonesia ($17.18/mo) is the cheapest country on the App Store for Gemini, while Denmark ($25.72/mo) ..."
+    },
+    {
+      "link": "https://shareallai.github.io/familypro/zh/blog/google-ai-plan-guide/",
+      "title": "Google AI Plus、Pro、Ultra：2026 年权益与适用人群",
+      "snippet": "Google 官方页面会因国家、账号和促销活动显示不同的价格与试用方案；Ultra 还分为20TB 和30TB 两个层级。本文不将任何单一地区的月费视为全球统一价格。"
+    }
+  ]
+}
