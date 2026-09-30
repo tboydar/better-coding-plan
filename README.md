@@ -41,6 +41,27 @@ better-coding-plan/
 
 ## 🔄 如何持續更新
 
+### 每日自動收集（launchd 排程，每日 08:30）
+
+`~/Library/LaunchAgents/com.eugene.better-coding-plan.plist` 每天自動執行
+`scripts/daily_collect.sh`：
+
+1. 依日期輪換取 `scripts/queries.txt` 內的 6 筆查詢（避免重複與 felo 5/min 限流）
+2. 每次查詢存到 `research/raw/<slug>-daily-<date>.json`
+3. 寫入摘要 `updates/YYYY-MM-DD.md`（含每筆狀態）
+4. 自動 `git commit` + `git push`（SSH 認證）
+
+手動執行：
+
+```bash
+./scripts/daily_collect.sh --dry-run    # 預覽當日查詢
+./scripts/daily_collect.sh --no-push    # 只收集不 push
+./scripts/daily_collect.sh              # 完整收集 + commit + push
+./scripts/daily_collect.sh --date 2026-10-05   # 指定日期（UTC）
+```
+
+### 深度研究（批次）
+
 1. **批次重搜**：編輯 `scripts/queries.txt`（`查詢|slug` 每行一筆），執行
    ```
    ./scripts/run_searches.sh scripts/queries.txt
@@ -52,6 +73,7 @@ better-coding-plan/
 5. **commit & push** → GitHub public repo 自動曝光
 
 > felo-cli 透過 `~/.zshrc` 的 `FELO_API_KEY` 驗證；本環境已設定。
+> skill：`~/.pi/agent/skills/better-coding-plan/`（含 references/setup.md 疑難排解）
 
 ## 附註
 
