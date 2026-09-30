@@ -1,0 +1,139 @@
+{
+  "id": "5HQvaCUuxcZteQkEfYZQwm",
+  "message_id": "6c54ec06-65b8-4ba4-8a0e-164f0e2a0a90",
+  "answer": "2026年におけるGoogle AI ProおよびGoogle AI Ultraの日本円での定価について、検索結果に基づいて詳しく説明します。\n\nまず、Google AI Proの日本円での月額料金は2,900円です。このプランには、高性能なAIモデル（Gemini 3.1 Proなど）へのアクセスに加え、5TBのクラウドストレージが含まれます。また、YouTube Premium LiteやAIエージェント「Gemini Spark」などの特典も追加されており、価格は据え置きとなっています。このProプランは、個人向けの中核的なAIサブスクリプションとして位置づけられており、コストパフォーマンスが高いとされています。\n\n次に、Google AI Ultraには2つのバリエーションがあります。1つ目は「Google AI Ultra 5x」で、日本円での月額料金は14,500円です。このプランは、Google AI Proと比較して、GeminiアプリとGoogle Antigravityでの利用枠が5倍になります。また、20TBのクラウドストレージ、Google Antigravityへの優先アクセス、新しいモデル「Gemini 3.5 Flash」との統合によるコードテストとデバッグの迅速化、YouTube Premiumの個人プランなどの特典が含まれます。この5xプランは、Proを上回る利用上限と高度な機能を備えつつ、最上位の20xほどの大きな利用枠は持たない中間プランとして新設されました。\n\n2つ目は「Google AI Ultra 20x」で、日本円での月額料金は32,000円です（当初は36,400円でしたが、2026年5月のGoogle I/Oでの価格改定により値下げされました）。この最上位プランでは、GeminiアプリとGoogle Antigravityの利用上限がAI Proの20倍となり、30TBまでのクラウドストレージが含まれます。また、最先端のAIツールが使え、利用枠が潤沢なのが特徴です。\n\n開発者やテックワーカー、クリエイティブプロフェッショナルなど、高度な利用を必要とするユーザー向けに設計されています。\n\nなお、米国ドルでの価格は、Proが月額19.99ドル、Ultra 5xが99.99ドル、Ultra 20xが199.99ドルとなっています（旧価格は249.99ドルでした）。\n\nさらに、これらの上位プランの下には、月額725円の「Google AI Plus」プランもあります（日本では1,200円という情報もありますが、725円が最新の値下げ後の価格とされています）。このPlusプランには200GBのクラウドストレージが含まれます。\n\nまた、Google AI Ultraの利用枠は、Proプランと比較して5倍または20倍になるという点が、公式ヘルプでも確認されています。\n\nなお、Google Antigravity自体には単独のサブスクリプションはなく、有料の利用枠はGoogle AIプラン（Pro、Ultra 5x、Ultra 20x）にバンドルされています。無料のIndividualティアも存在し、Tab補完やCommandリクエストが無制限で利用できますが、エージェントの週間クォータは限定的です。\n\nまとめますと、2026年時点での日本円での定価は、Google AI Proが月額2,900円、Google AI Ultra 5xが月額14,500円、Google AI Ultra 20xが月額32,000円となります。これらのプランは、GeminiアプリとGoogle Antigravityの両方で利用でき、利用枠やストレージ容量、特典が段階的に異なりますので、利用目的や頻度に応じて選択することが重要です。",
+  "query_analysis": {
+    "queries": [
+      "2026 Google AI Pro Ultra price in Japanese Yen",
+      "2026 Google AI Pro Ultra 日本 円 定価 Gemini Antigravity",
+      "Gemini Antigravity 2026 Google AI Pro Ultra"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://book.st-hakky.com/en/data-science/google-ai-ultra-price-analysis",
+      "title": "Pitfalls of Google AI Ultra Pricing: Judging by Annual Total ...",
+      "snippet": "As of 2026, the Japan-specific pricing for Google AI Ultra is 14,500 JPY per month for 5x and 32,000 JPY per month for 20x."
+    },
+    {
+      "link": "https://tech-insider.org/google-gemini-ai-pro-access-2026-u7buy-review/",
+      "title": "Google Gemini AI Pro & Ultra for Less in 2026: U7BUY Review",
+      "snippet": "Google AI Pro is $19.99/mo, AI Ultra up to $199.99. See official 2026 pricing, regional gaps, and a full U7BUY marketplace review."
+    },
+    {
+      "link": "https://one.google.com/intl/en_us/about/google-ai-plans/",
+      "title": "Google AI plans with Cloud Storage",
+      "snippet": "Google AI Pro $19.99 USD. Google Antigravity, and. Google AI Ultra From $99.99 USD /mo Starting at 20 TB of storage … projects with Gemini Pro and Ultra Gemini"
+    },
+    {
+      "link": "https://hatenabase.jp/blog/gemini-advanced%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%EF%BC%9Agoogle-ai-pro-ultra%E3%81%A7%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B/",
+      "title": "Google AI Pro / Ultra 完全ガイド【2026年9月最新】旧Gemini ...",
+      "snippet": "Google AI Proプランは月額2,900円(USD $19.99) Gemini Advanced (Google AI Pro/Ultra)"
+    },
+    {
+      "link": "https://note.com/tothinks/n/n3178c2fbe6ee?hl=en",
+      "title": "[June 2026 Latest] Google AI Plus Price Cut to 725 Yen ...",
+      "snippet": "AI Pro (2,900 yen) AI Ultra (from 14,500 yen) is for corporate high-level professional use or heavy users"
+    },
+    {
+      "link": "https://japan.cnet.com/article/35247703/",
+      "title": "「Google AI Ultra」大幅値下げ 月1万4500円から利用可能に ...",
+      "snippet": "「Google AI Ultra」大幅値下げ 月1万4500円から利用可能に Geminiの最上位プラン CNET Japan Staff 2026年05月20 … スタント型ツール「Gemini Spark」の ..."
+    },
+    {
+      "link": "https://www.aipricing.guru/compare/google-ai-pro-vs-google-ai-ultra-developer/",
+      "title": "Google AI Pro vs Google AI Ultra 5x",
+      "snippet": "Google's I/O 2026 subscription update launched this $99.99/month AI Ultra tier with 5x higher usage limits than AI Pro. Full details → ..."
+    },
+    {
+      "link": "https://www.cloudzero.com/blog/google-antigravity-pricing/",
+      "title": "Google Antigravity pricing 2026: tiers, limits, free plan",
+      "snippet": "There is no Antigravity-only subscription: paid quota rides on Google AI plans at $19.99 (Pro), $99.99 (Ultra 5x), and $199.99 (Ultra 20x) a ..."
+    },
+    {
+      "link": "https://japan.zdnet.com/article/35247708/",
+      "title": "グーグル、AIプランを刷新--これから選ぶべきプランは？",
+      "snippet": "... 価格を月額249.99ドル（同3万6400円）から199.99ドル（同3万2000円）に引き下げた。この価格で、GeminiアプリとGoogle Antigravityの利用上限がAI Pro ..."
+    },
+    {
+      "link": "https://gigazine.net/gsc_news/en/20260128-google-ai-plus/",
+      "title": "Google launches 'Google AI Plus' in Japan for 1200 yen ...",
+      "snippet": "The plan costs 1,200 yen per month and includes 200GB of cloud storage. Google AI Pro, and Google AI Ultra. compared to Pro and Ultra,"
+    },
+    {
+      "link": "https://x.com/Majin_AppSheet/status/2021499973351899345",
+      "title": "先月から「Google AI Ultra」という Googleの最上位AIプランを ...",
+      "snippet": "先月から「Google AI Ultra」というGoogleの最上位AIプランを契約してみた。 月36,400円、高すぎる。 (最初の3ヶ月は半額の18,000円) Geminiアプリ ..."
+    },
+    {
+      "link": "https://forest.watch.impress.co.jp/docs/news/2110047.html",
+      "title": "月額100米ドルの「Google AI Ultra」プランが新設",
+      "snippet": "2026年7月16日. 「Google AI Pro」がさらにお得に、YouTube Premium Liteに加えてAIエージェント「Gemini Spark」も追加、価格は据え置き2,900円. 2026 ..."
+    },
+    {
+      "link": "https://one.google.com/intl/en_ca/about/google-ai-plans/",
+      "title": "Google AI plans with cloud storage",
+      "snippet": "Google AI Pro $26.99 CAD /mo 5 TB storage. Google AI Ultra From $139.99 CAD /mo Starting at 20 TB of storage … language availability, system requirements and ..."
+    },
+    {
+      "link": "https://support.google.com/googleone/answer/16286513?hl=ja-JP",
+      "title": "Google AI Ultra の特典を利用する - Google One ヘルプ",
+      "snippet": "Google AI Ultra プランでは、Google AI Pro プランと比較して、Gemini と Google Antigravity の利用枠が 5 倍または 20 倍になります。また、以下が含まれます。 AI 受信 ..."
+    },
+    {
+      "link": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+      "title": "Google AI subscription updates from Google I/O 2026",
+      "snippet": "We're also reducing the monthly price of our top-tier AI Ultra plan from $250 to $200."
+    },
+    {
+      "link": "https://support.google.com/googleone/answer/16286513?hl=en",
+      "title": "Use Google AI Ultra benefits",
+      "snippet": "Based on your specific Google AI Ultra plan, you get 5x or 20x usage quota in Gemini and Google Antigravity compared to the Google AI Pro plan."
+    },
+    {
+      "link": "https://support.google.com/googleone/thread/418789670/urgent-japanese-ai-premium-pro-subscriber-traveling-to-hong-kong-access-renewal-issues?hl=en",
+      "title": "Japanese AI Premium (Pro) Subscriber traveling to Hong ...",
+      "snippet": "My annual renewal of JPY 29,000 is due on March 22, 2026 (Tomorrow). I frequently travel between Japan and Hong Kong. Despite Google's ..."
+    },
+    {
+      "link": "https://nomolk.hatenablog.com/entry/2026/04/07/211801",
+      "title": "Googleに課金するときどれ選べばいいんだよ問題・AI対応 ...",
+      "snippet": "AI Plus（さっき触れたGoogle AI Plus (400 GB)と同じもの）、AI Pro、AI Ultraの3つがあります。 ... AI Ultra（36,400円/月）は今回は対象としません。"
+    },
+    {
+      "link": "https://antigravity.google/blog/changes-to-antigravity-plans",
+      "title": "Changes to Antigravity Plans",
+      "snippet": "Google Antigravity is now available to Google Cloud customers through Gemini Enterprise Agent Platform. Read the whole announcement here. The ..."
+    },
+    {
+      "link": "https://gemini.google/subscriptions/",
+      "title": "Google AI Pro & Ultra — get access to Gemini 3.1 Pro & more",
+      "snippet": "Get access to the best of Google AI including Gemini 3.1 Pro, video generation with Veo 3.1, Deep Research, and much more."
+    },
+    {
+      "link": "https://support.google.com/gemini/thread/403203601/antigravity-limits-with-google-ai-ultra-at-100-for-all-models?hl=en",
+      "title": "Antigravity Limits with Google AI Ultra at 100% for all models",
+      "snippet": "Gemini apps does not support Antigravity issues. Report this to Google AI Developers Forum. Thanks. Fred."
+    },
+    {
+      "link": "https://one.google.com/intl/ja_jp/about/google-ai-plans/",
+      "title": "Google AI のプラン（クラウド ストレージ付き）",
+      "snippet": "Google の最も高性能な AI モデルをご利用いただけます. 複雑なプロジェクトにも対応できる Gemini Pro と Gemini Ultra ; 自律型 AI エージェントでコーディングとリリース ..."
+    },
+    {
+      "link": "https://www.ai-souken.com/article/google-ai-guide",
+      "title": "Google AI Proとは？料金や機能、選び方を徹底解説",
+      "snippet": "Google AI Proは、Googleが提供する個人向けの中核AIサブスクリプションプランです。月額2,900円でGemini 3.1 Pro・Nano Banana Pro・Veo 3.1 Fast・Deep ..."
+    },
+    {
+      "link": "https://discuss.ai.google.dev/t/i-subscribed-to-google-ai-ultra-but-i-cant-use-it/133616",
+      "title": "I subscribed to Google AI Ultra, but I can't use it.",
+      "snippet": "My account was upgraded from Pro to Ultra and the payment was successfully deducted, but the Gemini page still shows Pro, and the credit limit ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/googleworkspace/comments/1ti35h5/how_to_buy_google_ai_products_now_that_pro_and/",
+      "title": "How to buy Google AI products now that Pro and Ultra are ...",
+      "snippet": "Google IO introduced many exciting features. Everything will be first available to \"AI Pro\" and \"AI Ultra\" customers.\n\nApparently Google Workspace users ..."
+    }
+  ]
+}

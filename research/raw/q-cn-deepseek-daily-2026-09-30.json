@@ -1,0 +1,63 @@
+{
+  "id": "nbgcY3VT9ZR8jx8E4D3Qsk",
+  "message_id": "83192571-8452-489b-951f-db9fa61ebe7c",
+  "answer": "根据搜索结果，2026年DeepSeek API的价格因模型版本、使用时段以及缓存命中情况而有所不同，主要涉及V4 Flash和V4 Pro两个模型。\n\n１. 关于V4 Flash模型的价格，多个来源提供了不同时间点的数据。一个来源显示，V4 Flash在非高峰时段每百万输入token（缓存未命中）为0.14美元，每百万输出token为0.28美元，缓存命中时输入token价格低至0.0028美元每百万（来源6）。另一个来源则显示，非高峰时段缓存未命中的输入价格为0.15美元每百万，输出价格为0.66美元每百万（来源10）。还有来源提到，高峰时段V4 Flash的输入价格为0.3美元每百万，输出价格为1.32美元每百万（来源10）。另有信息指出，V4 Flash在非高峰时段缓存未命中输入为0.22美元每百万，缓存命中输入为0.007美元每百万，输出为0.66美元每百万（来源4）。这些差异可能反映了不同时间点的价格调整或不同计费条件下的报价。\n\n。\n\n\n\n２. 关于V4 Pro模型，价格同样存在多种说法。一个来源显示，V4 Pro每百万输入token为0.435美元，缓存命中时输入为0.003625美元每百万，输出为0.87美元每百万（来源3。另一个来源则提到，V4 Pro的价格为每百万token输入1.74美元，输出3.48美元（来源2。还有来源显示，V4 Pro每百万token价格为0.66美元输入，1.98美元输出（来源9。另有信息提到，V4 Pro Max在多个API提供商处的混合价格为每百万token 2.17美元（来源7。这些价格差异可能源于不同时段（高峰与非高峰）、不同计费方式或不同服务提供商。\n\n\n\n\n\n３. 关于价格调整，有来源指出，DeepSeek在2026年8月16日大幅提高了API价格，其中缓存命中的价格涨幅高达1114%，每百万token价格达到4美元（来源5。这表明价格可能随时间发生显著变化，上述不同来源的数据可能反映了调整前后的价格状况。\n\n\n\n\n\n４. 关于编程场景的性价比，搜索结果中并未直接给出针对编程任务的具体价格对比或推荐，但提到了V4 Flash适合成本敏感、高吞吐量的任务，而V4 Pro更适合较难的编码和推理工作（来源8。因此，对于编程任务，如果任务较为常规且量大，V4 Flash可能更便宜；如果任务复杂且需要更强推理能力，V4 Pro可能更合适，但成本也更高。同时，有来源指出，按标价计算，DeepSeek V4 Flash是广泛可用的API中最便宜的选项之一（来源6，这暗示其在编程等场景中可能具有价格优势，但具体是否便宜还需结合任务类型和实际用量来评估。\n\n\n\n\n\n\n\n５. 此外，搜索结果还提到，DeepSeek API采用高峰和非高峰时段计费，高峰时段（周一至周五的01:00至04:00 UTC以及06:00至10:00 UTC）的价格是非高峰时段的双倍（来源8。这意味着，如果编程任务可以安排在非高峰时段执行，可以显著降低成本。同时，新用户可能获得500万免费token的优惠（来源9，这也有助于降低初期使用成本。\n\n\n\n\n\n综上所述，2026年DeepSeek API的每百万token价格因模型、时段和缓存情况而异，V4 Flash在非高峰时段缓存未命中时输入价格约为0.14至0.22美元，输出价格约为0.28至0.66美元；V4 Pro的输入价格约为0.435至1.74美元，输出价格约为0.87至3.48美元。对于编程任务，V4 Flash可能更便宜，适合常规任务，而V4 Pro适合复杂任务但成本更高，具体选择需根据任务难度和预算权衡，并考虑利用非高峰时段和缓存命中来降低成本。",
+  "query_analysis": {
+    "queries": [
+      "2026 DeepSeek API cost per million tokens V4 programming cheap",
+      "2026 DeepSeek API 价格 每百万token V4 编程 便宜"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://benchlm.ai/deepseek/api-pricing",
+      "title": "DeepSeek API Pricing (September 2026)",
+      "snippet": "The DeepSeek API costs $0.30/$1.20 per million input/output tokens at peak for DeepSeek V4.1 Flash, half that off-peak ($0.15/$0.60)."
+    },
+    {
+      "link": "https://www.cloudzero.com/blog/deepseek-pricing/",
+      "title": "DeepSeek pricing 2026: V4, R1, API costs, and how to ...",
+      "snippet": "DeepSeek API pricing centers on two V4 models. V4 Flash costs $0.14 per million input tokens and $0.28 output. V4 Pro costs $1.74/$3.48 at ..."
+    },
+    {
+      "link": "https://coworker.ai/blog/deepseek-api-pricing",
+      "title": "DeepSeek API Pricing 2026: Full Cost Breakdown",
+      "snippet": "DeepSeek-V4-Pro costs $0.435 per million input tokens, $0.003625 on cache hits, and $0.87 per million output tokens. Both have 1M context ..."
+    },
+    {
+      "link": "https://www.morphllm.com/deepseek-api",
+      "title": "DeepSeek API Pricing (2026): Cost per Token and How to Call It",
+      "snippet": "Off-peak, deepseek-v4-flash costs $0.22 per 1M input tokens on a cache miss, $0.007 per 1M on a cache hit, and $0.66 per 1M output tokens; ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/DeepSeek/comments/1vn81do/deepseek_just_massively_increased_their_api/",
+      "title": "DeepSeek just massively increased their API prices ...",
+      "snippet": "DeepSeek just massively increased their API prices (effective August 16, 2026) - up to 1,114% increase for cache hits … pay $4 per million for ..."
+    },
+    {
+      "link": "https://www.spheron.network/blog/llm-api-pricing-comparison-gpt-claude-gemini-deepseek-2026/",
+      "title": "LLM API Pricing 2026: GPT vs Claude vs Gemini ...",
+      "snippet": "By list price, DeepSeek V4-Flash is the cheapest broadly-available API: $0.14/M input on a cache miss, $0.0028/M on a cache hit, and $0.28/M ..."
+    },
+    {
+      "link": "https://deepinfra.com/blog/deepseek-v4-pro-pricing-guide-2026-providers-cost-analysis",
+      "title": "DeepSeek V4 Pro Pricing Guide 2026: Pricing, Providers & ...",
+      "snippet": "DeepSeek V4 Pro Max is tracked across six API providers, price of $2.17 per 1M tokens ・ all at $2.17 per 1M blended tokens ・ $0.435 input / $ ..."
+    },
+    {
+      "link": "https://www.aipricing.guru/blog/deepseek-api-pricing-guide-2026/",
+      "title": "DeepSeek API Pricing (2026): V4 Costs & Calculator",
+      "snippet": "DeepSeek API pricing for V4 Flash and Pro, including peak and off-peak billing, cache discounts, hidden costs, and a live calculator."
+    },
+    {
+      "link": "https://costgoat.com/pricing/deepseek-api",
+      "title": "DeepSeek API Pricing Calculator & Cost Guide (Sep 2026)",
+      "snippet": "5 million free tokens for new users (no credit card required) V4 Pro $0.66 / $1.98 per 1M tokens"
+    },
+    {
+      "link": "https://api-docs.deepseek.com/quick_start/pricing",
+      "title": "Models & Pricing | DeepSeek API Docs",
+      "snippet": "Model Details​ ; PRICING · 1M INPUT TOKENS (CACHE MISS), OFF-PEAK, $0.15, $0.66 ; PRICING · 1M INPUT TOKENS (CACHE MISS) · PEAK, $0.3, $1.32 ; PRICING · 1M OUTPUT ..."
+    }
+  ]
+}

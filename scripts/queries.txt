@@ -1,0 +1,51 @@
+# better-coding-plan 查詢池
+# 格式：一行一筆，`查詢內容|slug`
+# daily_collect.sh 會依日期 seed 每日輪換選取一小批，避免重複與限流。
+# slug 只能用 [a-zA-Z0-9_-]，不要有空格。
+
+# --- 美國 / 國際主流 ---
+2026 GitHub Copilot Pro Pro+ Max pricing AI credits monthly allowance value|q-us-copilot
+2026 ChatGPT Plus Pro Codex agent weekly quota reset credits pricing value|q-us-codex
+2026 Claude Pro Max 5x 20x pricing limits 5h weekly message quota|q-us-claude
+2026 Cursor pricing plans credits usage based billing Pro Ultra|q-us-cursor
+2026 Windsurf pricing plans Pro Max daily weekly quota|q-us-windsurf
+Sourcegraph Amp 2026 pricing plans Agent Orb credits subscription|q-us-amp
+OpenCode 2026 pricing Go subscription credits models|q-us-opencode
+Devin Cognition 2026 pricing per month plans|q-us-devin
+Muse Code Meta 2026 pricing everyday high power usage|q-us-muse
+Command Code 2026 pricing GOAT Pro credits|q-us-commandcode
+ArliAI 2026 pricing plans monthly subscription|q-us-arliai
+Mistral Le Chat Pro 2026 pricing credits coding plan value|q-eu-mistral
+
+# --- 中國 ---
+2026 智谱 GLM coding plan 价格 额度 涨价 Lite Pro Max 积分|q-cn-glm
+2026 Kimi 月之暗面 coding plan 价格 会员体系 额度 7天|q-cn-kimi
+2026 MiniMax Token Plan 价格 配额 编码 多模态|q-cn-minimax
+2026 阿里云百炼 coding plan Token Plan 价格 请求次数|q-cn-qwen
+2026 火山引擎 豆包 coding plan 价格 免费额度 首月|q-cn-doubao
+2026 DeepSeek API 价格 每百万token V4 编程 便宜|q-cn-deepseek
+2026 硅基流动 免费模型 价格 编程 API|q-cn-siliconflow
+2026 腾讯混元 coding 编程 plan 价格|q-cn-hunyuan
+
+# --- 日本 ---
+2026 Google AI Pro Ultra 日本 円 定価 Gemini Antigravity|q-jp-google
+2026 Sakana AI Fugu subscription Standard Pro pricing coding|q-jp-sakana
+2026 日本 AI コーディング プラン 割引 おすすめ 最安|q-jp-plans
+
+# --- 台 / 韓 / 印 / 東南亞 / 澳洲 / 巴西 ---
+2026 Google AI 台灣 台幣 價格 Plus Pro Ultra 訂閱|q-tw-google
+2026 台灣 AI coding plan 訂閱 最划算 價格|q-tw-coding
+2026 韓國 AI 코딩 구독 네이버 플랜 가격|q-kr-coding
+2026 India Cursor Start price INR coding plan cheapest India rupee|q-in-cursor
+2026 India AI coding subscription price INR Cursor Copilot cheapest|q-in-plans
+2026 Singapore AI coding plan price SGD subscription cheap|q-sg-coding
+2026 Australia AI coding plan price AUD subscription Copilot Cursor|q-au-coding
+2026 Brazil AI coding plan price BRL subscription Copilot Cursor|q-br-coding
+
+# --- 地方特價 / 新方案追蹤 ---
+2026 new AI coding plan launch subscription 2026 新方案|q-news-newplans
+2026 AI coding subscription price drop discount promo 2026 優惠|q-news-discount
+2026 AI coding plan price increase 涨价 値上げ 2026|q-news-涨价
+2026 Sakana Fugu API pricing codestral gemini coding agent 比較|q-news-codestral
+2026 open source AI coding assistant free self-hosted comparison|q-news-oss
+2026 coding agent benchmark SWE-bench best model 2026 排名|q-news-swebench

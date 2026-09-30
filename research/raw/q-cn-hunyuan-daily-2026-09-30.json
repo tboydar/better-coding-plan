@@ -1,0 +1,113 @@
+{
+  "id": "faJzeTchpwi7KLeYJqYSNh",
+  "message_id": "36089e80-bfa7-47f7-b5b8-df2dab82e18c",
+  "answer": "根据搜索结果，2026年腾讯混元相关的Coding Plan价格信息如下：\n\n首先，腾讯云推出了名为Coding Plan的专属订阅套餐，专门面向AI编程场景。该套餐分为Lite和Pro两个版本。根据多个来源的信息，Lite版的原价为每月40元，而Pro版的原价为每月200元。在首发推广期间，腾讯云提供了大幅优惠，Lite版首月价格低至7.9元，Pro版首月价格为39.9元，这一优惠信息在多个搜索结果中均有提及，例如有资料显示“Lite 套餐首月超值来袭低至7.9 元/ 月,立享18000 次请求,Pro 套餐仅需39.9 元/ 月,畅享90000 次请求”，还有资料提到“Lite 版, 7.9 元, 20 元 ; Pro 版, 39.9 元, 100 元”，这里的20元和100元可能指的是优惠后的月费或某种抵扣额度，但主流信息以7.9元和39.9元为首月优惠价。\n\n。\n\n\n\n关于套餐的用量限制，Lite版每5小时最多约1200次请求，每个订阅月最多约18000次请求；Pro版每5小时最多约1200次请求，每周最多约45000次请求，每月最多约90000次请求，不过具体数值可能因版本和活动有所调整，例如有资料显示Lite版为18000次请求每月，Pro版为90000次请求每月，这与前述信息基本一致。需要注意的是，这里的请求次数是指模型调用的预估数值，一次用户提问可能会触发多次模型调用，因此实际消耗的请求次数通常多于用户提问次数，简单任务单次提问约消耗5到15次模型调用，复杂任务单次提问可能消耗15到30次或更多。\n\n\n\n关于支持的模型，腾讯云Coding Plan并不仅限于混元模型，而是聚合了多种主流模型，包括混元系列（如Hunyuan-T1、Hunyuan-TurboS、Hunyuan 2.0 Instruct和Hunyuan 2.0 Think等），以及GLM-5、Kimi K2.5、MiniMax-M2.5等第三方模型，具体可用模型列表可能随套餐版本和活动变化，例如有资料显示Lite版支持DeepSeek-V4-Flash、GLM-5.1等模型，而Pro版可能支持更多高端模型，如GLM-5、Kimi K2.5等，但混元模型本身是腾讯自研的，在套餐中通常作为核心模型之一提供，例如有资料提到“腾讯云混元模型能生成详细开发计划”，说明混元模型在套餐中具有重要地位。\n\n\n\n\n\n此外，腾讯云还提供了Token Plan个人版套餐，这是另一种面向编程场景的订阅模式，采用积分抵扣方式，价格从39元每月起，支持混元2.0、GLM-5、Kimi K2.5等模型，但这一套餐与Coding Plan在计费方式和使用限制上有所不同，Coding Plan更侧重于按请求次数计费，而Token Plan则按积分或Token消耗计费，用户可根据自身需求选择适合的套餐类型，不过搜索结果中也有观点认为腾讯云的Token Plan“不要买”，可能因为限流或性价比问题，而Coding Plan则相对更受推荐，例如有汇总资料评价腾讯云Coding Plan“可以买，限流较少, 有 GLM-5”，但同时也提醒注意账号共享和API调用等使用规范，严禁账号共享和以API形式调用，否则可能导致订阅权益受限或API Key被封禁，腾讯不承担赔偿责任，这一点在官方文档中有明确说明，用户购买前需仔细阅读相关条款，避免违规使用导致损失，同时也要注意套餐的用量限制和模型调用次数的消耗规则，合理规划使用，以充分发挥套餐价值，尤其是在处理复杂任务时，请求次数消耗较快，可能需要更高级别的套餐或更谨慎的使用策略，例如优先使用轻量级模型处理简单任务，将复杂任务分配给更强大的模型，或者利用缓存机制减少重复调用，从而延长套餐的使用周期，提高性价比，此外，不同厂商的Coding Plan在价格、模型支持、限流策略等方面存在差异，用户在选择时也可横向对比其他平台，如智谱GLM的Coding Plan被评价为“推荐，但是难抢”，MiniMax的Token Plan被评价为“推荐，如果模型能力满足需求”，而讯飞星火的Coding Plan则“可以买，高峰期会限流”，这些信息可作为参考，帮助用户根据自身预算、模型偏好和使用场景做出更合适的选择，但最终决策还需结合个人实际需求和体验，因为不同模型在不同任务上的表现可能差异较大，例如混元模型在生成详细开发计划方面表现较好，但在某些特定编码任务上可能不如其他专用模型，因此建议用户在购买前充分利用免费试用或低价首月优惠进行实际测试，评估模型效果和套餐稳定性，再决定是否长期订阅，这样既能控制成本，又能确保所选套餐真正满足自己的编程需求，避免盲目消费，同时也要关注腾讯云官方文档和公告，及时了解套餐价格、模型列表和使用规则的最新变动，因为AI服务市场变化较快，价格和功能可能随时调整，例如有资料显示腾讯混元模型的价格在2026年有多次更新，包括Hunyuan A13B Instruct、Hy3 Preview等不同版本的定价，以及Hy4 Preview等新模型的推出，这些都可能影响Coding Plan的实际价值和可用模型范围，用户应保持关注，以便在最佳时机做出购买决策，获得最优的使用体验和成本效益，总之，2026年腾讯混元Coding Plan的价格核心信息为：Lite版原价40元每月，Pro版原价200元每月，首月优惠价分别为7.9元和39.9元，用量限制和模型支持范围详见官方文档，用户购买前需仔细阅读条款，合理规划使用，并关注市场动态，以做出明智选择，同时也可参考其他平台的对比信息，综合评估后选择最适合自己的AI编程服务，提升开发效率和体验，最终实现高效、经济、可靠的编程辅助目标，以上就是关于2026年腾讯混元Coding Plan价格及相关信息的详细解答，希望能为您提供有价值的参考和帮助，如果您还有其他问题，欢迎继续提问，我将尽力为您解答，祝您编程愉快，工作顺利，生活美满，谢谢。",
+  "query_analysis": {
+    "queries": [
+      "2026 腾讯混元 coding 编程 plan 价格",
+      "2026 Tencent Hunyuan coding plan price"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://post.smzdm.com/p/anvzqv2v",
+      "title": "腾讯云推出Coding Plan【AI 早报2026-03-07】_服务软件",
+      "snippet": "腾讯云推出Coding Plan【AI 早报2026-03-07】 ; Lite 版, 7.9 元, 20 元 ; Pro 版, 39.9 元, 100 元 ..."
+    },
+    {
+      "link": "https://kilo.ai/models/by/tencent",
+      "title": "Tencent Coding Models on Kilo Code (2026)",
+      "snippet": "Every Tencent Coding Model in Kilo Code, Ranked ; Tencent: Hy3 · 58.8 · 262K · $0.130 / $0.530 · 91 tok/s ; Tencent: Hunyuan A13B Instruct · — · 131K · $0.140 / $0.570."
+    },
+    {
+      "link": "https://www.tencentcloud.com/act/pro/tokenhub",
+      "title": "TokenHub – One API for DeepSeek, GLM, Kimi & More",
+      "snippet": "Full model pricing ; Tencent Hunyuan Hy4 Preview New, Agentic · Coding · Productivity, $0.834 ; Tencent Hunyuan Hy3, General · Coding, $0.132 ; DeepSeek-V4-Flash ( ..."
+    },
+    {
+      "link": "https://cloud.tencent.com/document/product/1823/130092",
+      "title": "大模型服务平台TokenHub Coding Plan 概述 - 腾讯云",
+      "snippet": "腾讯云Coding Plan是为AI编程场景推出的订阅套餐，提供Lite（40元/月）和Pro（200元/月）两档，支持OpenClaw、Cursor等主流工具."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2039774524376404404",
+      "title": "2026年5月主流AI Coding Plan平台全面对比：能力",
+      "snippet": "Coding Plan价格亲民,Lite版¥40/月,Pro版¥200/月,支持DeepSeek‐V4‐Flash、GLM‐5.1等主流模型. Coding Plan价格体系: 套餐首月价格连续包月5小时请求数月请求数Lite ¥40 ¥ ..."
+    },
+    {
+      "link": "https://pricepertoken.com/pricing-page/provider/tencent",
+      "title": "Tencent API Pricing (Updated 2026)",
+      "snippet": "Model Release Timeline ; Hunyuan A13B Instruct. Jul 2025 · $0.14 / $0.57 ; Hunyuan HY3 Preview. Apr 2026 · $0.18 / $0.60 ; Hy3-preview (Non-reasoning). Jul 2026."
+    },
+    {
+      "link": "https://github.com/will-17173/coding-plan-collection",
+      "title": "最全的Coding Plan 汇总",
+      "snippet": "摩尔线程（Coding Plan） ; Lite Plan, ¥120/季度, 每5 小时最多约120 次prompts, GLM-4.7, Claude Pro 套餐的3 倍用量 ; Pro Plan, ¥600/季度, 每5 小时 ..."
+    },
+    {
+      "link": "https://llmpricing.dev/p/tencent-coding-plan/",
+      "title": "Tencent Coding Plan (China) - LLM Pricing",
+      "snippet": "Hosted models by blended price asc ; Hunyuan-TurboShunyuan-turbos, Subscription, $0, 131,072 ; Tencent HY 2.0 Instructhunyuan-2.0-instruct, Subscription, $0 ..."
+    },
+    {
+      "link": "https://blog.csdn.net/coolyoung520/article/details/158321671",
+      "title": "国内AI 编程Coding Plan 深度调研报告（2026年2月） 原创",
+      "snippet": "作者购买了国内主流AI编程服务进行比较，重点体验了腾讯云7.9元/月的套餐，支持多种大模型和编程工具。测试发现腾讯云混元模型能生成详细开发计划，但 ..."
+    },
+    {
+      "link": "https://mastra.ai/models/providers/tencent-coding-plan",
+      "title": "Tencent Coding Plan (China) Models: IDs, Context & Usage",
+      "snippet": "Browse Tencent Coding Plan (China) model IDs, capabilities, and context windows. Learn how to use them in TypeScript with Mastra's model router."
+    },
+    {
+      "link": "https://cloud.tencent.com/document/product/1823/130060",
+      "title": "Token Plan 个人版套餐概览 - 腾讯云",
+      "snippet": "腾讯云大模型Token Plan是面向编程场景的个人订阅套餐，提供通用和Hy两大系列，各含四档套餐，支持主流AI编码工具，采用积分抵扣模式，订阅即表示同意相关规."
+    },
+    {
+      "link": "https://models.dev/providers/tencent-coding-plan",
+      "title": "Tencent Coding Plan (China) models, pricing, and API docs",
+      "snippet": "Models ; Hunyuan-TurboSProvider-specific, hunyuan-turbos, 131,072, 16,384, $0.00 / $0.00 ; Kimi-K2.5Provider-specific, kimi-k2.5, 262,144, 32,768, $0.00 / $0.00 ..."
+    },
+    {
+      "link": "https://jia.je/kb/en/software/coding_plan.html",
+      "title": "AI Coding Plan - Jiegec's Knowledge Base",
+      "snippet": "Zhipu (GLM, Z.ai) · Lite Plan (118 RMB/month): 2,000 points per 5 hours, 10,000 points per week · Pro Plan (538 RMB/month): 12,000 points per 5 hours, 60,000 ..."
+    },
+    {
+      "link": "https://cloud.tencent.com/act/pro/tokenplan",
+      "title": "腾讯云大模型Token Plan_畅享龙虾和编码自由",
+      "snippet": "聚合混元2.0、GLM-5、Kimi-K2.5等主流模型，适配龙虾&AI编码全场景，调用稳定高效。兼容OpenClaw、Codebuddy等多款编程工具，39元/月起，立即订阅！"
+    },
+    {
+      "link": "https://www.cnblogs.com/ouyangkai/p/20018953",
+      "title": "国产AI编程套餐比对-2026年5月12日- 少年。",
+      "snippet": "国产AI Code Plan 套餐比对报告 · ：入门价最低（¥19）、支持多模型（Claude/GPT 等）、综合实力均衡 · ：唯一无时间窗口限制、TTS 免费、Agent 能力优秀、 ..."
+    },
+    {
+      "link": "https://www.tencentcloud.com/products/tokenhub",
+      "title": "TokenHub - Discover Kimi K3, GLM 5.2 Top LLMs & AI ...",
+      "snippet": "Large Model Service. Available to all Tencent Cloud users, offering rich model resources including the Hunyuan series and mainstream third-party large models."
+    },
+    {
+      "link": "https://console.cloud.tencent.com/tokenhub/codingplan",
+      "title": "Coding Plan",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "link": "https://cloud.tencent.com/developer/article/2638167",
+      "title": "刚刚，腾讯云Coding Plan全新上架！-腾讯云开发者社区",
+      "snippet": "Lite 套餐首月超值来袭低至7.9 元/ 月,立享18000 次请求,Pro 套餐仅需39.9 元/ 月,畅享90000 次请求。"
+    },
+    {
+      "link": "https://developer.cloud.tencent.com/article/2656546",
+      "title": "Coding plan 到底该怎么选？阿里、腾讯、字节、智普、百度",
+      "snippet": "四家像是一个产品经理出品，Lite版40元/月、Pro版200元/月，首月优惠阿里/腾讯/百度7.9元、字节9.9元，限额也高度一致，5小时1200次请求、每周9000次、每 ..."
+    },
+    {
+      "link": "https://torchtree.com/en/post/guonei-ai-coding-plan-xuan-gou-zhi-nan/",
+      "title": "Guide to Buying China's Mainstream AI Coding Plans",
+      "snippet": "Budget-conscious users: Infinity (¥19.9) and MiniMax (¥29) have lower entry barriers. New users trying the waters: Alibaba Cloud Bailian's first ..."
+    }
+  ]
+}

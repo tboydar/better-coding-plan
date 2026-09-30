@@ -1,0 +1,103 @@
+{
+  "id": "QFXqHBR2n5gk6BGK84Jyec",
+  "message_id": "8d245633-f79f-4c81-8361-03a15719a504",
+  "answer": "根据搜索结果，关于2026年硅基流动（SiliconFlow）的免费模型、价格、编程和API相关信息，可以整理如下。\n\n首先，硅基流动是一个提供大模型API和AI云服务的平台，它基于优秀的开源基础模型，提供高性价比的GenAI服务.根据搜索结果1，注册硅基流动后，申请一个API Key，填写一个URL，就可以使用十多个免费的模型.在2026年8月9日看到的结果中，L0免费档有16个模型可用，包括对话等类型.搜索结果3也提到，对于市场上主流的9B及以下的模型，硅基流动提供了免费的API服务，官方承诺永久免费.这意味着，对于参数规模在9B及以下的开源模型，用户可以免费使用其API，这覆盖了DeepSeek、Qwen、Llama等国产开源模型，如搜索结果7所述，硅基流动是国内开源模型推理平台，对DeepSeek、Qwen、Llama等模型覆盖完整.\n\n关于免费模型的具体列表，搜索结果6提供了一个免费大语言模型列表，但未详细列出具体模型名称，同时提到保留免费模型的解释权，说明免费模型的可用性和范围可能随时调整.搜索结果2提到，硅基流动模型中心提供一百余种开源大模型API，支持按量付费、开箱即用，其中编程能力显著增强的模型也有提供，这暗示在免费模型之外，还有更多付费模型可供选择，特别是针对编程场景的模型.\n\n在价格方面，搜索结果4指出，硅基流动价格透明度最高，免费模型最多，但仅覆盖开源模型，实际成本需注册后验证.搜索结果18提到，硅基流动提供透明的按量付费定价，无隐藏费用，用户可以比较LLM推理、微调和自定义部署的成本.搜索结果15提供了一个大模型API价格方案页面，可以一屏对比主流厂商与模型的输入、输出、缓存命中成本，帮助快速判断性价比，但未给出具体价格数字.搜索结果9提到，有一个nex-agi/Nex-N2-Pro模型免费体验活动即将结束，平台将于2026-06-26起正式开始收费，价格为输入1.75元每百万tokens，输出7元每百万tokens，缓存命中0.175元每百万tokens，但这并非硅基流动的模型，而是另一个平台的信息，需要注意区分.\n\n在编程方面，搜索结果2提到，硅基流动提供编程能力显著增强的模型，这适合开发者用于代码生成等任务.搜索结果5提到，硅基流动提供多品类AI模型API、预留实例、企业级MaaS平台、大模型服务网关与AI算力运营服务，助力开发者和企业高效构建AI应用，这包括编程相关的应用开发.搜索结果13提到，SiliconFlow是一个面向开发者的快速AI平台，可以部署、微调和运行200多个优化的LLM和多模态模型，通过简单API调用，这进一步说明其适合编程和开发场景.\n\n在API使用方面，搜索结果1提到，注册后申请一个API Key，填写一个URL即可使用免费模型，流程简单.搜索结果5和13都强调，硅基流动提供简单易用的API接口，适合开发者和企业集成到应用中.搜索结果18提到，定价透明，按量付费，无隐藏费用，用户可以灵活控制成本.\n\n综合来看，2026年硅基流动的免费模型主要集中在9B及以下参数规模的开源模型，官方承诺永久免费，目前L0免费档有16个模型可用，包括对话等类型.价格方面，硅基流动以按量付费为主，价格透明度高，，但具体价格需注册后查看，因为不同模型和用量会有差异.编程方面，硅基流动提供编程能力增强的模型，适合代码生成等任务，同时平台支持200多个模型的部署和微调，适合开发者构建AI应用.API使用上，只需申请API Key并填写URL即可调用免费模型，流程简单，适合快速集成.需要注意的是，免费模型列表和可用性可能随时调整，因为平台保留解释权，建议用户注册后查看最新信息.此外，搜索结果中提到的其他平台如nex-agi的收费信息与硅基流动无关，不应混淆.总体而言，硅基流动在2026年是一个对开发者友好的平台，提供丰富的免费开源模型API，尤其在9B及以下模型上具有明显优势，同时通过按量付费模式覆盖更多高级模型需求，编程能力也有专门优化，适合各类AI应用开发场景.",
+  "query_analysis": {
+    "queries": [
+      "2026 Silicon-based flow free model price programming API",
+      "2026 硅基流动 免费模型 价格 编程 API"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2070201402815778875",
+      "title": "硅基流动：一个API Key 薅一群免费模型的羊毛",
+      "snippet": "注册@硅基流动，申请一个API Key，填写一个URL，就可以使用十多个免费的模型。 昨天（2026年8月9日）看到的结果：L0 免费档，有16 个模型可用，包括对话、 ..."
+    },
+    {
+      "link": "https://www.siliconflow.cn/models",
+      "title": "你要的AI 模型，这里都有",
+      "snippet": "硅基流动SiliconFlow 模型中心,提供一百余种开源大模型API,支持按量付费、开箱即用・ 模型编程能力显著增强・ 编程能力而生的模型"
+    },
+    {
+      "link": "https://www.bingal.com/posts/siliconflow-usage/",
+      "title": "推荐ai 服务：硅基流动siliconflow - 把ai 服务价格打下来了| Bingal",
+      "snippet": "对于市场上主流的9B 及以下的模型，硅基流动siliconflow 提供了免费的api 服务，官方承诺永久免费，包括： 硅基流动siliconflow api 有哪些免费的api 服务 ..."
+    },
+    {
+      "link": "https://gitcode.csdn.net/69e5cd570a2f6a37c5a108ae.html",
+      "title": "2026 国内大模型API 聚合平台实测：数眼智能 - AtomGit开源社区",
+      "snippet": "均免费GLM-5.1 (Pro):输入6.00、输出28.00 硅基流动价格透明度最高,免费模型最多,但仅覆盖开源模型; 实际成本需注册后验证"
+    },
+    {
+      "link": "https://www.siliconflow.cn/",
+      "title": "硅基流动SiliconFlow - 大模型API 与AI 云服务平台",
+      "snippet": "硅基流动SiliconFlow 提供多品类AI 模型API、预留实例、企业级MaaS 平台、大模型服务网关与AI 算力运营服务，助力开发者和企业高效构建AI 应用。"
+    },
+    {
+      "link": "https://docs.siliconflow.com/quickstart/models",
+      "title": "模型列表",
+      "snippet": "SiliconFlow基于优秀的开源基础模型,提供高性价比的GenAI服务。 【免费大语言模型列表】 保留免费模型的解释权。 点击硅基流动MaaS线上需求"
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2029867896109799226",
+      "title": "2026年大模型API在哪买最划算？主流4家平台价格真实对比",
+      "snippet": "本文整理4家主流API平台的真实价格和特点，供选型时参考。 一、硅基流动. 国内开源模型推理平台，DeepSeek、Qwen、Llama等国产开源模型覆盖完整。"
+    },
+    {
+      "link": "https://developer.cloud.tencent.com/article/2626756",
+      "title": "2026 大模型API 免费额度汇总 - 腾讯云开发者社区",
+      "snippet": "2026年主流AI平台免费API额度汇总：腾讯云混元模型100万Tokens/年，百度千帆每模型100万Tokens/3个月，阿里云百炼100万Tokens永久有效，火山引擎每日200万Tokens。"
+    },
+    {
+      "link": "https://docs.siliconflow.cn/cn/release-notes/overview",
+      "title": "更新公告",
+      "snippet": "nex-agi/Nex-N2-Pro 模型免费体验活动即将结束，平台将于2026-06-26 起正式开始收费**，价格信息如下：. 输入：¥1.75 / M Tokens; 输出：¥7 / M Tokens; 缓存命中：¥0.175 ..."
+    },
+    {
+      "link": "https://www.orcarouter.ai/blog/free-llm-api-what-it-costs",
+      "title": "Free LLM API in 2026: What's Free, What It Costs You",
+      "snippet": "OrcaRouter runs a rotating set of free AI models callable at $0 per token, alongside free API credits from open voucher drops, student programs ..."
+    },
+    {
+      "link": "https://www.morphllm.com/llm-api",
+      "title": "LLM API Providers (2026): 12 APIs Compared by Price per 1M ...",
+      "snippet": "LLM API pricing for 12 providers, verified September 22, 2026: GPT-6 Astra $10/$50, GPT-6 Sol $2/$10, GPT-6 Luna $0.10/$0.50, Claude Opus 5."
+    },
+    {
+      "link": "https://www.digitalocean.com/resources/articles/llm-api-providers",
+      "title": "9 Best LLM API Providers for Developers in 2026",
+      "snippet": "The LLM API providers include: It is perhaps the most comprehensive free LLM API offering … $0.10-$9/1M. SiliconFlow for multimodal deployment ..."
+    },
+    {
+      "link": "https://www.siliconflow.com/",
+      "title": "SiliconFlow – AI Infrastructure for LLMs & Multimodal Models",
+      "snippet": "Lightning-fast AI platform for developers. Deploy, fine-tune, and run 200+ optimized LLMs and multimodal models with simple APIs - SiliconFlow."
+    },
+    {
+      "link": "https://www.reddit.com/r/openclaw/comments/1spgr25/free_llm_apis_april_2026_update/",
+      "title": "Free LLM APIs (April 2026 Update) : r/openclaw",
+      "snippet": "Hey everyone,. Last month we published a list of Free LLM APIs here and it got a lot of interest, so I decided to publish a big update."
+    },
+    {
+      "link": "https://www.siliconflow.cn/pricing",
+      "title": "大模型API 价格方案",
+      "snippet": "模型价格总览. 面向生产选型的模型价格页：一屏对比主流厂商与模型的输入、输出、缓存命中成本，帮助你快速判断性价比。 搜索. 实时价格同步 仅展示可用模型 按厂商 ..."
+    },
+    {
+      "link": "https://fireworks.ai/blog/best-llm-api-providers",
+      "title": "Best LLM API Providers in 2026: We Reviewed 8 Options",
+      "snippet": "We compared pricing, latency, and models across 8 LLM API providers. DeepSeek-V4 Pro: $1.74 input / $3.48 … starts at $1.00/1M). New accounts ..."
+    },
+    {
+      "link": "https://ofox.ai/blog/free-llm-api-tiers-ranked-coding-2026/",
+      "title": "Free LLM API Tiers Ranked 2026: Gemini, xAI, DeepSeek ...",
+      "snippet": "Compare Gemini free API access, DeepSeek paid rates, xAI promotions and AWS credits. Check eligibility, limits and coding costs before choosing."
+    },
+    {
+      "link": "https://www.siliconflow.com/pricing",
+      "title": "Pricing Plans - SiliconFlow | Transparent Pay-as-You-Go",
+      "snippet": "Transparent AI model pricing with pay-as-you-go rates. Start free, no hidden fees. Compare costs for LLM inference, fine-tuning, and custom deployments."
+    }
+  ]
+}
