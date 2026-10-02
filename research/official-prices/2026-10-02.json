@@ -1,0 +1,385 @@
+{
+ "date": "2026-10-02",
+ "sites": {
+  "github-copilot": {
+   "url": "https://docs.github.com/en/copilot/get-started/plans",
+   "http_code": "ok",
+   "ok": true,
+   "prices": [
+    {
+     "value": "$10",
+     "ctx": "s Auto model selection only Copilot Pro $10 USD per month (free for some users) Bas"
+    },
+    {
+     "value": "$39",
+     "ctx": ",000 A selection of models Copilot Pro+ $39 USD per month. Base: 3,900 Access to pr"
+    },
+    {
+     "value": "$100",
+     "ctx": "00 Access to premium models Copilot Max $100 USD per month Base: 10,000 Priority acc"
+    },
+    {
+     "value": "$19",
+     "ctx": "cess to premium models Copilot Business $19 USD per granted seat per month Total pe"
+    },
+    {
+     "value": "$39",
+     "ctx": "ss to premium models Copilot Enterprise $39 USD per granted seat per month Total pe"
+    },
+    {
+     "value": "$10",
+     "ctx": "nt Total monthly AI credits Copilot Pro $10 USD 1,000 500 1,500 Copilot Pro+ $39 US"
+    },
+    {
+     "value": "$39",
+     "ctx": "ro $10 USD 1,000 500 1,500 Copilot Pro+ $39 USD 3,900 3,100 7,000 Copilot Max $100"
+    },
+    {
+     "value": "$100",
+     "ctx": "+ $39 USD 3,900 3,100 7,000 Copilot Max $100 USD 10,000 10,000 20,000 Copilot Free a"
+    },
+    {
+     "value": "$19",
+     "ctx": "its per user per month Copilot Business $19 USD 1,900 Copilot Enterprise $39 USD 3,"
+    },
+    {
+     "value": "$39",
+     "ctx": "siness $19 USD 1,900 Copilot Enterprise $39 USD 3,900 Copilot usage is measured in"
+    }
+   ],
+   "text_len": 22281
+  },
+  "github-pricing": {
+   "url": "https://github.com/pricing",
+   "http_code": "ok",
+   "ok": true,
+   "prices": [
+    {
+     "value": "$4",
+     "ctx": "ation for individuals and organizations $ 4 USD per user/month $ 4 USD per user/mon"
+    },
+    {
+     "value": "$4",
+     "ctx": "nd organizations $ 4 USD per user/month $ 4 USD per user/month for the first 12 mon"
+    },
+    {
+     "value": "$21",
+     "ctx": "ce, and flexible deployment Starting at $ 21 USD per user/month $ 21 USD per user/mo"
+    },
+    {
+     "value": "$21",
+     "ctx": "ent Starting at $ 21 USD per user/month $ 21 USD per user/month for the first 12 mon"
+    },
+    {
+     "value": "$5",
+     "ctx": "pricing details Git Large File Storage $5 per month for 50 GB bandwidth and 50 GB"
+    },
+    {
+     "value": "$4",
+     "ctx": "USD per month $ 0 USD per month forever $ 4 USD per user/month $ 4 USD per user/mon"
+    },
+    {
+     "value": "$4",
+     "ctx": "er month forever $ 4 USD per user/month $ 4 USD per user/month for the first 12 mon"
+    },
+    {
+     "value": "$21",
+     "ctx": "er user/month for the first 12 months * $ 21 USD per user/month $ 21 USD per user/mo"
+    },
+    {
+     "value": "$21",
+     "ctx": "rst 12 months * $ 21 USD per user/month $ 21 USD per user/month for the first 12 mon"
+    },
+    {
+     "value": "$4",
+     "ctx": "tors for private repositories Unlimited $ 4 per user/month $ 21 per user/month Invi"
+    },
+    {
+     "value": "$21",
+     "ctx": "positories Unlimited $ 4 per user/month $ 21 per user/month Invite any GitHub member"
+    },
+    {
+     "value": "$4",
+     "ctx": "ng. Please reload this page . Unlimited $ 4 per user/month $ 21 per user/month Issu"
+    },
+    {
+     "value": "$21",
+     "ctx": "his page . Unlimited $ 4 per user/month $ 21 per user/month Issues Track bugs, enhan"
+    }
+   ],
+   "text_len": 32144
+  },
+  "cursor": {
+   "url": "https://cursor.com/pricing",
+   "http_code": "ok",
+   "ok": true,
+   "prices": [
+    {
+     "value": "$20",
+     "ctx": "Cursor Individual For the agent-curious $20 / mo. Pro Pro+ Ultra Everything in Hobb"
+    },
+    {
+     "value": "$40",
+     "ctx": "Pro Teams For teams that ship together $40 / user / mo. Standard Premium Everythin"
+    }
+   ],
+   "text_len": 8086
+  },
+  "windsurf": {
+   "url": "https://windsurf.com/pricing",
+   "http_code": "ok",
+   "ok": true,
+   "prices": [
+    {
+     "value": "$20",
+     "ctx": "s Unlimited Tab completions Pro POPULAR $20 per month Select plan Everything in Fre"
+    },
+    {
+     "value": "$200",
+     "ctx": "hase extra usage at API pricing Max NEW $200 per month Select plan Everything in Pro"
+    },
+    {
+     "value": "$80",
+     "ctx": "ficantly higher quotas TEAM PLANS Teams $80 /month for team plan + $40/mo per full"
+    },
+    {
+     "value": "$40",
+     "ctx": "PLANS Teams $80 /month for team plan + $40/mo per full dev seat Select plan Everyt"
+    },
+    {
+     "value": "$20",
+     "ctx": "rovider Compare Plans Free $0/month Pro $20/month Max $200/month Team $80/month Ent"
+    },
+    {
+     "value": "$200",
+     "ctx": "e Plans Free $0/month Pro $20/month Max $200/month Team $80/month Enterprise Let's t"
+    },
+    {
+     "value": "$80",
+     "ctx": "month Pro $20/month Max $200/month Team $80/month Enterprise Let's talk Members 1 1"
+    },
+    {
+     "value": "$40",
+     "ctx": "et's talk Members 1 1 1 Up to 200 users $40/month per full user Each full user incl"
+    }
+   ],
+   "text_len": 3803
+  },
+  "anthropic": {
+   "url": "https://www.anthropic.com/pricing",
+   "http_code": "ok",
+   "ok": true,
+   "prices": [
+    {
+     "value": "$17",
+     "ctx": "Create Artifacts Pro For everyday work $17 Per month with annual subscription disc"
+    },
+    {
+     "value": "$200",
+     "ctx": "nth with annual subscription discount ( $200 billed up front). $20 if billed monthly"
+    },
+    {
+     "value": "$20",
+     "ctx": "ption discount ( $200 billed up front). $20 if billed monthly. Try Claude Everythin"
+    },
+    {
+     "value": "$100",
+     "ctx": "eople who work with Claude all day From $100 Per month Try Claude Everything in Pro,"
+    },
+    {
+     "value": "$20",
+     "ctx": "ude features, plus more usage than Pro* $20 Per seat / month if billed annually. $2"
+    },
+    {
+     "value": "$25",
+     "ctx": "20 Per seat / month if billed annually. $25 if billed monthly. Premium seat 5x more"
+    },
+    {
+     "value": "$100",
+     "ctx": "seat 5x more usage than standard seats* $100 Per seat / month if billed annually. $1"
+    },
+    {
+     "value": "$125",
+     "ctx": "00 Per seat / month if billed annually. $125 if billed monthly. Claude Code and Clau"
+    },
+    {
+     "value": "$20",
+     "ctx": "alist Seat price + usage at API rates US$20/seat/month, billed annually. Usage cost"
+    },
+    {
+     "value": "$12.50",
+     "ctx": "Prompt caching Read $0.25 / MTok Write $12.50 / MTok Input $10 / MTok Output $50 / MT"
+    },
+    {
+     "value": "$10",
+     "ctx": "$0.25 / MTok Write $12.50 / MTok Input $10 / MTok Output $50 / MTok Opus 5.5 Daily"
+    },
+    {
+     "value": "$50",
+     "ctx": "e $12.50 / MTok Input $10 / MTok Output $50 / MTok Opus 5.5 Daily driver for agenti"
+    },
+    {
+     "value": "$5",
+     "ctx": "Prompt caching Read $0.20 / MTok Write $5 / MTok Input $4 / MTok Output $20 / MTo"
+    },
+    {
+     "value": "$4",
+     "ctx": "Read $0.20 / MTok Write $5 / MTok Input $4 / MTok Output $20 / MTok Sonnet 5.5 Hig"
+    },
+    {
+     "value": "$20",
+     "ctx": "Write $5 / MTok Input $4 / MTok Output $20 / MTok Sonnet 5.5 High-performance mode"
+    },
+    {
+     "value": "$2.50",
+     "ctx": "Prompt caching Read $0.20 / MTok Write $2.50 / MTok Input $2 / MTok Output $10 / MTo"
+    },
+    {
+     "value": "$2",
+     "ctx": "d $0.20 / MTok Write $2.50 / MTok Input $2 / MTok Output $10 / MTok Haiku 4.5 Fast"
+    },
+    {
+     "value": "$10",
+     "ctx": "ite $2.50 / MTok Input $2 / MTok Output $10 / MTok Haiku 4.5 Fastest, most cost-eff"
+    },
+    {
+     "value": "$1.25",
+     "ctx": "Prompt caching Read $0.10 / MTok Write $1.25 / MTok Input $1 / MTok Output $5 / MTok"
+    },
+    {
+     "value": "$1",
+     "ctx": "d $0.10 / MTok Write $1.25 / MTok Input $1 / MTok Output $5 / MTok For workloads t"
+    },
+    {
+     "value": "$5",
+     "ctx": "ite $1.25 / MTok Input $1 / MTok Output $5 / MTok For workloads that need to run i"
+    },
+    {
+     "value": "$10",
+     "ctx": "kens required to process requests. Cost $10 / 1K searches Code execution Run Python"
+    },
+    {
+     "value": "$10",
+     "ctx": "ite $2.50 / MTok Input $2 / MTok Output $10 / MTok Opus 5 Ideal for complex agentic"
+    },
+    {
+     "value": "$6.25",
+     "ctx": "Prompt caching Read $0.50 / MTok Write $6.25 / MTok Input $5 / MTok Output $25 / MTo"
+    },
+    {
+     "value": "$5",
+     "ctx": "d $0.50 / MTok Write $6.25 / MTok Input $5 / MTok Output $25 / MTok Save 50% with"
+    }
+   ],
+   "text_len": 21069
+  },
+  "claude": {
+   "url": "https://claude.com/pricing",
+   "http_code": "ok",
+   "ok": true,
+   "prices": [
+    {
+     "value": "$17",
+     "ctx": "Create Artifacts Pro For everyday work $17 Per month with annual subscription disc"
+    },
+    {
+     "value": "$200",
+     "ctx": "nth with annual subscription discount ( $200 billed up front). $20 if billed monthly"
+    },
+    {
+     "value": "$20",
+     "ctx": "ption discount ( $200 billed up front). $20 if billed monthly. Try Claude Everythin"
+    },
+    {
+     "value": "$100",
+     "ctx": "eople who work with Claude all day From $100 Per month Try Claude Everything in Pro,"
+    },
+    {
+     "value": "$20",
+     "ctx": "ude features, plus more usage than Pro* $20 Per seat / month if billed annually. $2"
+    },
+    {
+     "value": "$25",
+     "ctx": "20 Per seat / month if billed annually. $25 if billed monthly. Premium seat 5x more"
+    },
+    {
+     "value": "$100",
+     "ctx": "seat 5x more usage than standard seats* $100 Per seat / month if billed annually. $1"
+    },
+    {
+     "value": "$125",
+     "ctx": "00 Per seat / month if billed annually. $125 if billed monthly. Claude Code and Clau"
+    },
+    {
+     "value": "$20",
+     "ctx": "alist Seat price + usage at API rates US$20/seat/month, billed annually. Usage cost"
+    },
+    {
+     "value": "$12.50",
+     "ctx": "Prompt caching Read $0.25 / MTok Write $12.50 / MTok Input $10 / MTok Output $50 / MT"
+    },
+    {
+     "value": "$10",
+     "ctx": "$0.25 / MTok Write $12.50 / MTok Input $10 / MTok Output $50 / MTok Opus 5.5 Daily"
+    },
+    {
+     "value": "$50",
+     "ctx": "e $12.50 / MTok Input $10 / MTok Output $50 / MTok Opus 5.5 Daily driver for agenti"
+    },
+    {
+     "value": "$5",
+     "ctx": "Prompt caching Read $0.20 / MTok Write $5 / MTok Input $4 / MTok Output $20 / MTo"
+    },
+    {
+     "value": "$4",
+     "ctx": "Read $0.20 / MTok Write $5 / MTok Input $4 / MTok Output $20 / MTok Sonnet 5.5 Hig"
+    },
+    {
+     "value": "$20",
+     "ctx": "Write $5 / MTok Input $4 / MTok Output $20 / MTok Sonnet 5.5 High-performance mode"
+    },
+    {
+     "value": "$2.50",
+     "ctx": "Prompt caching Read $0.20 / MTok Write $2.50 / MTok Input $2 / MTok Output $10 / MTo"
+    },
+    {
+     "value": "$2",
+     "ctx": "d $0.20 / MTok Write $2.50 / MTok Input $2 / MTok Output $10 / MTok Haiku 4.5 Fast"
+    },
+    {
+     "value": "$10",
+     "ctx": "ite $2.50 / MTok Input $2 / MTok Output $10 / MTok Haiku 4.5 Fastest, most cost-eff"
+    },
+    {
+     "value": "$1.25",
+     "ctx": "Prompt caching Read $0.10 / MTok Write $1.25 / MTok Input $1 / MTok Output $5 / MTok"
+    },
+    {
+     "value": "$1",
+     "ctx": "d $0.10 / MTok Write $1.25 / MTok Input $1 / MTok Output $5 / MTok For workloads t"
+    },
+    {
+     "value": "$5",
+     "ctx": "ite $1.25 / MTok Input $1 / MTok Output $5 / MTok For workloads that need to run i"
+    },
+    {
+     "value": "$10",
+     "ctx": "kens required to process requests. Cost $10 / 1K searches Code execution Run Python"
+    },
+    {
+     "value": "$10",
+     "ctx": "ite $2.50 / MTok Input $2 / MTok Output $10 / MTok Opus 5 Ideal for complex agentic"
+    },
+    {
+     "value": "$6.25",
+     "ctx": "Prompt caching Read $0.50 / MTok Write $6.25 / MTok Input $5 / MTok Output $25 / MTo"
+    },
+    {
+     "value": "$5",
+     "ctx": "d $0.50 / MTok Write $6.25 / MTok Input $5 / MTok Output $25 / MTok Save 50% with"
+    }
+   ],
+   "text_len": 21069
+  }
+ }
+}
