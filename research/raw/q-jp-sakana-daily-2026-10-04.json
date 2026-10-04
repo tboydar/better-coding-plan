@@ -1,0 +1,170 @@
+{
+  "id": "P6yVezjGdUYDWEm3YLh497",
+  "message_id": "ff4f0968-7cf2-48bb-a128-94e33099deaa",
+  "answer": "Sakana AIのFuguサブスクリプションの料金について、検索結果から確認できる情報をまとめます。\n\nまず、Fuguのサブスクリプションプランには、Standard PlanとPro Planの2種類が存在します。Standard Planは月額20ドルで、軽い日常的な利用に適しています。一方、Pro Planは月額100ドルで、Standard Planの約10倍の利用枠が提供され、集中的な作業や複数のプロジェクトに取り組むユーザー向けとされています。これらの料金情報は、Sakana Fuguの公式情報を扱うウェブサイトに記載されていますが、具体的な利用枠の詳細（トークン数や時間制限など）については、検索結果からは明確に確認できませんでした。\n\nまた、別の情報源であるHacker Newsの投稿では、実際に月額20ドルのサブスクリプションを試したユーザーの体験談が紹介されています。その投稿によると、5時間の利用制限が予想以上に早く消費されること、品質は許容範囲であるものの動作が遅く感じられること、そして月額20ドルのClaudeサブスクリプションと比較しても特に優れているとは感じなかったという意見が述べられています。この体験談は、Standard Planの実用的な利用感覚を知る上で参考になる情報です。\n\nさらに、Fuguの上位モデルであるFugu Ultraに関する言及も見られます。あるユーザーの投稿では、Fugu Ultraを月額200ドルのMaxプランで利用した際のコスト感について言及されており、大規模なマルチエージェントワークフローを実行しても、通常のClaude Opus 4.8と比較して利用料金が大幅に増加することはなかったと報告されています。ただし、この200ドルのMaxプランが公式に提供されているプランなのか、それとも特定の条件下での利用形態なのかは、検索結果からは明確ではありません。\n\nなお、Fuguのサブスクリプションに関する公式の料金表や詳細なプラン比較は、検索結果に含まれていませんでした。そのため、最新の正確な料金情報やプラン内容を確認するには、Sakana AIの公式ウェブサイトを直接参照することをお勧めします。特に、コーディング用途での利用を検討されている場合、各プランの利用枠や性能特性が実際の作業効率に与える影響を考慮することが重要です。\n\nまとめると、2026年時点で確認できるFuguのサブスクリプション料金は、Standard Planが月額20ドル、Pro Planが月額100ドルです。また、上位モデルを利用するためのMaxプランが月額200ドルで存在する可能性が示唆されていますが、公式情報としての確認はできていません。コーディング作業での利用を考える場合、Standard Planの5時間制限や動作速度に関するユーザー体験談も参考にしつつ、自身の利用パターンに合ったプランを選択することが望ましいでしょう。",
+  "query_analysis": {
+    "queries": [
+      "Sakana AI Fugu 订阅编码",
+      "Sakana AI Fugu subscription coding",
+      "2026 Sakana AI Fugu subscription Standard Pro pricing",
+      "2026年 Sakana AI Fugu 订阅 Standard Pro 定价"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://www.linkedin.com/posts/harryjmunro_48-hours-after-sakana-ai-released-fugu-ive-activity-7475686597338828802-X71I",
+      "title": "Harry Munro's Post",
+      "snippet": "Sakana AI released Fugu, I expected the $200 Max plan to melt by lunchtime. I expected the $200 Max plan to melt by lunchtime. Sakana describe ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1ud87za/sakana_ais_fugu_from_a_claude_users_view/",
+      "title": "r/ClaudeAI - Sakana AI's \"Fugu\" from a Claude user's view ...",
+      "snippet": "Sakana Fugu is a model interface for coordinating specialized AI agents through one OpenAI-compatible API. Sakana don't currently expose any ..."
+    },
+    {
+      "link": "https://arxiv.org/abs/2606.21228",
+      "title": "[2606.21228] Sakana Fugu Technical Report",
+      "snippet": "by Y Tang · 2026 · Cited by 2 — To this end, we report the development of Sakana Fugu, a family of orchestrator models that harness and amplify the capabilities of an LLM agent ...Read more"
+    },
+    {
+      "link": "https://sakana.ai/",
+      "title": "Sakana AI — Building Frontier AI in Japan",
+      "snippet": "Frontier AI the world can rely on · Sakana Fugu · Sakana Namazu · Sakana Marlin · Sakana Translate."
+    },
+    {
+      "link": "https://sakana.ai/fugu-max-release/",
+      "title": "Introducing Fugu Max and Fugu Ultra v2: Orchestrating the ...",
+      "snippet": "11 Sept 2026 — Cost: At $2 per million input tokens and $6 per million output tokens, Fugu Max's output pricing is 40-60% lower than Sonnet 5, GPT 5.6 Terra, ...Read more"
+    },
+    {
+      "link": "https://github.com/sakanaai",
+      "title": "Sakana AI",
+      "snippet": "On a quest to create a new kind of foundation model based on nature-inspired intelligence. AI/fugu's. Most used topics machine-learning hypernetworks"
+    },
+    {
+      "link": "https://sakanahamont.com/",
+      "title": "Sakana",
+      "snippet": "Sakana is a traditional Japanese sushi restaurant in Hamilton, Ontario, specializing in authentic sushi, sashimi, Subscribe our newletter Traditional Japanese ..."
+    },
+    {
+      "link": "https://en.wikipedia.org/wiki/Fugu",
+      "title": "Fugu",
+      "snippet": "In the case of torafugu, the most common fugu, the cost is between JP¥1000–JP¥4000 (US$7–29) per kilogram, depending on the season and quality, as of 2022."
+    },
+    {
+      "link": "https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/fugu",
+      "title": "FUGU中文(繁體)翻譯：劍橋詞典",
+      "snippet": "The fugu is a delicacy prepared in Japanese restaurants by specially trained chefs. 河豚是日式飯館裡的美味佳餚，由受過專門訓練的廚師烹製而成。 更多範例减少例句.Read more"
+    },
+    {
+      "link": "https://sakana.ai/fugu/",
+      "title": "Sakana Fugu — Multi-Agent System as a Model",
+      "snippet": "Standard Plan ($20/month) is great for lightweight daily use; Pro Plan ($100/month) provides 10× the usage of Standard Plan, ideal for a few focused working ..."
+    },
+    {
+      "link": "https://www.1823.gov.hk/tc/hong-kong-public-holidays-ical",
+      "title": "「香港公眾假期」iCal - 1823",
+      "snippet": "訂閱方法 · 在主螢幕畫面點選「設定」 · 選取「App」，再選「日曆」 · 選取「帳户」，再選「加入帳户」 · 選取「其他」，再選「新增已訂閱的日曆」 · 點選「 ..."
+    },
+    {
+      "link": "https://www.performing-arts.gov.hk/tc/progamme-e-registration.html",
+      "title": "Progamme - E-registration | Template Base - LCSD",
+      "snippet": "我們會按照您所選擇的興趣範圍，將最新的節目資料發送到您的電子郵箱。 我希望訂閱 ... 聲明* 本人已閱讀及同意收集個人資料聲明。 *必須填寫. 請輸入圖中的驗證碼. 驗證碼圖 ..."
+    },
+    {
+      "link": "https://my.visualstudio.com/Subscriptions",
+      "title": "Visual Studio Subscriptions",
+      "snippet": "No information is available for this page. ·"
+    },
+    {
+      "link": "https://www.sfc.hk/TC/subscribe",
+      "title": "訂閱服務 - SFC",
+      "snippet": "在遞交表格前，請先細閱本會的保障私隱政策聲明，然後在下列刊物或項目內劃上✓號。 我們收到訂閱表格後，會於當天向訂戶發出確認電郵。 請選擇適當的項目: 新聞 ..."
+    },
+    {
+      "link": "https://myaccount.google.com/purchases?hl=zh_CN",
+      "title": "付款和订阅",
+      "snippet": "和分享用户和分享付款和订阅付款和订阅付款和订阅登录账号后,您便可看到自己的付款信息、交易、定期付款和预订"
+    },
+    {
+      "link": "https://support.apple.com/zh-mo/118428",
+      "title": "取消Apple 訂閱項目- Apple 支援(澳門)",
+      "snippet": "如要取消Apple 收費的訂閱項目: 前往account.apple.com。 如果找不到要取消的訂閱項目在電郵中搜尋「receipt from Apple」(Apple 收據) 或「invoice from Apple」(Apple ..."
+    },
+    {
+      "link": "https://support.google.com/googleplay/answer/7018481?hl=zh-Hans&co=GENIE.Platform%3DAndroid",
+      "title": "取消、暂停或更改在Google Play 上订阅的项目- Android",
+      "snippet": "Google Play 上的订阅是无限期的，系统将在每个结算周期（根据您的订阅条款，例如每周、每年或其他结算周期）开始时向您收取费用，除非您取消订阅。"
+    },
+    {
+      "link": "https://en.tripadvisor.com.hk/Restaurant_Review-g14129744-d2271580-Reviews-Usuki_Fugu_Yamadaya_Tokyo_Nishiazabu-Nishiazabu_Minato_Tokyo_Tokyo_Prefecture_K.html",
+      "title": "USUKI FUGU YAMADAYA TOKYO NISHIAZABU - Tripadvisor",
+      "snippet": "Of course, prices are high. But in view of what you get for your money you can't expect this to be less expensive in a metropolis like Tokyo. the meal worth ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/googlecloud/comments/1ip7wf1/google_cloud_subscription_issue_no_way_to_cancel/?tl=zh-hans",
+      "title": "谷歌云订阅问题：无法取消！ : r/googlecloud - Reddit",
+      "snippet": "在应用商店的订阅中没有订阅。每个月我还是被收取$0，没办法取消。没有支持选项，当我尝试联系支持时，需要购买支持包才能获得Google Cloud的支持 ..."
+    },
+    {
+      "link": "https://support.microsoft.com/zh-hk/accounts-billing/subscriptions/find-out-when-your-microsoft-365-subscription-expires",
+      "title": "查詢Microsoft 365 訂閱到期日",
+      "snippet": "以下是查詢Microsoft 365 訂閱到期時間的方法。 檢查您的到期狀態. 前往你的訂閱 頁面。 若有提示，請選擇登入，並輸入與您的Microsoft 365 訂閱相關的Microsoft 帳號 ..."
+    },
+    {
+      "link": "https://www.linkedin.com/mypreferences/d/settings/data-for-ai-improvement",
+      "title": "Data for Generative AI Improvement (LinkedIn)",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "link": "https://openai.com/",
+      "title": "OpenAI | Research & Deployment",
+      "snippet": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems."
+    },
+    {
+      "link": "https://www.canva.com/zh_hk/help/cancel-canva-plan/",
+      "title": "取消Canva可画的订阅计划",
+      "snippet": "請務必登入正確的Canva 帳戶或團隊。 · 在首頁，輕觸 (選單)。 · 輕觸你的帳戶個人檔案，然後選取「設定」 。 · 再輕觸 (選單)。 · 前往 付款週期或合約週期(日本適用)。 · 在你 ..."
+    },
+    {
+      "link": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "title": "AI Act | Shaping Europe's digital future - European Union",
+      "snippet": "The AI Act entered into force on 1 August 2024 and became applicable on 2 August 2026, with some exceptions: prohibited AI practices and AI literacy obligations ...Read more"
+    },
+    {
+      "link": "https://news.ycombinator.com/item?id=48624782",
+      "title": "Sakana Fugu | Hacker News",
+      "snippet": "Got myself the $20 subscription and tried it out. The 5-hour limit runs out surprisingly fast. Quality is okay but it feels slow, and even with my $20 Claude ...Read more"
+    },
+    {
+      "link": "https://gemini.google.com/",
+      "title": "‎Google Gemini",
+      "snippet": "Meet Gemini, Google's AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI."
+    },
+    {
+      "link": "https://z.ai/",
+      "title": "Z.ai - Advanced AI Chatbot & Agent powered by GLM-5.3-Flash",
+      "snippet": "Meet Z.ai, the AI assistant powered by GLM-5.3-Flash. Build websites, write code, handle long-horizon tasks, and get instant answers."
+    },
+    {
+      "link": "https://www.perplexity.ai/",
+      "title": "Perplexity AI",
+      "snippet": "Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question."
+    },
+    {
+      "link": "https://www.oecd.org/en/publications/oecd-due-diligence-guidance-for-responsible-ai_41671712-en.html",
+      "title": "OECD Due Diligence Guidance for Responsible AI",
+      "snippet": "19 Feb 2026 — This report provides practical guidance to enterprises for implementing OECD standards on responsible business conduct (RBC) and the OECD AI ..."
+    },
+    {
+      "link": "https://academy.claude.com/courses/ai-fluency-framework-foundations",
+      "title": "AI Fluency: Framework and foundations - Claude Academy",
+      "snippet": "Learn to collaborate with AI effectively, efficiently, ethically, and safely using the 4D framework: Delegation, Description, Discernment, and Diligence."
+    },
+    {
+      "link": "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force",
+      "title": "AI Omnibus enters into force | Shaping Europe's digital future",
+      "snippet": "27 Jul 2026 — On 27 July 2026, the AI Omnibus enters into force across the EU, bringing extended timelines to administrative simplification."
+    }
+  ]
+}
