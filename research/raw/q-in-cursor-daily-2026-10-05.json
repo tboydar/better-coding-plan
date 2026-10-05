@@ -1,0 +1,98 @@
+{
+  "id": "asjMtBuv795DTYFKsPfS6p",
+  "message_id": "5a6c6dea-2768-4bfb-b1f0-9deb4c562b07",
+  "answer": "根据搜索结果，2026年Cursor在印度推出的Cursor Start计划，月费为649印度卢比（含税），这是Cursor首次在印度推出本地化定价的订阅方案，也是目前Cursor在印度市场最便宜的付费方案。该计划专为印度开发者设计，支持以印度卢比计费，并接受UPI、信用卡或借记卡支付，旨在降低印度开发者使用AI编程工具的门槛。\n\n。\n\n\n\nCursor Start计划的核心内容包括：提供对Grok 4.5和Composer 2.5模型的慷慨使用额度，这两款模型是Cursor自有的或合作的高性价比AI编码模型，而非OpenAI或Anthropic的前沿模型；同时包含云端代理（cloud agents），可让开发者在离线时自动完成编码任务）、iOS版Cursor应用（支持远程控制）、以及插件、MCP服务器、钩子（hooks）和技能（skills）等扩展功能，帮助开发者将Cursor集成到现有工作流中。与Cursor的Pro计划相比，Pro计划月费为1800印度卢比（约合20美元），而Start计划仅为649印度卢比（约合7美元），价格低了约65%，但Start计划不包含Pro计划中的前沿第三方模型（如OpenAI和Anthropic的模型）、Bugbot、Auto Mode、Automations以及Cursor SDK等高级功能，这些功能仅限Pro及以上计划使用。\n\n\n\nCursor Start计划的推出背景是印度已成为Cursor的第三大市场，其印度用户基数在过去一年增长了三倍，超过300万开发者，且印度用户的人均代理请求量在全球最高，显示出印度开发者对AI编码工具的高度依赖和活跃使用。为了确保该计划仅面向印度境内个人用户，Cursor采取了多项验证措施，包括阻止通过VPN访问该计划，以防止非印度用户滥用低价方案。此外，Cursor表示，如果该模式在印度取得成功，未来可能将本地化定价扩展到其他市场，但目前该计划仅限印度地区销售，且仅支持按月计费，不提供年付选项。\n\n\n\n\n\n综合来看，2026年Cursor在印度推出的最便宜付费方案就是Cursor Start，月费649印度卢比，约合7美元，这一价格远低于其Pro计划的1800印度卢比，也低于OpenAI的ChatGPT Go（月费399印度卢比）和Anthropic在印度的本地化定价，但需注意其模型和功能范围有所精简，主要依赖Grok 4.5和Composer 2.5，适合需要比免费版更多AI辅助编码额度、但不需要前沿模型和高级自动化功能的个人开发者或学生群体使用。对于预算有限、希望以低成本体验AI编码工具的印度开发者而言，Cursor Start是一个极具吸引力的入门选择，同时也反映了全球AI公司针对印度市场进行本地化定价的趋势，以争夺这一快速增长、拥有超过2700万开发者的庞大市场。",
+  "query_analysis": {
+    "queries": [
+      "2026年印度光标起始价格 INR 编码计划最便宜的印度卢比",
+      "2026 India Cursor Start price INR coding plan cheapest India rupee"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://www.linkedin.com/posts/abhishek-veeramalla_big-news-for-ai-enthusiasts-in-india-activity-7487859948962504704-3Mvh",
+      "title": "Cursor Launches India-Specific AI Coding Plan for ₹649/ ...",
+      "snippet": "Cursor Start, an India only plan for just ₹649/month (tax inclusive). rupees and UPI support, lowering the cost of entry for Indian users, d at ..."
+    },
+    {
+      "link": "https://thenextweb.com/news/cursor-start-india-pricing-own-models-spacex",
+      "title": "Cursor cut its India price to $7, and its own AI models are why",
+      "snippet": "Cursor has cut the price of AI coding in India to about $7 a month. Cursor Start on Monday, a ₹649 plan sold only in India, It sits well below ..."
+    },
+    {
+      "link": "https://www.indiatoday.in/technology/news/story/cursor-launches-rs-649-india-only-ai-plan-says-user-base-has-grown-3x-in-1-year-2957975-2026-07-28",
+      "title": "Cursor launches Rs 649 India-only AI plan, says user base ...",
+      "snippet": "Cursor has launched its first India-specific subscription plan, Cursor Start, priced at Rs 649 per month for Indian developers."
+    },
+    {
+      "link": "https://www.reddit.com/r/developersIndia/comments/1v9m4lk/cursor_start_india_review_649_plan_used_10_quota/",
+      "title": "Cursor Start India review: ₹649 plan used 10% quota on ...",
+      "snippet": "I subscribed to the newly launched Cursor Start plan in India for ₹649/month to evaluate it for repository auditing and coding work."
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX ...",
+      "snippet": "Cursor Start, a ₹649-a-month (about $7) subscription built specifically for India — and priced well below Cursor's standard $20-a-month Pro ..."
+    },
+    {
+      "link": "https://x.com/cursor_ai/status/2081978255004053560?lang=en",
+      "title": "\"Today we're launching Cursor Start, a new ₹649/month ...",
+      "snippet": "Today we're launching Cursor Start, a new ₹649/month plan for developers in India. Start includes generous access to Grok 4.5 and Composer, ..."
+    },
+    {
+      "link": "https://cursor.com/start",
+      "title": "Cursor Start",
+      "snippet": "Cursor Start is an accessible ₹649/month plan for developers in India. Get Cursor Individual ₹1,800/month ₹2,273 if billed monthly. Start is billed monthly in ..."
+    },
+    {
+      "link": "https://cursor.com/blog/cursor-start-india",
+      "title": "Introducing Cursor Start",
+      "snippet": "It's a plan built to make agentic development in Cursor accessible, priced in INR at ₹649 per month, payable with UPI, and with generous usage ..."
+    },
+    {
+      "link": "https://www.capitalfutures.com.tw/zh-tw/Financial/GlobalArticle?ContentId=C26012600804&Category=all",
+      "title": "【印度】2026 開年股匯雙殺，如何解讀？",
+      "snippet": "歷史經驗看，印度盧比的貶值的確會在短期引發外資買賣的波動、股市的調整 ... 【行情快報】 2026 開局之亂：格陵蘭、委內瑞拉、關稅，一次看懂 ..."
+    },
+    {
+      "link": "https://tw.stock.yahoo.com/news/%E5%8D%B0%E5%BA%A6%E7%9B%A7%E6%AF%94%E9%95%B7%E6%9C%9F%E8%B5%B0%E5%BC%B1%E8%A1%9D%E6%93%8A%E5%A0%B1%E9%85%AC-%E5%B0%88%E5%AE%B6%E7%B1%B2%E5%A4%9A%E5%85%83%E9%85%8D%E7%BD%AE%E7%BE%8E%E5%85%83%E8%B3%87%E7%94%A2-054110982.html",
+      "title": "印度盧比長期走弱衝擊報酬專家籲多元配置美元資產",
+      "snippet": "根據最新數據，印度盧比近年來兌美元持續貶值，加劇投資人對資產保值的擔憂。截至2026 年6 月，印度盧比兌美元匯率約為95 盧比兌1 美元，而十年前約為65 ..."
+    },
+    {
+      "link": "https://international.caixin.com/2022-07-13/101912450.html",
+      "title": "卢比汇率再创历史新低印度推卢比结算机制",
+      "snippet": "7月11日，印度央行宣布建立以印度卢比为结算货币的国际贸易机制。“为了促进以印度出口为重点的全球贸易增长，并支持全球贸易界对印度卢比日益增长的兴趣， ..."
+    },
+    {
+      "link": "https://www.xe.com/zh-cn/currencyconverter/convert/?Amount=1&From=INR&To=USD",
+      "title": "1 INR 到USD - 印度卢比到美元汇率",
+      "snippet": "通过原版通用货币转换器，免费获取最新的1 印度卢比到美元汇率。为INR 到USD 设置汇率提醒，并在XE - 货币权威上了解更多有关印度卢比和美元的信息。"
+    },
+    {
+      "link": "https://lemfi.com/zh-hr/promotions/google-rate-india-corridor-campaign",
+      "title": "“谷歌价格”印度走廊促销- LemFi Promotions",
+      "snippet": "2.1 促销活动于2026年9月17日23:59开始，于2026年10月30日23:59结束（“促销期”）。本条款中的所有时间均为格林威治标准时间（GMT）。 2.2 我们根据收到并 ..."
+    },
+    {
+      "link": "https://wise.com/zh-cn/currency-converter/inr-to-usd-rate/history",
+      "title": "印度卢比至美元汇率历史| 汇率换算器",
+      "snippet": "今日印度卢比至美元的汇率目前为0.0104681，较昨日变动0.651%。过去一周，印度卢比的价值保持相对稳定，与7 天前的价值相比增加了0.317%。 过去一周，印度卢比 ..."
+    },
+    {
+      "link": "https://www.youstable.com/zh-TW/%E9%83%A8%E8%90%BD%E6%A0%BC/%E5%8D%B0%E5%BA%A6%E9%9B%B2%E7%AB%AF%E5%AE%9A%E5%83%B9%E7%B5%B1%E8%A8%88/",
+      "title": "2026 年印度雲端定價概覽－方案、費用及最佳優惠",
+      "snippet": "公佈的定價顯示，Tally on Cloud 的起價為每月175 盧比，帶許可證的Tally on Cloud 起價約為每月899 盧比，此外還有分級選項，例如每用戶每月299 盧比，或 ..."
+    },
+    {
+      "link": "https://www.guancha.cn/qiche/2026_06_10_820097.shtml",
+      "title": "印度卢比持续走弱推高成本，在印车企掀起新一轮涨价潮",
+      "snippet": "印度最大汽车制造商马鲁蒂铃木（Maruti Suzuki）宣布，自今年6月起全系车型售价上调，最高涨幅达3万卢比（约2133元人民币）。公司表示，持续的通胀压力 ..."
+    },
+    {
+      "link": "https://opentherank.com/zh-tw/ai-pricing/chatgpt/india/",
+      "title": "ChatGPT 印度定價2026 | 區域價格比較",
+      "snippet": "與通過激進的購買力平價調整分級將SuperGrok 定價僅為700 盧比/月的Grok 不同，ChatGPT 採取了不同的策略。OpenAI 按全球標準分級為ChatGPT Plus ..."
+    }
+  ]
+}

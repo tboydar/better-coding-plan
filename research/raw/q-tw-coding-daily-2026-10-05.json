@@ -1,0 +1,58 @@
+{
+  "id": "ioewZGyyey48EmX3U4kBuH",
+  "message_id": "e9542e27-47ce-4fe8-a53b-58b2b12bc84b",
+  "answer": "根據搜尋結果，2026年在台灣市場上，AI coding plan的訂閱選擇相當多元，價格與方案內容差異也很大。要判斷哪個最划算，取決於你的使用習慣、需要的模型數量、以及是否願意被單一廠商綁定。以下整理幾個主要方案，並分析其優缺點，幫助你做出選擇。\n\n\n\n首先，如果你追求的是極致的價格彈性與模型選擇自由，DevPass是目前搜尋結果中評價最高的方案之一。它並非單一廠商的訂閱，而是作為一個模型閘道層，讓你可以用一個API金鑰，在Claude Code、Cursor、OpenCode、Cline等你已經熟悉的工具中，隨時切換使用超過200種模型，包括Claude Opus 5、GPT-5.6、Gemini 3.1 Pro等前沿模型，以及GLM、Qwen等開源模型。價格方面，DevPass提供Lite每月29美元、Pro每月79美元、Max每月179美元三種方案，特色是固定月費，沒有按token計費的意外帳單，而且每1美元的花費，大約可以換到3美元的模型使用量，以官方費率計算，這在重度使用情境下非常划算，尤其適合需要同時使用多種模型與工具，且希望帳單可預測的開發者.\n\n\n\n相較之下，如果你已經完全習慣且滿意於單一廠商的生態系，那麼像Claude Code或Cursor這類方案可能更直接。Claude Code的Pro方案每月20美元（年繳每月17美元），提供Claude系列模型，包括Opus 5.5與Fable 5.1等，其模型品質被認為是頂尖的，特別是在複雜架構重構與百萬級token上下文分析等任務上表現出色，但缺點是模型選擇被限制在Anthropic自家產品內，且使用額度是基於滾動的5小時視窗計算，與網頁版Claude聊天共享額度，重度使用時可能需升級到Max方案（每月100或200美元）.Cursor則是最受歡迎的AI優先程式碼編輯器，其Pro方案每月20美元，包含20美元的模型使用額度，並將模型使用量直接綁定在訂閱中，提供分頁補全與Composer代理等功能，整合體驗佳，但同樣地，模型選擇有限，且進階方案（如Pro+每月60美元）價格較高.\n\n\n\n對於預算有限，或主要使用開源模型的開發者，OpenCode Go的Go方案每月僅10美元，是目前搜尋結果中價格最低的付費方案之一，提供32種模型，包括GPT-6 Luna、DeepSeek V4.1 Flash（目前有期間限定的4倍用量優惠，至2026年9月20日）、Kimi K3、GLM-5.3-Flash等，並標榜6倍的用量價值，也就是說，每月10美元可以買到相當於60美元的模型使用量，以官方費率計算，這對輕度到中度使用者來說，性價比極高，且API金鑰相容OpenAI與Anthropic格式，可搭配多種第三方代理工具使用，但要注意其用量上限為每月60美元，且部分旗艦模型（如Grok 4.5、GPT-5.6 Luna）有每月15美元的個別上限，超過後只能使用免費模型或自行加值.\n\n\n\n另一個值得關注的低價選擇是ClinePass，每月9.99美元，包含GLM 5.3系列、Kimi K3、DeepSeek V4系列、MiniMax M3、Qwen3.7等多種開源模型，並可在Cline IDE、CLI與Desktop上使用，API金鑰也可用於其他代理工具，對於偏好開源模型且需要低固定成本的開發者來說，是相當實惠的選擇，但需注意其模型陣容以開源為主，沒有前沿閉源模型.\n\n\n\n此外，還有一些區域性或特定生態系的方案，例如中國的GLM Coding Plan，Lite方案每月18美元（年繳每月12.6美元），提供GLM-5.3系列模型，並有離峰時段50%的點數折扣，適合已經深度使用GLM模型家族的開發者，但模型選擇單一，且方案已改為點數制，使用量計算較複雜；MiniMax Token Plan則提供M3旗艦模型，國際版Plus方案每月20美元，包含約17億token的M3使用量，並有1M的上下文視窗，適合需要處理大型程式碼庫或長文件的開發者，但同樣僅限自家模型；Kimi Code的Plus方案每月約99人民幣（約14美元），提供Kimi K3旗艦模型與Kimi Code代理功能，但新用戶訂閱曾因算力限制暫停，且模型選擇有限.\n\n\n\n最後，如果你完全不想花錢，也有幾個零成本選項可以考慮，例如Freebuff提供100%免費的廣告支援編碼代理，無需API金鑰或信用卡，即可使用DeepSeek V4.1 Flash、Kimi、MiniMax等模型，但進階會話可能每日限量，且可能靜默降級至較便宜模型；OpenAI Codex則包含在ChatGPT免費方案中，可透過網頁、CLI與桌面應用程式使用，無需信用卡，但額度受限於最低的5小時滾動視窗；Google Antigravity也有慷慨的免費額度，適合輕度使用.\n\n\n\n綜合來看，2026年最划算的AI coding plan，並沒有一個絕對的答案，而是取決於你的需求：如果你是重度使用者，需要多模型彈性與可預測帳單，DevPass的Pro或Max方案最值得考慮；如果你預算有限，且主要使用開源模型，OpenCode Go或ClinePass是性價比極高的入門選擇；如果你已經深度投資於特定生態系（如Anthropic或OpenAI），且滿意其模型品質，那麼Claude Code或Cursor的訂閱方案可能更符合你的工作流程；如果你只是偶爾使用，或想先試水溫，則可以從免費方案（如Freebuff或ChatGPT免費版）開始，再依實際使用情況升級.建議在決定前，仔細閱讀各方案的條款，特別是用量計算方式、模型限制、以及是否限制只能在特定工具中使用，以免訂閱後才發現不符合需求.",
+  "query_analysis": {
+    "queries": [
+      "2026 台灣 AI coding plan 訂閱 最划算 價格",
+      "2026 Taiwan AI coding plan subscription best price"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://llmgateway.io/blog/best-ai-coding-plans",
+      "title": "11 Best AI Coding Plans in 2026 (Compared)",
+      "snippet": "The best AI coding plans in 2026 compared: 1. DevPass Best overall. pricing — $29, $79, or $179 a month. Pricing: $10/mo, single plan. inside $ ..."
+    },
+    {
+      "link": "https://www.augmentcode.com/learn/ai-coding-plans-2026-billing-models",
+      "title": "AI coding plan pricing is the wrong number to compare",
+      "snippet": "2026 covers five AI coding subscriptions: MiniMax, Xiaomi MiMo, GLM, Kimi Code, Entry prices run from $6 to $20 per month. 60M credits, up to $ ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/vibecoding/comments/1slum7k/best_ai_coding_stack_for_2040month_in_2026/",
+      "title": "Best AI coding stack for $20–40/month in 2026? Hitting ...",
+      "snippet": "Best AI coding stack for $20–40/month in 2026? Updated best AI coding subscription under $20 after DeepSeek price hike. I curated the best AI ..."
+    },
+    {
+      "link": "https://www.alibabacloud.com/help/en/model-studio/coding-plan",
+      "title": "Alibaba Cloud Model Studio:Coding plan overview",
+      "snippet": "2026 Coding Plan gives you access to models including Qwen, GLM, For a fixed monthly fee, As of March 20, 2026, the Lite plan is no longer available for new ..."
+    },
+    {
+      "link": "https://github.com/codertesla/ai-coding-deals",
+      "title": "codertesla/ai-coding-deals: Money-saving guide ...",
+      "snippet": "Current savings: ~20% on annual billing; student discounts in select regions; Alipay accepted on individual plans. · ⚠️ GLM-5.2 free usage ended on 2026-06-26 ..."
+    },
+    {
+      "link": "https://mofcloud.com/tools/subscriptions",
+      "title": "AI subscriptions compared: 14 plans + subscription-vs-API",
+      "snippet": "Standard $10/mo Plus $30/mo Pro $74/mo. Lite $18/mo Pro $80/mo. Monthly $2.8/mo 1-month $8.8/mo Premium $18/mo"
+    },
+    {
+      "link": "https://codingplan.org/en",
+      "title": "AI Coding Plan Comparison 2026 - Claude, GLM, MiniMax ...",
+      "snippet": "For budget-conscious developers, GLM Lite at $18/month or OpenCode Go at $10/month (32 models, 6x usage value) are excellent entry points."
+    },
+    {
+      "link": "https://www.atlascloud.ai/blog/tips/coding-plan-best-ai-coding-subscription-under-20",
+      "title": "The Best AI Coding Subscription Under $20 in 2026",
+      "snippet": "The $10 to $20/month range has become the most contested bracket in developer tooling. GitHub Copilot, Cursor, and a growing list of ..."
+    },
+    {
+      "link": "https://kilo.ai/articles/best-ai-subscription-for-coding",
+      "title": "Which AI Subscription Is Best for Coding in 2026?",
+      "snippet": "The launch plan is the MiniMax Token Plan Plus at $20/month, picked on merit — MiniMax M3 sits among the most capable models on our leaderboard, ..."
+    }
+  ]
+}
