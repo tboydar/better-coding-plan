@@ -1,0 +1,155 @@
+{
+  "id": "fA6UWJTU3YPDmyEe39U6pm",
+  "message_id": "f1b5b4ba-d50f-4742-b588-0924eb993d11",
+  "answer": "根据搜索结果，2026年印度市场上AI编程订阅的价格情况如下：\n\nCursor在印度推出了专属的低价订阅方案，名为Cursor Start，月费为649印度卢比，约合7美元或45.5元人民币。这个价格仅为Cursor标准版Pro订阅（每月20美元）的三分之一。该方案仅覆盖Cursor Models模型池，包括Grok 4.7、Grok 4.6、Grok 4.5以及Composer 2.5等模型。这是Cursor针对印度这一全球第三大开发者市场推出的策略性定价。\n\n关于GitHub Copilot在印度的具体定价，搜索结果中没有直接给出印度卢比的专属价格信息。不过，GitHub Copilot Pro的全球标准定价为每月10美元，这是所有主要AI编程工具中入门价格最低的。Copilot Pro包含每月15美元的AI Credits额度，采用按用量计费的机制。\n\n另外，OpenAI也在印度市场采取了低价策略。ChatGPT Go订阅计划在印度的月费为399印度卢比，约合4.5美元，不到美国20美元月费的四分之一。这个计划定位为经济型付费选项，面向价格敏感用户，包含广告。\n\n综合来看，在印度市场上，如果单纯比较入门价格，ChatGPT Go以399卢比每月最为便宜，其次是Cursor Start的649卢比每月。GitHub Copilot Pro虽然全球定价为10美元，但搜索结果中未显示其在印度有专属的本地化折扣价格。\n\n需要注意的是，这些价格会随时间和政策调整而变化，建议在订阅前查看各工具的官方最新定价页面确认。另外，Cursor在其他国家的价格也存在地区差异，例如加拿大是最便宜的Cursor订阅国家，月费约24.71美元，而丹麦最贵，月费约34.85美元，价格差异最高可达41%。",
+  "query_analysis": {
+    "queries": [
+      "2026年印度AI编码订阅价格",
+      "2026 India AI coding subscription price",
+      "INR Cursor Copilot cheapest",
+      "INR Cursor Copilot 最便宜"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://www.developersdigest.tech/blog/ai-coding-tools-pricing-2026",
+      "title": "AI Coding Tools Pricing Comparison 2026 - Developers Digest",
+      "snippet": "2026, the paid entry point for every major AI coding agent is still about $20 a month: Start plan for developers in India at 649 rupees a month ..."
+    },
+    {
+      "link": "https://kilo.ai/articles/best-ai-subscription-for-coding",
+      "title": "Which AI Subscription Is Best for Coding in 2026?",
+      "snippet": "AI subscription for coding in 2026. ChatGPT Plus/Pro, Claude Pro/Max, GitHub Copilot, Cursor, Each promises the best model and a flat price."
+    },
+    {
+      "link": "https://getcreatr.com/ai-coding-assistant-pricing-2026",
+      "title": "AI Coding Assistant Pricing Compared 2026 - Creatr",
+      "snippet": "As of August 2026, the four main AI coding assistants cluster their entry paid plans between $10 and $20 a month: GitHub Copilot Pro is $10, ..."
+    },
+    {
+      "link": "https://www.dealmoon.com/post/3203834",
+      "title": "双非码农2026年的AI订阅一个月多少？164刀 - Dealmoon",
+      "snippet": "两个非码农背景的家庭2026年在AI订阅上会花多少钱？164刀，以下是细分。 1️⃣ChatGPT - 20刀/月。 2️⃣Gemini Pro - 20刀/月。 之所以两个都订阅主要是因为之前我和 ..."
+    },
+    {
+      "link": "https://www.atlascloud.ai/zh/blog/tips/coding-plan-best-ai-coding-subscription-under-20",
+      "title": "20美元以下的最佳AI编程订阅：哪些方案真正物有所值",
+      "snippet": "计划定价和模型费率基于2026 年5 月的Atlas Cloud Coding Plan 文档。GitHub Copilot 和Cursor 定价截至同日。点数计算仅供参考，实际成本因模型选择、 ..."
+    },
+    {
+      "link": "https://www.cnblogs.com/DarkAthena/articles/20045869",
+      "title": "各大厂商的定价体系及其变化趋势（2026-05-12） - DarkAthena",
+      "snippet": "各大厂商的定价体系及其变化趋势(2026-05-12) OpenAI 的订阅・ ~$16(地区差异) Business ~$25/用户/月团队管理. AI 编程平台・ 2026 年AI 行业竞争・ 但 ..."
+    },
+    {
+      "link": "https://www.jetadmin.io/blog/cursor-vs-copilot/",
+      "title": "Cursor vs Copilot in 2026: Price, Credits and Which Wins",
+      "snippet": "Cursor vs GitHub Copilot in 2026. Copilot Pro is $10 and includes $15 of credits; Cursor is $20 and replaces your editor."
+    },
+    {
+      "link": "https://news.qq.com/rain/a/20260728A06MNT00",
+      "title": "Cursor推出印度专属低价订阅瞄准全球第三大开发者市场",
+      "snippet": "2026年7月28日14:03北京 … 月费定为649印度卢比,约合7美元,显著低于其标准版Pro订阅每月20美元的定价。"
+    },
+    {
+      "link": "https://www.morphllm.com/ai-coding-costs",
+      "title": "AI Coding Costs (2026): Claude vs Codex vs Gemini ... - Morph",
+      "snippet": "For most solo developers the honest 2026 answer is $20-100/month on a subscription; for teams it is $40-500/month per 5 engineers depending on model tier, with ..."
+    },
+    {
+      "link": "https://www.163.com/dy/article/L2UEFB180519QIKK.html",
+      "title": "月费仅合7美元，Cursor推出印度专属低价订阅",
+      "snippet": "本次推出的Cursor Start方案含税月费为649印度卢比,按当前汇率约合45.5元人民币、7美元,价格仅为Cursor标准版Pro订阅(每月20美元)的三分之一。"
+    },
+    {
+      "link": "https://finance.sina.com.cn/roll/2026-02-04/doc-inhkrtwp3753292.shtml",
+      "title": "AI巨头在印度打响价格战",
+      "snippet": "OpenAI去年8月在印度推出ChatGPT订阅计划,月费399卢比(约4.5美元),不到美国20美元月费的四分之一。 印度订阅价格计算,年收入仅约12亿美元。"
+    },
+    {
+      "link": "https://daily.dev/blog/ai-coding-tools-cost-cursor-vs-copilot-vs-claude-code-pricing/",
+      "title": "What AI coding tools really cost in 2026: Cursor vs Copilot ...",
+      "snippet": "Copilot is cheapest to start, Cursor can become the most uneven on cost, GitHub Copilot has the lowest entry point at $10/month for Pro. up in ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2050870611602417393",
+      "title": "2026 年Coding Plan 与AI 编程工具全景对比（额度/价格/水平）",
+      "snippet": "... 编码订阅里很有竞争力| | [Claude](https://claude.ai/upgrade) Pro | 20, Claude Sonnet 4.6 / Opus 4.7 / Haiku 4.5, Pro 基准, Pro 基准, 2,298 万 ..."
+    },
+    {
+      "link": "https://www.morphllm.com/comparisons/cursor-vs-copilot",
+      "title": "Cursor vs Copilot (2026): Cursor $20/mo vs GitHub ... - Morph",
+      "snippet": "Copilot is cheaper at the entry tier and includes free unlimited completions. Copilot is cheaper per seat. Cursor Teams is $40/user/mo; Copilot Business is $19 ..."
+    },
+    {
+      "link": "https://www.superblocks.com/blog/cursor-vs-copilot",
+      "title": "Cursor vs GitHub Copilot 2026: My Verdict After Testing",
+      "snippet": "Copilot is the cheaper, more flexible extension. Pricing $20/mo Pro $10/mo. Cursor is about 30% faster, but Copilot costs half as much and scores slightly ..."
+    },
+    {
+      "link": "https://www.cls.cn/detail/2119156",
+      "title": "OpenAI价格战新进展：将于印度推出月费不到5美元的新订阅 ...",
+      "snippet": "①OpenAI宣布在印度推出ChatGPT Go付费订阅计划，每月399卢比，比Plus计划便宜近80%； ②印度是ChatGPT第二大市场，过去90天该应用在印度的下载量超2900万 ..."
+    },
+    {
+      "link": "https://blog.csdn.net/weixin_44162814/article/details/158658021",
+      "title": "2026年国内主流AI Coding Plan套餐全对比｜开发者避坑指南",
+      "snippet": "Plan订阅套餐:价格单位均为“元/月”,首月优惠仅针对新用户,已订阅用户价格不变; API请求次数每5小时1200次,每周9000次,每月18000次(与百炼一致)"
+    },
+    {
+      "link": "https://opentherank.com/ai-pricing/cursor/",
+      "title": "Cursor Price by Country 2026 | Where is Cursor cheapest",
+      "snippet": "Canada ($24.71/mo) is the cheapest country for Cursor in 2026. Compared to the most expensive Denmark ($34.85/mo), price difference up to 41%."
+    },
+    {
+      "link": "https://getdx.com/blog/ai-coding-assistant-pricing/",
+      "title": "AI coding assistant pricing and ROI guide (2026)",
+      "snippet": "Between $200–$600/month total (seat plus token spend) for teams mixing inline and agentic tools. $60/user/mo. through August 2026. $150–250/ ..."
+    },
+    {
+      "link": "https://my.oschina.net/u/9749499/blog/19208935",
+      "title": "2026 年国内AI Coding Plan 怎么选？5 大平台横评帮你省钱",
+      "snippet": "入门体验的话，MiniMax Starter 只要¥29/月，是目前最便宜的月付方案。如果想更低成本试水，火山引擎和阿里云百炼都有首月特惠，最低¥7.9 就能用一个月。"
+    },
+    {
+      "link": "https://pinklime.io/blog/ai-coding-tools-cost-comparison-2026",
+      "title": "AI Coding Tools Pricing 2026: What You'll Actually Pay",
+      "snippet": "Free tier: 2,000 code completions per month, 50 chat messages per month · Individual: $10/month (unlimited completions, increased chat) · Business ..."
+    },
+    {
+      "link": "https://tech-insider.org/cursor-vs-copilot-2026/",
+      "title": "Cursor vs Copilot 2026: $20 vs $10, $29B Valuation [Tested]",
+      "snippet": "Yes, Copilot Pro starts at $10/month and Cursor Pro starts at $20/month – a clean 2x gap that has shipped in every reviewer's headline since ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/opencodeCLI/comments/1u29wty/whats_your_ideal_ai_subscription_stack_as_a/",
+      "title": "What's your ideal AI subscription stack as a professional ...",
+      "snippet": "Claude Code at $13 per active developer day, which runs $150–250/month on average … regularly hit $50–100/day. a big jump from $20."
+    },
+    {
+      "link": "https://www.atlascloud.ai/blog/tips/coding-plan-best-ai-coding-subscription-under-20",
+      "title": "The Best AI Coding Subscription Under $20 in 2026",
+      "snippet": "The $10 to $20/month range has become the most contested bracket in developer tooling. GitHub Copilot, Cursor, and a growing list of ..."
+    },
+    {
+      "link": "https://canopywave.com/blog/best-ai-coding-plans-2026-pricing-limits-use-cases",
+      "title": "Best AI Coding Plans in 2026: Pricing & Limits Compared",
+      "snippet": "AI Coding Plans at a Glance ; MiniMax Token Plan, $20/month, Monthly token allowance ; Xiaomi MiMo Token Plan, $6/month, Monthly credits ; GLM ..."
+    },
+    {
+      "link": "https://larridin.com/blog/compare-cost-copilot-claude-code-cursor",
+      "title": "GitHub Copilot vs. Claude Code vs. Cursor: Total Cost ...",
+      "snippet": "Copilot Business costs $19 per user per month. Copilot Enterprise costs $39 per user per month. Premium seats cost $96 per user per month. ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/cursor/comments/1udf5jc/best_pricetoperformance_ai_coding_agents_right/",
+      "title": "Best price-to-performance AI coding agents right now ...",
+      "snippet": "Hey everyone,\n\nI'm looking to pivot away from GitHub Copilot, but I'm hitting a wall regarding pricing structures with newer agentic tools.\n\nI’ve been ..."
+    },
+    {
+      "link": "https://flexprice.io/blog/cursor-pricing-guide",
+      "title": "The Complete Guide to Cursor Pricing in 2026 ...",
+      "snippet": "Cursor costs nothing on Hobby, $20 a month on Pro, $60 on Pro Plus, and $200 on Ultra, with Teams seats at $40 or $120 per user and ..."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "mcCMehB3vuGAVRQRQJmkHv",
+  "message_id": "69a435d3-472c-4503-a720-395bbda1e133",
+  "answer": "根据搜索结果，2026年Cursor在印度推出的Cursor Start计划，价格为每月649印度卢比（含税）。这是Cursor专为印度市场设计的AI编程订阅计划，也是该公司首个针对特定国家的定价方案。\n\nCursor Start计划于2026年7月28日推出，定位在免费版和Pro版之间。它的价格约为每月7美元，相比标准Pro版的每月20美元，便宜了大约65%。这个价格使得更多印度学生、自由职业者和开发者能够负担得起高级AI编程工具。\n\n该计划包含以下内容：对Grok 4.5和Composer模型的慷慨使用额度，比免费版更高的代理请求次数，始终在线的云端代理，支持iOS版Cursor应用及远程控制，以及插件、MCP服务器、钩子和技能等扩展功能。支付方式支持印度卢比结算，可通过UPI、信用卡或借记卡付款，但仅提供月度计费，不支持年度订阅。\n\n需要注意的是，Cursor Start计划仅限印度用户使用，Cursor公司表示会采取多种措施防止用户通过VPN等方式从其他国家访问该计划。该计划不包含OpenAI和Anthropic等第三方前沿模型，也不包括Bugbot、Auto Mode、Automations和Cursor SDK等高级功能。\n\nCursor推出这一低价计划的原因在于印度市场的重要性。据报道，Cursor在印度的用户基数在过去一年增长了两倍，超过300万开发者，使印度成为其全球第三大市场。印度也是Cursor平台上重度用户最集中的地区，每位开发者运行的代理请求数量高于其他任何市场。Cursor通过使用自家控制的模型（Composer和Grok 4.5）来降低成本，使得这一低价计划在商业上可持续，而非亏本促销。\n\n此外，Cursor并非唯一在印度推出本地化定价的AI公司。OpenAI此前在印度推出了每月399卢比的ChatGPT Go计划，Anthropic也在本月为Claude订阅推出了印度卢比本地定价。这些举措反映了全球AI公司对印度快速增长开发者市场的竞争。Cursor表示，如果这一模式在印度取得成功，未来可能会将本地化定价扩展到其他市场。",
+  "query_analysis": {
+    "queries": [
+      "2026 India rupee cheapest coding plan",
+      "2026 India Cursor Start price",
+      "2026 India rupee coding plan",
+      "2026 India Cursor Start price INR coding plan cheapest India rupee"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://flexprice.io/blog/cursor-pricing-guide",
+      "title": "The Complete Guide to Cursor Pricing in 2026 ...",
+      "snippet": "Cursor Start, the India-only plan Cursor launched, Start on July 28, 2026 at ₹649 per month, tax inclusive, billed in INR through UPI, credit ..."
+    },
+    {
+      "link": "https://www.linkedin.com/posts/abhishek-veeramalla_big-news-for-ai-enthusiasts-in-india-activity-7487859948962504704-3Mvh",
+      "title": "Cursor Launches India-Specific AI Coding Plan for ₹649/ ...",
+      "snippet": "Big news for AI enthusiasts in India Cursor just launched Cursor Start, an India only plan for just ₹649/month (tax inclusive)."
+    },
+    {
+      "link": "https://www.reddit.com/r/developersIndia/comments/1v9m4lk/cursor_start_india_review_649_plan_used_10_quota/",
+      "title": "Cursor Start India review: ₹649 plan used 10% quota on ...",
+      "snippet": "Cursor Start plan in India for repository auditing and coding work. $10 per month. First month is discounted at $5."
+    },
+    {
+      "link": "https://cursor.com/start",
+      "title": "Cursor Start",
+      "snippet": "Cursor Start is an accessible ₹649/month plan for developers in India. Get Cursor Individual ₹1,800/month ₹2,273 if billed monthly … estimated at current ..."
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX ...",
+      "snippet": "Cursor Start, a ₹649-a-month (about $7) subscription built specifically for India — and priced well below Cursor's standard $20-a-month Pro ..."
+    },
+    {
+      "link": "https://x.com/cursor_ai/status/2081978255004053560?lang=en",
+      "title": "\"Today we're launching Cursor Start, a new ₹649/month ...",
+      "snippet": "Today we're launching Cursor Start, a new ₹649/month plan for developers in India. Start includes generous access to Grok 4.5 and Composer, ..."
+    },
+    {
+      "link": "https://thenextweb.com/news/cursor-start-india-pricing-own-models-spacex",
+      "title": "Cursor cut its India price to $7, and its own AI models are why",
+      "snippet": "The startup launched Cursor Start on Monday, a ₹649 plan sold only in India, TechCrunch reported. It sits well below the $20 Pro subscription."
+    },
+    {
+      "link": "https://cursor.com/blog/cursor-start-india",
+      "title": "Introducing Cursor Start",
+      "snippet": "It's a plan built to make agentic development in Cursor accessible, priced in INR at ₹649 per month, payable with UPI, and with generous usage ..."
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "id": "QLjmwDcxcMgrtWjg9bBQ6J",
+  "message_id": "74109f18-a9ec-49e3-b872-2d17d6303d1d",
+  "answer": "根据搜索结果，2026年新加坡的AI编程订阅方案价格因平台和套餐类型而异，以下是一些关键信息供您参考。\n\n首先，关于新加坡政府推出的免费AI订阅计划，搜索结果明确指出，从2026年下半年开始，新加坡公民如果参加指定的SkillsFuture人工智能课程，可以获得六个月的高级AI工具免费订阅。但需要注意，并非所有新加坡人都能自动获得免费订阅，只有参加特定课程的人才有资格。可选工具包括Singtel等提供的五款AI工具，政府正与谷歌、微软等公司接洽合作。此外，还有一个Skills Ignition AI Challenge 2026活动，参与者可获得三个月的Google AI Pro Plan免费使用权。\n\n在付费AI编程订阅方面，2026年市场上有多款方案可供选择。GLM Coding Plan提供Lite、Pro和Max三个档次，价格分别为每月18美元、80美元和168美元，其中Lite套餐每月约提供2,000个积分（每五小时窗口）和10,000个积分（每周），支持GLM-5.3和GLM-5.3-Flash模型，并具有1M上下文窗口。OpenCode Go是一个性价比很高的选择，每月仅需10美元，可访问32个模型，包括GPT 6 Luna、DeepSeek V4.1 Flash、Kimi K3、GLM-5.3-Flash、MiniMax M3等，并提供6倍使用价值。MiniMax Token Plan Plus每月20美元，提供约17亿个M3模型代币，支持完整的MiniMax模型家族，包括图像、语音和音乐功能。Claude Code Pro每月20美元，被认为是模型质量方面的黄金标准，提供Claude Fable 5.1、Opus 5.5、Sonnet 5和Haiku 4.5等模型。对于预算有限的用户，MiniMax Starter套餐每月约29元人民币（约合5.5美元），是目前最便宜的月付方案之一，而火山引擎和阿里云百炼还提供首月特惠，最低约7.9元人民币即可使用一个月。\n\n在比较不同方案时，需要注意计费模式的区别。有些方案采用积分制，如GLM Coding Plan，积分在五小时窗口和每周刷新，非高峰时段使用可享受50%的积分折扣。有些方案采用月度代币制，如MiniMax Token Plan。还有些方案提供按量付费选项。对于重度用户，例如每月消费200美元的Claude Code Max 20x方案，相比API按量计费会便宜很多，因为通过API消耗相同代币量的成本会更高。\n\n关于新加坡元（SGD）计价的具体方案，搜索结果中提到了Google AI Pro和Ultra方案，价格分别为每月28.99新加坡元和139.99新加坡元，提供比免费版高4倍的使用权限。但大多数国际平台的定价以美元为主，新加坡用户可能需要考虑汇率转换成本。\n\n综合来看，如果您是新加坡公民且愿意参加指定的AI课程，最经济的选择是利用政府的免费订阅计划。如果您需要付费方案，OpenCode Go每月10美元是入门级的最佳选择，而GLM Lite每月18美元或MiniMax Token Plan Plus每月20美元则适合中等使用需求的用户。对于专业开发者或重度用户，GLM Pro每月80美元或Claude Code Max 20x每月200美元可能更合适，尽管价格较高，但能提供更大的使用配额和优先访问权。建议您根据自身的使用频率、模型偏好和预算，在比较各方案的积分或代币额度后做出选择。",
+  "query_analysis": {
+    "queries": [
+      "2026新加坡人工智能编码计划SGD订阅",
+      "2026 Singapore AI coding plan SGD subscription",
+      "2026新加坡人工智能编码计划价格",
+      "2026 Singapore AI coding plan price",
+      "2026 Singapore AI coding plan cheap",
+      "2026新加坡人工智能编码计划便宜"
+    ]
+  },
+  "resources": [
+    {
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/google-singapore-2026/",
+      "title": "Expanding our AI investments in Singapore",
+      "snippet": "Expanding our AI investments in Singapore Feb 10, 2026 … new investments to deepen local R&D capabilities, help businesses innovate and build a ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/singapore/comments/1rjkeoj/singaporeans_to_receive_free_premium_ai/",
+      "title": "Singaporeans to receive free premium AI subscriptions ...",
+      "snippet": "Singaporeans to receive free premium AI subscriptions from second half of 2026. News."
+    },
+    {
+      "link": "https://docs.z.ai/devpack/notice/usage-revision",
+      "title": "Plan Update Announcement - Overview",
+      "snippet": "GLM Coding Plan is moving to a credits-based system. See the Subscription … new plan tiers, prices, credit amounts, and deduction rules."
+    },
+    {
+      "link": "https://aaai.org/conference/aaai/aaai-26/",
+      "title": "The 40th Annual AAAI Conference on Artificial Intelligence",
+      "snippet": "The Fortieth AAAI Conference on Artificial Intelligence will be held in Singapore in 2026. January 20 – January 27, 2026 | Singapore. January 27, 2026."
+    },
+    {
+      "link": "https://www.reddit.com/r/vibecoding/comments/1slum7k/best_ai_coding_stack_for_2040month_in_2026/",
+      "title": "Best AI coding stack for $20–40/month in 2026? Hitting ...",
+      "snippet": "Best AI coding stack for $20–40/month in 2026? Usually it costs me around $0.01-$0.02 per request using Minimax M2.7."
+    },
+    {
+      "link": "https://www.lexology.com/library/detail.aspx?g=fab9d812-50c5-4acf-9bad-1823106f08d7",
+      "title": "AI升级为新加坡国家战略核心— 2026年财政预算案AI企业 ...",
+      "snippet": "AI升级为新加坡国家战略核心— 2026年财政预算案AI企业出海机遇解读 · 1.大幅提高国际化拓展补贴。 · 2.丰富企业融资渠道与优化资本环境。 · 3.培育新加坡的“ ..."
+    },
+    {
+      "link": "https://www.reddit.com/r/singapore/comments/1rjkeoj/singaporeans_to_receive_free_premium_ai/?tl=zh-hans",
+      "title": "新加坡人将从2026年下半年开始获得免费的高级人工智能订阅",
+      "snippet": "误导性的标题。只有参加“精选的SkillsFuture人工智能课程”的新加坡人才能免费获得。"
+    },
+    {
+      "link": "https://kilo.ai/articles/best-ai-subscription-for-coding",
+      "title": "Which AI Subscription Is Best for Coding in 2026?",
+      "snippet": "The launch plan is the MiniMax Token Plan Plus at $20/month, picked on merit — MiniMax M3 sits among the most capable models on our leaderboard, ..."
+    },
+    {
+      "link": "https://codingplan.org/en",
+      "title": "AI Coding Plan Comparison 2026 - Claude, GLM, MiniMax ...",
+      "snippet": "GLM Coding Plan charges Lite $18/mo ($12.6/mo yearly), Pro $80/mo ($56/mo yearly), Max $168/mo ($117.6/mo yearly). Quarterly billing gives a 20 ..."
+    },
+    {
+      "link": "https://github.com/mahonzhan/awesome-coding-plan",
+      "title": "各厂家Coding Plan 实际价值对比",
+      "snippet": "AI IDE/Plugin Plan ; Augment Code INDIE, $20.00, Includes 40,000 credits ; Qoder Pro, $20.00（为期2 周的Pro 试用及300 Credits）, 2,000 Credits 更多的对话与智能体 ..."
+    },
+    {
+      "link": "https://www.facebook.com/groups/sg.startup/posts/4346049288983186/",
+      "title": "GLM coding plan offers affordable AI coding with GLM-5.2",
+      "snippet": ""
+    },
+    {
+      "link": "https://gemini.google/students/",
+      "title": "Gemini for Students — your AI study buddy from Google",
+      "snippet": "Free student plan for 1 year Study with Gemini. Redeem until December 31, 2026. charge $19.99/month after the trial ends. Cancel anytime."
+    },
+    {
+      "link": "http://intl.cloud.baidu.com/zh/article/8803746",
+      "title": "2026年AI编程订阅方案深度解析：三类模式对比与选型指南",
+      "snippet": "本文系统梳理2026年主流AI编程订阅方案的三大技术路线，通过对比订阅制、按量付费、企业积分制三类模式的计费逻辑、技术限制与适用场景，帮助开发者与 ..."
+    },
+    {
+      "link": "https://www.equinetacademy.com/blog/6-months-free-ai-tools-in-singapore-how-to-claim-yours/",
+      "title": "6 Months Free AI Tools in Singapore: How to Claim Yours",
+      "snippet": "What it is: The SkillsFuture AI Subscription, launched 16 Sep 2026, offering six months of free access to selected AI tools. Who qualifies: ..."
+    },
+    {
+      "link": "https://getdx.com/blog/ai-coding-assistant-pricing/",
+      "title": "AI coding assistant pricing and ROI guide (2026)",
+      "snippet": "The Max 20x plan at $200/mo is substantially cheaper than API billing for heavy users: a developer consuming equivalent tokens via API would pay ..."
+    },
+    {
+      "link": "https://zhuanlan.zhihu.com/p/2015468530938693485",
+      "title": "程序员的Coding Plan 完整指南（2026年8月16日持续更新）",
+      "snippet": "Coding Plan 是云厂商推出的AI 编程模型订阅套餐。 原价 40元/月 200元/月 :最多约1,200 次请求每周:最多约9,000 次请求… 周:最多约45,000. Coding Plan Lite ¥ 40 / ..."
+    },
+    {
+      "link": "https://buttondown.com/aiexpose/archive/zai-review-2026-i-tested-it-glm-5-features-and/",
+      "title": "Z.ai Review 2026: I Tested It - GLM 5, Features, and Pricing",
+      "snippet": "The GLM Coding Plan runs three self-serve tiers on standard monthly billing: Lite at $18 per month. Around 2,000 credits per five-hour window ..."
+    },
+    {
+      "link": "https://www.threads.com/@notyetrichgivemebtc/post/DViCQGDk5pG/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%94%BF%E5%BA%9C%E4%B8%8B%E5%8D%8A%E5%B9%B4%E9%96%8B%E5%A7%8B%E7%82%BA%E6%AF%8F%E5%80%8B%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%BA%BA%E6%8F%90%E4%BE%9B6%E5%80%8B%E6%9C%88%E5%85%8D%E8%B2%BB%E7%9A%84ai%E5%B7%A5%E5%85%B7%E4%BE%86%E4%BD%BF%E7%94%A8%E6%9C%89%E9%8C%A2%E5%B0%B1%E6%98%AF%E4%BB%BB%E6%80%A7%E5%95%8A",
+      "title": "新加坡政府下半年開始為每個新加坡人提供6個月免費的AI ...",
+      "snippet": "新加坡政府下半年開始為每個新加坡人提供6個月免費的AI工具來使用，有錢就是任性啊～ · 新加坡政府正式推出SkillsFuture AI Subscription 計劃。 · 可選的五 ..."
+    },
+    {
+      "link": "https://grow.google/intl/en_sg/ai-challenge/?srsltid=AU7gw4UvtJ6QL4JvPASqTO8DxhI_v6ep877r2K8rvPw6f8swMKiE2ury",
+      "title": "Singapore | Skills Ignition AI Challenge 2026",
+      "snippet": "Get 3-month access to the Google AI Pro Plan at no charge. Prizes. SGD$5,000. Grand Prize Winner. SGD$3,000. First Runner Up. SGD$2,000. Second Runner Up ..."
+    },
+    {
+      "link": "https://verticalinstitute.com/blog/utap-approved-ai-tools/",
+      "title": "21 UTAP-Approved AI Tools in Singapore You Can Claim ...",
+      "snippet": "Your AI tool subscription must start within one year of completing the course. It must also start between 1 May 2026 and 30 April 2028. You need ..."
+    },
+    {
+      "link": "https://www.alibabacloud.com/help/en/model-studio/coding-plan",
+      "title": "Alibaba Cloud Model Studio:Coding plan overview",
+      "snippet": "2026 Coding Plan gives you access to models including Qwen, GLM, Kimi, and MiniMax in popular AI coding tools. For a fixed monthly fee, it ..."
+    },
+    {
+      "link": "https://blog.csdn.net/weixin_44162814/article/details/158658021",
+      "title": "2026年国内主流AI Coding Plan套餐全对比｜开发者避坑指南",
+      "snippet": "6家主流Coding Plan套餐 … 价格单位均为“元/月”,首月优惠. API请求次数每5小时1200次,每周9000次,每月18000次(与百炼一致) -4.7(全套餐. AI编程助手通过 ..."
+    },
+    {
+      "link": "https://www.facebook.com/groups/developerkaki/posts/2782360422109853/",
+      "title": "Will AI coding tools be free in 2026?",
+      "snippet": "Coming to 2026, where AI coding tools is more commonly use now, do you think is it still a norm you fork out your own money for your daily AI tools?"
+    },
+    {
+      "link": "https://aws.amazon.com/cn/local/singapore/innovation-hub/",
+      "title": "新加坡— 创新中心",
+      "snippet": "适用于智能体人工智能的数据. 扩展智能体人工智能的7 种基本数据能力 · 代理工具包. 为AI 编程智能体提供最新文档和AWS 资源访问权限 · Amazon Quick. 基于您的实际业务 ..."
+    },
+    {
+      "link": "https://www.tmtpost.com/agent/ai-article?id=20427",
+      "title": "进入新加坡政府AI培训体系，MiniMax打响中国AI出海最关键 ...",
+      "snippet": "9月16日，新加坡SWDA正式推出SkillsFuture AI Subscription计划，18岁及以上公民参加AI课程后可获6个月高级AI工具免费订阅。5款可选工具中，Singtel ..."
+    },
+    {
+      "link": "https://gemini.google/sg/subscriptions/?hl=en",
+      "title": "Google AI Pro & Ultra — get access to Gemini 3.1 Pro & more",
+      "snippet": "Google AI Plus · 6.98 · Get 2x higher usage access than Free ; Google AI Pro · 28.99 · Get 4x higher usage access than Free ; Google AI Ultra · 139.99 · SGD 139.99/ ..."
+    },
+    {
+      "link": "https://jiaweing.com/blog/best-ai-coding-plans-in-2026",
+      "title": "Best AI coding plans in 2026 - Jia Wei Ng",
+      "snippet": "spending $10/mo on AI coding, Mid-tier: $20 - $30/mo price. Top-tier: $50 - $80/mo workloads."
+    },
+    {
+      "link": "https://intl.cloud.baidu.com/zh/article/8738988",
+      "title": "2026年AI编程订阅方案全解析：计费模式与选型指南",
+      "snippet": "企业积分制Token套餐：某云服务商推出的企业级方案整合四大模型厂商的25个模型，支持OpenAI兼容接口。其B档套餐（9999元/月）可兑换约5亿token，满足中 ..."
+    },
+    {
+      "link": "https://www.superai.com/sg-ai-week",
+      "title": "Singapore AI Week | SuperAI | 8-14 June 2026",
+      "snippet": "Singapore AI Week brings together the global AI community for events, workshops, and SuperAI, the flagship conference of the week."
+    },
+    {
+      "link": "https://www.hankunlaw.com/portal/article/index/cid/8/id/16300.html",
+      "title": "AI升级为新加坡国家战略核心— 2026年财政预算案AI企业 ...",
+      "snippet": "总体而言，2026年财政预算案释放出明确的政策信号：新加坡已将人工智能提升为国家战略核心，通过基础设施、财政激励、人才培养、国际化支持四大方面，系统 ..."
+    },
+    {
+      "link": "https://blog.margrop.net/en/post/coding-plan-market-2026/",
+      "title": "Can You Still Buy a Coding Plan? A July 2026 Reality Check ...",
+      "snippet": "Short answer: as of July 20, 2026, most mainstream AI coding plans are still purchasable. The confusing part is that “available to buy,” ..."
+    },
+    {
+      "link": "https://www.aipricing.guru/z-ai-subscription-pricing/",
+      "title": "GLM Coding Plan subscription pricing",
+      "snippet": "GLM Coding Plan pricing, limits, and whether it is worth it in 2026. Lite $18, Pro $72, Max $160, 30% promo from $12.60, plus Z.ai API break-even."
+    },
+    {
+      "link": "https://www.cnblogs.com/ouyangkai/p/20018953",
+      "title": "国产AI编程套餐比对-2026年5月12日- 少年。",
+      "snippet": "阿里云百炼Token Plan（新上线） ; 标准坐席, ¥198/月, 25,000 Credits ; 高级坐席, ¥698/月, 100,000 Credits ; 尊享坐席, ¥1,398/月, 250,000 Credits ..."
+    },
+    {
+      "link": "https://www.8world.com/singapore/cos2026-mom-free-ai-tools-3070351",
+      "title": "上课可获免费高级AI工具使用权政府正同谷歌微软等公司接洽",
+      "snippet": "政府将从今年下半年开始为报读指定人工智能课程的国人，提供六个月免费的高级人工智能工具使用权，人力部正同谷歌（Google）、Manus、 ..."
+    },
+    {
+      "link": "https://www.augmentcode.com/learn/ai-coding-plans-2026-billing-models",
+      "title": "AI coding plan pricing is the wrong number to compare",
+      "snippet": "A 2026 comparison of five AI coding subscriptions covering MiniMax, Xiaomi MiMo, GLM, Kimi Code, and Canopy Wave's own plan makes the ..."
+    },
+    {
+      "link": "https://canopywave.com/blog/best-ai-coding-plans-2026-pricing-limits-use-cases",
+      "title": "Best AI Coding Plans in 2026: Pricing & Limits Compared",
+      "snippet": "AI Coding Plans at a Glance ; MiniMax Token Plan, $20/month, Monthly token allowance ; Xiaomi MiMo Token Plan, $6/month, Monthly credits ; GLM ..."
+    },
+    {
+      "link": "https://my.oschina.net/u/9749499/blog/19208935",
+      "title": "2026 年国内AI Coding Plan 怎么选？5 大平台横评帮你省钱",
+      "snippet": "入门体验的话，MiniMax Starter 只要¥29/月，是目前最便宜的月付方案。如果想更低成本试水，火山引擎和阿里云百炼都有首月特惠，最低¥7.9 就能用一个月。"
+    },
+    {
+      "link": "https://www.linkedin.com/posts/kang-wei-s-2340b5180_free-premium-ai-subscriptions-for-those-taking-activity-7434563192602836993-5F1i",
+      "title": "Singapore to Offer Free AI Subscriptions in 2026",
+      "snippet": "\"Free AI subscriptions will be rolled out in the second half of 2026, with details of the qualifying AI courses and tools to be announced ..."
+    },
+    {
+      "link": "https://llmgateway.io/blog/best-ai-coding-plans",
+      "title": "11 Best AI Coding Plans in 2026 (Compared)",
+      "snippet": "The best AI coding plans in 2026 compared: Claude Code, Cursor, Copilot, Codex, OpenCode Go and more, ranked on price, model access and ..."
+    },
+    {
+      "link": "https://docs.bigmodel.cn/cn/coding-plan/overview",
+      "title": "套餐概览- 智谱AI开放文档",
+      "snippet": "价格 · 财务 · API Key · 个人中心. Search... Navigation. GLM Coding Plan ... plan/tool/trae/cn/coding-plan/tool/zcode. 遇到问题了？说说看."
+    },
+    {
+      "link": "https://www.atlascloud.ai/zh/blog/tips/coding-plan-best-ai-coding-subscription-under-20",
+      "title": "20美元以下的最佳AI编程订阅：哪些方案真正物有所值",
+      "snippet": "计划定价和模型费率基于2026 年5 月的Atlas Cloud Coding Plan 文档。GitHub Copilot 和Cursor 定价截至同日。点数计算仅供参考，实际成本因模型选择、 ..."
+    },
+    {
+      "link": "https://training.sgcodecampus.com/google-ai-accelerator-2026",
+      "title": "Google AI Accelerator 2026 - Singapore",
+      "snippet": "Spend the year-end holidays building something real. The Google AI Accelerator returns for its second year in 2026 — a two-week, hands-on programme for ..."
+    }
+  ]
+}
